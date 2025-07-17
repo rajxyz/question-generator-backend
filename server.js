@@ -1,34 +1,38 @@
 const express = require('express');
+const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
-const cors = require('cors');
 
 const app = express();
 const PORT = 3000;
 
 app.use(cors());
-app.use(express.json());
+app.use(express.static('static')); // for serving jpgs and json
 
-app.get('/questions', (req, res) => {
-  const { book, chapter, type } = req.query;
+// GET image + questions
+app.get('/chapter', (req, res) => {
+  const { classNum, chapter } = req.query;
 
-  if (!book || !chapter || !type) {
-    return res.status(400).json({ error: 'Missing book, chapter, or question type' });
+  if (!classNum || !chapter) {
+    return res.status(400).json({ error: 'Missing classNum or chapter' });
   }
 
-  const filePath = path.join(__dirname, 'data', book, `${chapter}.json`);
+  const chapterPath = path.join(__dirname, 'static', 'ncert', `class${classNum}_biology`, chapter);
+  const questionsPath = path.join(chapterPath, 'questions.json');
 
-  if (!fs.existsSync(filePath)) {
-    return res.status(404).json({ error: 'Chapter not found' });
+  if (!fs.existsSync(questionsPath)) {
+    return res.status(404).json({ error: 'No questions found' });
   }
 
-  const chapterData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  const questions = JSON.parse(fs.readFileSync(questionsPath, 'utf-8'));
 
-  const filtered = chapterData.filter(q => q.type === type);
+  const images = fs.readdirSync(chapterPath)
+    .filter(file => file.endsWith('.jpg'))
+    .sort();
 
-  res.json(filtered);
+  res.json({ images, questions });
 });
 
 app.listen(PORT, () => {
-  console.log(`Backend running at http://localhost:${PORT}`);
+  console.log(`Server running at http://localhost:${PORT}`);
 });
