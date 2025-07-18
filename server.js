@@ -4,12 +4,11 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
-app.use(express.static('static')); // for serving jpgs and json
+app.use(express.static('static')); // Serve images + JSON
 
-// GET image + questions
 app.get('/chapter', (req, res) => {
   const { classNum, chapter } = req.query;
 
@@ -34,5 +33,5 @@ app.get('/chapter', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}`);
+  console.log(`✅ Server running on port ${PORT}`);
 });
