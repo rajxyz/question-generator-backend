@@ -1,7 +1,14 @@
-{
-  "questions": [
-    "What is biology?",
-    "Define biodiversity.",
-    "What is taxonomy?"
-  ]
-}
+[
+  {
+    "question": "What is biology?",
+    "type": "short"
+  },
+  {
+    "question": "Define biodiversity.",
+    "type": "short"
+  },
+  {
+    "question": "What is taxonomy?",
+    "type": "short"
+  }
+]
