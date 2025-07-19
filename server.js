@@ -34,14 +34,13 @@ app.get('/chapter', (req, res) => {
 });
 
 // 🎯 Filtered + paginated questions endpoint
-app.get('/api/questions', (req, res) => {
-  const { book, chapter, type = "all", page = 1 } = req.query;
+app.get('/questions', (req, res) => {
+  const { classNum, chapter, type = "all", page = 0 } = req.query;
 
-  if (!book || !chapter) {
-    return res.status(400).json({ error: "Missing book or chapter" });
+  if (!classNum || !chapter) {
+    return res.status(400).json({ error: "Missing classNum or chapter" });
   }
 
-  const classNum = book === '11th' ? '11' : '12';
   const chapterFolder = `chapter_${String(chapter).padStart(2, '0')}`;
   const filePath = path.join(
     __dirname,
@@ -58,12 +57,10 @@ app.get('/api/questions', (req, res) => {
 
   const questions = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-  // 🔍 Filter by type if needed
   const filtered = type === 'all' ? questions : questions.filter(q => q.type === type);
 
-  // 📄 Paginate (default 5 per page)
   const pageSize = 5;
-  const start = (page - 1) * pageSize;
+  const start = parseInt(page) * pageSize;
   const paginated = filtered.slice(start, start + pageSize);
 
   res.json({
@@ -71,31 +68,10 @@ app.get('/api/questions', (req, res) => {
     total: filtered.length,
     page: parseInt(page),
     totalPages: Math.ceil(filtered.length / pageSize),
+    image: `ncert/class${classNum}_biology/${chapterFolder}/page${parseInt(page) + 1}.jpg`
   });
 });
 
 app.listen(PORT, () => {
   console.log(`✅ Server running on port ${PORT}`);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
