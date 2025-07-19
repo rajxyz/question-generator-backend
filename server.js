@@ -7,9 +7,9 @@ const app = express();
 const PORT = process.env.PORT || 10000;
 
 app.use(cors());
-app.use(express.static('static')); // Serve static files (images + json)
+app.use(express.static('static')); // Serve static files like images & JSON
 
-// 🧾 Get all images & full questions
+// 🧾 Get all images & all questions from chapter
 app.get('/chapter', (req, res) => {
   const { classNum, chapter } = req.query;
 
@@ -24,7 +24,8 @@ app.get('/chapter', (req, res) => {
     return res.status(404).json({ error: 'No questions found' });
   }
 
-  const questions = JSON.parse(fs.readFileSync(questionsPath, 'utf-8'));
+  const fileData = JSON.parse(fs.readFileSync(questionsPath, 'utf-8'));
+  const questions = fileData.questions || [];
 
   const images = fs.readdirSync(chapterPath)
     .filter(file => file.endsWith('.jpg') || file.endsWith('.png'))
@@ -55,20 +56,22 @@ app.get('/questions', (req, res) => {
     return res.status(404).json({ error: 'Questions file not found' });
   }
 
-  const questions = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  const questionsArray = fileData.questions || [];
 
-  const filtered = type === 'all' ? questions : questions.filter(q => q.type === type);
+  const filtered = type === 'all' ? questionsArray : questionsArray.filter(q => q.type === type);
 
   const pageSize = 5;
-  const start = parseInt(page) * pageSize;
+  const currentPage = parseInt(page);
+  const start = currentPage * pageSize;
   const paginated = filtered.slice(start, start + pageSize);
 
   res.json({
     questions: paginated,
     total: filtered.length,
-    page: parseInt(page),
+    page: currentPage,
     totalPages: Math.ceil(filtered.length / pageSize),
-    image: `ncert/class${classNum}_biology/${chapterFolder}/page${parseInt(page) + 1}.jpg`
+    image: `ncert/class${classNum}_biology/${chapterFolder}/page${currentPage + 1}.jpg`
   });
 });
 
