@@ -25,7 +25,7 @@ app.get('/chapter', (req, res) => {
   }
 
   const fileData = JSON.parse(fs.readFileSync(questionsPath, 'utf-8'));
-  const questions = fileData.questions || [];
+  const questions = Array.isArray(fileData) ? fileData : fileData.questions || [];
 
   const images = fs.readdirSync(chapterPath)
     .filter(file => file.endsWith('.jpg') || file.endsWith('.png'))
@@ -57,7 +57,7 @@ app.get('/questions', (req, res) => {
   }
 
   const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-  const questionsArray = fileData.questions || [];
+  const questionsArray = Array.isArray(fileData) ? fileData : fileData.questions || [];
 
   const filtered = type === 'all' ? questionsArray : questionsArray.filter(q => q.type === type);
 
