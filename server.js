@@ -1,80 +1,73 @@
-const express = require('express');
-const cors = require('cors');
-const fs = require('fs');
-const path = require('path');
+// server.js
+const express = require("express");
+const fs = require("fs");
+const path = require("path");
 
 const app = express();
-const PORT = process.env.PORT || 10000;
+const PORT = 3000;
 
-app.use(cors());
-app.use(express.static('static')); // Serve static files like images & JSON
+// Serve static files (like images)
+app.use("/static", express.static("static"));
 
-// 🧾 Get all images & all questions from chapter
-app.get('/chapter', (req, res) => {
-  const { classNum, chapter } = req.query;
+// API: GET /get-page?book=ncert&class=class11_biology&chapter=chapter_01&page=1&type=mcq
+app.get("/get-page", (req, res) => {
+  const { book, class: className, chapter, page, type } = req.query;
 
-  if (!classNum || !chapter) {
-    return res.status(400).json({ error: 'Missing classNum or chapter' });
+  // Validate query parameters
+  if (!book || !className || !chapter || !page) {
+    return res.status(400).json({
+      status: "error",
+      message: "Missing required query parameters: book, class, chapter, page"
+    });
   }
 
-  const chapterPath = path.join(__dirname, 'static', 'ncert', `class${classNum}_biology`, chapter);
-  const questionsPath = path.join(chapterPath, 'questions.json');
+  // Construct paths
+  const basePath = path.join(__dirname, "static", book, className, chapter);
+  const questionsFilePath = path.join(basePath, "questions.json");
+  const imageFileName = `page${page}.jpg`;
+  const imageFilePath = path.join(basePath, imageFileName);
 
-  if (!fs.existsSync(questionsPath)) {
-    return res.status(404).json({ error: 'No questions found' });
+  // Check if questions.json exists
+  if (!fs.existsSync(questionsFilePath)) {
+    return res.status(404).json({ status: "error", message: "questions.json not found." });
   }
 
-  const fileData = JSON.parse(fs.readFileSync(questionsPath, 'utf-8'));
-  const questions = Array.isArray(fileData) ? fileData : fileData.questions || [];
-
-  const images = fs.readdirSync(chapterPath)
-    .filter(file => file.endsWith('.jpg') || file.endsWith('.png'))
-    .sort();
-
-  res.json({ images, questions });
-});
-
-// 🎯 Filtered + paginated questions endpoint
-app.get('/questions', (req, res) => {
-  const { classNum, chapter, type = "all", page = 0 } = req.query;
-
-  if (!classNum || !chapter) {
-    return res.status(400).json({ error: "Missing classNum or chapter" });
+  // Check if page image exists
+  if (!fs.existsSync(imageFilePath)) {
+    return res.status(404).json({ status: "error", message: `Image for page ${page} not found.` });
   }
 
-  const chapterFolder = `chapter_${String(chapter).padStart(2, '0')}`;
-  const filePath = path.join(
-    __dirname,
-    'static',
-    'ncert',
-    `class${classNum}_biology`,
-    chapterFolder,
-    'questions.json'
-  );
-
-  if (!fs.existsSync(filePath)) {
-    return res.status(404).json({ error: 'Questions file not found' });
+  // Read and parse questions.json
+  let rawData = fs.readFileSync(questionsFilePath, "utf-8");
+  let questionsJson;
+  try {
+    questionsJson = JSON.parse(rawData);
+  } catch (err) {
+    return res.status(500).json({ status: "error", message: "Invalid JSON format." });
   }
 
-  const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-  const questionsArray = Array.isArray(fileData) ? fileData : fileData.questions || [];
+  const pageData = questionsJson.pages?.[page];
+  if (!pageData) {
+    return res.status(404).json({ status: "error", message: `No data for page ${page}` });
+  }
 
-  const filtered = type === 'all' ? questionsArray : questionsArray.filter(q => q.type === type);
+  // Filter questions by type (optional)
+  let filteredQuestions = pageData.questions;
+  if (type) {
+    filteredQuestions = filteredQuestions.filter(q => q.type === type);
+  }
 
-  const pageSize = 5;
-  const currentPage = parseInt(page);
-  const start = currentPage * pageSize;
-  const paginated = filtered.slice(start, start + pageSize);
-
-  res.json({
-    questions: paginated,
-    total: filtered.length,
-    page: currentPage,
-    totalPages: Math.ceil(filtered.length / pageSize),
-    image: `ncert/class${classNum}_biology/${chapterFolder}/page${currentPage + 1}.jpg`
+  // Final response
+  return res.json({
+    status: "success",
+    data: {
+      image_url: `/static/${book}/${className}/${chapter}/${imageFileName}`,
+      questions: filteredQuestions
+    }
   });
 });
 
+// Start server
 app.listen(PORT, () => {
-  console.log(`✅ Server running on port ${PORT}`);
+  console.log(`✅ Server running at http://localhost:${PORT}`);
 });
