@@ -1,14 +1,28 @@
-[
-  {
-    "question": "What is biology?",
-    "type": "short"
-  },
-  {
-    "question": "Define biodiversity.",
-    "type": "short"
-  },
-  {
-    "question": "What is taxonomy?",
-    "type": "short"
+{
+  "pages": {
+    "1": {
+      "questions": [
+        {
+          "id": "q1",
+          "type": "mcq",
+          "question": "Cell is the basic unit of life.",
+          "options": ["Tissue", "Organ", "Cell", "Molecule"],
+          "answer": "Cell"
+        },
+        {
+          "id": "q2",
+          "type": "assertion_reason",
+          "assertion": "Mitochondria have double membranes.",
+          "reason": "They store genetic material.",
+          "options": [
+            "Both A and R are true and R is the correct explanation",
+            "Both A and R are true but R is not the correct explanation",
+            "A is true but R is false",
+            "A is false but R is true"
+          ],
+          "answer": "Both A and R are true but R is not the correct explanation"
+        }
+      ]
+    }
   }
-]
+}
