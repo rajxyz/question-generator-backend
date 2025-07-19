@@ -9,6 +9,7 @@ const PORT = process.env.PORT || 10000;
 app.use(cors());
 app.use(express.static('static')); // Serve static files (images + json)
 
+// 🧾 Get all images & full questions
 app.get('/chapter', (req, res) => {
   const { classNum, chapter } = req.query;
 
@@ -24,14 +25,15 @@ app.get('/chapter', (req, res) => {
   }
 
   const questions = JSON.parse(fs.readFileSync(questionsPath, 'utf-8'));
+
   const images = fs.readdirSync(chapterPath)
-    .filter(file => file.endsWith('.jpg'))
+    .filter(file => file.endsWith('.jpg') || file.endsWith('.png'))
     .sort();
 
   res.json({ images, questions });
 });
 
-// ✅ ADD THIS NEW ROUTE —> /api/questions
+// 🎯 Filtered + paginated questions endpoint
 app.get('/api/questions', (req, res) => {
   const { book, chapter, type = "all", page = 1 } = req.query;
 
@@ -56,17 +58,42 @@ app.get('/api/questions', (req, res) => {
 
   const questions = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-  // Pagination (optional)
+  // 🔍 Filter by type if needed
+  const filtered = type === 'all' ? questions : questions.filter(q => q.type === type);
+
+  // 📄 Paginate (default 5 per page)
   const pageSize = 5;
   const start = (page - 1) * pageSize;
-  const paginated = questions.slice(start, start + pageSize);
+  const paginated = filtered.slice(start, start + pageSize);
 
-  res.json({ questions: paginated, total: questions.length });
+  res.json({
+    questions: paginated,
+    total: filtered.length,
+    page: parseInt(page),
+    totalPages: Math.ceil(filtered.length / pageSize),
+  });
 });
 
 app.listen(PORT, () => {
   console.log(`✅ Server running on port ${PORT}`);
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
