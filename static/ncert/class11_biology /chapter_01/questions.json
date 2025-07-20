@@ -20,7 +20,7 @@
             "A is true but R is false",
             "A is false but R is true"
           ],
-          "answer": "Both A and R are true but R is not the correct explanation"
+          "answer": "Both A and R are true but R is not the correct explanation".
         }
       ]
     }
