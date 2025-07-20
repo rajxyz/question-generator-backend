@@ -7,7 +7,8 @@
           "type": "mcq",
           "question": "Cell is the basic unit of life.",
           "options": ["Tissue", "Organ", "Cell", "Molecule"],
-          "answer": "Cell"
+          "answer": "Cell",
+          "explanation": "Cells are the structural and functional units of life." 
         },
         {
           "id": "q2",
