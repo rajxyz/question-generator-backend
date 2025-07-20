@@ -28,6 +28,10 @@ app.get("/get-page", (req, res) => {
   const imageFileName = `page${page}.jpg`;
   const imageFilePath = path.join(basePath, imageFileName);
 
+  // ✅ DEBUG LOGS
+  console.log("🔍 Resolved path:", questionsFilePath);
+  console.log("📂 File exists:", fs.existsSync(questionsFilePath));
+
   if (!fs.existsSync(questionsFilePath)) {
     return res.status(404).json({ status: "error", message: "questions.json not found." });
   }
@@ -63,7 +67,6 @@ app.get("/get-page", (req, res) => {
   });
 });
 
-
 // ✅ DEBUG ROUTE
 app.get("/debug-questions", (req, res) => {
   const { book, class: className, chapter } = req.query;
@@ -96,11 +99,42 @@ app.get("/debug-questions", (req, res) => {
   });
 });
 
-
 // ✅ Start server
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
