@@ -4,15 +4,15 @@ const path = require("path");
 const cors = require("cors");
 
 const app = express();
-const PORT = process.env.PORT || 3000; // ✅ Dynamic port for Render
+const PORT = process.env.PORT || 3000;
 
-// Enable CORS (for frontend access)
+// Enable CORS for frontend
 app.use(cors());
 
-// Serve static files
+// Serve static files from /static
 app.use("/static", express.static("static"));
 
-// ✅ Main API: GET /get-page
+// ✅ Main API: /get-page
 app.get("/get-page", (req, res) => {
   const { book, class: className, chapter, page, type } = req.query;
 
@@ -29,8 +29,10 @@ app.get("/get-page", (req, res) => {
   const imageFilePath = path.join(basePath, imageFileName);
 
   // ✅ DEBUG LOGS
-  console.log("🔍 Resolved path:", questionsFilePath);
-  console.log("📂 File exists:", fs.existsSync(questionsFilePath));
+  console.log("📁 Base path:", basePath);
+  console.log("📄 Resolved questionsFilePath:", questionsFilePath);
+  console.log("✅ questions.json exists:", fs.existsSync(questionsFilePath));
+  console.log("🖼️ Image exists:", fs.existsSync(imageFilePath));
 
   if (!fs.existsSync(questionsFilePath)) {
     return res.status(404).json({ status: "error", message: "questions.json not found." });
@@ -67,7 +69,8 @@ app.get("/get-page", (req, res) => {
   });
 });
 
-// ✅ DEBUG ROUTE
+
+// ✅ Route: /debug-questions → Check file presence + size
 app.get("/debug-questions", (req, res) => {
   const { book, class: className, chapter } = req.query;
 
@@ -99,10 +102,79 @@ app.get("/debug-questions", (req, res) => {
   });
 });
 
-// ✅ Start server
+
+// ✅ Route: /list-static → List files under static/ folder
+app.get("/list-static", (req, res) => {
+  const dirPath = path.join(__dirname, "static");
+
+  function listFilesRecursive(dir) {
+    if (!fs.existsSync(dir)) return [];
+    const files = fs.readdirSync(dir);
+    return files.map(file => {
+      const fullPath = path.join(dir, file);
+      if (fs.statSync(fullPath).isDirectory()) {
+        return { folder: file, contents: listFilesRecursive(fullPath) };
+      } else {
+        return file;
+      }
+    });
+  }
+
+  const structure = listFilesRecursive(dirPath);
+  res.json({ status: "success", structure });
+});
+
+
+// ✅ Start the server
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
