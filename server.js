@@ -4,41 +4,46 @@ const path = require("path");
 const cors = require("cors");
 
 const app = express();
-const PORT = process.env.PORT || 3000; // Dynamic port for Render
+const PORT = process.env.PORT || 3000;
 
-// Enable CORS (for frontend access)
+// Enable CORS for frontend access
 app.use(cors());
 
-// Serve static files
+// Serve static files (images, etc.)
 app.use("/static", express.static("static"));
 
-// ✅ Main API: GET /get-page
+/**
+ * ✅ MAIN API: GET /get-page
+ * Returns the image + questions for a specific page and type
+ */
 app.get("/get-page", (req, res) => {
   const { book, class: className, chapter, page, type } = req.query;
 
-  if (!book || !className || !chapter || !page) {
+  // Validate query parameters
+  if (!book || !className || !chapter || !page || !type) {
     return res.status(400).json({
       status: "error",
-      message: "Missing required query parameters: book, class, chapter, page",
+      message: "Missing required query params: book, class, chapter, page, or type",
     });
   }
 
   const basePath = path.join(__dirname, "static", book, className, chapter);
-  const questionsFilePath = path.join(basePath, "questions.json");
+  const questionsFile = `${type}.json`; // e.g., mcq.json
+  const questionsFilePath = path.join(basePath, questionsFile);
   const imageFileName = `page${page}.jpg`;
   const imageFilePath = path.join(basePath, imageFileName);
 
-  // 🔍 DEBUG LOGS
+  // 🔍 Debug logs
   console.log("📁 Base path:", basePath);
-  console.log("📄 Resolved questionsFilePath:", questionsFilePath);
-  console.log("✅ questions.json exists:", fs.existsSync(questionsFilePath));
+  console.log("📄 Looking for file:", questionsFile);
+  console.log("📄 File exists:", fs.existsSync(questionsFilePath));
   console.log("🖼️ Image exists:", fs.existsSync(imageFilePath));
 
+  // Check if files exist
   if (!fs.existsSync(questionsFilePath)) {
     return res.status(404).json({
       status: "error",
-      message: "questions.json not found.",
-      fullPath: questionsFilePath,
+      message: `${questionsFile} not found.`,
     });
   }
 
@@ -49,40 +54,37 @@ app.get("/get-page", (req, res) => {
     });
   }
 
-  let rawData = fs.readFileSync(questionsFilePath, "utf-8");
+  // Read and parse JSON
   let questionsJson;
   try {
-    questionsJson = JSON.parse(rawData);
+    const raw = fs.readFileSync(questionsFilePath, "utf-8");
+    questionsJson = JSON.parse(raw);
   } catch (err) {
     return res.status(500).json({
       status: "error",
-      message: "Invalid JSON format.",
+      message: `Invalid JSON format in ${questionsFile}`,
     });
   }
 
-  const pageData = questionsJson.pages?.[page];
-  if (!pageData) {
-    return res.status(404).json({
-      status: "error",
-      message: `No data for page ${page}`,
-    });
-  }
-
-  let filteredQuestions = pageData.questions;
-  if (type) {
-    filteredQuestions = filteredQuestions.filter((q) => q.type === type);
-  }
+  // Get questions for the given page (index starts at 1)
+  const pageIndex = parseInt(page, 10) - 1;
+  const pageQuestions = questionsJson[pageIndex] || [];
 
   return res.json({
     status: "success",
     data: {
       image_url: `/static/${book}/${className}/${chapter}/${imageFileName}`,
-      questions: filteredQuestions,
+      questions: pageQuestions,
+      page: parseInt(page),
+      type,
     },
   });
 });
 
-// ✅ DEBUG ROUTE: checks if file exists and what’s inside the directory
+/**
+ * ✅ DEBUG API: GET /debug-questions
+ * Returns list of files in the chapter directory + metadata
+ */
 app.get("/debug-questions", (req, res) => {
   const { book, class: className, chapter } = req.query;
 
@@ -94,54 +96,80 @@ app.get("/debug-questions", (req, res) => {
   }
 
   const chapterDir = path.join(__dirname, "static", book, className, chapter);
-  const questionsPath = path.join(chapterDir, "questions.json");
-
-  let fileExists = false;
-  let fileSize = null;
-  let fileStat = null;
-  let dirExists = false;
-  let dirContents = [];
-  let gitignoreContents = null;
-  let permissions = null;
 
   try {
-    dirExists = fs.existsSync(chapterDir);
-    if (dirExists) {
-      dirContents = fs.readdirSync(chapterDir);
+    if (!fs.existsSync(chapterDir)) {
+      return res.status(404).json({
+        status: "error",
+        message: "Chapter directory not found",
+      });
     }
 
-    fileExists = fs.existsSync(questionsPath);
-    if (fileExists) {
-      fileStat = fs.statSync(questionsPath);
-      fileSize = fileStat.size;
-      permissions = (fileStat.mode & 0o777).toString(8);
-    }
+    const files = fs.readdirSync(chapterDir).map((file) => {
+      const fullPath = path.join(chapterDir, file);
+      const stat = fs.statSync(fullPath);
+      return {
+        name: file,
+        size: stat.size,
+        type: path.extname(file),
+      };
+    });
 
-    const gitignorePath = path.join(__dirname, ".gitignore");
-    if (fs.existsSync(gitignorePath)) {
-      gitignoreContents = fs.readFileSync(gitignorePath, "utf-8");
-    }
-  } catch (e) {
-    return res.status(500).json({ status: "error", message: e.message });
+    return res.json({
+      status: "success",
+      chapterDir,
+      files,
+    });
+  } catch (err) {
+    return res.status(500).json({
+      status: "error",
+      message: err.message,
+    });
   }
-
-  res.json({
-    status: "success",
-    fileExists,
-    fileSize,
-    fullPath: questionsPath,
-    baseDir: __dirname,
-    dirExists,
-    dirContents,
-    permissions,
-    gitignore: gitignoreContents,
-  });
 });
 
 // ✅ Start the server
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
