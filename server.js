@@ -28,7 +28,22 @@ app.get("/get-page", (req, res) => {
   }
 
   const basePath = path.join(__dirname, "static", book, className, chapter);
-  const questionsFile = `${type}.json`; // e.g., mcq.json
+  
+  // ✅ Map question types to filenames
+  const fileNameMap = {
+    mcq: "mcq.json",
+    oneword: "oneword.json",
+    assertion: "ar_questions.json",
+  };
+
+  const questionsFile = fileNameMap[type];
+  if (!questionsFile) {
+    return res.status(400).json({
+      status: "error",
+      message: `Unknown question type: ${type}`,
+    });
+  }
+
   const questionsFilePath = path.join(basePath, questionsFile);
   const imageFileName = `page${page}.jpg`;
   const imageFilePath = path.join(basePath, imageFileName);
@@ -68,12 +83,12 @@ app.get("/get-page", (req, res) => {
 
   // Get questions for the given page (index starts at 1)
   const pageIndex = parseInt(page, 10) - 1;
-  const pageQuestions = questionsJson[pageIndex] || [];
+  const pageQuestions = Array.isArray(questionsJson) ? questionsJson[pageIndex] || [] : [];
 
   return res.json({
     status: "success",
     data: {
-      image_url: `/static/${book}/${className}/${chapter}/${imageFileName}`,
+      image_url: `${req.protocol}://${req.get("host")}/static/${book}/${className}/${chapter}/${imageFileName}`,
       questions: pageQuestions,
       page: parseInt(page),
       type,
@@ -132,165 +147,3 @@ app.get("/debug-questions", (req, res) => {
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
