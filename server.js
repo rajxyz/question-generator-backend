@@ -6,20 +6,18 @@ const cors = require("cors");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Enable CORS for frontend access
+// Enable CORS
 app.use(cors());
 
-// Serve static files (images, etc.)
+// Serve static files
 app.use("/static", express.static("static"));
 
 /**
- * ✅ MAIN API: GET /get-page
- * Returns the image + questions for a specific page and type
+ * GET /get-page — Returns image and questions for a specific page and type
  */
 app.get("/get-page", (req, res) => {
   const { book, class: className, chapter, page, type } = req.query;
 
-  // Validate query parameters
   if (!book || !className || !chapter || !page || !type) {
     return res.status(400).json({
       status: "error",
@@ -28,8 +26,7 @@ app.get("/get-page", (req, res) => {
   }
 
   const basePath = path.join(__dirname, "static", book, className, chapter);
-  
-  // ✅ Map question types to filenames
+
   const fileNameMap = {
     mcq: "mcq.json",
     oneword: "oneword.json",
@@ -48,13 +45,11 @@ app.get("/get-page", (req, res) => {
   const imageFileName = `page${page}.jpg`;
   const imageFilePath = path.join(basePath, imageFileName);
 
-  // 🔍 Debug logs
   console.log("📁 Base path:", basePath);
   console.log("📄 Looking for file:", questionsFile);
   console.log("📄 File exists:", fs.existsSync(questionsFilePath));
   console.log("🖼️ Image exists:", fs.existsSync(imageFilePath));
 
-  // Check if files exist
   if (!fs.existsSync(questionsFilePath)) {
     return res.status(404).json({
       status: "error",
@@ -81,9 +76,10 @@ app.get("/get-page", (req, res) => {
     });
   }
 
-  // Get questions for the given page (index starts at 1)
   const pageIndex = parseInt(page, 10) - 1;
-  const pageQuestions = Array.isArray(questionsJson) ? questionsJson[pageIndex] || [] : [];
+  const pageQuestions = Array.isArray(questionsJson) && Array.isArray(questionsJson[pageIndex])
+    ? questionsJson[pageIndex]
+    : [];
 
   return res.json({
     status: "success",
@@ -96,10 +92,7 @@ app.get("/get-page", (req, res) => {
   });
 });
 
-/**
- * ✅ DEBUG API: GET /debug-questions
- * Returns list of files in the chapter directory + metadata
- */
+// Debug endpoint
 app.get("/debug-questions", (req, res) => {
   const { book, class: className, chapter } = req.query;
 
@@ -143,7 +136,6 @@ app.get("/debug-questions", (req, res) => {
   }
 });
 
-// ✅ Start the server
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
