@@ -9,12 +9,11 @@ const PORT = process.env.PORT || 3000;
 // Enable CORS
 app.use(cors());
 
-// Serve static files (images etc.)
+// Serve static files
 app.use("/static", express.static("static"));
 
 /**
- * ✅ API: GET /get-page
- * Returns image and page-specific questions
+ * GET /get-page — Returns image and questions for a specific page and type
  */
 app.get("/get-page", (req, res) => {
   const { book, class: className, chapter, page, type } = req.query;
@@ -28,7 +27,6 @@ app.get("/get-page", (req, res) => {
 
   const basePath = path.join(__dirname, "static", book, className, chapter);
 
-  // Map type to file name
   const fileNameMap = {
     mcq: "mcq.json",
     oneword: "oneword.json",
@@ -66,7 +64,7 @@ app.get("/get-page", (req, res) => {
     });
   }
 
-  // ✅ Read and parse questions
+  // Read and parse JSON
   let questionsJson;
   try {
     const raw = fs.readFileSync(questionsFilePath, "utf-8");
@@ -79,8 +77,6 @@ app.get("/get-page", (req, res) => {
   }
 
   const pageIndex = parseInt(page, 10) - 1;
-
-  // ✅ Expecting 2D array format for questions
   const pageQuestions = Array.isArray(questionsJson) && Array.isArray(questionsJson[pageIndex])
     ? questionsJson[pageIndex]
     : [];
@@ -96,7 +92,7 @@ app.get("/get-page", (req, res) => {
   });
 });
 
-// Debugging endpoint
+// Debug endpoint
 app.get("/debug-questions", (req, res) => {
   const { book, class: className, chapter } = req.query;
 
