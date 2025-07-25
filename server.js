@@ -75,9 +75,20 @@ app.get("/get-page", (req, res) => {
   }
 
   const pageIndex = parseInt(page, 10) - 1;
-  const pageQuestions = Array.isArray(questionsJson) && Array.isArray(questionsJson[pageIndex])
-    ? questionsJson[pageIndex]
-    : [];
+  let pageQuestions = [];
+
+  if (Array.isArray(questionsJson)) {
+    if (Array.isArray(questionsJson[pageIndex])) {
+      // Paged format
+      pageQuestions = questionsJson[pageIndex];
+    } else {
+      // Flat format — fallback: paginate manually (10 per page)
+      const pageSize = 10;
+      const start = pageIndex * pageSize;
+      const end = start + pageSize;
+      pageQuestions = questionsJson.slice(start, end);
+    }
+  }
 
   return res.json({
     status: "success",
