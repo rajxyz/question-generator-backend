@@ -6,10 +6,7 @@ const cors = require("cors");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Enable CORS
 app.use(cors());
-
-// Serve static files
 app.use("/static", express.static("static"));
 
 /**
@@ -30,7 +27,9 @@ app.get("/get-page", (req, res) => {
   const fileNameMap = {
     mcq: "mcq.json",
     oneword: "oneword.json",
-    assertion: "ar_questions.json",
+    ar_questions: "ar_questions.json",
+    fillups: "fillups.json",
+    match: "match.json",
   };
 
   const questionsFile = fileNameMap[type];
@@ -64,7 +63,6 @@ app.get("/get-page", (req, res) => {
     });
   }
 
-  // Read and parse JSON
   let questionsJson;
   try {
     const raw = fs.readFileSync(questionsFilePath, "utf-8");
@@ -92,7 +90,9 @@ app.get("/get-page", (req, res) => {
   });
 });
 
-// Debug endpoint
+/**
+ * Debug endpoint for inspecting files in a chapter folder
+ */
 app.get("/debug-questions", (req, res) => {
   const { book, class: className, chapter } = req.query;
 
