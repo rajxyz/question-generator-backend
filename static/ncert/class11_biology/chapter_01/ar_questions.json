@@ -1,107 +1,142 @@
 [
   {
-    "type": "oneword",
-    "question": "Biology is the science of life forms and living ____.",
-    "answer": "Processes"
+    "type": "assertion_reason",
+    "assertion": "Biology is the science of life forms and living processes.",
+    "reason": "It studies the diversity of chemical elements in soil.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "3"
   },
   {
-    "type": "oneword",
-    "question": "The living world comprises amazing ____ of organisms.",
-    "answer": "Diversity"
+    "type": "assertion_reason",
+    "assertion": "The living world comprises an amazing diversity of organisms.",
+    "reason": "Early humans perceived differences between living and non-living things.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "2"
   },
   {
-    "type": "oneword",
-    "question": "The amazing diversity mentioned is of ____ organisms.",
-    "answer": "Living"
+    "type": "assertion_reason",
+    "assertion": "Early man deified wind, sea, and fire.",
+    "reason": "These forms of matter evoked awe or fear.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "1"
   },
   {
-    "type": "oneword",
-    "question": "Early man perceived difference between living and ____ matter.",
-    "answer": "Inanimate"
+    "type": "assertion_reason",
+    "assertion": "Inanimate and animate forms evoked a sense of awe.",
+    "reason": "They were capable of reproduction.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "3"
   },
   {
-    "type": "oneword",
-    "question": "Early man could easily ____ differences between living and non-living.",
-    "answer": "Perceive"
+    "type": "assertion_reason",
+    "assertion": "Systematic description of life forms led to nomenclature and classification.",
+    "reason": "Classification helps in arranging organisms based on similarities.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "1"
   },
   {
-    "type": "oneword",
-    "question": "Early man deified inanimate matter like ____.",
-    "answer": "Fire"
+    "type": "assertion_reason",
+    "assertion": "Anthropocentric view of biology limited scientific progress.",
+    "reason": "It focused only on human welfare, ignoring biological principles.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "1"
   },
   {
-    "type": "oneword",
-    "question": "Along with fire and sea, early man also deified ____. ",
-    "answer": "Animals"
+    "type": "assertion_reason",
+    "assertion": "Similarities among organisms were found both horizontally and vertically.",
+    "reason": "Horizontal similarity refers to relations across evolutionary time.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "2"
   },
   {
-    "type": "oneword",
-    "question": "Common feature of inanimate and animate forms was ____.",
-    "answer": "Fear"
+    "type": "assertion_reason",
+    "assertion": "All living organisms are related to each other.",
+    "reason": "They evolved from a common ancestor.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "1"
   },
   {
-    "type": "oneword",
-    "question": "The sense evoked by animate and inanimate forms was ____.",
-    "answer": "Awe"
+    "type": "assertion_reason",
+    "assertion": "Conservation movements were driven by the realization of biological relatedness.",
+    "reason": "People understood that living organisms are not related to one another.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "3"
   },
   {
-    "type": "oneword",
-    "question": "Description of living beings began much later in ____ history.",
-    "answer": "Human"
-  },
-  {
-    "type": "oneword",
-    "question": "Description of organisms including ____ began late in history.",
-    "answer": "Humans"
-  },
-  {
-    "type": "oneword",
-    "question": "The limited progress was due to ____ view of biology.",
-    "answer": "Anthropocentric"
-  },
-  {
-    "type": "oneword",
-    "question": "Anthropocentric views caused limited ____ in biology.",
-    "answer": "Progress"
-  },
-  {
-    "type": "oneword",
-    "question": "Identification, classification and ____ developed out of necessity.",
-    "answer": "Nomenclature"
-  },
-  {
-    "type": "oneword",
-    "question": "Detailed systems of nomenclature and classification followed ____ description.",
-    "answer": "Systematic"
-  },
-  {
-    "type": "oneword",
-    "question": "Such studies led to recognition of ____ among organisms.",
-    "answer": "Similarities"
-  },
-  {
-    "type": "oneword",
-    "question": "Similarities were observed both horizontally and ____.",
-    "answer": "Vertically"
-  },
-  {
-    "type": "oneword",
-    "question": "Relatedness among organisms led to ____ of biodiversity.",
-    "answer": "Conservation"
-  },
-  {
-    "type": "oneword",
-    "question": "Realisation of universal relatedness humbled ____.",
-    "answer": "Man"
-  },
-  {
-    "type": "oneword",
-    "question": "The perspective used for classification is ____'s.",
-    "answer": "Taxonomist"
-  },
-  {
-    "type": "oneword",
-    "question": "Classification is of ____ and plants.",
-    "answer": "Animals"
+    "type": "assertion_reason",
+    "assertion": "Classification of animals and plants is done from a taxonomist’s perspective.",
+    "reason": "Taxonomy involves naming, identifying, and classifying organisms.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "1"
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
