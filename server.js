@@ -74,22 +74,27 @@ app.get("/get-page", (req, res) => {
     });
   }
 
+  const pageIndex = parseInt(page, 10) - 1;
   let pageQuestions = [];
 
-  // ✅ Updated logic for handling "pages": [{ page: 1, questions: [...] }, ...]
-  if (Array.isArray(questionsJson)) {
-    // Flat format — fallback paginate
-    const pageSize = 10;
-    const pageIndex = parseInt(page, 10) - 1;
-    const start = pageIndex * pageSize;
-    pageQuestions = questionsJson.slice(start, start + pageSize);
-  } else if (Array.isArray(questionsJson.pages)) {
-    // Proper pages array
-    const matchedPage = questionsJson.pages.find(
-      (p) => parseInt(p.page) === parseInt(page)
-    );
-    if (matchedPage && Array.isArray(matchedPage.questions)) {
-      pageQuestions = matchedPage.questions;
+  // ✅ New: Handle { pages: [{ page: 1, questions: [...] }, ...] } format
+  if (questionsJson.pages && Array.isArray(questionsJson.pages)) {
+    const pageData = questionsJson.pages.find(p => p.page === parseInt(page));
+    if (pageData && Array.isArray(pageData.questions)) {
+      pageQuestions = pageData.questions;
+    }
+  }
+  // ✅ Handle traditional formats
+  else if (Array.isArray(questionsJson)) {
+    if (Array.isArray(questionsJson[pageIndex])) {
+      // Paged 2D array
+      pageQuestions = questionsJson[pageIndex];
+    } else {
+      // Flat array fallback
+      const pageSize = 10;
+      const start = pageIndex * pageSize;
+      const end = start + pageSize;
+      pageQuestions = questionsJson.slice(start, end);
     }
   }
 
