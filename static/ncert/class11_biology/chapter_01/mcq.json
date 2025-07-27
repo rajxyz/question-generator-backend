@@ -408,5 +408,209 @@
     "question": "What will scientists try to reflect on?",
     "options": ["History", "Language", "What is living", "Dreams"],
     "answer": "What is living"
+  },
+  {
+    "type": "mcq",
+    "question": "What kind of cooperation exists in populations?",
+    "options": ["Silent", "Economic", "Ecological", "Random"],
+    "answer": "Ecological"
+  },
+  {
+    "type": "mcq",
+    "question": "What is contrasted with non-living?",
+    "options": ["Dead", "Organic", "Living", "Artificial"],
+    "answer": "Living"
+  },
+  {
+    "type": "mcq",
+    "question": "What does deep reflection relate to?",
+    "options": ["Games", "Books", "Life", "Structure"],
+    "answer": "Life"
+  },
+  {
+    "type": "mcq",
+    "question": "Scientists try to answer which question?",
+    "options": ["What is flying?", "What is living?", "Why sleep?", "Where is water?"],
+    "answer": "What is living?"
+  },
+  {
+    "type": "mcq",
+    "question": "What question do scientists avoid?",
+    "options": ["How cells divide?", "Purpose of life", "What is evolution?", "Where is oxygen?"],
+    "answer": "Purpose of life"
+  },
+  {
+    "type": "mcq",
+    "question": "Which of these is a philosophical question?",
+    "options": ["Why eat?", "What is photosynthesis?", "What is the purpose of life?", "What is heat?"],
+    "answer": "What is the purpose of life?"
+  },
+  {
+    "type": "mcq",
+    "question": "Who avoids answering philosophical questions?",
+    "options": ["Students", "Doctors", "Scientists", "Artists"],
+    "answer": "Scientists"
+  },
+  {
+    "type": "mcq",
+    "question": "Which organism creates awe in the paragraph?",
+    "options": ["Snail", "Shark", "Jellyfish", "Rabbit"],
+    "answer": "Shark"
+  },
+  {
+    "type": "mcq",
+    "question": "Which marine animal is mentioned?",
+    "options": ["Whale", "Shark", "Dolphin", "Octopus"],
+    "answer": "Shark"
+  },
+  {
+    "type": "mcq",
+    "question": "Which large land animal is described?",
+    "options": ["Horse", "Tiger", "Elephant", "Lion"],
+    "answer": "Horse"
+  },
+  {
+    "type": "mcq",
+    "question": "Which bird behavior is emphasized?",
+    "options": ["Migration", "Singing", "Feeding", "Flying"],
+    "answer": "Migration"
+  },
+  {
+    "type": "mcq",
+    "question": "Which flower-rich location is mentioned?",
+    "options": ["Rose Garden", "Botanical Garden", "Valley of Flowers", "Himalayas"],
+    "answer": "Valley of Flowers"
+  },
+  {
+    "type": "mcq",
+    "question": "How does the paragraph describe biodiversity?",
+    "options": ["Boring", "Complicated", "Amazing", "Predictable"],
+    "answer": "Amazing"
+  },
+  {
+    "type": "mcq",
+    "question": "What kind of habitats are described?",
+    "options": ["Ordinary", "Extraordinary", "Imaginary", "Artificial"],
+    "answer": "Extraordinary"
+  },
+  {
+    "type": "mcq",
+    "question": "Where are fresh water lakes mentioned?",
+    "options": ["Desert", "Mountain", "Ocean", "Habitats"],
+    "answer": "Habitats"
+  },
+  {
+    "type": "mcq",
+    "question": "What are hot springs examples of?",
+    "options": ["Cold habitat", "Artificial place", "Extreme habitat", "Neutral zone"],
+    "answer": "Extreme habitat"
+  },
+  {
+    "type": "mcq",
+    "question": "What does nature provoke in humans?",
+    "options": ["Sleep", "Awe", "Sadness", "Confusion"],
+    "answer": "Awe"
+  },
+  {
+    "type": "mcq",
+    "question": "Which process occurs inside a cell?",
+    "options": ["Digestion", "Molecular traffic", "Osmosis", "Photosynthesis"],
+    "answer": "Molecular traffic"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the molecular traffic an example of?",
+    "options": ["External force", "Life process", "Inorganic process", "Noise"],
+    "answer": "Life process"
+  },
+  {
+    "type": "mcq",
+    "question": "What does population interaction cause?",
+    "options": ["Harmony only", "Silence", "Conflict and cooperation", "Destruction"],
+    "answer": "Conflict and cooperation"
+  },
+  {
+    "type": "mcq",
+    "question": "Among what does ecological interaction occur?",
+    "options": ["Tissues", "Populations", "Atoms", "Cells"],
+    "answer": "Populations"
+  },
+  {
+    "type": "mcq",
+    "question": "What helps define what is living?",
+    "options": ["Color", "Heat", "Motion", "Scientific reflection"],
+    "answer": "Scientific reflection"
+  },
+  {
+    "type": "mcq",
+    "question": "What should enable the reflection on life?",
+    "options": ["Games", "Observations", "Writings", "Nature"],
+    "answer": "Nature"
+  },
+  {
+    "type": "mcq",
+    "question": "What do scientists seek through observation?",
+    "options": ["Humor", "Purpose", "Life's definition", "Poetry"],
+    "answer": "Life's definition"
+  },
+  {
+    "type": "mcq",
+    "question": "Who tries to understand living systems?",
+    "options": ["Artists", "Historians", "Scientists", "Poets"],
+    "answer": "Scientists"
+  },
+  {
+    "type": "mcq",
+    "question": "Which question is philosophical?",
+    "options": ["Why water?", "What is living?", "What is purpose?", "Where is brain?"],
+    "answer": "What is purpose?"
+  },
+  {
+    "type": "mcq",
+    "question": "Which question do scientists answer?",
+    "options": ["What is mind?", "What is living?", "Why sleep?", "What is soul?"],
+    "answer": "What is living?"
+  },
+  {
+    "type": "mcq",
+    "question": "How many implicit questions are discussed?",
+    "options": ["Three", "Two", "One", "Four"],
+    "answer": "Two"
+  },
+  {
+    "type": "mcq",
+    "question": "What term describes questions within another?",
+    "options": ["Explicit", "External", "Implicit", "Irrelevant"],
+    "answer": "Implicit"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the final goal of the reflection?",
+    "options": ["Discovering atoms", "Describing DNA", "Defining life", "Building homes"],
+    "answer": "Defining life"
+  },
+  {
+    "type": "mcq",
+    "question": "Who are not answering purpose of life?",
+    "options": ["Writers", "Teachers", "Scientists", "Philosophers"],
+    "answer": "Scientists"
+  },
+  {
+    "type": "mcq",
+    "question": "Which phrase begins the reflection part?",
+    "options": ["Let’s eat", "Let us reflect", "We try games", "Let's play"],
+    "answer": "Let us reflect"
+  },
+  {
+    "type": "mcq",
+    "question": "Which word means deeply think?",
+    "options": ["Reflect", "Run", "Look", "Eat"],
+    "answer": "Reflect"
+  },
+  {
+    "type": "mcq",
+    "question": "Which approach is taken by scientists?",
+    "options": ["Biased", "Spiritual", "Objective", "Avoiding"],
+    "answer": "Objective"
   }
-]
+    ]
