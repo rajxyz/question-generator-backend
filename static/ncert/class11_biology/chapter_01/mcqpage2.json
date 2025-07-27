@@ -1,0 +1,124 @@
+{
+  "pages": [
+    {
+      "pageNumber": 2,
+      "title": "Ernst Mayr – The Darwin of the 20th Century",
+      "questions": [
+        {
+          "type": "mcq",
+          "question": "Born on 5 July 1904, in Kempten?",
+          "options": ["Germany", "Italy", "France", "Sweden"],
+          "answer": "Germany"
+        },
+        {
+          "type": "mcq",
+          "question": "Germany, Ernst Mayr, the Harvard University evolutionary?",
+          "options": ["Chemist", "Geologist", "Biologist", "Botanist"],
+          "answer": "Biologist"
+        },
+        {
+          "type": "mcq",
+          "question": "Biologist who has been called ‘The Darwin?",
+          "options": ["Of 20th century", "Of 19th century", "Of 18th century", "Of 21st century"],
+          "answer": "Of 20th century"
+        },
+        {
+          "type": "mcq",
+          "question": "Mayr joined Harvard’s Faculty of Arts?",
+          "options": ["1953", "1943", "1963", "1973"],
+          "answer": "1953"
+        },
+        {
+          "type": "mcq",
+          "question": "And Sciences in 1953 and retired?",
+          "options": ["1965", "1975", "1985", "1995"],
+          "answer": "1975"
+        },
+        {
+          "type": "mcq",
+          "question": "Assuming the title Alexander Agassiz Professor?",
+          "options": ["Of Zoology", "Of Botany", "Of Physics", "Of Chemistry"],
+          "answer": "Of Zoology"
+        },
+        {
+          "type": "mcq",
+          "question": "Throughout his nearly 80-year career, his?",
+          "options": ["Research", "Teaching", "Travelling", "Politics"],
+          "answer": "Research"
+        },
+        {
+          "type": "mcq",
+          "question": "Research spanned ornithology, taxonomy, zoogeography, evolution?",
+          "options": ["History", "Philosophy", "Systematics", "Politics"],
+          "answer": "Systematics"
+        },
+        {
+          "type": "mcq",
+          "question": "He almost single-handedly made the origin?",
+          "options": ["Of species", "Of life", "Of cell", "Of energy"],
+          "answer": "Of species"
+        },
+        {
+          "type": "mcq",
+          "question": "Of species diversity the central question?",
+          "options": ["Ecology", "Evolution", "Botany", "Geology"],
+          "answer": "Evolution"
+        },
+        {
+          "type": "mcq",
+          "question": "Of evolutionary biology that it is today?",
+          "options": ["True", "False", "Unknown", "Not mentioned"],
+          "answer": "True"
+        },
+        {
+          "type": "mcq",
+          "question": "He also pioneered the currently accepted definition?",
+          "options": ["Of gene", "Of cell", "Of species", "Of evolution"],
+          "answer": "Of species"
+        },
+        {
+          "type": "mcq",
+          "question": "Of a biological species. Mayr was?",
+          "options": ["Awarded", "Fired", "Hired", "Ignored"],
+          "answer": "Awarded"
+        },
+        {
+          "type": "mcq",
+          "question": "Awarded the three prizes widely regarded?",
+          "options": ["Triple crown", "Double win", "No award", "Rare prize"],
+          "answer": "Triple crown"
+        },
+        {
+          "type": "mcq",
+          "question": "As the triple crown of biology?",
+          "options": ["Yes", "No", "Maybe", "Not sure"],
+          "answer": "Yes"
+        },
+        {
+          "type": "mcq",
+          "question": "The Balzan Prize in 1983, the International?",
+          "options": ["Prize for Physics", "Prize for Chemistry", "Prize for Biology", "Peace Prize"],
+          "answer": "Prize for Biology"
+        },
+        {
+          "type": "mcq",
+          "question": "Prize for Biology in 1994, and the?",
+          "options": ["Crafoord Prize", "Nobel Prize", "Templeton Prize", "Green Award"],
+          "answer": "Crafoord Prize"
+        },
+        {
+          "type": "mcq",
+          "question": "Crafoord Prize in 1999. Mayr died?",
+          "options": ["At 70", "At 80", "At 90", "At 100"],
+          "answer": "At 100"
+        },
+        {
+          "type": "mcq",
+          "question": "At the age of 100 in the?",
+          "options": ["Year 2000", "Year 2002", "Year 2004", "Year 2006"],
+          "answer": "Year 2004"
+        }
+      ]
+    }
+  ]
+}
