@@ -259,7 +259,154 @@
 "page":  3,
 "questions": [
 {
-
-
-
-
+{
+    "type": "mcq",
+    "question": "How wonderful is the living world?",
+    "options": ["Boring", "Monotonous", "Wonderful", "Static"],
+    "answer": "Wonderful"
+  },
+  {
+    "type": "mcq",
+    "question": "What type of world is described as wonderful?",
+    "options": ["Inanimate", "Artificial", "Living", "Chemical"],
+    "answer": "Living"
+  },
+  {
+    "type": "mcq",
+    "question": "What is amazing in the living world?",
+    "options": ["Technology", "Living types", "Stones", "Metals"],
+    "answer": "Living types"
+  },
+  {
+    "type": "mcq",
+    "question": "What does the wide range of living types indicate?",
+    "options": ["Uniformity", "Diversity", "Simplicity", "Complexity"],
+    "answer": "Diversity"
+  },
+  {
+    "type": "mcq",
+    "question": "Where can we find living organisms?",
+    "options": ["Only forests", "Only oceans", "All habitats", "Only deserts"],
+    "answer": "All habitats"
+  },
+  {
+    "type": "mcq",
+    "question": "Which habitats are mentioned as extraordinary?",
+    "options": ["Concrete cities", "Factories", "Mountains and forests", "Classrooms"],
+    "answer": "Mountains and forests"
+  },
+  {
+    "type": "mcq",
+    "question": "Which hot natural source is mentioned?",
+    "options": ["Volcano", "Geyser", "Hot spring", "Sun"],
+    "answer": "Hot spring"
+  },
+  {
+    "type": "mcq",
+    "question": "Which cold region is mentioned in habitats?",
+    "options": ["Cold storage", "Refrigerator", "Cold mountains", "Polar bears"],
+    "answer": "Cold mountains"
+  },
+  {
+    "type": "mcq",
+    "question": "What feelings do habitats evoke?",
+    "options": ["Laughter", "Fear", "Speechlessness", "Sadness"],
+    "answer": "Speechlessness"
+  },
+  {
+    "type": "mcq",
+    "question": "Which organism’s beauty evokes awe?",
+    "options": ["Lizard", "Horse", "Toad", "Frog"],
+    "answer": "Horse"
+  },
+  {
+    "type": "mcq",
+    "question": "Which bird behavior is mentioned?",
+    "options": ["Flying", "Dancing", "Migrating", "Hatching"],
+    "answer": "Migrating"
+  },
+  {
+    "type": "mcq",
+    "question": "What kind of shark is mentioned?",
+    "options": ["Sleeping", "Attacking", "Sick", "Friendly"],
+    "answer": "Attacking"
+  },
+  {
+    "type": "mcq",
+    "question": "What feeling is associated with observing a shark?",
+    "options": ["Awe", "Confusion", "Ignorance", "Disgust"],
+    "answer": "Awe"
+  },
+  {
+    "type": "mcq",
+    "question": "What type of beauty is discussed?",
+    "options": ["Superficial", "Artistic", "Natural", "Chemical"],
+    "answer": "Natural"
+  },
+  {
+    "type": "mcq",
+    "question": "What lies inside a cell?",
+    "options": ["Air", "Molecular traffic", "Blood", "Energy"],
+    "answer": "Molecular traffic"
+  },
+  {
+    "type": "mcq",
+    "question": "What kind of traffic exists in cells?",
+    "options": ["Vehicle", "People", "Molecular", "Protein"],
+    "answer": "Molecular"
+  },
+  {
+    "type": "mcq",
+    "question": "What does molecular traffic make us do?",
+    "options": ["Ignore", "Reflect", "Destroy", "Compete"],
+    "answer": "Reflect"
+  },
+  {
+    "type": "mcq",
+    "question": "What do ecological conflicts and cooperation evoke?",
+    "options": ["Disinterest", "Thoughts", "Reflection", "Laughter"],
+    "answer": "Reflection"
+  },
+  {
+    "type": "mcq",
+    "question": "What fundamental question is raised?",
+    "options": ["Why sleep?", "What is life?", "How to fly?", "Where is food?"],
+    "answer": "What is life?"
+  },
+  {
+    "type": "mcq",
+    "question": "What type of question is the first?",
+    "options": ["Technical", "Emotional", "Theoretical", "Spiritual"],
+    "answer": "Technical"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the nature of the second question?",
+    "options": ["Technical", "Philosophical", "Medical", "Biochemical"],
+    "answer": "Philosophical"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the first question about?",
+    "options": ["Purpose", "Living vs non-living", "Light", "Motion"],
+    "answer": "Living vs non-living"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the second question about?",
+    "options": ["Food", "Purpose of life", "Evolution", "Photosynthesis"],
+    "answer": "Purpose of life"
+  },
+  {
+    "type": "mcq",
+    "question": "What do scientists avoid answering?",
+    "options": ["Life process", "Purpose of life", "Structure of DNA", "Cell wall"],
+    "answer": "Purpose of life"
+  },
+  {
+    "type": "mcq",
+    "question": "What will scientists try to reflect on?",
+    "options": ["History", "Language", "What is living", "Dreams"],
+    "answer": "What is living"
+  }
+]
