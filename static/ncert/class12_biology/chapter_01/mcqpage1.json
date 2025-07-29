@@ -1,1 +1,107 @@
-
+[
+  {
+    "question": "In transverse section, what is the shape of a typical microsporangium?",
+    "options": ["Oval", "Square", "Circular", "Triangular"],
+    "answer": "Circular"
+  },
+  {
+    "question": "How many wall layers surround the microsporangium?",
+    "options": ["Three", "Five", "Two", "Four"],
+    "answer": "Four"
+  },
+  {
+    "question": "Which figure shows the four wall layers of microsporangium?",
+    "options": ["Figure 1.3a", "Figure 1.3b", "Figure 1.2a", "Figure 2.1"],
+    "answer": "Figure 1.3b"
+  },
+  {
+    "question": "Which of these is a wall layer in microsporangium?",
+    "options": ["Palisade", "Endothecium", "Mesophyll", "Cambium"],
+    "answer": "Endothecium"
+  },
+  {
+    "question": "Which microsporangium layer lies innermost?",
+    "options": ["Epidermis", "Endothecium", "Tapetum", "Middle layer"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "What is the function of the outer three wall layers?",
+    "options": ["Transport", "Protection and dehiscence", "Photosynthesis", "Absorption"],
+    "answer": "Protection and dehiscence"
+  },
+  {
+    "question": "Which wall layer helps in dehiscence of anther?",
+    "options": ["Tapetum", "Middle layer", "Endothecium", "All outer three"],
+    "answer": "All outer three"
+  },
+  {
+    "question": "What does the tapetum nourish?",
+    "options": ["Ovule", "Petals", "Developing pollen grains", "Sporogenous tissue"],
+    "answer": "Developing pollen grains"
+  },
+  {
+    "question": "Which wall layer contains dense cytoplasm?",
+    "options": ["Epidermis", "Endothecium", "Middle layers", "Tapetum"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "Tapetal cells usually have how many nuclei?",
+    "options": ["One", "More than one", "None", "Four"],
+    "answer": "More than one"
+  },
+  {
+    "question": "Which layer of microsporangium may be bi-nucleate?",
+    "options": ["Epidermis", "Middle layer", "Tapetum", "Endothecium"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "What occupies the centre of each microsporangium?",
+    "options": ["Tapetum", "Vacuole", "Sporogenous tissue", "Filament"],
+    "answer": "Sporogenous tissue"
+  },
+  {
+    "question": "What is the nature of the cells in sporogenous tissue?",
+    "options": ["Vacuolated", "Homogenous and compactly arranged", "Elongated", "Dead"],
+    "answer": "Homogenous and compactly arranged"
+  },
+  {
+    "question": "At what stage is sporogenous tissue present?",
+    "options": ["Mature anther", "Young anther", "Pollen grain stage", "Dry flower stage"],
+    "answer": "Young anther"
+  },
+  {
+    "question": "Which layer directly nourishes pollen grains?",
+    "options": ["Epidermis", "Middle layer", "Tapetum", "Endothecium"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "How would you describe tapetal cell cytoplasm?",
+    "options": ["Thin", "Sparse", "Dense", "Vacuolated"],
+    "answer": "Dense"
+  },
+  {
+    "question": "Which tissue initiates pollen development in microsporangium?",
+    "options": ["Thalamus", "Sporogenous tissue", "Endothecium", "Filament"],
+    "answer": "Sporogenous tissue"
+  },
+  {
+    "question": "Which type of tissue lies at the centre of young anther?",
+    "options": ["Conductive", "Sporogenous", "Tapetal", "Meristematic"],
+    "answer": "Sporogenous"
+  },
+  {
+    "question": "Which wall layer of microsporangium may become multinucleate?",
+    "options": ["Endothecium", "Epidermis", "Middle layers", "Tapetum"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "What supports release of pollen from anther?",
+    "options": ["Middle layers", "Tapetum", "Outer three wall layers", "Cytoplasm"],
+    "answer": "Outer three wall layers"
+  },
+  {
+    "question": "Which cell type may be responsible for bi-nucleate condition?",
+    "options": ["Anther cells", "Sporogenous cells", "Tapetal cells", "Filament cells"],
+    "answer": "Tapetal cells"
+  }
+]
