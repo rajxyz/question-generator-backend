@@ -10,6 +10,32 @@ app.use(cors());
 app.use("/static", express.static("static"));
 
 /**
+ * 🔧 Smart universal question extractor for all formats and types
+ */
+function extractAllQuestions(json, type) {
+  if (!json || typeof json !== "object") return [];
+
+  // Case 1: JSON is directly an array
+  if (Array.isArray(json)) return json;
+
+  // Case 2: JSON has a key like "questions"
+  if (json.questions && Array.isArray(json.questions)) return json.questions;
+
+  // Case 3: JSON has separate keys for each question type like mcq, ar, etc.
+  if (json[type] && Array.isArray(json[type])) return json[type];
+
+  // Case 4: Collect all arrays under any key (fallback)
+  const all = [];
+  for (const key in json) {
+    if (Array.isArray(json[key])) {
+      all.push(...json[key]);
+    }
+  }
+
+  return all;
+}
+
+/**
  * GET /get-page — Returns image and questions for a specific page and type
  */
 app.get("/get-page", (req, res) => {
@@ -23,19 +49,18 @@ app.get("/get-page", (req, res) => {
   }
 
   const basePath = path.join(__dirname, "static", book, className, chapter);
-
-  // 🔁 Dynamic filename based on type and page — e.g., mcqpage1.json
   const questionsFile = `${type}page${page}.json`;
   const questionsFilePath = path.join(basePath, questionsFile);
-
   const imageFileName = `page${page}.jpg`;
   const imageFilePath = path.join(basePath, imageFileName);
 
+  // Debug logs
   console.log("📁 Base path:", basePath);
   console.log("📄 Looking for file:", questionsFile);
   console.log("📄 File exists:", fs.existsSync(questionsFilePath));
   console.log("🖼️ Image exists:", fs.existsSync(imageFilePath));
 
+  // File not found checks
   if (!fs.existsSync(questionsFilePath)) {
     return res.status(404).json({
       status: "error",
@@ -50,19 +75,12 @@ app.get("/get-page", (req, res) => {
     });
   }
 
+  // Load and parse question JSON
   let pageQuestions = [];
   try {
     const raw = fs.readFileSync(questionsFilePath, "utf-8");
     const questionsJson = JSON.parse(raw);
-
-    // The file itself is assumed to be an array of questions
-    if (Array.isArray(questionsJson)) {
-      pageQuestions = questionsJson;
-    } else if (questionsJson.questions && Array.isArray(questionsJson.questions)) {
-      pageQuestions = questionsJson.questions;
-    } else {
-      throw new Error("Unsupported JSON format");
-    }
+    pageQuestions = extractAllQuestions(questionsJson, type.toLowerCase());
   } catch (err) {
     return res.status(500).json({
       status: "error",
@@ -70,6 +88,7 @@ app.get("/get-page", (req, res) => {
     });
   }
 
+  // Success response
   return res.json({
     status: "success",
     data: {
@@ -82,7 +101,7 @@ app.get("/get-page", (req, res) => {
 });
 
 /**
- * Debug endpoint for inspecting files in a chapter folder
+ * 🔍 Debug endpoint for inspecting all files in a chapter folder
  */
 app.get("/debug-questions", (req, res) => {
   const { book, class: className, chapter } = req.query;
