@@ -65,3 +65,50 @@
     "answer": "What is life"
   }
 ]
+[
+  {
+    "question": "What can you see around you according to the paragraph?",
+    "options": ["Rocks and soil", "Air and water", "Living organisms", "Machines and tools"],
+    "answer": "Living organisms"
+  },
+  {
+    "question": "Which of the following is mentioned as a visible living organism?",
+    "options": ["Bacteria", "Fungi", "Potted plants", "Viruses"],
+    "answer": "Potted plants"
+  },
+  {
+    "question": "What kind of organisms are all around you but not visible to the naked eye?",
+    "options": ["Animals", "Plants", "Insects", "Several organisms"],
+    "answer": "Several organisms"
+  },
+  {
+    "question": "What happens when you increase the observation area?",
+    "options": ["Organisms decrease", "No change occurs", "Range and variety increase", "Only one species appears"],
+    "answer": "Range and variety increase"
+  },
+  {
+    "question": "Where would you probably see more number and kinds of living organisms?",
+    "options": ["Desert", "Urban city", "Dense forest", "Polar region"],
+    "answer": "Dense forest"
+  },
+  {
+    "question": "Each different kind of organism represents a what?",
+    "options": ["Genus", "Kingdom", "Species", "Class"],
+    "answer": "Species"
+  },
+  {
+    "question": "The number of known and described species ranges between:",
+    "options": ["0.5–0.7 million", "1.0–1.2 million", "1.7–1.8 million", "2.5–2.6 million"],
+    "answer": "1.7–1.8 million"
+  },
+  {
+    "question": "What does the number and types of organisms present on earth refer to?",
+    "options": ["Taxonomy", "Classification", "Ecology", "Biodiversity"],
+    "answer": "Biodiversity"
+  },
+  {
+    "question": "What continues to happen as we explore new and old areas?",
+    "options": ["Species go extinct", "Organisms evolve", "New organisms are identified", "Habitats disappear"],
+    "answer": "New organisms are identified"
+  }
+]
