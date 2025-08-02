@@ -1,97 +1,117 @@
 [
   {
-    "question": "Where are the testes situated?",
-    "options": ["Inside the abdominal cavity", "In the thoracic cavity", "Outside the abdominal cavity", "In the pelvic cavity"],
-    "answer": "Outside the abdominal cavity"
+    "question": "What is the male external genitalia?",
+    "options": ["Scrotum", "Penis", "Testis", "Urethra"],
+    "answer": "Penis"
   },
   {
-    "question": "The testes are enclosed in a pouch called:",
-    "options": ["Urethra", "Vas deferens", "Scrotum", "Epididymis"],
-    "answer": "Scrotum"
+    "question": "What type of tissue helps in erection of the penis?",
+    "options": ["Muscle tissue", "Special tissue", "Connective tissue", "Adipose tissue"],
+    "answer": "Special tissue"
   },
   {
-    "question": "What is the role of the scrotum?",
-    "options": ["To store sperms", "To produce hormones", "To maintain low temperature of testes", "To filter blood"],
-    "answer": "To maintain low temperature of testes"
+    "question": "What is the function of erection of the penis?",
+    "options": ["To urinate", "To ejaculate", "To fertilize", "To facilitate insemination"],
+    "answer": "To facilitate insemination"
   },
   {
-    "question": "How much lower is the temperature of the testes compared to the normal internal body temperature?",
-    "options": ["1–1.5°C", "2–2.5°C", "3–3.5°C", "4–4.5°C"],
-    "answer": "2–2.5°C"
+    "question": "What is the enlarged end of the penis called?",
+    "options": ["Penile tip", "Urethral end", "Glans penis", "Corpora cavernosa"],
+    "answer": "Glans penis"
   },
   {
-    "question": "What is the shape of each adult testis?",
-    "options": ["Round", "Oval", "Cylindrical", "Flat"],
-    "answer": "Oval"
+    "question": "What covers the glans penis?",
+    "options": ["Hard skin", "Prepuce", "Loose fold of skin called foreskin", "Cartilage"],
+    "answer": "Loose fold of skin called foreskin"
   },
   {
-    "question": "What is the length of each adult testis?",
-    "options": ["2–3 cm", "3–4 cm", "4–5 cm", "5–6 cm"],
-    "answer": "4–5 cm"
+    "question": "Which of the following are male accessory glands?",
+    "options": ["Seminal vesicles, prostate, bulbourethral glands", "Testis, vas deferens, scrotum", "Bladder, prostate, urethra", "Penis, testis, epididymis"],
+    "answer": "Seminal vesicles, prostate, bulbourethral glands"
   },
   {
-    "question": "What is the width of each adult testis?",
-    "options": ["1–2 cm", "2–3 cm", "3–4 cm", "4–5 cm"],
-    "answer": "2–3 cm"
+    "question": "What do the secretions of male accessory glands constitute?",
+    "options": ["Urine", "Blood plasma", "Seminal plasma", "Prostatic fluid"],
+    "answer": "Seminal plasma"
   },
   {
-    "question": "What covers the testis?",
-    "options": ["Loose membrane", "Muscular tissue", "Dense covering", "Fat layer"],
-    "answer": "Dense covering"
+    "question": "Seminal plasma is rich in:",
+    "options": ["Fructose, calcium and certain enzymes", "Glucose, sodium and proteins", "Cholesterol, calcium and vitamins", "Water, proteins and hormones"],
+    "answer": "Fructose, calcium and certain enzymes"
   },
   {
-    "question": "How many compartments does each testis have?",
-    "options": ["100", "200", "250", "300"],
-    "answer": "250"
+    "question": "What is the function of the bulbourethral gland secretions?",
+    "options": ["Stimulate sperm production", "Lubricate the penis", "Transport sperms", "Form semen"],
+    "answer": "Lubricate the penis"
   },
   {
-    "question": "What are the compartments in each testis called?",
-    "options": ["Seminiferous tubules", "Vesicles", "Testicular lobules", "Germinal layers"],
-    "answer": "Testicular lobules"
+    "question": "The female reproductive system is located in the:",
+    "options": ["Thoracic region", "Abdominal region", "Pelvic region", "Cranial region"],
+    "answer": "Pelvic region"
   },
   {
-    "question": "Each testicular lobule contains how many seminiferous tubules?",
-    "options": ["One to two", "One to three", "Two to four", "Three to five"],
-    "answer": "One to three"
+    "question": "Which of the following are parts of the female reproductive system?",
+    "options": ["Ovaries, oviducts, uterus, cervix, vagina", "Uterus, penis, vagina, bladder", "Ovaries, testes, cervix, bladder", "Fallopian tube, epididymis, urethra, ovary"],
+    "answer": "Ovaries, oviducts, uterus, cervix, vagina"
   },
   {
-    "question": "What is the function of seminiferous tubules?",
-    "options": ["Hormone secretion", "Urine formation", "Sperm production", "Blood filtration"],
-    "answer": "Sperm production"
+    "question": "What are the external genitalia of the female located along with?",
+    "options": ["Thoracic region", "Pelvic region", "Abdominal cavity", "Back muscles"],
+    "answer": "Pelvic region"
   },
   {
-    "question": "What type of cells line the seminiferous tubules?",
-    "options": ["Leydig cells and Sertoli cells", "Interstitial cells and germ cells", "Male germ cells and Sertoli cells", "Germ cells and epithelial cells"],
-    "answer": "Male germ cells and Sertoli cells"
+    "question": "Which glands are structurally and functionally integrated with the female reproductive system?",
+    "options": ["Sweat glands", "Pituitary glands", "Mammary glands", "Adrenal glands"],
+    "answer": "Mammary glands"
   },
   {
-    "question": "What is the function of male germ cells (spermatogonia)?",
-    "options": ["Produce hormones", "Filter blood", "Undergo meiotic division for sperm formation", "Protect Sertoli cells"],
-    "answer": "Undergo meiotic division for sperm formation"
+    "question": "The female reproductive system supports which of the following processes?",
+    "options": ["Digestion and respiration", "Ovulation, fertilisation, pregnancy, birth and child care", "Excretion and circulation", "Hormone release and urination"],
+    "answer": "Ovulation, fertilisation, pregnancy, birth and child care"
   },
   {
-    "question": "What is the function of Sertoli cells?",
-    "options": ["Secrete androgens", "Form sperms", "Provide nutrition to germ cells", "Produce ova"],
-    "answer": "Provide nutrition to germ cells"
+    "question": "What are the primary female sex organs?",
+    "options": ["Oviducts", "Uterus", "Ovaries", "Cervix"],
+    "answer": "Ovaries"
   },
   {
-    "question": "What lies outside the seminiferous tubules?",
-    "options": ["Testicular lobules", "Interstitial spaces", "Vas deferens", "Scrotal lining"],
-    "answer": "Interstitial spaces"
+    "question": "What do ovaries produce?",
+    "options": ["Sperms and enzymes", "Ovum and ovarian hormones", "Milk and antibodies", "Blood and enzymes"],
+    "answer": "Ovum and ovarian hormones"
   },
   {
-    "question": "What do the interstitial spaces contain?",
-    "options": ["Seminiferous tubules", "Blood vessels and Leydig cells", "Sertoli cells", "Germinal epithelium"],
-    "answer": "Blood vessels and Leydig cells"
+    "question": "Where are the ovaries located?",
+    "options": ["Near kidneys", "On each side of the thorax", "On each side of the lower abdomen", "Behind the uterus"],
+    "answer": "On each side of the lower abdomen"
   },
   {
-    "question": "What do Leydig cells secrete?",
-    "options": ["Estrogen", "Sperms", "Testicular hormones called androgens", "Progesterone"],
-    "answer": "Testicular hormones called androgens"
+    "question": "What is the approximate length of each ovary?",
+    "options": ["1 to 2 cm", "2 to 4 cm", "3 to 5 cm", "4 to 6 cm"],
+    "answer": "2 to 4 cm"
   },
   {
-    "question": "Which other cells are present in the interstitial spaces?",
-    "options": ["Only Leydig cells", "Epithelial cells", "Immunologically competent cells", "Muscle cells"],
-    "answer": "Immunologically competent cells"
+    "question": "How are the ovaries connected to the pelvic wall and uterus?",
+    "options": ["By blood vessels", "By ducts", "By ligaments", "By muscles"],
+    "answer": "By ligaments"
+  },
+  {
+    "question": "What covers each ovary?",
+    "options": ["Thick dermis", "Fat capsule", "Thin epithelium", "Cartilaginous sheath"],
+    "answer": "Thin epithelium"
+  },
+  {
+    "question": "What does the epithelium of the ovary enclose?",
+    "options": ["Ovarian cortex", "Ovarian follicles", "Ovarian stroma", "Ovum"],
+    "answer": "Ovarian stroma"
+  },
+  {
+    "question": "Into how many zones is the ovarian stroma divided?",
+    "options": ["Three", "Two", "Four", "One"],
+    "answer": "Two"
+  },
+  {
+    "question": "What are the zones of ovarian stroma?",
+    "options": ["Cortex and capsule", "Medulla and surface", "Peripheral cortex and inner medulla", "Epithelium and follicles"],
+    "answer": "Peripheral cortex and inner medulla"
   }
 ]
