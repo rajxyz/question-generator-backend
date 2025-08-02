@@ -1,116 +1,92 @@
 [
   {
-    "type": "mcq",
-    "question": "Born on 5 July 1904, in Kempten?",
-    "options": ["Germany", "Italy", "France", "Sweden"],
-    "answer": "Germany"
+    "question": "When was Ernst Mayr born?",
+    "options": ["5 July 1904", "5 June 1904", "4 July 1905", "6 July 1903"],
+    "answer": "5 July 1904"
   },
   {
-    "type": "mcq",
-    "question": "Germany, Ernst Mayr, the Harvard University evolutionary?",
-    "options": ["Chemist", "Geologist", "Biologist", "Botanist"],
-    "answer": "Biologist"
+    "question": "Where was Ernst Mayr born?",
+    "options": ["Berlin", "Kempten", "Munich", "Frankfurt"],
+    "answer": "Kempten"
   },
   {
-    "type": "mcq",
-    "question": "Biologist who has been called ‘The Darwin?",
-    "options": ["Of 20th century", "Of 19th century", "Of 18th century", "Of 21st century"],
-    "answer": "Of 20th century"
+    "question": "Which university was Ernst Mayr associated with?",
+    "options": ["Oxford University", "Cambridge University", "Harvard University", "Stanford University"],
+    "answer": "Harvard University"
   },
   {
-    "type": "mcq",
-    "question": "Mayr joined Harvard’s Faculty of Arts?",
-    "options": ["1953", "1943", "1963", "1973"],
+    "question": "Ernst Mayr has been called?",
+    "options": ["The Newton of Biology", "The Darwin of the 20th century", "The Father of Genetics", "The Modern Biologist"],
+    "answer": "The Darwin of the 20th century"
+  },
+  {
+    "question": "Ernst Mayr was one of the?",
+    "options": ["Top 10 biologists", "Top 50 scientists", "100 greatest scientists of all time", "Founders of evolution"],
+    "answer": "100 greatest scientists of all time"
+  },
+  {
+    "question": "When did Ernst Mayr join Harvard’s Faculty of Arts and Sciences?",
+    "options": ["1949", "1953", "1961", "1955"],
     "answer": "1953"
   },
   {
-    "type": "mcq",
-    "question": "And Sciences in 1953 and retired?",
-    "options": ["1965", "1975", "1985", "1995"],
+    "question": "When did Ernst Mayr retire?",
+    "options": ["1970", "1975", "1980", "1973"],
     "answer": "1975"
   },
   {
-    "type": "mcq",
-    "question": "Assuming the title Alexander Agassiz Professor?",
-    "options": ["Of Zoology", "Of Botany", "Of Physics", "Of Chemistry"],
-    "answer": "Of Zoology"
+    "question": "What title did Ernst Mayr assume after retirement?",
+    "options": ["Professor of Biology", "Dean of Evolutionary Studies", "Alexander Agassiz Professor of Zoology Emeritus", "Head of Science Division"],
+    "answer": "Alexander Agassiz Professor of Zoology Emeritus"
   },
   {
-    "type": "mcq",
-    "question": "Throughout his nearly 80-year career, his?",
-    "options": ["Research", "Teaching", "Travelling", "Politics"],
-    "answer": "Research"
+    "question": "How long was Ernst Mayr’s research career?",
+    "options": ["About 60 years", "Nearly 80-year", "Almost 50 years", "Over 90 years"],
+    "answer": "Nearly 80-year"
   },
   {
-    "type": "mcq",
-    "question": "Research spanned ornithology, taxonomy, zoogeography, evolution?",
-    "options": ["History", "Philosophy", "Systematics", "Politics"],
-    "answer": "Systematics"
+    "question": "Which field was NOT mentioned in Ernst Mayr's research?",
+    "options": ["Ornithology", "Taxonomy", "Zoogeography", "Botany"],
+    "answer": "Botany"
   },
   {
-    "type": "mcq",
-    "question": "He almost single-handedly made the origin?",
-    "options": ["Of species", "Of life", "Of cell", "Of energy"],
-    "answer": "Of species"
+    "question": "Which subject did Ernst Mayr's research include?",
+    "options": ["Philosophy of biology", "Paleontology", "Agronomy", "Biotechnology"],
+    "answer": "Philosophy of biology"
   },
   {
-    "type": "mcq",
-    "question": "Of species diversity the central question?",
-    "options": ["Ecology", "Evolution", "Botany", "Geology"],
-    "answer": "Evolution"
+    "question": "What did Ernst Mayr make the central question of evolutionary biology?",
+    "options": ["Origin of life", "Cell division", "Origin of species diversity", "Photosynthesis"],
+    "answer": "Origin of species diversity"
   },
   {
-    "type": "mcq",
-    "question": "Of evolutionary biology that it is today?",
-    "options": ["True", "False", "Unknown", "Not mentioned"],
-    "answer": "True"
+    "question": "What definition did Ernst Mayr pioneer?",
+    "options": ["Cell theory", "Biological species", "Natural selection", "Gene pool"],
+    "answer": "Biological species"
   },
   {
-    "type": "mcq",
-    "question": "He also pioneered the currently accepted definition?",
-    "options": ["Of gene", "Of cell", "Of species", "Of evolution"],
-    "answer": "Of species"
+    "question": "Which prize did Ernst Mayr receive in 1983?",
+    "options": ["Crafoord Prize", "Nobel Prize", "Balzan Prize", "International Prize for Biology"],
+    "answer": "Balzan Prize"
   },
   {
-    "type": "mcq",
-    "question": "Of a biological species. Mayr was?",
-    "options": ["Awarded", "Fired", "Hired", "Ignored"],
-    "answer": "Awarded"
+    "question": "Which prize did Ernst Mayr receive in 1994?",
+    "options": ["Crafoord Prize", "Balzan Prize", "International Prize for Biology", "Templeton Prize"],
+    "answer": "International Prize for Biology"
   },
   {
-    "type": "mcq",
-    "question": "Awarded the three prizes widely regarded?",
-    "options": ["Triple crown", "Double win", "No award", "Rare prize"],
-    "answer": "Triple crown"
-  },
-  {
-    "type": "mcq",
-    "question": "As the triple crown of biology?",
-    "options": ["Yes", "No", "Maybe", "Not sure"],
-    "answer": "Yes"
-  },
-  {
-    "type": "mcq",
-    "question": "The Balzan Prize in 1983, the International?",
-    "options": ["Prize for Physics", "Prize for Chemistry", "Prize for Biology", "Peace Prize"],
-    "answer": "Prize for Biology"
-  },
-  {
-    "type": "mcq",
-    "question": "Prize for Biology in 1994, and the?",
-    "options": ["Crafoord Prize", "Nobel Prize", "Templeton Prize", "Green Award"],
+    "question": "Which award did Ernst Mayr receive in 1999?",
+    "options": ["Balzan Prize", "Crafoord Prize", "International Prize for Biology", "Lasker Award"],
     "answer": "Crafoord Prize"
   },
   {
-    "type": "mcq",
-    "question": "Crafoord Prize in 1999. Mayr died?",
-    "options": ["At 70", "At 80", "At 90", "At 100"],
-    "answer": "At 100"
+    "question": "How old was Ernst Mayr when he died?",
+    "options": ["95", "98", "100", "102"],
+    "answer": "100"
   },
   {
-    "type": "mcq",
-    "question": "At the age of 100 in the?",
-    "options": ["Year 2000", "Year 2002", "Year 2004", "Year 2006"],
-    "answer": "Year 2004"
+    "question": "In which year did Ernst Mayr die?",
+    "options": ["2000", "2003", "2004", "2005"],
+    "answer": "2004"
   }
 ]
