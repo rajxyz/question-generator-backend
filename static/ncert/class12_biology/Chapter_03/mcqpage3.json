@@ -1,1 +1,97 @@
-
+[
+  {
+    "question": "Where are the testes situated?",
+    "options": ["Inside the abdominal cavity", "In the thoracic cavity", "Outside the abdominal cavity", "In the pelvic cavity"],
+    "answer": "Outside the abdominal cavity"
+  },
+  {
+    "question": "The testes are enclosed in a pouch called:",
+    "options": ["Urethra", "Vas deferens", "Scrotum", "Epididymis"],
+    "answer": "Scrotum"
+  },
+  {
+    "question": "What is the role of the scrotum?",
+    "options": ["To store sperms", "To produce hormones", "To maintain low temperature of testes", "To filter blood"],
+    "answer": "To maintain low temperature of testes"
+  },
+  {
+    "question": "How much lower is the temperature of the testes compared to the normal internal body temperature?",
+    "options": ["1–1.5°C", "2–2.5°C", "3–3.5°C", "4–4.5°C"],
+    "answer": "2–2.5°C"
+  },
+  {
+    "question": "What is the shape of each adult testis?",
+    "options": ["Round", "Oval", "Cylindrical", "Flat"],
+    "answer": "Oval"
+  },
+  {
+    "question": "What is the length of each adult testis?",
+    "options": ["2–3 cm", "3–4 cm", "4–5 cm", "5–6 cm"],
+    "answer": "4–5 cm"
+  },
+  {
+    "question": "What is the width of each adult testis?",
+    "options": ["1–2 cm", "2–3 cm", "3–4 cm", "4–5 cm"],
+    "answer": "2–3 cm"
+  },
+  {
+    "question": "What covers the testis?",
+    "options": ["Loose membrane", "Muscular tissue", "Dense covering", "Fat layer"],
+    "answer": "Dense covering"
+  },
+  {
+    "question": "How many compartments does each testis have?",
+    "options": ["100", "200", "250", "300"],
+    "answer": "250"
+  },
+  {
+    "question": "What are the compartments in each testis called?",
+    "options": ["Seminiferous tubules", "Vesicles", "Testicular lobules", "Germinal layers"],
+    "answer": "Testicular lobules"
+  },
+  {
+    "question": "Each testicular lobule contains how many seminiferous tubules?",
+    "options": ["One to two", "One to three", "Two to four", "Three to five"],
+    "answer": "One to three"
+  },
+  {
+    "question": "What is the function of seminiferous tubules?",
+    "options": ["Hormone secretion", "Urine formation", "Sperm production", "Blood filtration"],
+    "answer": "Sperm production"
+  },
+  {
+    "question": "What type of cells line the seminiferous tubules?",
+    "options": ["Leydig cells and Sertoli cells", "Interstitial cells and germ cells", "Male germ cells and Sertoli cells", "Germ cells and epithelial cells"],
+    "answer": "Male germ cells and Sertoli cells"
+  },
+  {
+    "question": "What is the function of male germ cells (spermatogonia)?",
+    "options": ["Produce hormones", "Filter blood", "Undergo meiotic division for sperm formation", "Protect Sertoli cells"],
+    "answer": "Undergo meiotic division for sperm formation"
+  },
+  {
+    "question": "What is the function of Sertoli cells?",
+    "options": ["Secrete androgens", "Form sperms", "Provide nutrition to germ cells", "Produce ova"],
+    "answer": "Provide nutrition to germ cells"
+  },
+  {
+    "question": "What lies outside the seminiferous tubules?",
+    "options": ["Testicular lobules", "Interstitial spaces", "Vas deferens", "Scrotal lining"],
+    "answer": "Interstitial spaces"
+  },
+  {
+    "question": "What do the interstitial spaces contain?",
+    "options": ["Seminiferous tubules", "Blood vessels and Leydig cells", "Sertoli cells", "Germinal epithelium"],
+    "answer": "Blood vessels and Leydig cells"
+  },
+  {
+    "question": "What do Leydig cells secrete?",
+    "options": ["Estrogen", "Sperms", "Testicular hormones called androgens", "Progesterone"],
+    "answer": "Testicular hormones called androgens"
+  },
+  {
+    "question": "Which other cells are present in the interstitial spaces?",
+    "options": ["Only Leydig cells", "Epithelial cells", "Immunologically competent cells", "Muscle cells"],
+    "answer": "Immunologically competent cells"
+  }
+]
