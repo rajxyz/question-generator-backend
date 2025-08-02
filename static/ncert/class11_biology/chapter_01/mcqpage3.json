@@ -1,1 +1,67 @@
-
+[
+  {
+    "question": "What is described as wonderful in the paragraph?",
+    "options": ["The oceans", "The sky", "The living world", "The universe"],
+    "answer": "The living world"
+  },
+  {
+    "question": "What about living types is considered amazing?",
+    "options": ["Their speed", "Their intelligence", "Their wide range", "Their size"],
+    "answer": "Their wide range"
+  },
+  {
+    "question": "Which of the following is NOT mentioned as a habitat of living organisms?",
+    "options": ["Cold mountains", "Grasslands", "Deserts", "Hot springs"],
+    "answer": "Grasslands"
+  },
+  {
+    "question": "Which natural feature is mentioned along with galloping horse and migrating birds?",
+    "options": ["Snowy peaks", "Rainforests", "Valley of flowers", "Caves"],
+    "answer": "Valley of flowers"
+  },
+  {
+    "question": "Which organism is mentioned as attacking?",
+    "options": ["Eagle", "Tiger", "Shark", "Wolf"],
+    "answer": "Shark"
+  },
+  {
+    "question": "What feeling is evoked by the beauty of living organisms?",
+    "options": ["Confusion", "Sadness", "Awe and wonder", "Fear"],
+    "answer": "Awe and wonder"
+  },
+  {
+    "question": "What do ecological interactions among populations evoke?",
+    "options": ["Excitement", "Curiosity", "Deep reflection", "Disinterest"],
+    "answer": "Deep reflection"
+  },
+  {
+    "question": "What does molecular traffic inside a cell make us reflect on?",
+    "options": ["Cell division", "DNA synthesis", "What indeed is life", "Protein structure"],
+    "answer": "What indeed is life"
+  },
+  {
+    "question": "How many implicit questions are contained within the main question?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "question": "Which type of question seeks to know what living is?",
+    "options": ["Philosophical", "Practical", "Technical", "Ethical"],
+    "answer": "Technical"
+  },
+  {
+    "question": "Which type of question seeks to know the purpose of life?",
+    "options": ["Scientific", "Logical", "Philosophical", "Technical"],
+    "answer": "Philosophical"
+  },
+  {
+    "question": "What type of question do scientists avoid answering?",
+    "options": ["Technical", "Mathematical", "Philosophical", "Empirical"],
+    "answer": "Philosophical"
+  },
+  {
+    "question": "What will scientists try to reflect on?",
+    "options": ["What is death", "What is life", "What is nature", "What is environment"],
+    "answer": "What is life"
+  }
+]
