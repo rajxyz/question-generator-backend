@@ -1,162 +1,72 @@
 [
   {
     "question": "Biology is the science of?",
-    "options": ["Matter and energy", "Life forms and living processes", "Rocks and minerals", "Inanimate objects"],
+    "options": ["Non-living things", "Life forms and living processes", "Chemicals and energy", "Mechanical systems"],
     "answer": "Life forms and living processes"
   },
   {
-    "question": "The living world comprises?",
-    "options": ["Dead organisms", "Only animals", "Amazing diversity of living organisms", "Only bacteria"],
-    "answer": "Amazing diversity of living organisms"
+    "question": "The living world comprises an amazing diversity of?",
+    "options": ["Fungi", "Viruses", "Living organisms", "Non-living matter"],
+    "answer": "Living organisms"
   },
   {
-    "question": "Who could perceive difference between animate and inanimate?",
-    "options": ["Scientists", "Aliens", "Early man", "Machines"],
+    "question": "Early man could easily perceive the difference between?",
+    "options": ["Plants and animals", "Inanimate matter and living organisms", "Humans and animals", "Stones and rocks"],
+    "answer": "Inanimate matter and living organisms"
+  },
+  {
+    "question": "Early man deified some of the inanimate matter like?",
+    "options": ["Water, clouds, trees", "Wind, sea, fire", "Animals, stones, stars", "Rain, fog, soil"],
+    "answer": "Wind, sea, fire"
+  },
+  {
+    "question": "Some animals and plants were deified by?",
+    "options": ["Modern man", "Scientists", "Early man", "Farmers"],
     "answer": "Early man"
   },
   {
-    "question": "What did early man deify among inanimate objects?",
-    "options": ["Fire, sea, wind", "Mountains only", "Animals", "Humans"],
-    "answer": "Fire, sea, wind"
+    "question": "A common feature of inanimate and animate objects was?",
+    "options": ["Growth", "Movement", "Sense of awe or fear", "Reproduction"],
+    "answer": "Sense of awe or fear"
   },
   {
-    "question": "Early man also deified which living forms?",
-    "options": ["Only humans", "Animals and plants", "Viruses", "Microbes"],
-    "answer": "Animals and plants"
-  },
-  {
-    "question": "What emotion did both inanimate and animate objects evoke?",
-    "options": ["Anger", "Joy", "Awe or fear", "Boredom"],
-    "answer": "Awe or fear"
-  },
-  {
-    "question": "When did humans begin describing living organisms?",
-    "options": ["Immediately", "Much later in human history", "During evolution", "During ice age"],
+    "question": "Description of living organisms including human beings began?",
+    "options": ["In ancient times", "Much later in human history", "With Darwin", "During Stone Age"],
     "answer": "Much later in human history"
   },
   {
-    "question": "Anthropocentric view of biology caused?",
-    "options": ["Huge advancement", "Limited biological progress", "Global warming", "Deforestation"],
-    "answer": "Limited biological progress"
+    "question": "Societies with anthropocentric view of biology had?",
+    "options": ["Rapid advancement", "No scientific progress", "Limited progress in biological knowledge", "Universal understanding"],
+    "answer": "Limited progress in biological knowledge"
   },
   {
-    "question": "Which societies progressed less in biology?",
-    "options": ["Scientific ones", "Anthropocentric ones", "Cultural ones", "Agricultural ones"],
-    "answer": "Anthropocentric ones"
+    "question": "Systematic description of life forms led to?",
+    "options": ["Random naming", "Artistic studies", "Detailed systems of identification, nomenclature and classification", "Religious classification"],
+    "answer": "Detailed systems of identification, nomenclature and classification"
   },
   {
-    "question": "What became necessary for biological description?",
-    "options": ["Art", "War", "Identification and classification", "Philosophy"],
-    "answer": "Identification and classification"
+    "question": "Recognition of similarities among organisms occurred?",
+    "options": ["By accident", "Through experimentation", "As a spin off of such studies", "From observation only"],
+    "answer": "As a spin off of such studies"
   },
   {
-    "question": "Systematic description brought systems of?",
-    "options": ["Evolution", "Identification, nomenclature, classification", "Transportation", "Photosynthesis"],
-    "answer": "Identification, nomenclature, classification"
+    "question": "Living organisms show similarities both?",
+    "options": ["Physically and mentally", "Horizontally and vertically", "Color-wise and size-wise", "Chemically and biologically"],
+    "answer": "Horizontally and vertically"
   },
   {
-    "question": "Classification led to recognition of?",
-    "options": ["Plants only", "Individuality", "Similarities among organisms", "Diversity among humans"],
-    "answer": "Similarities among organisms"
+    "question": "Present day living organisms are related to?",
+    "options": ["Only humans", "Only animals", "Each other and to all organisms that ever lived", "Only microbes"],
+    "answer": "Each other and to all organisms that ever lived"
   },
   {
-    "question": "Similarities were seen horizontally and?",
-    "options": ["Randomly", "Culturally", "Vertically", "Genetically"],
-    "answer": "Vertically"
+    "question": "This revelation led to?",
+    "options": ["Scientific revolutions", "Cultural movements for conservation of biodiversity", "Wars", "Genetic mutations"],
+    "answer": "Cultural movements for conservation of biodiversity"
   },
   {
-    "question": "Living organisms today are related to?",
-    "options": ["Fossils only", "No other organisms", "Each other and all past organisms", "Aliens"],
-    "answer": "Each other and all past organisms"
-  },
-  {
-    "question": "This revelation about relatedness humbled?",
-    "options": ["Animals", "Nature", "Man", "Science"],
-    "answer": "Man"
-  },
-  {
-    "question": "Revelation of relatedness led to?",
-    "options": ["Warfare", "Conservation movements", "Animal extinction", "Industrialization"],
-    "answer": "Conservation movements"
-  },
-  {
-    "question": "What kind of movements emerged for biodiversity?",
-    "options": ["Religious", "Economic", "Cultural", "Technological"],
-    "answer": "Cultural"
-  },
-  {
-    "question": "What was the focus of the cultural movements?",
-    "options": ["Urbanization", "Species extinction", "Conservation of biodiversity", "Genetic engineering"],
-    "answer": "Conservation of biodiversity"
-  },
-  {
-    "question": "Future chapters include classification of?",
-    "options": ["Humans", "Bacteria", "Animals and plants", "Viruses only"],
-    "answer": "Animals and plants"
-  },
-  {
-    "question": "Perspective followed in the upcoming chapters is?",
-    "options": ["Medical", "Spiritual", "Taxonomist’s", "Engineer’s"],
-    "answer": "Taxonomist’s"
-  },
-  {
-    "question": "What is a spin-off of studying life forms?",
-    "options": ["More cities", "Similarities among organisms", "Destruction", "Religious beliefs"],
-    "answer": "Similarities among organisms"
-  },
-  {
-    "question": "Nomenclature refers to?",
-    "options": ["Habitat naming", "Energy transfer", "Naming of organisms", "Food chain classification"],
-    "answer": "Naming of organisms"
-  },
-  {
-    "question": "Which branch identifies organisms?",
-    "options": ["Botany", "Zoology", "Taxonomy", "Cytology"],
-    "answer": "Taxonomy"
-  },
-  {
-    "question": "Systematic biology involves?",
-    "options": ["Naming only", "Classification only", "Identification, naming, classification", "Drawing"],
-    "answer": "Identification, naming, classification"
-  },
-  {
-    "question": "Early man felt awe or fear from?",
-    "options": ["Technology", "Nature", "Animate and inanimate forms", "Books"],
-    "answer": "Animate and inanimate forms"
-  },
-  {
-    "question": "Living world shows?",
-    "options": ["Uniformity", "Static structure", "Amazing diversity", "Cloning"],
-    "answer": "Amazing diversity"
-  },
-  {
-    "question": "Inanimate matter includes?",
-    "options": ["Wind, fire, sea", "Trees", "Fish", "Birds"],
-    "answer": "Wind, fire, sea"
-  },
-  {
-    "question": "Taxonomy helps in?",
-    "options": ["Random naming", "Conservation", "Scientific naming and grouping", "Hybridization"],
-    "answer": "Scientific naming and grouping"
-  },
-  {
-    "question": "Reprint year of the NCERT book is?",
-    "options": ["2022-23", "2025-26", "2021-22", "2024-25"],
-    "answer": "2025-26"
-  },
-  {
-    "question": "Taxonomist’s perspective includes?",
-    "options": ["Medical details", "Cultural traits", "Classification details", "Weather prediction"],
-    "answer": "Classification details"
-  },
-  {
-    "question": "Organisms that ever lived are related to?",
-    "options": ["Fossils only", "Each other and present-day organisms", "Nothing", "Rocks"],
-    "answer": "Each other and present-day organisms"
-  },
-  {
-    "question": "Life forms include?",
-    "options": ["Only plants", "Only animals", "All living organisms", "Only humans"],
-    "answer": "All living organisms"
+    "question": "The following chapters will include description and classification from?",
+    "options": ["Zoologist’s perspective", "Anthropologist’s view", "Taxonomist’s perspective", "Historian’s point of view"],
+    "answer": "Taxonomist’s perspective"
   }
 ]
