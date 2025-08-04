@@ -1,1 +1,142 @@
-
+[
+  {
+    "question": "In a biological name, the name of the author appears:",
+    "options": ["Before the generic name", "After the generic name", "Before the specific epithet", "After the specific epithet"],
+    "answer": "After the specific epithet"
+  },
+  {
+    "question": "How is the author's name written in a biological name?",
+    "options": ["Full form", "In italics", "In capital letters", "In abbreviated form"],
+    "answer": "In abbreviated form"
+  },
+  {
+    "question": "What does the name 'Linn.' in Mangifera indica Linn. indicate?",
+    "options": ["The genus", "The specific epithet", "The author who first described the species", "The location of discovery"],
+    "answer": "The author who first described the species"
+  },
+  {
+    "question": "What is the process of grouping organisms based on observable characters called?",
+    "options": ["Nomenclature", "Identification", "Classification", "Systematics"],
+    "answer": "Classification"
+  },
+  {
+    "question": "Classification is based on:",
+    "options": ["Molecular characters", "Genetic similarity", "Easily observable characters", "Ecological roles"],
+    "answer": "Easily observable characters"
+  },
+  {
+    "question": "Which of the following is a convenient category used to classify organisms?",
+    "options": ["Dogs", "Cats", "Insects", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What image do we associate when we hear the word 'dog'?",
+    "options": ["Dog", "Cat", "Horse", "Cow"],
+    "answer": "Dog"
+  },
+  {
+    "question": "Which of the following is a taxon with animals having external ears and body hair?",
+    "options": ["Reptiles", "Mammals", "Amphibians", "Birds"],
+    "answer": "Mammals"
+  },
+  {
+    "question": "Which of the following is a plant taxon?",
+    "options": ["Dog", "Cat", "Wheat", "Mammal"],
+    "answer": "Wheat"
+  },
+  {
+    "question": "Which of the following are examples of taxa?",
+    "options": ["Dogs", "Mammals", "Plants", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following represents taxa at different levels?",
+    "options": ["Dogs, Mammals, Animals", "Wheat, Rice, Sugar", "Birds, Insects, Reptiles", "Trees, Shrubs, Herbs"],
+    "answer": "Dogs, Mammals, Animals"
+  },
+  {
+    "question": "Based on characteristics, all living organisms can be classified into:",
+    "options": ["Cells", "Genes", "Taxa", "Species only"],
+    "answer": "Taxa"
+  },
+  {
+    "question": "The process of classification of organisms based on characteristics is called:",
+    "options": ["Nomenclature", "Ecology", "Identification", "Taxonomy"],
+    "answer": "Taxonomy"
+  },
+  {
+    "question": "Which of the following is essential and forms the basis of modern taxonomic studies?",
+    "options": ["External structure", "Internal structure", "Structure of cell", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following information is used in modern taxonomic studies?",
+    "options": ["Astrological information", "Ecological information", "Economic information", "Cultural information"],
+    "answer": "Ecological information"
+  },
+  {
+    "question": "Which among the following are basic processes of taxonomy?",
+    "options": ["Characterisation", "Classification", "Nomenclature", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is NOT mentioned as a basic process of taxonomy?",
+    "options": ["Identification", "Organisation", "Characterisation", "Classification"],
+    "answer": "Organisation"
+  },
+  {
+    "question": "Taxonomy is described as:",
+    "options": ["A new subject", "An obsolete system", "Not important for biology", "Not something new"],
+    "answer": "Not something new"
+  },
+  {
+    "question": "In early days, human beings classified organisms with reference to:",
+    "options": ["Habitat", "Color", "Uses", "Size"],
+    "answer": "Uses"
+  },
+  {
+    "question": "The earliest classifications were based on the:",
+    "options": ["Morphology of organisms", "Uses of various organisms", "Genetic structure", "Reproduction"],
+    "answer": "Uses of various organisms"
+  },
+  {
+    "question": "Humans needed to classify organisms to find sources for their basic needs, including:",
+    "options": ["Transport, fuel, and fun", "Food, clothing, and shelter", "Education, culture, and art", "Technology, power, and metal"],
+    "answer": "Food, clothing, and shelter"
+  },
+  {
+    "question": "Which branch of study deals with relationships among organisms?",
+    "options": ["Taxonomy", "Anatomy", "Systematics", "Physiology"],
+    "answer": "Systematics"
+  },
+  {
+    "question": "The term 'systematics' is derived from which Latin word?",
+    "options": ["Species", "Naturae", "Systema", "Biologica"],
+    "answer": "Systema"
+  },
+  {
+    "question": "What does the Latin word 'Systema' mean?",
+    "options": ["Group of animals", "Biological structure", "Systematic arrangement of organisms", "Evolutionary classification"],
+    "answer": "Systematic arrangement of organisms"
+  },
+  {
+    "question": "Which title did Linnaeus use for his publication?",
+    "options": ["Systema Biologica", "Systema Naturae", "Systema Organica", "Organismum Naturae"],
+    "answer": "Systema Naturae"
+  },
+  {
+    "question": "What was the original scope of systematics?",
+    "options": ["Only naming organisms", "Only classifying fossils", "Understanding human evolution", "Understanding relationships among organisms"],
+    "answer": "Understanding relationships among organisms"
+  },
+  {
+    "question": "Later, the scope of systematics was enlarged to include:",
+    "options": ["Reproduction and evolution", "Taxonomy and ecology", "Identification, nomenclature, and classification", "Anatomy and physiology"],
+    "answer": "Identification, nomenclature, and classification"
+  },
+  {
+    "question": "Systematics takes into account:",
+    "options": ["Only genetic makeup", "Only morphology", "Evolutionary relationships between organisms", "Physical size and shape"],
+    "answer": "Evolutionary relationships between organisms"
+  }
+]
