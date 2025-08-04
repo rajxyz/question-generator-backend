@@ -1,1 +1,42 @@
-
+[
+  {
+    "question": "Class includes related:",
+    "options": ["Species", "Orders", "Genera", "Phyla"],
+    "answer": "Orders"
+  },
+  {
+    "question": "Order Primata is placed in class:",
+    "options": ["Reptilia", "Carnivora", "Aves", "Mammalia"],
+    "answer": "Mammalia"
+  },
+  {
+    "question": "Order Carnivora is placed in class Mammalia along with:",
+    "options": ["Primata", "Pisces", "Amphibia", "Aves"],
+    "answer": "Primata"
+  },
+  {
+    "question": "Class Mammalia includes orders like:",
+    "options": ["Primata and Reptilia", "Primata and Aves", "Primata and Carnivora", "Reptilia and Carnivora"],
+    "answer": "Primata and Carnivora"
+  },
+  {
+    "question": "Classes comprising fishes, amphibians, reptiles, birds, and mammals form the:",
+    "options": ["Class Mammalia", "Order Carnivora", "Category Division", "Phylum"],
+    "answer": "Phylum"
+  },
+  {
+    "question": "Animals like fishes, amphibians, reptiles, birds, and mammals are included in phylum:",
+    "options": ["Arthropoda", "Mollusca", "Chordata", "Echinodermata"],
+    "answer": "Chordata"
+  },
+  {
+    "question": "Phylum Chordata includes organisms with common features like:",
+    "options": ["Bilateral symmetry", "Exoskeleton", "Notochord and dorsal hollow neural system", "Triploblastic body"],
+    "answer": "Notochord and dorsal hollow neural system"
+  },
+  {
+    "question": "In case of plants, classes with a few similar characters are assigned to a higher category called:",
+    "options": ["Phylum", "Order", "Division", "Family"],
+    "answer": "Division"
+  }
+]
