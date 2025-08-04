@@ -63,9 +63,7 @@
     "question": "What will scientists try to reflect on?",
     "options": ["What is death", "What is life", "What is nature", "What is environment"],
     "answer": "What is life"
-  }
-]
-[
+  },
   {
     "question": "What can you see around you according to the paragraph?",
     "options": ["Rocks and soil", "Air and water", "Living organisms", "Machines and tools"],
