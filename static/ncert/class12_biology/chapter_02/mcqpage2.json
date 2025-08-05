@@ -1,107 +1,107 @@
 [
   {
-    "question": "In transverse section, what is the shape of a typical microsporangium?",
-    "options": ["Oval", "Square", "Circular", "Triangular"],
-    "answer": "Circular"
+    "question": "Panchanan Maheshwari was born in:",
+    "options": ["December 1905", "November 1904", "October 1903", "January 1906"],
+    "answer": "November 1904"
   },
   {
-    "question": "How many wall layers surround the microsporangium?",
-    "options": ["Three", "Five", "Two", "Four"],
-    "answer": "Four"
+    "question": "Panchanan Maheshwari was born in:",
+    "options": ["Delhi", "Lucknow", "Allahabad", "Jaipur"],
+    "answer": "Jaipur"
   },
   {
-    "question": "Which figure shows the four wall layers of microsporangium?",
-    "options": ["Figure 1.3a", "Figure 1.3b", "Figure 1.2a", "Figure 2.1"],
-    "answer": "Figure 1.3b"
+    "question": "Panchanan Maheshwari became one of the most distinguished botanists of:",
+    "options": ["Asia", "India", "Rajasthan", "India and the world"],
+    "answer": "India and the world"
   },
   {
-    "question": "Which of these is a wall layer in microsporangium?",
-    "options": ["Palisade", "Endothecium", "Mesophyll", "Cambium"],
-    "answer": "Endothecium"
+    "question": "Panchanan Maheshwari moved to ______ for higher education.",
+    "options": ["Delhi", "Mumbai", "Allahabad", "Kolkata"],
+    "answer": "Allahabad"
   },
   {
-    "question": "Which microsporangium layer lies innermost?",
-    "options": ["Epidermis", "Endothecium", "Tapetum", "Middle layer"],
-    "answer": "Tapetum"
+    "question": "Panchanan Maheshwari obtained his D.Sc. from:",
+    "options": ["Delhi University", "Allahabad University", "NCERT", "Banaras Hindu University"],
+    "answer": "Allahabad University"
   },
   {
-    "question": "What is the function of the outer three wall layers?",
-    "options": ["Transport", "Protection and dehiscence", "Photosynthesis", "Absorption"],
-    "answer": "Protection and dehiscence"
+    "question": "Dr W. Dudgeon was an:",
+    "options": ["Indian biologist", "American missionary teacher", "British botanist", "German physicist"],
+    "answer": "American missionary teacher"
   },
   {
-    "question": "Which wall layer helps in dehiscence of anther?",
-    "options": ["Tapetum", "Middle layer", "Endothecium", "All outer three"],
-    "answer": "All outer three"
+    "question": "Dr W. Dudgeon inspired Panchanan Maheshwari to develop interest in:",
+    "options": ["Physics", "Chemistry", "Botany", "Zoology"],
+    "answer": "Botany"
   },
   {
-    "question": "What does the tapetum nourish?",
-    "options": ["Ovule", "Petals", "Developing pollen grains", "Sporogenous tissue"],
-    "answer": "Developing pollen grains"
+    "question": "Panchanan Maheshwari had special interest in:",
+    "options": ["Genetics", "Morphology", "Biotechnology", "Cytology"],
+    "answer": "Morphology"
   },
   {
-    "question": "Which wall layer contains dense cytoplasm?",
-    "options": ["Epidermis", "Endothecium", "Middle layers", "Tapetum"],
-    "answer": "Tapetum"
+    "question": "His teacher once said that if his student progresses ahead of him, it will give him:",
+    "options": ["Anger", "Jealousy", "Satisfaction", "Fear"],
+    "answer": "Satisfaction"
   },
   {
-    "question": "Tapetal cells usually have how many nuclei?",
-    "options": ["One", "More than one", "None", "Four"],
-    "answer": "More than one"
+    "question": "Panchanan Maheshwari worked on ______ aspects.",
+    "options": ["Ecological", "Embryological", "Anatomical", "Biochemical"],
+    "answer": "Embryological"
   },
   {
-    "question": "Which layer of microsporangium may be bi-nucleate?",
-    "options": ["Epidermis", "Middle layer", "Tapetum", "Endothecium"],
-    "answer": "Tapetum"
+    "question": "He popularised the use of embryological characters in:",
+    "options": ["Anatomy", "Taxonomy", "Cytology", "Genetics"],
+    "answer": "Taxonomy"
   },
   {
-    "question": "What occupies the centre of each microsporangium?",
-    "options": ["Tapetum", "Vacuole", "Sporogenous tissue", "Filament"],
-    "answer": "Sporogenous tissue"
+    "question": "Panchanan Maheshwari established the Department of Botany at:",
+    "options": ["Allahabad University", "JNU", "University of Delhi", "NCERT"],
+    "answer": "University of Delhi"
   },
   {
-    "question": "What is the nature of the cells in sporogenous tissue?",
-    "options": ["Vacuolated", "Homogenous and compactly arranged", "Elongated", "Dead"],
-    "answer": "Homogenous and compactly arranged"
+    "question": "The Department of Botany he established became an important centre of research in:",
+    "options": ["Genetics and Ecology", "Cytology and Anatomy", "Embryology and Tissue Culture", "Biophysics and Biochemistry"],
+    "answer": "Embryology and Tissue Culture"
   },
   {
-    "question": "At what stage is sporogenous tissue present?",
-    "options": ["Mature anther", "Young anther", "Pollen grain stage", "Dry flower stage"],
-    "answer": "Young anther"
+    "question": "He emphasised initiation of work on artificial culture of:",
+    "options": ["Mature seeds", "Pollen grains", "Immature embryos", "Mature embryos"],
+    "answer": "Immature embryos"
   },
   {
-    "question": "Which layer directly nourishes pollen grains?",
-    "options": ["Epidermis", "Middle layer", "Tapetum", "Endothecium"],
-    "answer": "Tapetum"
+    "question": "Tissue culture has become a ______ in science.",
+    "options": ["Landmark", "Burden", "Controversy", "Failure"],
+    "answer": "Landmark"
   },
   {
-    "question": "How would you describe tapetal cell cytoplasm?",
-    "options": ["Thin", "Sparse", "Dense", "Vacuolated"],
-    "answer": "Dense"
+    "question": "Panchanan Maheshwari’s work on test tube fertilisation and intra-ovarian pollination won:",
+    "options": ["National award", "State award", "Worldwide acclaim", "NCERT recognition"],
+    "answer": "Worldwide acclaim"
   },
   {
-    "question": "Which tissue initiates pollen development in microsporangium?",
-    "options": ["Thalamus", "Sporogenous tissue", "Endothecium", "Filament"],
-    "answer": "Sporogenous tissue"
+    "question": "He was honoured with fellowship of the:",
+    "options": ["Royal Society of London", "British Museum", "Indian Parliament", "Botanical Survey of India"],
+    "answer": "Royal Society of London"
   },
   {
-    "question": "Which type of tissue lies at the centre of young anther?",
-    "options": ["Conductive", "Sporogenous", "Tapetal", "Meristematic"],
-    "answer": "Sporogenous"
+    "question": "He received fellowship from the Indian National Science Academy and:",
+    "options": ["Delhi University", "NCERT", "Many other institutions", "Botanical Survey of India"],
+    "answer": "Many other institutions"
   },
   {
-    "question": "Which wall layer of microsporangium may become multinucleate?",
-    "options": ["Endothecium", "Epidermis", "Middle layers", "Tapetum"],
-    "answer": "Tapetum"
+    "question": "He encouraged general education and contributed to:",
+    "options": ["School education", "Engineering studies", "Medical sciences", "Physics curriculum"],
+    "answer": "School education"
   },
   {
-    "question": "What supports release of pollen from anther?",
-    "options": ["Middle layers", "Tapetum", "Outer three wall layers", "Cytoplasm"],
-    "answer": "Outer three wall layers"
+    "question": "He played a leadership role in bringing out the first Biology textbooks for:",
+    "options": ["Undergraduate colleges", "Primary schools", "Higher Secondary Schools", "Medical colleges"],
+    "answer": "Higher Secondary Schools"
   },
   {
-    "question": "Which cell type may be responsible for bi-nucleate condition?",
-    "options": ["Anther cells", "Sporogenous cells", "Tapetal cells", "Filament cells"],
-    "answer": "Tapetal cells"
+    "question": "The first NCERT Biology textbooks for Higher Secondary Schools were published in:",
+    "options": ["1954", "1964", "1974", "1984"],
+    "answer": "1964"
   }
 ]
