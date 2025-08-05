@@ -1,1 +1,62 @@
-
+[
+  {
+    "column_I": [
+      "A. Ernst Mayr",
+      "B. Title given to Mayr",
+      "C. Birthplace",
+      "D. Year of birth"
+    ],
+    "column_II": [
+      "1. The Darwin of the 20th century",
+      "2. Kempten, Germany",
+      "3. 1904",
+      "4. Harvard University evolutionary biologist"
+    ],
+    "matches": ["A–4", "B–1", "C–2", "D–3"]
+  },
+  {
+    "column_I": [
+      "A. Year Mayr joined Harvard",
+      "B. Year Mayr retired",
+      "C. Title after retirement",
+      "D. Faculty joined at Harvard"
+    ],
+    "column_II": [
+      "1. 1953",
+      "2. 1975",
+      "3. Alexander Agassiz Professor of Zoology Emeritus",
+      "4. Faculty of Arts and Sciences"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Fields of Mayr's research",
+      "B. Central question of evolutionary biology",
+      "C. Contribution to species concept",
+      "D. Career span"
+    ],
+    "column_II": [
+      "1. Ornithology, taxonomy, zoogeography, evolution, systematics, philosophy of biology",
+      "2. Origin of species diversity",
+      "3. Pioneered currently accepted definition of biological species",
+      "4. Nearly 80 years"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Balzan Prize",
+      "B. International Prize for Biology",
+      "C. Crafoord Prize",
+      "D. Year of death"
+    ],
+    "column_II": [
+      "1. 1983",
+      "2. 1994",
+      "3. 1999",
+      "4. 2004"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  }
+]
