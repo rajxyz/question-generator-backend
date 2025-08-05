@@ -1,1 +1,222 @@
-
+[
+  {
+    "question": "R.H. Whittaker (1969) proposed a ______ Kingdom Classification.",
+    "answer": "Five"
+  },
+  {
+    "question": "The kingdoms defined by him were named Monera, Protista, Fungi, Plantae and ______.",
+    "answer": "Animalia"
+  },
+  {
+    "question": "The main criteria for classification included cell structure, body organisation, mode of nutrition, reproduction and ______ relationships.",
+    "answer": "phylogenetic"
+  },
+  {
+    "question": "Table 2.1 gives a comparative account of different characteristics of the ______ kingdoms.",
+    "answer": "five"
+  },
+  {
+    "question": "The ______-domain system has also been proposed.",
+    "answer": "three"
+  },
+  {
+    "question": "The three-domain system divides the Kingdom Monera into ______ domains.",
+    "answer": "two"
+  },
+  {
+    "question": "The three-domain system results in a ______ kingdom classification.",
+    "answer": "six"
+  },
+  {
+    "question": "You will learn about this system in ______ classes.",
+    "answer": "higher"
+  },
+  {
+    "question": "Let us look at this ______ kingdom classification to understand the issues.",
+    "answer": "five"
+  },
+  {
+    "question": "Earlier classification systems included bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and the ______ under ‘Plants’.",
+    "answer": "angiosperms"
+  },
+  {
+    "question": "All the organisms included had a cell ______ in their cells.",
+    "answer": "wall"
+  },
+  {
+    "question": "It brought together the prokaryotic bacteria and the blue green algae, also called ______.",
+    "answer": "cyanobacteria"
+  },
+  {
+    "question": "It brought together prokaryotic and ______ groups.",
+    "answer": "eukaryotic"
+  },
+  {
+    "question": "It also grouped together the ______ organisms and the multicellular ones.",
+    "answer": "unicellular"
+  },
+  {
+    "question": "Chlamydomonas and ______ were placed together under algae.",
+    "answer": "Spirogyra"
+  },
+  {
+    "question": "The classification did not differentiate between the ______ group – fungi, and the autotrophic green plants.",
+    "answer": "heterotrophic"
+  },
+  {
+    "question": "The fungi had ______ in their walls.",
+    "answer": "chitin"
+  },
+  {
+    "question": "The green plants had a ______ cell wall.",
+    "answer": "cellulosic"
+  },
+  {
+    "question": "The fungi were placed in a separate kingdom – Kingdom ______.",
+    "answer": "Fungi"
+  },
+  {
+    "question": "All ______ organisms were grouped together under Kingdom Monera.",
+    "answer": "prokaryotic"
+  },
+  {
+    "question": "The unicellular eukaryotic organisms were placed in Kingdom ______.",
+    "answer": "Protista"
+  },
+  {
+    "question": "Kingdom Protista brought together Chlamydomonas and ______.",
+    "answer": "Chlorella"
+  },
+  {
+    "question": "Chlamydomonas and Chlorella were earlier placed in ______.",
+    "answer": "Algae"
+  },
+  {
+    "question": "Paramoecium and ______ were earlier placed in the animal kingdom.",
+    "answer": "Amoeba"
+  },
+  {
+    "question": "Paramoecium and Amoeba lack ______ wall.",
+    "answer": "cell"
+  },
+  {
+    "question": "The criteria for classification ______, resulting in new kingdoms.",
+    "answer": "changed"
+  },
+  {
+    "question": "Classification changes with improvement in our understanding of characteristics and ______ relationships.",
+    "answer": "evolutionary"
+  },
+  {
+    "question": "Over time, a classification system was evolved which reflects not only similarities but is also ______.",
+    "answer": "phylogenetic"
+  },
+  {
+    "question": "The evolved system is based on evolutionary ______.",
+    "answer": "relationships"
+  },
+  {
+    "question": "Fungi had ______ in their cell wall.",
+    "answer": "chitin"
+  },
+  {
+    "question": "Green plants had a ______ cell wall.",
+    "answer": "cellulosic"
+  },
+  {
+    "question": "Monera includes all ______ organisms.",
+    "answer": "prokaryotic"
+  },
+  {
+    "question": "Protista includes unicellular ______ organisms.",
+    "answer": "eukaryotic"
+  },
+  {
+    "question": "Fungi and green plants showed difference in wall ______.",
+    "answer": "composition"
+  },
+  {
+    "question": "The fungi were placed in a ______ kingdom.",
+    "answer": "separate"
+  },
+  {
+    "question": "Amoeba and Paramoecium were placed in ______ Kingdom in earlier classifications.",
+    "answer": "animal"
+  },
+  {
+    "question": "This kind of changes will take place in ______ too.",
+    "answer": "future"
+  },
+  {
+    "question": "Classification also reflects ______ similarities.",
+    "answer": "morphological"
+  },
+  {
+    "question": "Classification also reflects ______ similarities.",
+    "answer": "physiological"
+  },
+  {
+    "question": "Classification also reflects ______ similarities.",
+    "answer": "reproductive"
+  },
+  {
+    "question": "Fungi were placed in a separate kingdom when their ______ were considered.",
+    "answer": "characteristics"
+  },
+  {
+    "question": "Earlier classification placed Chlamydomonas and Chlorella in ______.",
+    "answer": "Plants"
+  },
+  {
+    "question": "The five kingdom classification helped address issues in earlier ______.",
+    "answer": "classifications"
+  },
+  {
+    "question": "Cyanobacteria is another name for blue green ______.",
+    "answer": "algae"
+  },
+  {
+    "question": "Fungi and green plants differ in their wall ______.",
+    "answer": "composition"
+  },
+  {
+    "question": "Cell wall presence was the unifying character under kingdom ______.",
+    "answer": "Plants"
+  },
+  {
+    "question": "A system was evolved based on ______ relationships.",
+    "answer": "evolutionary"
+  },
+  {
+    "question": "Gymnosperms and angiosperms were both grouped under ______.",
+    "answer": "Plants"
+  },
+  {
+    "question": "This classification system brought together groups which differed in other ______.",
+    "answer": "characteristics"
+  },
+  {
+    "question": "Whittaker's classification includes ______ kingdoms.",
+    "answer": "five"
+  },
+  {
+    "question": "Blue green algae were grouped with ______ groups.",
+    "answer": "eukaryotic"
+  },
+  {
+    "question": "Amoeba and Paramoecium were placed in Kingdom ______.",
+    "answer": "Protista"
+  },
+  {
+    "question": "All organisms in Plants had a ______ wall.",
+    "answer": "cell"
+  },
+  {
+    "question": "The third domain includes the remaining ______ kingdoms.",
+    "answer": "eukaryotic"
+  },
+  {
+    "question": "Fungi are ______ while green plants are autotrophic.",
+    "answer": "heterotrophic"
+  }
+]
