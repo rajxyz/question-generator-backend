@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "Each cell of the sporogenous tissue can give rise to a:",
+    "options": ["Pollen tube", "Microspore tetrad", "Seed", "Megaspore"],
+    "answer": "Microspore tetrad"
+  },
+  {
+    "question": "Each sporogenous cell is a potential:",
+    "options": ["Tapetal cell", "Guard cell", "Pollen or microspore mother cell", "Petal cell"],
+    "answer": "Pollen or microspore mother cell"
+  },
+  {
+    "question": "The process of formation of microspores from a pollen mother cell is called:",
+    "options": ["Microsporangium formation", "Microsporogenesis", "Pollination", "Gametogenesis"],
+    "answer": "Microsporogenesis"
+  },
+  {
+    "question": "Microspores are initially arranged in clusters of four called:",
+    "options": ["PMC clusters", "Anther lobes", "Pollen tubes", "Microspore tetrads"],
+    "answer": "Microspore tetrads"
+  },
+  {
+    "question": "As anthers mature and dehydrate, microspores:",
+    "options": ["Fuse together", "Dissociate and develop into pollen grains", "Die off", "Turn into seeds"],
+    "answer": "Dissociate and develop into pollen grains"
+  },
+  {
+    "question": "Several thousands of microspores or pollen grains are formed inside each:",
+    "options": ["Filament", "Ovary", "Microsporangium", "Sepal"],
+    "answer": "Microsporangium"
+  },
+  {
+    "question": "Pollen grains are released with the:",
+    "options": ["Fertilisation", "Germination", "Dehiscence of anther", "Opening of ovule"],
+    "answer": "Dehiscence of anther"
+  },
+  {
+    "question": "Pollen grains represent the:",
+    "options": ["Female gametophytes", "Male gametophytes", "Sporophytes", "Seeds"],
+    "answer": "Male gametophytes"
+  },
+  {
+    "question": "When you touch the opened anthers of Hibiscus, you find deposition of:",
+    "options": ["White powder", "Red pigments", "Yellowish powdery pollen grains", "Green sap"],
+    "answer": "Yellowish powdery pollen grains"
+  },
+  {
+    "question": "Sprinkling pollen grains on water and observing under a microscope reveals variety in:",
+    "options": ["Taste and smell", "Nutrient content", "Architecture, size, shape and colour", "Growth rate"],
+    "answer": "Architecture, size, shape and colour"
+  }
+]
