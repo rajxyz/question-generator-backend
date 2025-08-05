@@ -1,1 +1,99 @@
-
+[
+  {
+    "question": "Human beings have had an intimate relationship with flowers since:",
+    "options": ["Ancient history", "Recent times", "Time immemorial", "100 years ago"],
+    "answer": "Time immemorial"
+  },
+  {
+    "question": "Flowers are objects of aesthetic, ornamental, social, religious and:",
+    "options": ["Political value", "Educational value", "Cultural value", "Medicinal value"],
+    "answer": "Cultural value"
+  },
+  {
+    "question": "Flowers have always been used as symbols for conveying:",
+    "options": ["Scientific ideas", "Human feelings", "Weather predictions", "Political opinions"],
+    "answer": "Human feelings"
+  },
+  {
+    "question": "Human feelings such as love, affection, happiness, grief, and mourning are conveyed through:",
+    "options": ["Books", "Flowers", "Music", "Dance"],
+    "answer": "Flowers"
+  },
+  {
+    "question": "Floriculture refers to the cultivation of:",
+    "options": ["Fruits", "Vegetables", "Flowers", "Medicinal plants"],
+    "answer": "Flowers"
+  },
+  {
+    "question": "To a biologist, flowers are morphological and:",
+    "options": ["Biochemical marvels", "Physiological marvels", "Anatomical marvels", "Embryological marvels"],
+    "answer": "Embryological marvels"
+  },
+  {
+    "question": "Flowers are the sites of:",
+    "options": ["Pollination only", "Asexual reproduction", "Sexual reproduction", "Seed dispersal"],
+    "answer": "Sexual reproduction"
+  },
+  {
+    "question": "In earlier classes, students have read about:",
+    "options": ["Leaves", "Roots", "Parts of a flower", "Photosynthesis"],
+    "answer": "Parts of a flower"
+  },
+  {
+    "question": "Figure 1.1 helps recall the parts of a:",
+    "options": ["Dicot seed", "Monocot root", "Typical flower", "Leaf"],
+    "answer": "Typical flower"
+  },
+  {
+    "question": "The two parts in a flower where the most important units of sexual reproduction develop are:",
+    "options": ["Calyx and corolla", "Petal and sepal", "Androecium and gynoecium", "Style and ovary"],
+    "answer": "Androecium and gynoecium"
+  }
+]
+ [
+  {
+    "question": "Before the flower appears, the decision for flowering has already:",
+    "options": ["Started", "Failed", "Taken place", "Ended"],
+    "answer": "Taken place"
+  },
+  {
+    "question": "The development of floral primordium is initiated by:",
+    "options": ["Photosynthesis", "Water and sunlight", "Hormonal and structural changes", "External temperature only"],
+    "answer": "Hormonal and structural changes"
+  },
+  {
+    "question": "Floral primordium undergoes:",
+    "options": ["Senescence", "Differentiation and further development", "Dormancy", "Destruction"],
+    "answer": "Differentiation and further development"
+  },
+  {
+    "question": "Inflorescences are formed which bear:",
+    "options": ["Leaves", "Fruits", "Seeds", "Floral buds"],
+    "answer": "Floral buds"
+  },
+  {
+    "question": "Floral buds develop into:",
+    "options": ["Roots", "Leaves", "Flowers", "Fruits"],
+    "answer": "Flowers"
+  },
+  {
+    "question": "In the flower, the reproductive structures that develop are:",
+    "options": ["Petals and sepals", "Androecium and gynoecium", "Roots and stems", "Ovary and ovule"],
+    "answer": "Androecium and gynoecium"
+  },
+  {
+    "question": "The androecium consists of a whorl of:",
+    "options": ["Carpels", "Sepals", "Stamens", "Petals"],
+    "answer": "Stamens"
+  },
+  {
+    "question": "The stamens in androecium represent the:",
+    "options": ["Female reproductive organ", "Male reproductive organ", "Accessory organ", "Sterile organ"],
+    "answer": "Male reproductive organ"
+  },
+  {
+    "question": "The gynoecium represents the:",
+    "options": ["Male reproductive organ", "Sterile structure", "Female reproductive organ", "Seed coat"],
+    "answer": "Female reproductive organ"
+  }
+ ]
