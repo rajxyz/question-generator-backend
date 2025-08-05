@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Scrotum",
+      "Testicular lobules",
+      "Seminiferous tubules",
+      "Sertoli cells"
+    ],
+    "columnB": [
+      "Contain highly coiled structures where sperms are produced",
+      "Help maintain low temperature for spermatogenesis",
+      "Contain one to three seminiferous tubules",
+      "Provide nutrition to germ cells"
+    ],
+    "answer": {
+      "Scrotum": "Help maintain low temperature for spermatogenesis",
+      "Testicular lobules": "Contain one to three seminiferous tubules",
+      "Seminiferous tubules": "Contain highly coiled structures where sperms are produced",
+      "Sertoli cells": "Provide nutrition to germ cells"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Leydig cells",
+      "Male germ cells",
+      "Interstitial spaces",
+      "Length of testis"
+    ],
+    "columnB": [
+      "About 4 to 5 cm",
+      "Undergo meiotic division to form sperms",
+      "Contain Leydig cells and blood vessels",
+      "Secrete testicular hormones (androgens)"
+    ],
+    "answer": {
+      "Leydig cells": "Secrete testicular hormones (androgens)",
+      "Male germ cells": "Undergo meiotic division to form sperms",
+      "Interstitial spaces": "Contain Leydig cells and blood vessels",
+      "Length of testis": "About 4 to 5 cm"
+    }
+  }
+]
