@@ -1,1 +1,112 @@
-
+[
+  {
+    "assertion": "Assertion: Archaebacteria live in some of the most harsh habitats such as extreme salty areas, hot springs and marshy areas.",
+    "reason": "Reason: Halophiles, thermoacidophiles and methanogens are types of archaebacteria.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Archaebacteria survive in extreme conditions.",
+    "reason": "Reason: They have a different cell wall structure from other bacteria.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Methanogens are responsible for the production of methane from the dung of ruminant animals.",
+    "reason": "Reason: Methanogens are present in the gut of several ruminant animals such as cows and buffaloes.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Eubacteria are also known as true bacteria.",
+    "reason": "Reason: Eubacteria are characterised by the presence of a rigid cell wall and, if motile, a flagellum.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: Cyanobacteria are photosynthetic autotrophs.",
+    "reason": "Reason: Cyanobacteria have chlorophyll a similar to green plants.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Cyanobacteria are unicellular, colonial or filamentous algae.",
+    "reason": "Reason: The colonies of cyanobacteria are generally surrounded by a gelatinous sheath.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: Cyanobacteria often form blooms in polluted water bodies.",
+    "reason": "Reason: Cyanobacteria have filamentous structures and heterocysts.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: Some cyanobacteria can fix atmospheric nitrogen.",
+    "reason": "Reason: Nostoc and Anabaena fix nitrogen in specialised cells called heterocysts.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Chemosynthetic autotrophic bacteria oxidise inorganic substances such as nitrates, nitrites and ammonia.",
+    "reason": "Reason: These bacteria use the released energy for ATP production.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Chemosynthetic autotrophic bacteria play a great role in recycling nutrients like nitrogen, phosphorous, iron and sulphur.",
+    "reason": "Reason: Chemosynthetic autotrophs are dependent on heterocysts for photosynthesis.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  }
+]
