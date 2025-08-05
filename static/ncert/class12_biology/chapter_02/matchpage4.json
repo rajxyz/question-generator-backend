@@ -1,1 +1,41 @@
-
+{
+  "type": "match_the_following",
+  "question": "Match the following floral terms with their NCERT-based meanings or functions:",
+  "column_A": [
+    "1. Floral decision",
+    "2. Hormonal and structural changes",
+    "3. Floral primordium",
+    "4. Inflorescences",
+    "5. Floral buds",
+    "6. Androecium",
+    "7. Gynoecium",
+    "8. Stamens",
+    "9. Male reproductive organ",
+    "10. Female reproductive organ"
+  ],
+  "column_B": [
+    "A. Occurs before flower is seen",
+    "B. Initiated during early flowering process",
+    "C. Result of differentiation and development",
+    "D. Formed before floral buds and flowers",
+    "E. Borne on inflorescences",
+    "F. Male structure in flower",
+    "G. Female structure in flower",
+    "H. Whorl forming male reproductive unit",
+    "I. Represented by androecium",
+    "J. Represented by gynoecium"
+  ],
+  "answers": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "D",
+    "5": "E",
+    "6": "F",
+    "7": "G",
+    "8": "H",
+    "9": "I",
+    "10": "J"
+  },
+  "word_count_covered": 87
+}
