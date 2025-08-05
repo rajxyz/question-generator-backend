@@ -1,1 +1,136 @@
-
+[
+  {
+    "assertion": "A typical stamen has a long slender stalk called the filament and a terminal generally bilobed structure called the anther.",
+    "reason": "The proximal end of the filament is attached to the thalamus or the petal of the flower.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The number and length of stamens are variable in flowers of different species.",
+    "reason": "A typical angiosperm anther is bilobed with each lobe having two theca.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Careful observation of each stamen under a dissecting microscope elucidates the range in shape and attachment of anthers in different flowers.",
+    "reason": "Stamens from ten flowers of different species show large variation in size.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "A typical angiosperm anther is bilobed and dithecous.",
+    "reason": "Each lobe of the anther has two theca.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The anther is a four-sided (tetragonal) structure consisting of four microsporangia located at the corners.",
+    "reason": "The bilobed nature of an anther is very distinct in the transverse section of the anther.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The microsporangia develop further and become pollen sacs.",
+    "reason": "Pollen sacs extend longitudinally through the length of an anther and are packed with pollen grains.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
+[
+  {
+    "assertion": "A typical microsporangium in transverse section appears near circular in outline.",
+    "reason": "The microsporangium is surrounded by four wall layers: epidermis, endothecium, middle layers, and tapetum.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The outer three wall layers of a microsporangium perform the function of protection and help in dehiscence of anther.",
+    "reason": "The outer three wall layers are the epidermis, endothecium, and middle layers.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The tapetum is the innermost wall layer of the microsporangium and nourishes the developing pollen grains.",
+    "reason": "Cells of the tapetum possess dense cytoplasm and generally have more than one nucleus.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Tapetal cells generally have more than one nucleus.",
+    "reason": "Tapetal cells possess dense cytoplasm.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The centre of each microsporangium contains a group of compactly arranged homogenous cells called the sporogenous tissue.",
+    "reason": "The sporogenous tissue occupies the centre when the anther is young.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Microspore tetrads are formed by meiotic divisions of the sporogenous tissue.",
+    "reason": "As the anther develops, the cells of the sporogenous tissue undergo meiotic divisions.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
