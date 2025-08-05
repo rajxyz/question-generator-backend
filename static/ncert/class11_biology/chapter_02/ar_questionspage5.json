@@ -1,1 +1,178 @@
-
+[
+  {
+    "assertion": "Assertion: Heterotrophic bacteria are most abundant in nature.",
+    "reason": "Reason: The majority of heterotrophic bacteria are important decomposers.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Many heterotrophic bacteria have a significant impact on human affairs.",
+    "reason": "Reason: They are helpful in making curd from milk, production of antibiotics, and fixing nitrogen in legume roots.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Some heterotrophic bacteria are pathogens causing damage to human beings, crops, farm animals and pets.",
+    "reason": "Reason: Cholera, typhoid, tetanus, and citrus canker are well-known diseases caused by different bacteria.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Bacteria reproduce mainly by fission.",
+    "reason": "Reason: Bacteria reproduce by binary fusion of gametes in favourable conditions.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "
+[
+  {
+    "assertion": "Assertion: All single-celled eukaryotes are placed under Protista.",
+    "reason": "Reason: The boundaries of this kingdom are not well defined.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: In this book, Chrysophytes, Dinoflagellates, Euglenoids, Slime moulds and Protozoans are included under Protista.",
+    "reason": "Reason: Protists are primarily terrestrial and form a link with Kingdom Animalia only.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: Protists are primarily aquatic organisms.",
+    "reason": "Reason: This kingdom forms a link with the others dealing with plants, animals and fungi.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: The protistan cell body contains a well defined nucleus and other membrane-bound organelles.",
+    "reason": "Reason: Protists are prokaryotic microorganisms.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: Some protists have flagella or cilia.",
+    "reason": "Reason: Protists reproduce only by binary fission.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: Protists reproduce asexually and sexually by a process involving cell fusion and zygote formation.",
+    "reason": "Reason: Protists lack any means of reproduction.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: Chrysophytes include diatoms and golden algae (desmids).",
+    "reason": "Reason: Chrysophytes are found in fresh water as well as in marine environments.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: Diatoms are microscopic and float passively in water currents.",
+    "reason": "Reason: Diatoms are plankton and most of them are photosynthetic.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: In diatoms, the cell walls form two thin overlapping shells which fit together as in a soap box.",
+    "reason": "Reason: The walls of diatoms are embedded with silica and are indestructible.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Diatomaceous earth is formed from the accumulation of diatom cell walls over billions of years.",
+    "reason": "Reason: Diatom walls are indestructible and embedded with silica.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Diatomaceous earth is used in polishing and filtration of oils and syrups.",
+    "reason": "Reason: Being gritty, this soil is suitable for such uses.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Diatoms are the chief producers in the oceans.",
+    "reason": "Reason: Diatoms perform photosynthesis in marine environments.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
