@@ -1,0 +1,165 @@
+[
+  {
+    "question": "Pollen grains are generally spherical and measure about:",
+    "options": ["5–10 micrometers", "15–30 micrometers", "25–50 micrometers", "50–100 micrometers"],
+    "answer": "25–50 micrometers"
+  },
+  {
+    "question": "The wall of a pollen grain is:",
+    "options": ["Single-layered", "Two-layered", "Three-layered", "Four-layered"],
+    "answer": "Two-layered"
+  },
+  {
+    "question": "The hard outer layer of a pollen grain is called:",
+    "options": ["Intine", "Cytoderm", "Exine", "Ectine"],
+    "answer": "Exine"
+  },
+  {
+    "question": "Exine is made up of:",
+    "options": ["Lignin", "Cellulose", "Sporopollenin", "Chitin"],
+    "answer": "Sporopollenin"
+  },
+  {
+    "question": "Sporopollenin is one of the most ______ organic materials known.",
+    "options": ["Transparent", "Sticky", "Resistant", "Soluble"],
+    "answer": "Resistant"
+  },
+  {
+    "question": "Sporopollenin can withstand:",
+    "options": ["Only water", "High temperatures and strong chemicals", "Only air", "None of these"],
+    "answer": "High temperatures and strong chemicals"
+  },
+  {
+    "question": "No enzyme is known that can degrade:",
+    "options": ["Cellulose", "Starch", "Sporopollenin", "Pectin"],
+    "answer": "Sporopollenin"
+  },
+  {
+    "question": "The apertures in exine where sporopollenin is absent are called:",
+    "options": ["Lenticels", "Stomata", "Germ pores", "Spore pits"],
+    "answer": "Germ pores"
+  },
+  {
+    "question": "Pollen grains are well-preserved as fossils due to:",
+    "options": ["Presence of starch", "Cellulose content", "Presence of sporopollenin", "Lignin in walls"],
+    "answer": "Presence of sporopollenin"
+  },
+  {
+    "question": "Exine of pollen grain shows an array of:",
+    "options": ["Cilia and flagella", "Pits and ridges", "Patterns and designs", "Hairs and hooks"],
+    "answer": "Patterns and designs"
+  },
+  {
+    "question": "The inner wall of pollen grain is called:",
+    "options": ["Exine", "Endothecium", "Intine", "Mesocarp"],
+    "answer": "Intine"
+  },
+  {
+    "question": "Intine is made up of:",
+    "options": ["Lignin and sporopollenin", "Cellulose and pectin", "Protein and lipids", "DNA and RNA"],
+    "answer": "Cellulose and pectin"
+  },
+  {
+    "question": "The cytoplasm of pollen grain is surrounded by:",
+    "options": ["A cellulose wall", "Plasma membrane", "Pectin coat", "Chloroplast membrane"],
+    "answer": "Plasma membrane"
+  },
+  {
+    "question": "A mature pollen grain contains how many cells?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "question": "The vegetative cell in a pollen grain is:",
+    "options": ["Smaller", "Spindle-shaped", "Larger", "Dividing rapidly"],
+    "answer": "Larger"
+  },
+  {
+    "question": "The vegetative cell has a large irregularly shaped:",
+    "options": ["Chloroplast", "Nucleus", "Mitochondrion", "Cell wall"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "The generative cell floats in the cytoplasm of the:",
+    "options": ["Anther wall", "Pollen sac", "Vegetative cell", "Sporogenous cell"],
+    "answer": "Vegetative cell"
+  },
+  {
+    "question": "The generative cell is:",
+    "options": ["Spherical", "Spindle-shaped", "Rectangular", "Star-shaped"],
+    "answer": "Spindle-shaped"
+  },
+  {
+    "question": "The generative cell contains:",
+    "options": ["Two nuclei", "No cytoplasm", "Dense cytoplasm and a nucleus", "Only a vacuole"],
+    "answer": "Dense cytoplasm and a nucleus"
+  },
+  {
+    "question": "In over 60% of angiosperms, pollen grains are shed at the:",
+    "options": ["1-celled stage", "2-celled stage", "3-celled stage", "4-celled stage"],
+    "answer": "2-celled stage"
+  },
+  {
+    "question": "In the remaining species, generative cell divides mitotically to form:",
+    "options": ["Two vegetative cells", "Four sperm cells", "Two male gametes", "One zygote"],
+    "answer": "Two male gametes"
+  },
+  {
+    "question": "In some species, pollen grains are shed at the:",
+    "options": ["1-celled stage", "2-celled stage", "3-celled stage", "4-celled stage"],
+    "answer": "3-celled stage"
+  }
+]
+
+[
+  {
+    "question": "Pollen grains of many species can cause:",
+    "options": ["Fever", "Skin rashes", "Severe allergies", "Indigestion"],
+    "answer": "Severe allergies"
+  },
+  {
+    "question": "Pollen allergies often lead to chronic respiratory disorders like:",
+    "options": ["Diabetes", "Tuberculosis", "Asthma", "Arthritis"],
+    "answer": "Asthma"
+  },
+  {
+    "question": "Parthenium is also known as:",
+    "options": ["Wheat grass", "Carrot grass", "Lemon grass", "Wild mustard"],
+    "answer": "Carrot grass"
+  },
+  {
+    "question": "Parthenium came into India as a contaminant with:",
+    "options": ["Rice", "Maize", "Imported wheat", "Sugarcane"],
+    "answer": "Imported wheat"
+  },
+  {
+    "question": "Parthenium has become ______ in occurrence in India.",
+    "options": ["Rare", "Seasonal", "Ubiquitous", "Extinct"],
+    "answer": "Ubiquitous"
+  },
+  {
+    "question": "Pollen grains are rich in:",
+    "options": ["Water", "Fibres", "Nutrients", "Salt"],
+    "answer": "Nutrients"
+  },
+  {
+    "question": "Pollen tablets are used as:",
+    "options": ["Insecticides", "Vitamins", "Food supplements", "Medicines"],
+    "answer": "Food supplements"
+  },
+  {
+    "question": "In recent years, using pollen tablets as supplements has become a:",
+    "options": ["Necessity", "Fashion", "Tradition", "Treatment"],
+    "answer": "Fashion"
+  },
+  {
+    "question": "In western countries, pollen products are available in the form of:",
+    "options": ["Powders and creams", "Tablets and syrups", "Oils and sprays", "Juices and teas"],
+    "answer": "Tablets and syrups"
+  },
+  {
+    "question": "Pollen consumption is claimed to improve performance of:",
+    "options": ["Children", "Office workers", "Athletes and race horses", "Elderly people"],
+    "answer": "Athletes and race horses"
+  }
+]
