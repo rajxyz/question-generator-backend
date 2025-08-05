@@ -1,1 +1,92 @@
-
+[
+  {
+    "column_I": [
+      "A. Cold mountains",
+      "B. Deserts",
+      "C. Fresh water lakes",
+      "D. Hot springs"
+    ],
+    "column_II": [
+      "1. Extraordinary habitat of living organisms",
+      "2. Extraordinary habitat of living organisms",
+      "3. Extraordinary habitat of living organisms",
+      "4. Extraordinary habitat of living organisms"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Galloping horse",
+      "B. Migrating birds",
+      "C. Valley of flowers",
+      "D. Attacking shark"
+    ],
+    "column_II": [
+      "1. Evokes awe and a deep sense of wonder",
+      "2. Evokes awe and a deep sense of wonder",
+      "3. Evokes awe and a deep sense of wonder",
+      "4. Evokes awe and a deep sense of wonder"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Ecological conflict",
+      "B. Cooperation among members",
+      "C. Molecular traffic inside a cell",
+      "D. Question: What is life?"
+    ],
+    "column_II": [
+      "1. Among members of a population and among populations of a community",
+      "2. Among members of a population and among populations of a community",
+      "3. Makes us deeply reflect",
+      "4. Has two implicit questions"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Technical question",
+      "B. Philosophical question",
+      "C. Scientist's approach",
+      "D. Focus of discussion"
+    ],
+    "column_II": [
+      "1. What living is as opposed to the non-living",
+      "2. What the purpose of life is",
+      "3. Will not attempt the second question",
+      "4. Will reflect on what is living"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Potted plants",
+      "B. Birds",
+      "C. Insects",
+      "D. Pets"
+    ],
+    "column_II": [
+      "1. Large variety of living organisms seen around you",
+      "2. Large variety of living organisms seen around you",
+      "3. Large variety of living organisms seen around you",
+      "4. Large variety of living organisms seen around you"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Organisms you cannot see",
+      "B. Dense forest",
+      "C. Species",
+      "D. Known and described species"
+    ],
+    "column_II": [
+      "1. All around you",
+      "2. Greater number and kinds of living organisms",
+      "3. Each different kind of plant, animal or organism",
+      "4. Range between 1.7–1.8 million"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  }
+]
