@@ -1,0 +1,360 @@
+[
+  {
+    "question": "This refers to ______ or the number and types of organisms present on earth.",
+    "answer": "biodiversity"
+  },
+  {
+    "question": "As we explore new areas, new organisms are continuously being ______.",
+    "answer": "identified"
+  },
+  {
+    "question": "There are millions of ______ and animals in the world.",
+    "answer": "plants"
+  },
+  {
+    "question": "We know the plants and animals in our own area by their ______ names.",
+    "answer": "local"
+  },
+  {
+    "question": "Local names would vary from place to place, even within a ______.",
+    "answer": "country"
+  },
+  {
+    "question": "There would be confusion if we did not find ways and means to ______ to each other.",
+    "answer": "talk"
+  },
+  {
+    "question": "There is a need to ______ the naming of living organisms.",
+    "answer": "standardise"
+  },
+  {
+    "question": "A particular organism should be known by the same name all over the ______.",
+    "answer": "world"
+  },
+  {
+    "question": "The process of giving a standard name is called ______.",
+    "answer": "nomenclature"
+  },
+  {
+    "question": "Nomenclature is only possible when the organism is described ______.",
+    "answer": "correctly"
+  },
+  {
+    "question": "Naming is only possible when we know to what organism the name is ______ to.",
+    "answer": "attached"
+  },
+  {
+    "question": "This is called ______.",
+    "answer": "identification"
+  },
+  {
+    "question": "Scientists have established procedures to assign a ______ name to each known organism.",
+    "answer": "scientific"
+  },
+  {
+    "question": "Scientific names are acceptable to ______ all over the world.",
+    "answer": "biologists"
+  },
+  {
+    "question": "For plants, scientific names are based on agreed ______ and criteria.",
+    "answer": "principles"
+  },
+  {
+    "question": "Agreed principles and criteria are provided in ______.",
+    "answer": "International Code for Botanical Nomenclature"
+  },
+  {
+    "question": "You may ask, how are ______ named?",
+    "answer": "animals"
+  },
+  {
+    "question": "Animal taxonomists have evolved ______.",
+    "answer": "International Code of Zoological Nomenclature"
+  },
+  {
+    "question": "The ______ names ensure that each organism has only one name.",
+    "answer": "scientific"
+  },
+  {
+    "question": "Scientific names ensure that each organism has only ______ name.",
+    "answer": "one"
+  },
+  {
+    "question": "Description of any organism should enable people in any part of the world to arrive at the same ______.",
+    "answer": "name"
+  },
+  {
+    "question": "Scientific names also ensure that such a name has not been used for any other known ______.",
+    "answer": "organism"
+  },
+  {
+    "question": "New organisms are continuously being ______ even in old areas.",
+    "answer": "identified"
+  },
+  {
+    "question": "We should remember that new organisms are being identified in ______ areas too.",
+    "answer": "old"
+  },
+  {
+    "question": "We refer to organisms we are talking about by ______ names.",
+    "answer": "local"
+  },
+  {
+    "question": "If we did not find ways to refer to organisms, there would be ______.",
+    "answer": "confusion"
+  },
+  {
+    "question": "Scientific naming is only possible when the organism is ______ correctly.",
+    "answer": "described"
+  },
+  {
+    "question": "The process of assigning a scientific name begins with proper ______.",
+    "answer": "identification"
+  },
+  {
+    "question": "Naming is possible only when we know to what organism the name is ______.",
+    "answer": "attached"
+  },
+  {
+    "question": "Scientific names are acceptable to biologists all over the ______.",
+    "answer": "world"
+  },
+  {
+    "question": "For plants, scientific names are based on agreed principles and ______.",
+    "answer": "criteria"
+  },
+  {
+    "question": "The agreed criteria are provided in ______ (ICBN).",
+    "answer": "International Code for Botanical Nomenclature"
+  },
+  {
+    "question": "ICBN stands for International Code for ______ Nomenclature.",
+    "answer": "Botanical"
+  },
+  {
+    "question": "ICZN stands for International Code of ______ Nomenclature.",
+    "answer": "Zoological"
+  },
+  {
+    "question": "Scientific names ensure that the name has not been used for any other ______ organism.",
+    "answer": "known"
+  },
+  {
+    "question": "A name must not be used for any other ______ organism.",
+    "answer": "known"
+  },
+  {
+    "question": "We know plants and animals in our area by their ______ names.",
+    "answer": "local"
+  },
+  {
+    "question": "These local names vary even within a ______.",
+    "answer": "country"
+  },
+  {
+    "question": "The process of assigning a scientific name is based on proper ______.",
+    "answer": "identification"
+  },
+  {
+    "question": "There are millions of plants and ______ in the world.",
+    "answer": "animals"
+  },
+  {
+    "question": "Biologists across the world accept the ______ name for each organism.",
+    "answer": "scientific"
+  },
+  {
+    "question": "Each organism should have only ______ scientific name.",
+    "answer": "one"
+  },
+  {
+    "question": "The International Code of Botanical Nomenclature is abbreviated as ______.",
+    "answer": "ICBN"
+  },
+  {
+    "question": "The International Code of Zoological Nomenclature is abbreviated as ______.",
+    "answer": "ICZN"
+  },
+  {
+    "question": "Proper naming ensures the same organism is known by the same name all over the ______.",
+    "answer": "world"
+  },
+  {
+    "question": "Scientific names are only given after the organism is described and ______.",
+    "answer": "identified"
+  },
+  {
+    "question": "Taxonomists have evolved codes like ICBN and ______.",
+    "answer": "ICZN"
+  }
+]
+[
+  {
+    "question": "Biologists follow universally accepted principles to provide ______ names to known organisms.",
+    "answer": "scientific"
+  },
+  {
+    "question": "Each name has two components – the Generic name and the ______ epithet.",
+    "answer": "specific"
+  },
+  {
+    "question": "This system of providing a name with two components is called ______ nomenclature.",
+    "answer": "Binomial"
+  },
+  {
+    "question": "This naming system was given by ______ Linnaeus.",
+    "answer": "Carolus"
+  },
+  {
+    "question": "The naming system given by Carolus Linnaeus is being practised by ______ all over the world.",
+    "answer": "biologists"
+  },
+  {
+    "question": "This naming system using a two word format was found ______.",
+    "answer": "convenient"
+  },
+  {
+    "question": "The scientific name of mango is written as ______ indica.",
+    "answer": "Mangifera"
+  },
+  {
+    "question": "In the name Mangifera indica, Mangifera represents the ______.",
+    "answer": "genus"
+  },
+  {
+    "question": "In the name Mangifera indica, indica is a particular ______.",
+    "answer": "species"
+  },
+  {
+    "question": "The species name indica is also called a specific ______.",
+    "answer": "epithet"
+  },
+  {
+    "question": "Biological names are generally in ______ and written in italics.",
+    "answer": "Latin"
+  },
+  {
+    "question": "Biological names are Latinised or derived from Latin irrespective of their ______.",
+    "answer": "origin"
+  },
+  {
+    "question": "The first word in a biological name represents the ______.",
+    "answer": "genus"
+  },
+  {
+    "question": "The second component of a biological name denotes the ______ epithet.",
+    "answer": "specific"
+  },
+  {
+    "question": "Both the words in a biological name, when handwritten, are separately ______.",
+    "answer": "underlined"
+  },
+  {
+    "question": "Both the words in a biological name are printed in ______ to indicate their Latin origin.",
+    "answer": "italics"
+  },
+  {
+    "question": "The first word denoting the genus starts with a ______ letter.",
+    "answer": "capital"
+  },
+  {
+    "question": "The specific epithet starts with a ______ letter.",
+    "answer": "small"
+  },
+  {
+    "question": "It can be illustrated with the example of ______ indica.",
+    "answer": "Mangifera"
+  },
+  {
+    "question": "The name Mangifera indica is a ______ name.",
+    "answer": "binomial"
+  },
+  {
+    "question": "The system of naming organisms with two parts is called ______ nomenclature.",
+    "answer": "Binomial"
+  },
+  {
+    "question": "In binomial nomenclature, the first component is the ______ name.",
+    "answer": "Generic"
+  },
+  {
+    "question": "In binomial nomenclature, the second component is the ______ epithet.",
+    "answer": "specific"
+  },
+  {
+    "question": "The Latin origin of scientific names is indicated by ______ formatting or underlining.",
+    "answer": "italic"
+  },
+  {
+    "question": "When handwritten, the words in a biological name are ______ underlined.",
+    "answer": "separately"
+  },
+  {
+    "question": "When printed, both words in a biological name appear in ______.",
+    "answer": "italics"
+  },
+  {
+    "question": "The genus name always starts with a ______ letter.",
+    "answer": "capital"
+  },
+  {
+    "question": "The specific epithet starts with a ______ letter.",
+    "answer": "small"
+  },
+  {
+    "question": "The naming system given by Linnaeus is accepted ______.",
+    "answer": "worldwide"
+  },
+  {
+    "question": "Scientific names must follow ______ accepted rules.",
+    "answer": "universally"
+  },
+  {
+    "question": "The word 'indica' in Mangifera indica is the specific ______.",
+    "answer": "epithet"
+  },
+  {
+    "question": "The word 'Mangifera' in Mangifera indica denotes the ______.",
+    "answer": "genus"
+  },
+  {
+    "question": "Binomial nomenclature uses a ______ word format.",
+    "answer": "two"
+  },
+  {
+    "question": "Carolus Linnaeus provided the system of ______ nomenclature.",
+    "answer": "binomial"
+  },
+  {
+    "question": "Scientific names are either Latinised or ______ from Latin.",
+    "answer": "derived"
+  },
+  {
+    "question": "The name Mangifera indica is an example of ______ nomenclature.",
+    "answer": "binomial"
+  },
+  {
+    "question": "In printed form, scientific names should appear in ______.",
+    "answer": "italics"
+  },
+  {
+    "question": "In handwritten form, scientific names are ______ underlined.",
+    "answer": "separately"
+  },
+  {
+    "question": "The specific epithet in a biological name should begin with a ______ letter.",
+    "answer": "small"
+  },
+  {
+    "question": "Scientific names are written in italics to indicate their ______ origin.",
+    "answer": "Latin"
+  },
+  {
+    "question": "Genus name in a biological name starts with a ______ letter.",
+    "answer": "capital"
+  },
+  {
+    "question": "Species name in a biological name starts with a ______ letter.",
+    "answer": "small"
+  }
+]
