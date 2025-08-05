@@ -1,1 +1,47 @@
-
+[
+  {
+    "column_I": [
+      "A. Biology",
+      "B. Living world",
+      "C. Early man",
+      "D. Anthropocentric view"
+    ],
+    "column_II": [
+      "1. Science of life forms and living processes",
+      "2. Comprises an amazing diversity of living organisms",
+      "3. Deified wind, sea, fire, animals and plants",
+      "4. Registered limited progress in biological knowledge"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Inanimate and animate forms",
+      "B. Description of living organisms",
+      "C. Identification, nomenclature and classification",
+      "D. Similarities among organisms"
+    ],
+    "column_II": [
+      "1. Evoked a sense of awe or fear",
+      "2. Began much later in human history",
+      "3. Necessitated by systematic study of life forms",
+      "4. Shared both horizontally and vertically"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Revelation from biological studies",
+      "B. All present day organisms",
+      "C. Cultural movements",
+      "D. Taxonomist’s perspective"
+    ],
+    "column_II": [
+      "1. Are related to all organisms that ever lived",
+      "2. Are related to each other",
+      "3. Led to conservation of biodiversity",
+      "4. Describes classification of animals and plants"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  }
+]
