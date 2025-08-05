@@ -1,1 +1,62 @@
-
+[
+  {
+    "question": "Biology in essence is the story of:",
+    "options": ["Life on moon", "Life in oceans", "Life on earth", "Life in water"],
+    "answer": "Life on earth"
+  },
+  {
+    "question": "Individual organisms die without:",
+    "options": ["Fail", "Effort", "Purpose", "Help"],
+    "answer": "Fail"
+  },
+  {
+    "question": "Species continue to live through:",
+    "options": ["Years", "Decades", "Centuries", "Millions of years"],
+    "answer": "Millions of years"
+  },
+  {
+    "question": "Species may be threatened by extinction due to:",
+    "options": ["Reproduction", "Development", "Natural or anthropogenic causes", "Evolution"],
+    "answer": "Natural or anthropogenic causes"
+  },
+  {
+    "question": "Reproduction is a vital process without which species:",
+    "options": ["Can grow well", "Cannot survive for long", "Can become extinct naturally", "Do not need energy"],
+    "answer": "Cannot survive for long"
+  },
+  {
+    "question": "Each individual leaves its progeny by:",
+    "options": ["Fission", "Budding", "Parthenogenesis", "Asexual or sexual means"],
+    "answer": "Asexual or sexual means"
+  },
+  {
+    "question": "Sexual reproduction enables creation of:",
+    "options": ["Gametes", "Progeny", "New variants", "Clones"],
+    "answer": "New variants"
+  },
+  {
+    "question": "Creation of new variants enhances:",
+    "options": ["Pollination", "Fertilisation", "Survival advantage", "Nutrient absorption"],
+    "answer": "Survival advantage"
+  },
+  {
+    "question": "The unit explains reproductive processes in:",
+    "options": ["Algae and fungi", "Mammals and reptiles", "Flowering plants and humans", "Bacteria and viruses"],
+    "answer": "Flowering plants and humans"
+  },
+  {
+    "question": "The examples chosen in the unit are:",
+    "options": ["Rare and endangered", "Hard to understand", "Easy to relate", "Genetically modified"],
+    "answer": "Easy to relate"
+  },
+  {
+    "question": "A related perspective on human reproductive health is:",
+    "options": ["Ignored", "Avoided", "Not mentioned", "Also presented"],
+    "answer": "Also presented"
+  },
+  {
+    "question": "Understanding of reproduction is completed by including:",
+    "options": ["Genetic engineering", "Reproductive ill health", "Photosynthesis", "Hormonal control"],
+    "answer": "Reproductive ill health"
+  }
+]
