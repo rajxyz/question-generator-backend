@@ -1,1 +1,355 @@
+[
+  {
+    "question": "Who proposed the Five Kingdom Classification?",
+    "options": [
+      "Aristotle",
+      "Linnaeus",
+      "R.H. Whittaker",
+      "Ernst Haeckel"
+    ],
+    "answer": "R.H. Whittaker"
+  },
+  {
+    "question": "In which year was the Five Kingdom Classification proposed?",
+    "options": [
+      "1758",
+      "1969",
+      "1894",
+      "2001"
+    ],
+    "answer": "1969"
+  },
+  {
+    "question": "Which of the following kingdoms is NOT included in Whittaker's Five Kingdom Classification?",
+    "options": [
+      "Monera",
+      "Protista",
+      "Plantae",
+      "Archaea"
+    ],
+    "answer": "Archaea"
+  },
+  {
+    "question": "Which kingdom was NOT defined by R.H. Whittaker?",
+    "options": [
+      "Fungi",
+      "Animalia",
+      "Archaea",
+      "Monera"
+    ],
+    "answer": "Archaea"
+  },
+  {
+    "question": "What was one of the main criteria used by Whittaker for classification?",
+    "options": [
+      "Habitat",
+      "Number of chromosomes",
+      "Cell structure",
+      "Color"
+    ],
+    "answer": "Cell structure"
+  },
+  {
+    "question": "Which of the following was NOT a criterion used by Whittaker for classification?",
+    "options": [
+      "Body organisation",
+      "Mode of nutrition",
+      "Reproduction",
+      "Color of organism"
+    ],
+    "answer": "Color of organism"
+  },
+  {
+    "question": "Which of the following criteria were used by Whittaker in his classification system?",
+    "options": [
+      "Body organisation, respiration, and lifespan",
+      "Reproduction, phylogenetic relationships, and cell structure",
+      "Symbiosis, energy levels, and motility",
+      "Habitat, color, and movement"
+    ],
+    "answer": "Reproduction, phylogenetic relationships, and cell structure"
+  },
+  {
+    "question": "In the three-domain system, Kingdom Monera is divided into:",
+    "options": [
+      "Protista and Fungi",
+      "Two domains",
+      "Three new kingdoms",
+      "Unicellular and multicellular domains"
+    ],
+    "answer": "Two domains"
+  },
+  {
+    "question": "In the three-domain system, where are the remaining eukaryotic kingdoms placed?",
+    "options": [
+      "First domain",
+      "Second domain",
+      "Third domain",
+      "Fourth domain"
+    ],
+    "answer": "Third domain"
+  },
+  {
+    "question": "How many kingdoms are there in the three-domain system?",
+    "options": [
+      "Five",
+      "Four",
+      "Six",
+      "Three"
+    ],
+    "answer": "Six"
+  },
+  {
+    "question": "What will you learn in higher classes according to the paragraph?",
+    "options": [
+      "Detailed classification of algae",
+      "Three-domain system",
+      "Binary fission",
+      "Photosynthesis in fungi"
+    ],
+    "answer": "Three-domain system"
+  },
+  {
+    "question": "What was the purpose of studying the Five Kingdom Classification?",
+    "options": [
+      "To learn about photosynthesis",
+      "To understand the issues and considerations that influenced the classification system",
+      "To memorize scientific names",
+      "To classify animals based on habitat"
+    ],
+    "answer": "To understand the issues and considerations that influenced the classification system"
+  },
+  {
+    "question": "Which organisms were included under ‘Plants’ in earlier classification systems?",
+    "options": [
+      "Animals and fungi",
+      "Only flowering plants",
+      "Bacteria, blue green algae, fungi, mosses, ferns, gymnosperms, and angiosperms",
+      "Only algae and mosses"
+    ],
+    "answer": "Bacteria, blue green algae, fungi, mosses, ferns, gymnosperms, and angiosperms"
+  },
+  {
+    "question": "What was the unifying character for the ‘Plants’ kingdom in earlier classification?",
+    "options": [
+      "Presence of chlorophyll",
+      "Cell wall in their cells",
+      "Reproduction by seeds",
+      "Photosynthesis"
+    ],
+    "answer": "Cell wall in their cells"
+  },
+  {
+    "question": "What was a drawback of unifying organisms with a cell wall under one kingdom?",
+    "options": [
+      "It separated fungi from plants",
+      "It grouped organisms that differed widely in other characteristics",
+      "It failed to classify flowering plants",
+      "It excluded algae"
+    ],
+    "answer": "It grouped organisms that differed widely in other characteristics"
+  },
+  {
+    "question": "Which type of organisms were placed together despite one being prokaryotic and the other eukaryotic?",
+    "options": [
+      "Mosses and ferns",
+      "Bacteria and blue green algae with other eukaryotic groups",
+      "Gymnosperms and angiosperms",
+      "Algae and fungi"
+    ],
+    "answer": "Bacteria and blue green algae with other eukaryotic groups"
+  },
+  {
+    "question": "Which type of organisms were grouped together despite being unicellular and multicellular?",
+    "options": [
+      "Fungi and mosses",
+      "Chlamydomonas and Spirogyra",
+      "Bacteria and fungi",
+      "Ferns and algae"
+    ],
+    "answer": "Chlamydomonas and Spirogyra"
+  },
+  {
+    "question": "Which group were Chlamydomonas and Spirogyra placed under?",
+    "options": [
+      "Fungi",
+      "Algae",
+      "Mosses",
+      "Bacteria"
+    ],
+    "answer": "Algae"
+  }
+]
 
+[
+  {
+    "question": "Which two groups were not differentiated in earlier classifications?",
+    "options": [
+      "Fungi and bacteria",
+      "Heterotrophic fungi and autotrophic green plants",
+      "Protists and animals",
+      "Fungi and algae"
+    ],
+    "answer": "Heterotrophic fungi and autotrophic green plants"
+  },
+  {
+    "question": "What is the main difference in the cell wall composition of fungi and green plants?",
+    "options": [
+      "Fungi have lignin, plants have chitin",
+      "Fungi have cellulose, plants have protein",
+      "Fungi have chitin, plants have cellulosic cell wall",
+      "Fungi have silica, plants have starch"
+    ],
+    "answer": "Fungi have chitin, plants have cellulosic cell wall"
+  },
+  {
+    "question": "When cell wall composition was considered, fungi were placed in which kingdom?",
+    "options": [
+      "Plantae",
+      "Protista",
+      "Monera",
+      "Kingdom Fungi"
+    ],
+    "answer": "Kingdom Fungi"
+  },
+  {
+    "question": "Which group includes all prokaryotic organisms in the five kingdom classification?",
+    "options": [
+      "Kingdom Protista",
+      "Kingdom Plantae",
+      "Kingdom Monera",
+      "Kingdom Fungi"
+    ],
+    "answer": "Kingdom Monera"
+  },
+  {
+    "question": "Where were unicellular eukaryotic organisms placed in the five kingdom classification?",
+    "options": [
+      "Kingdom Plantae",
+      "Kingdom Protista",
+      "Kingdom Fungi",
+      "Kingdom Monera"
+    ],
+    "answer": "Kingdom Protista"
+  },
+  {
+    "question": "Which organisms were brought together in Kingdom Protista?",
+    "options": [
+      "Spirogyra and Amoeba",
+      "Algae and fungi",
+      "Chlamydomonas, Chlorella, Paramoecium, and Amoeba",
+      "Ferns and mosses"
+    ],
+    "answer": "Chlamydomonas, Chlorella, Paramoecium, and Amoeba"
+  },
+  {
+    "question": "Where were Chlamydomonas and Chlorella placed earlier?",
+    "options": [
+      "In the animal kingdom",
+      "In the fungi kingdom",
+      "In algae within plants",
+      "In Monera"
+    ],
+    "answer": "In algae within plants"
+  },
+  {
+    "question": "What do Chlamydomonas and Chlorella have in common?",
+    "options": [
+      "Lack of a nucleus",
+      "Cell walls",
+      "Flagella",
+      "No pigments"
+    ],
+    "answer": "Cell walls"
+  },
+  {
+    "question": "Where were Paramoecium and Amoeba placed earlier?",
+    "options": [
+      "In the plant kingdom",
+      "In the fungi kingdom",
+      "In the animal kingdom",
+      "In Monera"
+    ],
+    "answer": "In the animal kingdom"
+  },
+  {
+    "question": "Which of the following lack cell walls?",
+    "options": [
+      "Chlorella",
+      "Chlamydomonas",
+      "Amoeba",
+      "Spirogyra"
+    ],
+    "answer": "Amoeba"
+  },
+  {
+    "question": "Why were organisms from different earlier kingdoms brought together in Protista?",
+    "options": [
+      "Because they share similar pigments",
+      "Because they live in water",
+      "Because the criteria for classification changed",
+      "Because they are multicellular"
+    ],
+    "answer": "Because the criteria for classification changed"
+  },
+  {
+    "question": "What will influence classification changes in the future?",
+    "options": [
+      "Availability of new habitats",
+      "Improvement in understanding of characteristics and evolutionary relationships",
+      "Discovery of more unicellular organisms",
+      "Advancement in artificial intelligence"
+    ],
+    "answer": "Improvement in understanding of characteristics and evolutionary relationships"
+  },
+  {
+    "question": "What kind of classification system is being attempted over time?",
+    "options": [
+      "A simple one based on shape",
+      "A system based only on nutrition",
+      "A system based only on reproduction",
+      "A phylogenetic system based on evolutionary relationships"
+    ],
+    "answer": "A phylogenetic system based on evolutionary relationships"
+  },
+  {
+    "question": "Which similarities are considered in evolving classification systems?",
+    "options": [
+      "Size and speed",
+      "Color and behavior",
+      "Morphological, physiological, and reproductive similarities",
+      "Habitat and temperature preference"
+    ],
+    "answer": "Morphological, physiological, and reproductive similarities"
+  },
+  {
+    "question": "Which kingdoms of the Whittaker system are studied in this chapter?",
+    "options": [
+      "Monera, Protista, and Plantae",
+      "Fungi, Animalia, and Plantae",
+      "Monera, Protista, and Fungi",
+      "Fungi, Plantae, and Protista"
+    ],
+    "answer": "Monera, Protista, and Fungi"
+  },
+  {
+    "question": "Which kingdoms will be dealt separately in chapters 3 and 4?",
+    "options": [
+      "Fungi and Monera",
+      "Protista and Fungi",
+      "Plantae and Animalia",
+      "Monera and Protista"
+    ],
+    "answer": "Plantae and Animalia"
+  },
+  {
+    "question": "What are Plantae and Animalia commonly referred to as?",
+    "options": [
+      "Microbial kingdoms",
+      "Fungal kingdoms",
+      "Plant and animal kingdoms",
+      "Eukaryotic kingdoms"
+    ],
+    "answer": "Plant and animal kingdoms"
+  }
+]
