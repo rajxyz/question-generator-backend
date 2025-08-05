@@ -1,1 +1,82 @@
-
+[
+  {
+    "question": "Since the dawn of ______, there have been many attempts to classify living organisms.",
+    "options": ["evolution", "biology", "civilisation", "life"],
+    "answer": "civilisation"
+  },
+  {
+    "question": "Early classification was not based on scientific criteria but on a need to use organisms for our own use – for ______, shelter and clothing.",
+    "options": ["oxygen", "food", "tools", "energy"],
+    "answer": "food"
+  },
+  {
+    "question": "Aristotle used simple ______ characters to classify plants into trees, shrubs and herbs.",
+    "options": ["physiological", "biochemical", "morphological", "genetic"],
+    "answer": "morphological"
+  },
+  {
+    "question": "Aristotle classified animals into two groups, those which had red blood and those that ______.",
+    "options": ["had green blood", "had no bones", "could fly", "did not"],
+    "answer": "did not"
+  },
+  {
+    "question": "In Linnaeus' time a ______ Kingdom system of classification was developed.",
+    "options": ["Three", "Four", "Two", "Five"],
+    "answer": "Two"
+  },
+  {
+    "question": "The Two Kingdom system of classification included ______ and Animalia kingdoms.",
+    "options": ["Monera", "Protista", "Plantae", "Fungi"],
+    "answer": "Plantae"
+  },
+  {
+    "question": "The Two Kingdom system did not distinguish between the ______ and prokaryotes.",
+    "options": ["autotrophs", "eukaryotes", "algae", "fungi"],
+    "answer": "eukaryotes"
+  },
+  {
+    "question": "The Two Kingdom system did not distinguish between unicellular and ______ organisms.",
+    "options": ["heterotrophic", "eukaryotic", "multicellular", "parasitic"],
+    "answer": "multicellular"
+  },
+  {
+    "question": "The Two Kingdom system did not distinguish between photosynthetic (green algae) and ______ (fungi) organisms.",
+    "options": ["saprophytic", "non-photosynthetic", "aerobic", "parasitic"],
+    "answer": "non-photosynthetic"
+  },
+  {
+    "question": "A large number of organisms did not fall into either ______ or Animalia category.",
+    "options": ["Fungi", "Plantae", "Protista", "Monera"],
+    "answer": "Plantae"
+  },
+  {
+    "question": "The two kingdom classification used for a long time was found ______.",
+    "options": ["useful", "adequate", "inadequate", "confusing"],
+    "answer": "inadequate"
+  },
+  {
+    "question": "Besides gross morphology, a need was also felt for including other characteristics like ______ structure.",
+    "options": ["tissue", "organ", "cell", "chromosome"],
+    "answer": "cell"
+  },
+  {
+    "question": "Other characteristics like cell structure, nature of wall, mode of ______, habitat, methods of reproduction were considered.",
+    "options": ["defense", "nutrition", "transport", "respiration"],
+    "answer": "nutrition"
+  },
+  {
+    "question": "Classification systems for the living organisms have undergone several ______ over the time.",
+    "options": ["challenges", "errors", "revisions", "changes"],
+    "answer": "changes"
+  },
+  {
+    "question": "Though plant and animal kingdoms have been a ______ under all different systems, the understanding of what groups be included has changed.",
+    "options": ["subject", "constant", "classification", "debate"],
+    "answer": "constant"
+  },
+  {
+    "question": "The number and nature of other kingdoms have been understood ______ by different scientists over the time.",
+    "options": ["similarly", "randomly", "differently", "equally"],
+    "answer": "differently"
+  }
+]
