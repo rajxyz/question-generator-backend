@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Fertile period",
+      "Withdrawal or coitus interruptus",
+      "Lactational amenorrhea method",
+      "Conception prevention during fertile period"
+    ],
+    "columnB": [
+      "Male partner withdraws his penis from the vagina just before ejaculation",
+      "Day 10 to 17 of the menstrual cycle when ovulation could be expected",
+      "As long as the mother breast-feeds the child fully, chances of conception are almost nil",
+      "By abstaining from coitus during this period"
+    ],
+    "answer": {
+      "Fertile period": "Day 10 to 17 of the menstrual cycle when ovulation could be expected",
+      "Withdrawal or coitus interruptus": "Male partner withdraws his penis from the vagina just before ejaculation",
+      "Lactational amenorrhea method": "As long as the mother breast-feeds the child fully, chances of conception are almost nil",
+      "Conception prevention during fertile period": "By abstaining from coitus during this period"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Maximum effective period of lactational amenorrhea",
+      "Side effects of natural methods",
+      "Chances of failure in natural methods",
+      "Barrier methods"
+    ],
+    "columnB": [
+      "Chances of failure are high",
+      "Side effects are almost nil",
+      "Effective only upto a maximum period of six months following parturition",
+      "Ovum and sperms are prevented from physically meeting with the help of barriers"
+    ],
+    "answer": {
+      "Maximum effective period of lactational amenorrhea": "Effective only upto a maximum period of six months following parturition",
+      "Side effects of natural methods": "Side effects are almost nil",
+      "Chances of failure in natural methods": "Chances of failure are high",
+      "Barrier methods": "Ovum and sperms are prevented from physically meeting with the help of barriers"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Condoms",
+      "‘Nirodh’",
+      "Female condoms",
+      "Benefit of condoms"
+    ],
+    "columnB": [
+      "Popular brand of condom for the male",
+      "Used to cover the penis in the male or vagina and cervix in the female just before coitus",
+      "Protect the user from contracting STIs and AIDS",
+      "Disposable, can be self-inserted and give privacy to the user"
+    ],
+    "answer": {
+      "Condoms": "Used to cover the penis in the male or vagina and cervix in the female just before coitus",
+      "‘Nirodh’": "Popular brand of condom for the male",
+      "Female condoms": "Disposable, can be self-inserted and give privacy to the user",
+      "Benefit of condoms": "Protect the user from contracting STIs and AIDS"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Diaphragms, cervical caps and vaults",
+      "Function of rubber barriers",
+      "Spermicidal creams, jellies and foams",
+      "Use with rubber barriers"
+    ],
+    "columnB": [
+      "Reusable",
+      "Inserted into the female reproductive tract to cover the cervix during coitus",
+      "Used along with barriers to increase their contraceptive efficiency",
+      "Prevent conception by blocking the entry of sperms through the cervix"
+    ],
+    "answer": {
+      "Diaphragms, cervical caps and vaults": "Reusable",
+      "Function of rubber barriers": "Inserted into the female reproductive tract to cover the cervix during coitus",
+      "Spermicidal creams, jellies and foams": "Used along with barriers to increase their contraceptive efficiency",
+      "Use with rubber barriers": "Prevent conception by blocking the entry of sperms through the cervix"
+    }
+  }
+]
+
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Slogan promoting small family norm",
+      "Statutory marriageable age for females",
+      "Statutory marriageable age for males",
+      "One child norm mostly adopted by"
+    ],
+    "columnB": [
+      "21 years",
+      "Young, urban, working couples",
+      "18 years",
+      "Hum Do Hamare Do"
+    ],
+    "answer": {
+      "Slogan promoting small family norm": "Hum Do Hamare Do",
+      "Statutory marriageable age for females": "18 years",
+      "Statutory marriageable age for males": "21 years",
+      "One child norm mostly adopted by": "Young, urban, working couples"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Ideal contraceptive should be",
+      "Barrier methods fall under",
+      "Method that does not interfere with sexual drive",
+      "Contraceptive measures taken to tackle population problem"
+    ],
+    "columnB": [
+      "Easily available, effective and reversible",
+      "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods",
+      "User-friendly with no or least side-effects",
+      "Incentives given to couples with small families"
+    ],
+    "answer": {
+      "Ideal contraceptive should be": "Easily available, effective and reversible",
+      "Barrier methods fall under": "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods",
+      "Method that does not interfere with sexual drive": "User-friendly with no or least side-effects",
+      "Contraceptive measures taken to tackle population problem": "Incentives given to couples with small families"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Natural method working principle",
+      "Periodic abstinence period",
+      "Fertile period of menstrual cycle",
+      "Natural methods aim to"
+    ],
+    "columnB": [
+      "Avoiding chances of ovum and sperms meeting",
+      "Day 10 to 17 of the menstrual cycle",
+      "When ovulation could be expected",
+      "Avoid coitus during ovulation period"
+    ],
+    "answer": {
+      "Natural method working principle": "Avoiding chances of ovum and sperms meeting",
+      "Periodic abstinence period": "Day 10 to 17 of the menstrual cycle",
+      "Fertile period of menstrual cycle": "When ovulation could be expected",
+      "Natural methods aim to": "Avoid coitus during ovulation period"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Non-medicated IUD example",
+      "Copper releasing IUD example",
+      "Hormone releasing IUD example",
+      "IUDs inserted by"
+    ],
+    "columnB": [
+      "Lippes loop",
+      "CuT, Cu7, Multiload 375",
+      "Progestasert, LNG-20",
+      "Doctors or expert nurses"
+    ],
+    "answer": {
+      "Non-medicated IUD example": "Lippes loop",
+      "Copper releasing IUD example": "CuT, Cu7, Multiload 375",
+      "Hormone releasing IUD example": "Progestasert, LNG-20",
+      "IUDs inserted by": "Doctors or expert nurses"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Cu ions in IUDs function",
+      "Hormone releasing IUDs effect on uterus",
+      "Hormone releasing IUDs effect on cervix",
+      "IUDs suitable for"
+    ],
+    "columnB": [
+      "Suppress sperm motility and the fertilising capacity of sperms",
+      "Make the uterus unsuitable for implantation",
+      "Make the cervix hostile to the sperms",
+      "Females who want to delay pregnancy and/or space children"
+    ],
+    "answer": {
+      "Cu ions in IUDs function": "Suppress sperm motility and the fertilising capacity of sperms",
+      "Hormone releasing IUDs effect on uterus": "Make the uterus unsuitable for implantation",
+      "Hormone releasing IUDs effect on cervix": "Make the cervix hostile to the sperms",
+      "IUDs suitable for": "Females who want to delay pregnancy and/or space children"
+    }
+  }
+]
