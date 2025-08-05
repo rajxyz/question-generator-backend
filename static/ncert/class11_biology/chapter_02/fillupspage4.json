@@ -1,1 +1,158 @@
-
+[
+  {
+    "question": "These bacteria are special since they live in some of the most harsh ______.",
+    "answer": "habitats"
+  },
+  {
+    "question": "Extreme salty areas are inhabited by ______.",
+    "answer": "halophiles"
+  },
+  {
+    "question": "Hot springs are inhabited by ______.",
+    "answer": "thermoacidophiles"
+  },
+  {
+    "question": "Marshy areas are inhabited by ______.",
+    "answer": "methanogens"
+  },
+  {
+    "question": "Archaebacteria differ from other bacteria in having a different ______ structure.",
+    "answer": "cell wall"
+  },
+  {
+    "question": "This feature is responsible for their survival in ______ conditions.",
+    "answer": "extreme"
+  },
+  {
+    "question": "Methanogens are present in the gut of several ______ animals.",
+    "answer": "ruminant"
+  },
+  {
+    "question": "Methanogens are found in the gut of cows and ______.",
+    "answer": "buffaloes"
+  },
+  {
+    "question": "Methanogens are responsible for the production of ______.",
+    "answer": "methane"
+  },
+  {
+    "question": "Methane is produced from the ______ of ruminant animals.",
+    "answer": "dung"
+  },
+  {
+    "question": "There are thousands of different ______ or ‘true bacteria’.",
+    "answer": "eubacteria"
+  },
+  {
+    "question": "True bacteria are characterised by the presence of a rigid ______.",
+    "answer": "cell wall"
+  },
+  {
+    "question": "If motile, true bacteria have a ______.",
+    "answer": "flagellum"
+  },
+  {
+    "question": "Cyanobacteria are also referred to as ______.",
+    "answer": "blue-green algae"
+  },
+  {
+    "question": "Cyanobacteria have ______ a similar to green plants.",
+    "answer": "chlorophyll"
+  },
+  {
+    "question": "Cyanobacteria are ______ autotrophs.",
+    "answer": "photosynthetic"
+  },
+  {
+    "question": "Cyanobacteria are unicellular, colonial or ______.",
+    "answer": "filamentous"
+  },
+  {
+    "question": "Cyanobacteria may be freshwater, marine or ______.",
+    "answer": "terrestrial"
+  },
+  {
+    "question": "The colonies of cyanobacteria are surrounded by a ______ sheath.",
+    "answer": "gelatinous"
+  },
+  {
+    "question": "Cyanobacteria often form ______ in polluted water bodies.",
+    "answer": "blooms"
+  },
+  {
+    "question": "Some cyanobacteria can fix atmospheric ______.",
+    "answer": "nitrogen"
+  },
+  {
+    "question": "Atmospheric nitrogen is fixed in specialised cells called ______.",
+    "answer": "heterocysts"
+  },
+  {
+    "question": "An example of a nitrogen-fixing cyanobacterium is ______.",
+    "answer": "Nostoc"
+  },
+  {
+    "question": "Another nitrogen-fixing cyanobacterium is ______.",
+    "answer": "Anabaena"
+  },
+  {
+    "question": "Chemosynthetic autotrophic bacteria oxidise various ______ substances.",
+    "answer": "inorganic"
+  },
+  {
+    "question": "Inorganic substances oxidised include nitrates, nitrites and ______.",
+    "answer": "ammonia"
+  },
+  {
+    "question": "Energy released from oxidation is used for ______ production.",
+    "answer": "ATP"
+  },
+  {
+    "question": "Chemosynthetic autotrophs play a role in recycling ______.",
+    "answer": "nutrients"
+  },
+  {
+    "question": "They help recycle nitrogen, phosphorous, iron and ______.",
+    "answer": "sulphur"
+  },
+  {
+    "question": "The specialised nitrogen-fixing cells are called ______.",
+    "answer": "heterocysts"
+  },
+  {
+    "question": "ATP is produced using energy released from oxidising ______.",
+    "answer": "ammonia"
+  },
+  {
+    "question": "Blue-green algae is another name for ______.",
+    "answer": "cyanobacteria"
+  },
+  {
+    "question": "Cyanobacteria have ______ a as their main pigment.",
+    "answer": "chlorophyll"
+  },
+  {
+    "question": "Cyanobacteria can be unicellular, colonial, or ______.",
+    "answer": "filamentous"
+  },
+  {
+    "question": "Gelatinous sheath surrounds the ______ of cyanobacteria.",
+    "answer": "colonies"
+  },
+  {
+    "question": "Bacteria that oxidise ammonia are called ______ autotrophs.",
+    "answer": "chemosynthetic"
+  },
+  {
+    "question": "Methanogens produce ______ from animal dung.",
+    "answer": "methane"
+  },
+  {
+    "question": "Eubacteria are also known as ______ bacteria.",
+    "answer": "true"
+  },
+  {
+    "question": "Rigid cell wall is a feature of ______.",
+    "answer": "eubacteria"
+  }
+]
