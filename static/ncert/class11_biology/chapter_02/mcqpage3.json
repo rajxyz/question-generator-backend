@@ -1,1 +1,112 @@
-
+[
+  {
+    "question": "Which kingdom do bacteria solely belong to?",
+    "options": [
+      "Protista",
+      "Fungi",
+      "Monera",
+      "Plantae"
+    ],
+    "answer": "Monera"
+  },
+  {
+    "question": "Bacteria are described as the most:",
+    "options": [
+      "Harmless organisms",
+      "Complex organisms",
+      "Abundant micro-organisms",
+      "Colorful organisms"
+    ],
+    "answer": "Abundant micro-organisms"
+  },
+  {
+    "question": "Where do bacteria occur?",
+    "options": [
+      "Only in soil",
+      "Only in water",
+      "Only in living organisms",
+      "Almost everywhere"
+    ],
+    "answer": "Almost everywhere"
+  },
+  {
+    "question": "How many bacteria are present in a handful of soil?",
+    "options": [
+      "None",
+      "Only a few",
+      "Dozens",
+      "Hundreds"
+    ],
+    "answer": "Hundreds"
+  },
+  {
+    "question": "Bacteria can survive in extreme habitats such as:",
+    "options": [
+      "Only freshwater",
+      "Only air",
+      "Hot springs, deserts, snow and deep oceans",
+      "Grasslands and forests only"
+    ],
+    "answer": "Hot springs, deserts, snow and deep oceans"
+  },
+  {
+    "question": "What type of relationship do many bacteria have with other organisms?",
+    "options": [
+      "Symbiotic",
+      "Commensal",
+      "Parasitic",
+      "Mutualistic"
+    ],
+    "answer": "Parasitic"
+  },
+  {
+    "question": "Bacteria are grouped into how many categories based on shape?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "What is the shape of Coccus bacteria?",
+    "options": [
+      "Rod-shaped",
+      "Comma-shaped",
+      "Spiral",
+      "Spherical"
+    ],
+    "answer": "Spherical"
+  },
+  {
+    "question": "What is the shape of Bacillus bacteria?",
+    "options": [
+      "Spherical",
+      "Rod-shaped",
+      "Comma-shaped",
+      "Spiral"
+    ],
+    "answer": "Rod-shaped"
+  },
+  {
+    "question": "What is the shape of Vibrium bacteria?",
+    "options": [
+      "Spiral",
+      "Rod-shaped",
+      "Comma-shaped",
+      "Spherical"
+    ],
+    "answer": "Comma-shaped"
+  },
+  {
+    "question": "What is the shape of Spirillum bacteria?",
+    "options": [
+      "Spherical",
+      "Rod-shaped",
+      "Spiral",
+      "Comma-shaped"
+    ],
+    "answer": "Spiral"
+  }
+]
