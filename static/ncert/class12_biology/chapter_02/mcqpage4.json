@@ -1,1 +1,176 @@
+[
+  {
+    "question": "The two parts of a typical stamen are filament and:",
+    "options": ["Ovary", "Style", "Petal", "Anther"],
+    "answer": "Anther"
+  },
+  {
+    "question": "The filament is described as:",
+    "options": ["Short and thick", "Curved and flat", "Long and slender", "Wide and woody"],
+    "answer": "Long and slender"
+  },
+  {
+    "question": "The anther is generally a:",
+    "options": ["Trilobed structure", "Unilobed structure", "Bilobed structure", "Multilobed structure"],
+    "answer": "Bilobed structure"
+  },
+  {
+    "question": "The proximal end of the filament is attached to the:",
+    "options": ["Style or ovary", "Petal or ovule", "Thalamus or petal", "Sepal or leaf"],
+    "answer": "Thalamus or petal"
+  },
+  {
+    "question": "The number and length of stamens are:",
+    "options": ["Always constant", "Uniform in all plants", "Variable in different species", "Same in all flowers"],
+    "answer": "Variable in different species"
+  },
+  {
+    "question": "Collecting a stamen from ten different species helps appreciate variation in:",
+    "options": ["Pollination", "Nectar secretion", "Size of stamens", "Seed germination"],
+    "answer": "Size of stamens"
+  },
+  {
+    "question": "Observation under a dissecting microscope reveals range in:",
+    "options": ["Root growth", "Leaf shape", "Anther shape and attachment", "Petal color"],
+    "answer": "Anther shape and attachment"
+  }
+]
 
+[
+  {
+    "question": "A typical angiosperm anther is:",
+    "options": ["Unilobed", "Trilobed", "Bilobed", "Multilobed"],
+    "answer": "Bilobed"
+  },
+  {
+    "question": "Each lobe of a typical anther has:",
+    "options": ["One theca", "Three theca", "Four theca", "Two theca"],
+    "answer": "Two theca"
+  },
+  {
+    "question": "Anthers with two theca are referred to as:",
+    "options": ["Monothecous", "Dithecous", "Trithicous", "Tetrathecous"],
+    "answer": "Dithecous"
+  },
+  {
+    "question": "A longitudinal groove often runs lengthwise separating the:",
+    "options": ["Microsporangia", "Theca", "Filament", "Pollen sacs"],
+    "answer": "Theca"
+  },
+  {
+    "question": "In transverse section, the bilobed nature of an anther is:",
+    "options": ["Indistinct", "Very distinct", "Not seen", "Irregular"],
+    "answer": "Very distinct"
+  },
+  {
+    "question": "A typical anther is a four-sided structure known as:",
+    "options": ["Bilateral", "Pentagonal", "Tetragonal", "Triangular"],
+    "answer": "Tetragonal"
+  },
+  {
+    "question": "The anther consists of how many microsporangia?",
+    "options": ["Two", "Four", "Six", "Eight"],
+    "answer": "Four"
+  },
+  {
+    "question": "The microsporangia are located at the corners, with how many in each lobe?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "question": "Microsporangia develop further to become:",
+    "options": ["Ovules", "Stamens", "Pollen sacs", "Anthers"],
+    "answer": "Pollen sacs"
+  },
+  {
+    "question": "Pollen sacs extend longitudinally through the length of the:",
+    "options": ["Filament", "Petal", "Anther", "Style"],
+    "answer": "Anther"
+  },
+  {
+    "question": "Pollen sacs are packed with:",
+    "options": ["Ovules", "Anthers", "Pollen grains", "Nectar"],
+    "answer": "Pollen grains"
+  }
+]
+
+[
+  {
+    "question": "Microsporangia develop further and become:",
+    "options": ["Ovules", "Anthers", "Pollen sacs", "Filaments"],
+    "answer": "Pollen sacs"
+  },
+  {
+    "question": "Pollen sacs extend longitudinally through the length of the:",
+    "options": ["Petal", "Style", "Filament", "Anther"],
+    "answer": "Anther"
+  },
+  {
+    "question": "Pollen sacs are packed with:",
+    "options": ["Ovules", "Pollen grains", "Seeds", "Sperm cells"],
+    "answer": "Pollen grains"
+  },
+  {
+    "question": "In transverse section, a typical microsporangium appears:",
+    "options": ["Rectangular", "Oval", "Triangular", "Near circular"],
+    "answer": "Near circular"
+  },
+  {
+    "question": "A microsporangium is generally surrounded by how many wall layers?",
+    "options": ["Three", "Four", "Five", "Six"],
+    "answer": "Four"
+  },
+  {
+    "question": "The four wall layers of a microsporangium include epidermis, endothecium, middle layers and:",
+    "options": ["Mesophyll", "Parenchyma", "Tapetum", "Cambium"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "The outer three wall layers of a microsporangium help in protection and:",
+    "options": ["Pollination", "Fertilisation", "Dehiscence of anther", "Stamen elongation"],
+    "answer": "Dehiscence of anther"
+  },
+  {
+    "question": "The innermost wall layer of the microsporangium is the:",
+    "options": ["Endothecium", "Tapetum", "Epidermis", "Middle layer"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "The tapetum nourishes the:",
+    "options": ["Ovary wall", "Filament cells", "Developing pollen grains", "Endosperm"],
+    "answer": "Developing pollen grains"
+  },
+  {
+    "question": "Cells of the tapetum generally possess:",
+    "options": ["Thin walls and no nucleus", "One large vacuole", "Dense cytoplasm and more than one nucleus", "Chloroplasts"],
+    "answer": "Dense cytoplasm and more than one nucleus"
+  },
+  {
+    "question": "The centre of each young microsporangium is occupied by:",
+    "options": ["Anther wall", "Pollen sacs", "Sporogenous tissue", "Tapetal cells"],
+    "answer": "Sporogenous tissue"
+  },
+  {
+    "question": "Sporogenous tissue is made of compactly arranged:",
+    "options": ["Vascular bundles", "Heterogenous cells", "Homogenous cells", "Empty spaces"],
+    "answer": "Homogenous cells"
+  }
+]
+
+[
+  {
+    "question": "During microsporogenesis, cells of the sporogenous tissue undergo:",
+    "options": ["Mitosis", "Binary fission", "Meiotic divisions", "Budding"],
+    "answer": "Meiotic divisions"
+  },
+  {
+    "question": "Meiotic division in sporogenous tissue leads to the formation of:",
+    "options": ["Pollen sacs", "Microspore tetrads", "Tapetal cells", "Anther wall"],
+    "answer": "Microspore tetrads"
+  },
+  {
+    "question": "The ploidy of the cells in a microspore tetrad is:",
+    "options": ["Diploid", "Tetraploid", "Haploid", "Triploid"],
+    "answer": "Haploid"
+  }
+]
