@@ -1,0 +1,123 @@
+[
+  {
+    "assertion": "Assertion: R.H. Whittaker (1969) proposed a Five Kingdom Classification.",
+    "reason": "Reason: The kingdoms defined by him were named Monera, Protista, Fungi, Plantae and Animalia.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: The main criteria for classification used by Whittaker include cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships.",
+    "reason": "Reason: Whittaker used reproductive isolation and DNA content as criteria for classification.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: The three-domain system divides the Kingdom Monera into two domains.",
+    "reason": "Reason: The remaining eukaryotic kingdoms are placed in the third domain.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Earlier classification systems included bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and the angiosperms under ‘Plants’.",
+    "reason": "Reason: The character that unified this whole kingdom was that all the organisms included had a cell wall in their cells.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: The earlier plant kingdom included groups which widely differed in other characteristics.",
+    "reason": "Reason: It brought together the prokaryotic bacteria and blue green algae with eukaryotic groups.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Chlamydomonas and Spirogyra were placed together under algae.",
+    "reason": "Reason: The classification grouped together the unicellular organisms and the multicellular ones.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Fungi were not differentiated from autotrophic green plants in earlier classifications.",
+    "reason": "Reason: The fungi had chitin in their walls while the green plants had a cellulosic cell wall.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: All prokaryotic organisms were grouped together under Kingdom Monera.",
+    "reason": "Reason: The unicellular eukaryotic organisms were placed in Kingdom Protista.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: Kingdom Protista brought together Chlamydomonas and Chlorella with Paramoecium and Amoeba.",
+    "reason": "Reason: In earlier classifications, Chlamydomonas and Chlorella were placed in Plants and Paramoecium and Amoeba in Animal kingdom.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Changes in classification systems occur due to improvement in understanding of characteristics and evolutionary relationships.",
+    "reason": "Reason: Classification systems are now made to reflect not only morphological, physiological and reproductive similarities, but also phylogenetic relationships.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: In this chapter we will study characteristics of Kingdoms Monera, Protista and Fungi.",
+    "reason": "Reason: The Kingdoms Plantae and Animalia will be dealt separately in chapters 3 and 4.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
