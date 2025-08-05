@@ -1,1 +1,77 @@
-
+[
+  {
+    "column_I": [
+      "A. Name of the author",
+      "B. Mangifera indica Linn.",
+      "C. Classification",
+      "D. Taxa"
+    ],
+    "column_II": [
+      "1. Appears after the specific epithet in abbreviated form",
+      "2. Species first described by Linnaeus",
+      "3. Grouping into convenient categories",
+      "4. Scientific term for categories used to study organisms"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Plants",
+      "B. Wheat",
+      "C. Mammals",
+      "D. Dogs"
+    ],
+    "column_II": [
+      "1. Taxa at higher level",
+      "2. Taxa at lower level",
+      "3. Animals with external ears and body hair",
+      "4. A type of mammal"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Cell structure",
+      "B. Development process",
+      "C. Ecological information",
+      "D. External and internal structure"
+    ],
+    "column_II": [
+      "1. Basis of modern taxonomic studies",
+      "2. Basis of modern taxonomic studies",
+      "3. Basis of modern taxonomic studies",
+      "4. Basis of modern taxonomic studies"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Characterisation",
+      "B. Identification",
+      "C. Classification",
+      "D. Nomenclature"
+    ],
+    "column_II": [
+      "1. Process basic to taxonomy",
+      "2. Process basic to taxonomy",
+      "3. Process basic to taxonomy",
+      "4. Process basic to taxonomy"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Early classifications",
+      "B. Human interest in organisms",
+      "C. Need for classification",
+      "D. Use of convenient categories"
+    ],
+    "column_II": [
+      "1. Based on the ‘uses’ of various organisms",
+      "2. Related to food, clothing and shelter",
+      "3. Impossible to study all living organisms without it",
+      "4. To associate characters with organisms"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  }
+]
