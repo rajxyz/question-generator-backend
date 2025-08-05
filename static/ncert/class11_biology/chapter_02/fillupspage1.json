@@ -4,19 +4,11 @@
     "answer": "civilisation"
   },
   {
-    "question": "There have been many attempts to ______ living organisms.",
-    "answer": "classify"
-  },
-  {
     "question": "It was done instinctively not using ______ that were scientific.",
     "answer": "criteria"
   },
   {
-    "question": "It was done instinctively not using criteria that were ______.",
-    "answer": "scientific"
-  },
-  {
-    "question": "Borne out of a need to use organisms for our own use – for food, shelter and ______.",
+    "question": "Classification was borne out of a need to use organisms for our own use – for food, shelter and ______.",
     "answer": "clothing"
   },
   {
@@ -24,15 +16,19 @@
     "answer": "classification"
   },
   {
-    "question": "He used simple ______ characters to classify plants.",
+    "question": "He used simple ______ characters to classify plants into trees, shrubs and herbs.",
     "answer": "morphological"
   },
   {
-    "question": "He used simple morphological characters to classify plants into trees, shrubs and ______.",
-    "answer": "herbs"
+    "question": "He used simple morphological characters to classify ______ into trees, shrubs and herbs.",
+    "answer": "plants"
   },
   {
-    "question": "He also divided animals into two groups, those which had red blood and those that ______.",
+    "question": "He also divided ______ into two groups, those which had red blood and those that did not.",
+    "answer": "animals"
+  },
+  {
+    "question": "He divided animals into two groups, those which had red blood and those that ______.",
     "answer": "did not"
   },
   {
@@ -44,16 +40,28 @@
     "answer": "Animalia"
   },
   {
-    "question": "This system did not distinguish between the ______ and prokaryotes.",
-    "answer": "eukaryotes"
+    "question": "The system included all ______ and animals respectively.",
+    "answer": "plants"
+  },
+  {
+    "question": "This system did not distinguish between the eukaryotes and ______.",
+    "answer": "prokaryotes"
   },
   {
     "question": "This system did not distinguish between unicellular and ______ organisms.",
     "answer": "multicellular"
   },
   {
-    "question": "This system did not distinguish between photosynthetic (green algae) and ______ (fungi) organisms.",
+    "question": "The system did not distinguish between photosynthetic and ______ organisms.",
     "answer": "non-photosynthetic"
+  },
+  {
+    "question": "Green algae are ______, while fungi are non-photosynthetic.",
+    "answer": "photosynthetic"
+  },
+  {
+    "question": "Classification of organisms into ______ and animals was easily done.",
+    "answer": "plants"
   },
   {
     "question": "A large number of organisms did not fall into either ______.",
@@ -68,12 +76,20 @@
     "answer": "cell"
   },
   {
-    "question": "Other characteristics like cell structure, nature of ______, mode of nutrition were considered.",
+    "question": "Besides gross morphology, a need was felt to include the nature of ______.",
     "answer": "wall"
   },
   {
-    "question": "Other characteristics like mode of ______, habitat, methods of reproduction were considered.",
+    "question": "Other characteristics like cell structure, nature of wall, mode of ______, habitat, methods of reproduction were considered.",
     "answer": "nutrition"
+  },
+  {
+    "question": "Other characteristics like habitat and methods of ______ were considered.",
+    "answer": "reproduction"
+  },
+  {
+    "question": "Other characteristics considered included evolutionary ______.",
+    "answer": "relationships"
   },
   {
     "question": "Classification systems for the living organisms have undergone several ______ over the time.",
@@ -84,7 +100,47 @@
     "answer": "constant"
   },
   {
-    "question": "The number and nature of other kingdoms have been understood ______ by different scientists.",
+    "question": "The understanding of what groups be included under these kingdoms has been ______.",
+    "answer": "changing"
+  },
+  {
+    "question": "The number and nature of other kingdoms have also been understood ______.",
     "answer": "differently"
+  },
+  {
+    "question": "Different ______ have understood the kingdoms differently over the time.",
+    "answer": "scientists"
+  },
+  {
+    "question": "Aristotle classified plants into trees, shrubs and ______.",
+    "answer": "herbs"
+  },
+  {
+    "question": "Linnaeus' system included kingdoms ______ and Animalia.",
+    "answer": "Plantae"
+  },
+  {
+    "question": "The two kingdom system did not distinguish between green algae and ______.",
+    "answer": "fungi"
+  },
+  {
+    "question": "Classification systems have changed over the ______.",
+    "answer": "time"
+  },
+  {
+    "question": "Gross ______ was one of the earlier bases of classification.",
+    "answer": "morphology"
+  },
+  {
+    "question": "A need was felt for including characteristics like mode of ______.",
+    "answer": "nutrition"
+  },
+  {
+    "question": "Classification into Plantae and Animalia was easy to ______.",
+    "answer": "understand"
+  },
+  {
+    "question": "Simple morphological characters were used by ______.",
+    "answer": "Aristotle"
   }
 ]
