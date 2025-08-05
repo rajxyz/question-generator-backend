@@ -126,3 +126,89 @@
     }
   }
 ]
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Sex accessory ducts",
+      "Connection between seminiferous tubules and vasa efferentia",
+      "Ducts that leave the testis",
+      "Location of epididymis"
+    ],
+    "columnB": [
+      "Rete testis",
+      "Rete testis, vasa efferentia, epididymis, vas deferens",
+      "Vasa efferentia",
+      "Posterior surface of each testis"
+    ],
+    "answer": {
+      "Sex accessory ducts": "Rete testis, vasa efferentia, epididymis, vas deferens",
+      "Connection between seminiferous tubules and vasa efferentia": "Rete testis",
+      "Ducts that leave the testis": "Vasa efferentia",
+      "Location of epididymis": "Posterior surface of each testis"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Epididymis leads to",
+      "Vas deferens ascends to",
+      "Vas deferens loops over",
+      "Vas deferens receives a duct from"
+    ],
+    "columnB": [
+      "Seminal vesicle",
+      "Vas deferens",
+      "Abdomen",
+      "Urinary bladder"
+    ],
+    "answer": {
+      "Epididymis leads to": "Vas deferens",
+      "Vas deferens ascends to": "Abdomen",
+      "Vas deferens loops over": "Urinary bladder",
+      "Vas deferens receives a duct from": "Seminal vesicle"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Ejaculatory duct opens into",
+      "Function of accessory ducts",
+      "Urethra originates from",
+      "Urethra extends through"
+    ],
+    "columnB": [
+      "Urethra",
+      "Store and transport sperms",
+      "Urinary bladder",
+      "Penis"
+    ],
+    "answer": {
+      "Ejaculatory duct opens into": "Urethra",
+      "Function of accessory ducts": "Store and transport sperms",
+      "Urethra originates from": "Urinary bladder",
+      "Urethra extends through": "Penis"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "External opening of urethra",
+      "Urethra passes through",
+      "Duct opening into urethra",
+      "Figure showing ducts and urinary bladder"
+    ],
+    "columnB": [
+      "Urethral meatus",
+      "Penis",
+      "Ejaculatory duct",
+      "Figure 2.1a"
+    ],
+    "answer": {
+      "External opening of urethra": "Urethral meatus",
+      "Urethra passes through": "Penis",
+      "Duct opening into urethra": "Ejaculatory duct",
+      "Figure showing ducts and urinary bladder": "Figure 2.1a"
+    }
+  }
+]
