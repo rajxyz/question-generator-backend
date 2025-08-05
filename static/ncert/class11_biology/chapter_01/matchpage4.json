@@ -1,1 +1,77 @@
-
+[
+  {
+    "column_I": [
+      "A. Local names of organisms",
+      "B. Nomenclature",
+      "C. Identification",
+      "D. Need for standardised names"
+    ],
+    "column_II": [
+      "1. Vary from place to place, even within a country",
+      "2. Process of naming organisms",
+      "3. Knowing to what organism the name is attached to",
+      "4. To avoid confusion when referring to organisms"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. ICBN",
+      "B. ICZN",
+      "C. Scientific name",
+      "D. Description of organism"
+    ],
+    "column_II": [
+      "1. International Code for Botanical Nomenclature",
+      "2. International Code of Zoological Nomenclature",
+      "3. Only one name for each organism",
+      "4. Should enable same name all over the world"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Biologists",
+      "B. Binomial nomenclature",
+      "C. Generic name",
+      "D. Specific epithet"
+    ],
+    "column_II": [
+      "1. Follow universally accepted principles",
+      "2. Two-word naming system",
+      "3. First component of the biological name",
+      "4. Second component of the biological name"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Mangifera indica",
+      "B. Mangifera",
+      "C. indica",
+      "D. Given by"
+    ],
+    "column_II": [
+      "1. Binomial name of mango",
+      "2. Represents the genus",
+      "3. Specific epithet of mango",
+      "4. Carolus Linnaeus"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Language of biological names",
+      "B. Font style of printed biological names",
+      "C. Handwritten biological names",
+      "D. Genus name capitalisation"
+    ],
+    "column_II": [
+      "1. Generally in Latin and written in italics",
+      "2. Italics",
+      "3. Separately underlined",
+      "4. Starts with a capital letter"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  }
+]
