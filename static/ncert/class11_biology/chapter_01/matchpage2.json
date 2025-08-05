@@ -2,45 +2,45 @@
   {
     "column_I": [
       "A. Ernst Mayr",
-      "B. Title given to Mayr",
+      "B. Birth date",
       "C. Birthplace",
-      "D. Year of birth"
+      "D. Referred to as"
     ],
     "column_II": [
-      "1. The Darwin of the 20th century",
+      "1. 5 July 1904",
       "2. Kempten, Germany",
-      "3. 1904",
+      "3. The Darwin of the 20th century",
       "4. Harvard University evolutionary biologist"
     ],
     "matches": ["A–4", "B–1", "C–2", "D–3"]
   },
   {
     "column_I": [
-      "A. Year Mayr joined Harvard",
-      "B. Year Mayr retired",
-      "C. Title after retirement",
-      "D. Faculty joined at Harvard"
+      "A. Recognition",
+      "B. Joined Harvard",
+      "C. Retired",
+      "D. Title after retirement"
     ],
     "column_II": [
-      "1. 1953",
-      "2. 1975",
-      "3. Alexander Agassiz Professor of Zoology Emeritus",
-      "4. Faculty of Arts and Sciences"
+      "1. One of the 100 greatest scientists of all time",
+      "2. 1953",
+      "3. 1975",
+      "4. Alexander Agassiz Professor of Zoology Emeritus"
     ],
     "matches": ["A–1", "B–2", "C–3", "D–4"]
   },
   {
     "column_I": [
-      "A. Fields of Mayr's research",
-      "B. Central question of evolutionary biology",
-      "C. Contribution to species concept",
-      "D. Career span"
+      "A. Career span",
+      "B. Research areas",
+      "C. Species diversity",
+      "D. Species definition"
     ],
     "column_II": [
-      "1. Ornithology, taxonomy, zoogeography, evolution, systematics, philosophy of biology",
-      "2. Origin of species diversity",
-      "3. Pioneered currently accepted definition of biological species",
-      "4. Nearly 80 years"
+      "1. Nearly 80 years",
+      "2. Ornithology, taxonomy, zoogeography, evolution, systematics, and philosophy of biology",
+      "3. Made origin of species diversity the central question of evolutionary biology",
+      "4. Pioneered currently accepted definition of biological species"
     ],
     "matches": ["A–1", "B–2", "C–3", "D–4"]
   },
@@ -49,15 +49,65 @@
       "A. Balzan Prize",
       "B. International Prize for Biology",
       "C. Crafoord Prize",
-      "D. Year of death"
+      "D. These prizes together"
     ],
     "column_II": [
       "1. 1983",
       "2. 1994",
       "3. 1999",
-      "4. 2004"
+      "4. Regarded as the triple crown of biology"
     ],
     "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Mayr’s age at death",
+      "B. Year of death",
+      "C. Species diversity",
+      "D. Faculty joined at Harvard"
+    ],
+    "column_II": [
+      "1. 100",
+      "2. 2004",
+      "3. Faculty of Arts and Sciences",
+      "4. Central question of evolutionary biology"
+    ],
+    "matches": ["A–1", "B–2", "C–4", "D–3"]
   }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
 
