@@ -1,26 +1,47 @@
 {
   "type": "match_the_following",
-  "question": "Match the following terms with their correct descriptions from the passage:",
+  "question": "Match the following terms with their correct descriptions based on the NCERT paragraph:",
   "column_A": [
     "1. Biology",
-    "2. Reproduction",
-    "3. Sexual reproduction",
-    "4. Progeny",
-    "5. Human reproductive health"
+    "2. Individual organisms",
+    "3. Species",
+    "4. Natural or anthropogenic extinction",
+    "5. Reproduction",
+    "6. Progeny",
+    "7. Sexual reproduction",
+    "8. Variants",
+    "9. Flowering plants and humans",
+    "10. Representative examples",
+    "11. Human reproductive health",
+    "12. Reproductive ill health"
   ],
   "column_B": [
-    "A. Enables creation of new variants",
-    "B. The story of life on earth",
-    "C. Vital process for species survival",
-    "D. Offspring left by an individual",
-    "E. Understanding how ill health can be avoided"
+    "A. The story of life on earth",
+    "B. Die without fail",
+    "C. Continue to live through millions of years",
+    "D. Threats to long-term species survival",
+    "E. Vital process without which species cannot survive",
+    "F. Left by each individual",
+    "G. Enables creation of new variants",
+    "H. Enhance survival advantage",
+    "I. Subjects used to explain reproductive processes",
+    "J. Easy to relate for understanding",
+    "K. How it can be avoided is presented",
+    "L. Related perspective to complete understanding"
   ],
   "answers": {
-    "1": "B",
-    "2": "C",
-    "3": "A",
+    "1": "A",
+    "2": "B",
+    "3": "C",
     "4": "D",
-    "5": "E"
+    "5": "E",
+    "6": "F",
+    "7": "G",
+    "8": "H",
+    "9": "I",
+    "10": "J",
+    "11": "K",
+    "12": "L"
   },
-  "word_count_covered": 35
+  "word_count_covered": 89
 }
