@@ -1,1 +1,170 @@
-
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Halophiles",
+      "Thermoacidophiles",
+      "Methanogens",
+      "Archaebacteria",
+      "Archaebacteria cell wall"
+    ],
+    "columnB": [
+      "Extreme salty areas",
+      "Hot springs",
+      "Marshy areas",
+      "Have a different cell wall structure",
+      "Responsible for survival in extreme conditions"
+    ],
+    "answer": {
+      "Halophiles": "Extreme salty areas",
+      "Thermoacidophiles": "Hot springs",
+      "Methanogens": "Marshy areas",
+      "Archaebacteria": "Have a different cell wall structure",
+      "Archaebacteria cell wall": "Responsible for survival in extreme conditions"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Methanogens",
+      "Cows and buffaloes",
+      "Methane production",
+      "Eubacteria",
+      "Eubacteria cell wall"
+    ],
+    "columnB": [
+      "Present in the gut of ruminant animals",
+      "Examples of ruminant animals",
+      "From the dung of ruminant animals",
+      "Also called ‘true bacteria’",
+      "Rigid"
+    ],
+    "answer": {
+      "Methanogens": "Present in the gut of ruminant animals",
+      "Cows and buffaloes": "Examples of ruminant animals",
+      "Methane production": "From the dung of ruminant animals",
+      "Eubacteria": "Also called ‘true bacteria’",
+      "Eubacteria cell wall": "Rigid"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Cyanobacteria",
+      "Chlorophyll in cyanobacteria",
+      "Cyanobacteria types",
+      "Cyanobacteria habitats",
+      "Cyanobacterial colonies"
+    ],
+    "columnB": [
+      "Chlorophyll a similar to green plants",
+      "Unicellular, colonial or filamentous",
+      "Freshwater/marine or terrestrial algae",
+      "Also referred to as blue-green algae",
+      "Surrounded by gelatinous sheath"
+    ],
+    "answer": {
+      "Cyanobacteria": "Also referred to as blue-green algae",
+      "Chlorophyll in cyanobacteria": "Chlorophyll a similar to green plants",
+      "Cyanobacteria types": "Unicellular, colonial or filamentous",
+      "Cyanobacteria habitats": "Freshwater/marine or terrestrial algae",
+      "Cyanobacterial colonies": "Surrounded by gelatinous sheath"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Cyanobacteria in water",
+      "Heterocysts",
+      "Nostoc and Anabaena",
+      "Chemosynthetic autotrophic bacteria",
+      "ATP production in chemosynthetic bacteria"
+    ],
+    "columnB": [
+      "Specialised cells that fix atmospheric nitrogen",
+      "Examples of organisms with heterocysts",
+      "Oxidise nitrates, nitrites and ammonia",
+      "Use released energy for ATP production",
+      "Form blooms in polluted water bodies"
+    ],
+    "answer": {
+      "Cyanobacteria in water": "Form blooms in polluted water bodies",
+      "Heterocysts": "Specialised cells that fix atmospheric nitrogen",
+      "Nostoc and Anabaena": "Examples of organisms with heterocysts",
+      "Chemosynthetic autotrophic bacteria": "Oxidise nitrates, nitrites and ammonia",
+      "ATP production in chemosynthetic bacteria": "Use released energy for ATP production"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Chemosynthetic bacteria",
+      "Role in ecosystem",
+      "Heterotrophic bacteria",
+      "Role of heterotrophs",
+      "Pathogenic bacteria"
+    ],
+    "columnB": [
+      "Recycle nitrogen, phosphorous, iron and sulphur",
+      "Most abundant in nature",
+      "Important decomposers",
+      "Cause damage to human beings, crops, farm animals and pets",
+      "Helpful in curd formation, antibiotics, nitrogen fixation"
+    ],
+    "answer": {
+      "Chemosynthetic bacteria": "Recycle nitrogen, phosphorous, iron and sulphur",
+      "Role in ecosystem": "Recycle nitrogen, phosphorous, iron and sulphur",
+      "Heterotrophic bacteria": "Most abundant in nature",
+      "Role of heterotrophs": "Helpful in curd formation, antibiotics, nitrogen fixation",
+      "Pathogenic bacteria": "Cause damage to human beings, crops, farm animals and pets"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Cholera",
+      "Typhoid",
+      "Tetanus",
+      "Citrus canker",
+      "Bacterial reproduction"
+    ],
+    "columnB": [
+      "Well known disease caused by bacteria",
+      "Well known disease caused by bacteria",
+      "Well known disease caused by bacteria",
+      "Well known disease caused by bacteria",
+      "Mainly by fission"
+    ],
+    "answer": {
+      "Cholera": "Well known disease caused by bacteria",
+      "Typhoid": "Well known disease caused by bacteria",
+      "Tetanus": "Well known disease caused by bacteria",
+      "Citrus canker": "Well known disease caused by bacteria",
+      "Bacterial reproduction": "Mainly by fission"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Bacterial spores",
+      "Bacterial DNA transfer",
+      "Mycoplasma",
+      "Mycoplasma oxygen requirement",
+      "Pathogenic mycoplasma"
+    ],
+    "columnB": [
+      "Produced under unfavourable conditions",
+      "Primitive type of sexual reproduction",
+      "Completely lack a cell wall",
+      "Can survive without oxygen",
+      "Many are pathogenic in animals and plants"
+    ],
+    "answer": {
+      "Bacterial spores": "Produced under unfavourable conditions",
+      "Bacterial DNA transfer": "Primitive type of sexual reproduction",
+      "Mycoplasma": "Completely lack a cell wall",
+      "Mycoplasma oxygen requirement": "Can survive without oxygen",
+      "Pathogenic mycoplasma": "Many are pathogenic in animals and plants"
+    }
+  }
+]
