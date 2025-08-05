@@ -1,1 +1,232 @@
-
+[
+  {
+    "question": "What was the primary reason behind the early attempts to classify living organisms?",
+    "options": [
+      "To understand biodiversity",
+      "For their use in food, shelter, and clothing",
+      "To develop medicines",
+      "To explore ecosystems"
+    ],
+    "answer": "For their use in food, shelter, and clothing"
+  },
+  {
+    "question": "How were the early classifications of living organisms done?",
+    "options": [
+      "Using DNA analysis",
+      "Using microscopes",
+      "Instinctively without scientific criteria",
+      "Based on habitat"
+    ],
+    "answer": "Instinctively without scientific criteria"
+  },
+  {
+    "question": "Who was the earliest to attempt a more scientific basis for classification?",
+    "options": [
+      "Linnaeus",
+      "Darwin",
+      "Aristotle",
+      "Theophrastus"
+    ],
+    "answer": "Aristotle"
+  },
+  {
+    "question": "How did Aristotle classify plants?",
+    "options": [
+      "Into monocots and dicots",
+      "Based on habitat",
+      "Into trees, shrubs, and herbs",
+      "Into vascular and non-vascular"
+    ],
+    "answer": "Into trees, shrubs, and herbs"
+  },
+  {
+    "question": "How did Aristotle divide animals?",
+    "options": [
+      "Based on their limbs",
+      "Into mammals and reptiles",
+      "Into those with red blood and those without",
+      "Based on their diet"
+    ],
+    "answer": "Into those with red blood and those without"
+  },
+  {
+    "question": "Which system of classification was developed during Linnaeus' time?",
+    "options": [
+      "Three Kingdom system",
+      "Five Kingdom system",
+      "Two Kingdom system",
+      "Six Kingdom system"
+    ],
+    "answer": "Two Kingdom system"
+  },
+  {
+    "question": "What were the two kingdoms included in Linnaeus' classification system?",
+    "options": [
+      "Monera and Protista",
+      "Plantae and Animalia",
+      "Fungi and Plantae",
+      "Protista and Animalia"
+    ],
+    "answer": "Plantae and Animalia"
+  },
+  {
+    "question": "Which types of organisms were included in the Two Kingdom system?",
+    "options": [
+      "All plants and animals",
+      "Only unicellular organisms",
+      "Only prokaryotes",
+      "Only fungi and algae"
+    ],
+    "answer": "All plants and animals"
+  },
+  {
+    "question": "Which of the following was NOT distinguished in the Two Kingdom system?",
+    "options": [
+      "Photosynthetic and non-photosynthetic organisms",
+      "Vertebrates and invertebrates",
+      "Aquatic and terrestrial organisms",
+      "Cold-blooded and warm-blooded animals"
+    ],
+    "answer": "Photosynthetic and non-photosynthetic organisms"
+  },
+  {
+    "question": "The Two Kingdom classification system did not distinguish between eukaryotes and:",
+    "options": [
+      "Archaea",
+      "Viruses",
+      "Prokaryotes",
+      "Multicellular organisms"
+    ],
+    "answer": "Prokaryotes"
+  },
+  {
+    "question": "The Two Kingdom system failed to distinguish between unicellular and:",
+    "options": [
+      "Fungi",
+      "Eukaryotes",
+      "Multicellular organisms",
+      "Algae"
+    ],
+    "answer": "Multicellular organisms"
+  },
+  {
+    "question": "The Two Kingdom classification did not distinguish between green algae and:",
+    "options": [
+      "Bryophytes",
+      "Fungi",
+      "Red algae",
+      "Angiosperms"
+    ],
+    "answer": "Fungi"
+  },
+  {
+    "question": "Why was classification into plants and animals found inadequate?",
+    "options": [
+      "It used too many criteria",
+      "It was too complex",
+      "Many organisms did not fall into either category",
+      "It excluded microscopic organisms"
+    ],
+    "answer": "Many organisms did not fall into either category"
+  },
+  {
+    "question": "Besides gross morphology, which characteristic was also considered necessary for classification?",
+    "options": [
+      "Size of the organism",
+      "Smell of the organism",
+      "Cell structure",
+      "Life span"
+    ],
+    "answer": "Cell structure"
+  },
+  {
+    "question": "Which of the following was considered for classification apart from gross morphology?",
+    "options": [
+      "Nature of wall",
+      "Color of eyes",
+      "Shape of body",
+      "Length of tail"
+    ],
+    "answer": "Nature of wall"
+  },
+  {
+    "question": "Which mode was considered while improving classification systems?",
+    "options": [
+      "Mode of respiration",
+      "Mode of excretion",
+      "Mode of nutrition",
+      "Mode of locomotion"
+    ],
+    "answer": "Mode of nutrition"
+  },
+  {
+    "question": "Which of these characteristics was included in the newer classification systems?",
+    "options": [
+      "Habitat",
+      "Behavior",
+      "Height",
+      "Speed"
+    ],
+    "answer": "Habitat"
+  },
+  {
+    "question": "What aspect of reproduction was included in improved classification?",
+    "options": [
+      "Rate of reproduction",
+      "Size of gametes",
+      "Methods of reproduction",
+      "Time of reproduction"
+    ],
+    "answer": "Methods of reproduction"
+  },
+  {
+    "question": "Which relationship was considered important in classification systems over time?",
+    "options": [
+      "Parasitic relationships",
+      "Evolutionary relationships",
+      "Predator-prey relationships",
+      "Symbiotic relationships"
+    ],
+    "answer": "Evolutionary relationships"
+  },
+  {
+    "question": "What has classification of living organisms undergone over time?",
+    "options": [
+      "Elimination",
+      "No change",
+      "Several changes",
+      "Simplification"
+    ],
+    "answer": "Several changes"
+  },
+  {
+    "question": "Which two kingdoms have been a constant under all different classification systems?",
+    "options": [
+      "Protista and Monera",
+      "Fungi and Plantae",
+      "Plantae and Animalia",
+      "Monera and Animalia"
+    ],
+    "answer": "Plantae and Animalia"
+  },
+  {
+    "question": "What has changed over time regarding Plantae and Animalia?",
+    "options": [
+      "Their names",
+      "The groups included under them",
+      "Their definitions in dictionaries",
+      "Their cellular structure"
+    ],
+    "answer": "The groups included under them"
+  },
+  {
+    "question": "How have the number and nature of other kingdoms been understood over time?",
+    "options": [
+      "They remained constant",
+      "They were ignored",
+      "They have been understood differently by different scientists",
+      "They were never included"
+    ],
+    "answer": "They have been understood differently by different scientists"
+  }
+    ]
