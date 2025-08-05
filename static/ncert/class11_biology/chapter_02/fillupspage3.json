@@ -1,1 +1,78 @@
-
+[
+  {
+    "question": "Bacteria are the sole members of the Kingdom ______.",
+    "answer": "Monera"
+  },
+  {
+    "question": "They are the most abundant ______.",
+    "answer": "micro-organisms"
+  },
+  {
+    "question": "Bacteria occur almost ______.",
+    "answer": "everywhere"
+  },
+  {
+    "question": "Hundreds of bacteria are present in a handful of ______.",
+    "answer": "soil"
+  },
+  {
+    "question": "They live in extreme habitats such as hot springs, deserts, snow and deep ______.",
+    "answer": "oceans"
+  },
+  {
+    "question": "Very few other life forms can ______ there.",
+    "answer": "survive"
+  },
+  {
+    "question": "Many of them live in or on other organisms as ______.",
+    "answer": "parasites"
+  },
+  {
+    "question": "Bacteria are grouped under ______ categories based on shape.",
+    "answer": "four"
+  },
+  {
+    "question": "The spherical bacteria are called ______ (pl.: cocci).",
+    "answer": "Coccus"
+  },
+  {
+    "question": "The rod-shaped bacteria are called ______ (pl.: bacilli).",
+    "answer": "Bacillus"
+  },
+  {
+    "question": "The comma-shaped bacteria are called ______ (pl.: vibrio).",
+    "answer": "Vibrium"
+  },
+  {
+    "question": "The spiral-shaped bacteria are called ______ (pl.: spirilla).",
+    "answer": "Spirillum"
+  },
+  {
+    "question": "Though the bacterial structure is simple, they are complex in ______.",
+    "answer": "behaviour"
+  },
+  {
+    "question": "Bacteria show the most extensive ______ diversity.",
+    "answer": "metabolic"
+  },
+  {
+    "question": "Some of the bacteria are ______, i.e., they synthesise their own food.",
+    "answer": "autotrophic"
+  },
+  {
+    "question": "Autotrophic bacteria synthesise food from ______ substrates.",
+    "answer": "inorganic"
+  },
+  {
+    "question": "Autotrophic bacteria may be photosynthetic or ______.",
+    "answer": "chemosynthetic"
+  },
+  {
+    "question": "The vast majority of bacteria are ______.",
+    "answer": "heterotrophs"
+  },
+  {
+    "question": "Heterotrophic bacteria depend on other organisms or on ______ matter for food.",
+    "answer": "organic"
+  }
+]
