@@ -1,117 +1,86 @@
 [
   {
-    "question": "Where is the male reproductive system located?",
-    "options": ["Thoracic region", "Pelvic region", "Abdominal region", "Cranial region"],
-    "answer": "Pelvic region"
-  },
-  {
-    "question": "What structure helps in maintaining the lower temperature of the testes?",
-    "options": ["Scrotum", "Penis", "Urethra", "Seminal vesicle"],
-    "answer": "Scrotum"
-  },
-  {
-    "question": "How many compartments does each testis have?",
-    "options": ["100", "150", "250", "300"],
-    "answer": "250"
-  },
-  {
-    "question": "What is the function of Sertoli cells?",
-    "options": [
-      "Produce testosterone",
-      "Store sperms",
-      "Provide nutrition to germ cells",
-      "Help in erection"
+    "question": "Match the following:",
+    "columnA": [
+      "Oviducts (fallopian tubes), uterus and vagina",
+      "Each fallopian tube length",
+      "Infundibulum",
+      "Fimbriae"
     ],
-    "answer": "Provide nutrition to germ cells"
-  },
-  {
-    "question": "What cells are found in the interstitial spaces of the testes?",
-    "options": ["Sertoli cells", "Leydig cells", "Germ cells", "Ciliated cells"],
-    "answer": "Leydig cells"
-  },
-  {
-    "question": "What do Leydig cells secrete?",
-    "options": ["Estrogen", "Progesterone", "Androgens", "LH"],
-    "answer": "Androgens"
-  },
-  {
-    "question": "Which duct connects the testis to the epididymis?",
-    "options": ["Vas deferens", "Urethra", "Rete testis", "Vasa efferentia"],
-    "answer": "Vasa efferentia"
-  },
-  {
-    "question": "What is the function of the ejaculatory duct?",
-    "options": [
-      "Stores sperms",
-      "Transports sperms to vas deferens",
-      "Opens into urethra",
-      "Connects seminal vesicle to urethral meatus"
+    "columnB": [
+      "About 10-12 cm long",
+      "Finger-like projections which help in collection of the ovum",
+      "Female accessory ducts",
+      "Funnel-shaped part of oviduct closer to the ovary"
     ],
-    "answer": "Opens into urethra"
+    "answer": {
+      "Oviducts (fallopian tubes), uterus and vagina": "Female accessory ducts",
+      "Each fallopian tube length": "About 10-12 cm long",
+      "Infundibulum": "Funnel-shaped part of oviduct closer to the ovary",
+      "Fimbriae": "Finger-like projections which help in collection of the ovum"
+    }
   },
   {
-    "question": "What is the external opening of the male urethra called?",
-    "options": ["Glans penis", "Urethral meatus", "Prepuce", "Cervix"],
-    "answer": "Urethral meatus"
-  },
-  {
-    "question": "What covers the glans penis?",
-    "options": ["Scrotum", "Testis", "Foreskin", "Cervix"],
-    "answer": "Foreskin"
-  },
-  {
-    "question": "Which gland’s secretion helps in the lubrication of the penis?",
-    "options": ["Seminal vesicle", "Prostate", "Bulbourethral gland", "Adrenal"],
-    "answer": "Bulbourethral gland"
-  },
-  {
-    "question": "Which sugar is present in seminal plasma?",
-    "options": ["Glucose", "Fructose", "Sucrose", "Lactose"],
-    "answer": "Fructose"
-  },
-  {
-    "question": "What are the primary female sex organs?",
-    "options": ["Ovaries", "Fallopian tubes", "Uterus", "Cervix"],
-    "answer": "Ovaries"
-  },
-  {
-    "question": "Where are the ovaries located?",
-    "options": [
-      "On the bladder",
-      "Inside the uterus",
-      "On each side of the lower abdomen",
-      "Behind the kidneys"
+    "question": "Match the following:",
+    "columnA": [
+      "Ampulla",
+      "Isthmus",
+      "Uterus",
+      "Shape of uterus"
     ],
-    "answer": "On each side of the lower abdomen"
+    "columnB": [
+      "Wider part of the oviduct",
+      "Like an inverted pear",
+      "Last part of oviduct with narrow lumen",
+      "Also called womb"
+    ],
+    "answer": {
+      "Ampulla": "Wider part of the oviduct",
+      "Isthmus": "Last part of oviduct with narrow lumen",
+      "Uterus": "Also called womb",
+      "Shape of uterus": "Like an inverted pear"
+    }
   },
   {
-    "question": "What are the finger-like projections of the infundibulum called?",
-    "options": ["Fimbriae", "Ampulla", "Cilia", "Isthmus"],
-    "answer": "Fimbriae"
+    "question": "Match the following:",
+    "columnA": [
+      "Cervix",
+      "Cervical canal and vagina",
+      "Perimetrium",
+      "Myometrium"
+    ],
+    "columnB": [
+      "External thin membranous layer of uterus",
+      "Forms the birth canal",
+      "Middle thick layer of smooth muscle in uterus",
+      "Narrow opening of uterus into vagina"
+    ],
+    "answer": {
+      "Cervix": "Narrow opening of uterus into vagina",
+      "Cervical canal and vagina": "Forms the birth canal",
+      "Perimetrium": "External thin membranous layer of uterus",
+      "Myometrium": "Middle thick layer of smooth muscle in uterus"
+    }
   },
   {
-    "question": "What is the uterus also called?",
-    "options": ["Ovary", "Cervix", "Birth canal", "Womb"],
-    "answer": "Womb"
-  },
-  {
-    "question": "Which layer of the uterus undergoes cyclic changes during the menstrual cycle?",
-    "options": ["Perimetrium", "Myometrium", "Endometrium", "Cervical canal"],
-    "answer": "Endometrium"
-  },
-  {
-    "question": "Which part of the female reproductive system forms the birth canal along with the vagina?",
-    "options": ["Ovary", "Cervix", "Cervical canal", "Uterine wall"],
-    "answer": "Cervical canal"
-  },
-  {
-    "question": "Which part of the oviduct joins the uterus?",
-    "options": ["Infundibulum", "Ampulla", "Isthmus", "Fimbriae"],
-    "answer": "Isthmus"
-  },
-  {
-    "question": "What supports the uterus in the pelvic cavity?",
-    "options": ["Ligaments", "Fimbriae", "Oviducts", "Fallopian walls"],
-    "answer": "Ligaments"
+    "question": "Match the following:",
+    "columnA": [
+      "Endometrium",
+      "Function of endometrium",
+      "Function of myometrium",
+      "Support of uterus"
+    ],
+    "columnB": [
+      "Lines the uterine cavity",
+      "Undergoes cyclical changes during menstrual cycle",
+      "Exhibits strong contraction during delivery of the baby",
+      "Supported by ligaments attached to the pelvic wall"
+    ],
+    "answer": {
+      "Endometrium": "Lines the uterine cavity",
+      "Function of endometrium": "Undergoes cyclical changes during menstrual cycle",
+      "Function of myometrium": "Exhibits strong contraction during delivery of the baby",
+      "Support of uterus": "Supported by ligaments attached to the pelvic wall"
+    }
   }
 ]
