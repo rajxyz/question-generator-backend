@@ -1,1 +1,26 @@
-
+{
+  "type": "match_the_following",
+  "question": "Match the following terms with their correct descriptions from the passage:",
+  "column_A": [
+    "1. Biology",
+    "2. Reproduction",
+    "3. Sexual reproduction",
+    "4. Progeny",
+    "5. Human reproductive health"
+  ],
+  "column_B": [
+    "A. Enables creation of new variants",
+    "B. The story of life on earth",
+    "C. Vital process for species survival",
+    "D. Offspring left by an individual",
+    "E. Understanding how ill health can be avoided"
+  ],
+  "answers": {
+    "1": "B",
+    "2": "C",
+    "3": "A",
+    "4": "D",
+    "5": "E"
+  },
+  "word_count_covered": 35
+}
