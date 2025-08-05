@@ -1,1 +1,84 @@
+{
+  "type": "match_the_following",
+  "question": "Match the following names and phrases with their correct descriptions based on the NCERT paragraph:",
+  "column_A": [
+    "1. Panchanan Maheshwari",
+    "2. November 1904",
+    "3. Jaipur (Rajasthan)",
+    "4. Allahabad",
+    "5. D.Sc.",
+    "6. Dr W. Dudgeon",
+    "7. American missionary teacher",
+    "8. Morphology",
+    "9. Teacher’s expression",
+    "10. Student’s response"
+  ],
+  "column_B": [
+    "A. Born in this month and year",
+    "B. Birthplace of a distinguished botanist",
+    "C. Obtained higher education here",
+    "D. Degree achieved by Maheshwari",
+    "E. Inspired Maheshwari during college",
+    "F. Encouraged interest in Botany",
+    "G. Specific field of Botany Maheshwari focused on",
+    "H. Felt satisfaction if student progresses ahead",
+    "I. Encouraged Panchanan to enquire",
+    "J. One of the most distinguished botanists"
+  ],
+  "answers": {
+    "1": "J",
+    "2": "A",
+    "3": "B",
+    "4": "C",
+    "5": "D",
+    "6": "E",
+    "7": "F",
+    "8": "G",
+    "9": "H",
+    "10": "I"
+  },
+  "word_count_covered": 81
+}
 
+
+{
+  "type": "match_the_following",
+  "question": "Match the following contributions and terms with their correct descriptions from the NCERT paragraph:",
+  "column_A": [
+    "1. Embryological characters",
+    "2. Department of Botany, University of Delhi",
+    "3. Immature embryos",
+    "4. Tissue culture",
+    "5. Test tube fertilisation",
+    "6. Intra-ovarian pollination",
+    "7. Fellowship of Royal Society (FRS)",
+    "8. Indian National Science Academy",
+    "9. First Biology textbooks",
+    "10. NCERT (1964)"
+  ],
+  "column_B": [
+    "A. Popularised in taxonomy by Maheshwari",
+    "B. Established as research centre in embryology",
+    "C. Artificial culture work initiated",
+    "D. Landmark in science today",
+    "E. Won worldwide acclaim",
+    "F. Also won worldwide acclaim",
+    "G. Honoured by this UK institution",
+    "H. Honoured by this Indian institution",
+    "I. Contribution to school education",
+    "J. Published for Higher Secondary Schools"
+  ],
+  "answers": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "D",
+    "5": "E",
+    "6": "F",
+    "7": "G",
+    "8": "H",
+    "9": "I",
+    "10": "J"
+  },
+  "word_count_covered": 95
+}
