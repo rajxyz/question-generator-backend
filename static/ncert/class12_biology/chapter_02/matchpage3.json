@@ -1,1 +1,83 @@
+{
+  "type": "match_the_following",
+  "question": "Match the following phrases with their correct NCERT-based meanings or functions:",
+  "column_A": [
+    "1. Sexual reproduction in plants",
+    "2. Myriads of flowers",
+    "3. Scents and perfumes",
+    "4. Rich colours",
+    "5. Aid to sexual reproduction",
+    "6. Not for our selfishness",
+    "7. All flowering plants",
+    "8. Diversity of floral parts",
+    "9. Adaptations",
+    "10. Fruits and seeds"
+  ],
+  "column_B": [
+    "A. Reason for floral characteristics like colour",
+    "B. We enjoy gazing at them",
+    "C. We swoon over them",
+    "D. Attract us visually",
+    "E. Contribute to plant reproduction",
+    "F. Flowers do not exist only for us",
+    "G. Show sexual reproduction",
+    "H. Seen in inflorescences and flowers",
+    "I. Ensure formation of reproductive end products",
+    "J. End products of sexual reproduction"
+  ],
+  "answers": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "D",
+    "5": "E",
+    "6": "F",
+    "7": "G",
+    "8": "H",
+    "9": "I",
+    "10": "J"
+  },
+  "word_count_covered": 94
 
+
+{
+  "type": "match_the_following",
+  "question": "Match the following flower-related terms with their correct NCERT-based meanings or contexts:",
+  "column_A": [
+    "1. Human beings",
+    "2. Flowers",
+    "3. Aesthetic and ornamental value",
+    "4. Social and religious value",
+    "5. Cultural value",
+    "6. Symbols for feelings",
+    "7. Floriculture",
+    "8. Morphological marvels",
+    "9. Embryological marvels",
+    "10. Sites of sexual reproduction"
+  ],
+  "column_B": [
+    "A. Have had an intimate relationship with flowers",
+    "B. Used since time immemorial",
+    "C. Make homes and gardens beautiful",
+    "D. Used in ceremonies and traditions",
+    "E. Hold importance in cultural expressions",
+    "F. Convey love, affection, grief, mourning",
+    "G. Refers to cultivation and management of flowers",
+    "H. As viewed by a biologist",
+    "I. Reflect complex internal structure",
+    "J. Functional reproductive role in plants"
+  ],
+  "answers": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "D",
+    "5": "E",
+    "6": "F",
+    "7": "G",
+    "8": "H",
+    "9": "I",
+    "10": "J"
+  },
+  "word_count_covered": 103
+}
