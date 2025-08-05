@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Gametogenesis",
+      "Insemination",
+      "Fertilisation",
+      "Implantation"
+    ],
+    "columnB": [
+      "Fusion of male and female gametes",
+      "Transfer of sperms into female genital tract",
+      "Formation of gametes (sperms/ovum)",
+      "Attachment of blastocyst to uterine wall"
+    ],
+    "answer": {
+      "Gametogenesis": "Formation of gametes (sperms/ovum)",
+      "Insemination": "Transfer of sperms into female genital tract",
+      "Fertilisation": "Fusion of male and female gametes",
+      "Implantation": "Attachment of blastocyst to uterine wall"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Blastocyst development",
+      "Gestation",
+      "Parturition",
+      "Ovum formation in females"
+    ],
+    "columnB": [
+      "Ceases around age of fifty years",
+      "Development of blastocyst after zygote formation",
+      "Embryonic development",
+      "Delivery of the baby"
+    ],
+    "answer": {
+      "Blastocyst development": "Development of blastocyst after zygote formation",
+      "Gestation": "Embryonic development",
+      "Parturition": "Delivery of the baby",
+      "Ovum formation in females": "Ceases around age of fifty years"
+    }
+  }
+]
