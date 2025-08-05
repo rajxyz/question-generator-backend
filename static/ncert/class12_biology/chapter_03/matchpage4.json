@@ -1,0 +1,117 @@
+[
+  {
+    "question": "Where is the male reproductive system located?",
+    "options": ["Thoracic region", "Pelvic region", "Abdominal region", "Cranial region"],
+    "answer": "Pelvic region"
+  },
+  {
+    "question": "What structure helps in maintaining the lower temperature of the testes?",
+    "options": ["Scrotum", "Penis", "Urethra", "Seminal vesicle"],
+    "answer": "Scrotum"
+  },
+  {
+    "question": "How many compartments does each testis have?",
+    "options": ["100", "150", "250", "300"],
+    "answer": "250"
+  },
+  {
+    "question": "What is the function of Sertoli cells?",
+    "options": [
+      "Produce testosterone",
+      "Store sperms",
+      "Provide nutrition to germ cells",
+      "Help in erection"
+    ],
+    "answer": "Provide nutrition to germ cells"
+  },
+  {
+    "question": "What cells are found in the interstitial spaces of the testes?",
+    "options": ["Sertoli cells", "Leydig cells", "Germ cells", "Ciliated cells"],
+    "answer": "Leydig cells"
+  },
+  {
+    "question": "What do Leydig cells secrete?",
+    "options": ["Estrogen", "Progesterone", "Androgens", "LH"],
+    "answer": "Androgens"
+  },
+  {
+    "question": "Which duct connects the testis to the epididymis?",
+    "options": ["Vas deferens", "Urethra", "Rete testis", "Vasa efferentia"],
+    "answer": "Vasa efferentia"
+  },
+  {
+    "question": "What is the function of the ejaculatory duct?",
+    "options": [
+      "Stores sperms",
+      "Transports sperms to vas deferens",
+      "Opens into urethra",
+      "Connects seminal vesicle to urethral meatus"
+    ],
+    "answer": "Opens into urethra"
+  },
+  {
+    "question": "What is the external opening of the male urethra called?",
+    "options": ["Glans penis", "Urethral meatus", "Prepuce", "Cervix"],
+    "answer": "Urethral meatus"
+  },
+  {
+    "question": "What covers the glans penis?",
+    "options": ["Scrotum", "Testis", "Foreskin", "Cervix"],
+    "answer": "Foreskin"
+  },
+  {
+    "question": "Which gland’s secretion helps in the lubrication of the penis?",
+    "options": ["Seminal vesicle", "Prostate", "Bulbourethral gland", "Adrenal"],
+    "answer": "Bulbourethral gland"
+  },
+  {
+    "question": "Which sugar is present in seminal plasma?",
+    "options": ["Glucose", "Fructose", "Sucrose", "Lactose"],
+    "answer": "Fructose"
+  },
+  {
+    "question": "What are the primary female sex organs?",
+    "options": ["Ovaries", "Fallopian tubes", "Uterus", "Cervix"],
+    "answer": "Ovaries"
+  },
+  {
+    "question": "Where are the ovaries located?",
+    "options": [
+      "On the bladder",
+      "Inside the uterus",
+      "On each side of the lower abdomen",
+      "Behind the kidneys"
+    ],
+    "answer": "On each side of the lower abdomen"
+  },
+  {
+    "question": "What are the finger-like projections of the infundibulum called?",
+    "options": ["Fimbriae", "Ampulla", "Cilia", "Isthmus"],
+    "answer": "Fimbriae"
+  },
+  {
+    "question": "What is the uterus also called?",
+    "options": ["Ovary", "Cervix", "Birth canal", "Womb"],
+    "answer": "Womb"
+  },
+  {
+    "question": "Which layer of the uterus undergoes cyclic changes during the menstrual cycle?",
+    "options": ["Perimetrium", "Myometrium", "Endometrium", "Cervical canal"],
+    "answer": "Endometrium"
+  },
+  {
+    "question": "Which part of the female reproductive system forms the birth canal along with the vagina?",
+    "options": ["Ovary", "Cervix", "Cervical canal", "Uterine wall"],
+    "answer": "Cervical canal"
+  },
+  {
+    "question": "Which part of the oviduct joins the uterus?",
+    "options": ["Infundibulum", "Ampulla", "Isthmus", "Fimbriae"],
+    "answer": "Isthmus"
+  },
+  {
+    "question": "What supports the uterus in the pelvic cavity?",
+    "options": ["Ligaments", "Fimbriae", "Oviducts", "Fallopian walls"],
+    "answer": "Ligaments"
+  }
+]
