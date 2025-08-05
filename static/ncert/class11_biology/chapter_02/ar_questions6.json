@@ -1,0 +1,178 @@
+[
+  {
+    "assertion": "Assertion: Dinoflagellates are mostly marine and photosynthetic organisms.",
+    "reason": "Reason: Their appearance varies from yellow, green, brown, blue or red depending on the pigments present.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: The cell wall of dinoflagellates has stiff cellulose plates on the outer surface.",
+    "reason": "Reason: Dinoflagellates lack a cell wall and have only a gelatinous sheath.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: Red dinoflagellates like Gonyaulax can cause red tides.",
+    "reason": "Reason: Rapid multiplication of red dinoflagellates releases toxins that may kill marine animals.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Euglenoids are majority fresh water organisms found in stagnant water.",
+    "reason": "Reason: They have a flexible protein-rich layer called pellicle instead of a cell wall.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Euglenoids behave like heterotrophs when deprived of sunlight.",
+    "reason": "Reason: They predate on other smaller organisms in the absence of light.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: The pigments of euglenoids are identical to those present in higher plants.",
+    "reason": "Reason: Euglena is a typical example of a euglenoid.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: Slime moulds are saprophytic protists.",
+    "reason": "Reason: Their body moves along decaying twigs and leaves engulfing organic material.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Under favourable conditions, slime moulds form an aggregation called plasmodium.",
+    "reason": "Reason: The plasmodium may grow and spread over several feet.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: During unfavourable conditions, plasmodium forms fruiting bodies bearing spores.",
+    "reason": "Reason: These spores possess true walls and are extremely resistant.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Spores of slime moulds survive for many years even under adverse conditions.",
+    "reason": "Reason: Spores of slime moulds are dispersed by air currents.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: All protozoans are heterotrophs and live as predators or parasites.",
+    "reason": "Reason: Protozoans are believed to be primitive relatives of animals.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: Amoeboid protozoans move and capture prey using pseudopodia.",
+    "reason": "Reason: Some amoeboid protozoans like Entamoeba are parasitic.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: Marine amoeboid protozoans have silica shells on their surface.",
+    "reason": "Reason: Pseudopodia are only present in freshwater amoeboid protozoans.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: Flagellated protozoans may be free-living or parasitic.",
+    "reason": "Reason: The parasitic forms cause diseases such as sleeping sickness.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Ciliated protozoans are aquatic and move actively with cilia.",
+    "reason": "Reason: Ciliated protozoans have a gullet into which food-laden water is steered by rows of cilia.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Sporozoans include diverse organisms with an infectious spore-like stage in their life cycle.",
+    "reason": "Reason: Plasmodium is the malarial parasite and is the most notorious sporozoan.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
