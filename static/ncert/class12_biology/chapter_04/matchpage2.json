@@ -1,1 +1,23 @@
-
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "India",
+      "‘Family planning’ programmes",
+      "‘Reproductive and Child Health Care (RCH) programmes’",
+      "Major tasks under RCH programmes"
+    ],
+    "columnB": [
+      "Initiated in 1951 and periodically assessed over the past decades",
+      "Amongst the first countries in the world to initiate action plans and programmes at a national level to attain total reproductive health as a social goal",
+      "Improved programmes covering wider reproduction-related areas currently in operation",
+      "Creating awareness among people about various reproduction related aspects and providing facilities and support for building up a reproductively healthy society"
+    ],
+    "answer": {
+      "India": "Amongst the first countries in the world to initiate action plans and programmes at a national level to attain total reproductive health as a social goal",
+      "‘Family planning’ programmes": "Initiated in 1951 and periodically assessed over the past decades",
+      "‘Reproductive and Child Health Care (RCH) programmes’": "Improved programmes covering wider reproduction-related areas currently in operation",
+      "Major tasks under RCH programmes": "Creating awareness among people about various reproduction related aspects and providing facilities and support for building up a reproductively healthy society"
+    }
+  }
+]
