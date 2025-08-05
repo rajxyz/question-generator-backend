@@ -1,1 +1,230 @@
-
+[
+  {
+    "question": "How wonderful is the ______ world!",
+    "answer": "living"
+  },
+  {
+    "question": "The wide range of living types is ______.",
+    "answer": "amazing"
+  },
+  {
+    "question": "The extraordinary ______ in which we find living organisms leave us speechless.",
+    "answer": "habitats"
+  },
+  {
+    "question": "Living organisms can be found in cold mountains, deciduous forests, oceans, fresh water lakes, deserts or hot ______.",
+    "answer": "springs"
+  },
+  {
+    "question": "The beauty of a galloping ______ evokes awe and wonder.",
+    "answer": "horse"
+  },
+  {
+    "question": "The beauty of the ______ birds evokes a deep sense of wonder.",
+    "answer": "migrating"
+  },
+  {
+    "question": "The beauty of the attacking ______ evokes awe.",
+    "answer": "shark"
+  },
+  {
+    "question": "Ecological conflict and ______ among members of a population make us reflect on life.",
+    "answer": "cooperation"
+  },
+  {
+    "question": "There is ecological cooperation among members of a ______ and among populations of a community.",
+    "answer": "population"
+  },
+  {
+    "question": "The molecular ______ inside a cell makes us reflect on life.",
+    "answer": "traffic"
+  },
+  {
+    "question": "The question ‘what indeed is ______?’ has two implicit sub-questions.",
+    "answer": "life"
+  },
+  {
+    "question": "The first implicit question is a ______ one and seeks answer to what living is.",
+    "answer": "technical"
+  },
+  {
+    "question": "The second implicit question is a ______ one and seeks answer to what the purpose of life is.",
+    "answer": "philosophical"
+  },
+  {
+    "question": "As ______, we shall not attempt answering the second question.",
+    "answer": "scientists"
+  },
+  {
+    "question": "We will try to reflect on – what is ______?",
+    "answer": "living"
+  },
+  {
+    "question": "If you look around, you will see a large ______ of living organisms.",
+    "answer": "variety"
+  },
+  {
+    "question": "Examples of visible organisms include potted plants, insects, birds, your ______ or other animals.",
+    "answer": "pets"
+  },
+  {
+    "question": "There are also several organisms that you cannot see with your ______ eye.",
+    "answer": "naked"
+  },
+  {
+    "question": "If you increase the area of observation, the range and ______ of organisms you see increases.",
+    "answer": "variety"
+  },
+  {
+    "question": "A dense ______ would probably contain a much greater number and kinds of organisms.",
+    "answer": "forest"
+  },
+  {
+    "question": "Each different kind of plant, animal or organism represents a ______.",
+    "answer": "species"
+  },
+  {
+    "question": "The number of species that are known and described ranges between ______ million.",
+    "answer": "1.7-1.8"
+  },
+  {
+    "question": "Living organisms can be found in deciduous ______ and oceans.",
+    "answer": "forests"
+  },
+  {
+    "question": "The valley of ______ evokes awe and a deep sense of wonder.",
+    "answer": "flowers"
+  },
+  {
+    "question": "The attacking shark evokes ______ and a deep sense of wonder.",
+    "answer": "awe"
+  },
+  {
+    "question": "The molecular traffic inside a ______ makes us reflect on life.",
+    "answer": "cell"
+  },
+  {
+    "question": "The first implicit question seeks answer to what living is as opposed to the ______.",
+    "answer": "non-living"
+  },
+  {
+    "question": "Scientists will not attempt answering the ______ question.",
+    "answer": "second"
+  },
+  {
+    "question": "Living organisms are found in fresh water ______ and hot springs.",
+    "answer": "lakes"
+  },
+  {
+    "question": "The question ‘what indeed is life?’ contains ______ implicit questions.",
+    "answer": "two"
+  },
+  {
+    "question": "The purpose of life is a ______ question, not a scientific one.",
+    "answer": "philosophical"
+  },
+  {
+    "question": "There are several organisms that you cannot see with your naked ______.",
+    "answer": "eye"
+  },
+  {
+    "question": "If you observe a greater ______, you see more kinds of organisms.",
+    "answer": "area"
+  },
+  {
+    "question": "If you visit a dense forest, you would see a much greater number and ______ of living organisms.",
+    "answer": "kinds"
+  },
+  {
+    "question": "Living organisms can be found in deserts or hot ______.",
+    "answer": "springs"
+  },
+  {
+    "question": "Conflict and cooperation occur among populations of a ______.",
+    "answer": "community"
+  },
+  {
+    "question": "We try to reflect on what is ______, not why it exists.",
+    "answer": "living"
+  },
+  {
+    "question": "Each different kind of organism you see represents a ______.",
+    "answer": "species"
+  },
+  {
+    "question": "The number of known and described species ranges between 1.7 and ______ million.",
+    "answer": "1.8"
+  },
+  {
+    "question": "You would see more species if you increased the area of your ______.",
+    "answer": "observations"
+  },
+  {
+    "question": "The beauty of the ______ birds evokes a sense of awe.",
+    "answer": "migrating"
+  },
+  {
+    "question": "Ecological ______ occurs even at the molecular level inside cells.",
+    "answer": "interaction"
+  },
+  {
+    "question": "Cold ______ are among the habitats where living organisms are found.",
+    "answer": "mountains"
+  },
+  {
+    "question": "Organisms not visible to the naked eye are still found all around ______.",
+    "answer": "you"
+  },
+  {
+    "question": "We try to reflect on what is living, not on the ______ of life.",
+    "answer": "purpose"
+  },
+  {
+    "question": "The ______ of species diversity can be experienced in a dense forest.",
+    "answer": "richness"
+  },
+  {
+    "question": "Living organisms exist in diverse environments such as oceans and ______.",
+    "answer": "deserts"
+  },
+  {
+    "question": "The ______ of a galloping horse evokes a deep sense of wonder.",
+    "answer": "beauty"
+  },
+  {
+    "question": "Among members of a population, there is ecological ______ and cooperation.",
+    "answer": "conflict"
+  },
+  {
+    "question": "Living organisms are found in cold mountains and hot ______.",
+    "answer": "springs"
+  },
+  {
+    "question": "Conflict among populations occurs within a ______.",
+    "answer": "community"
+  },
+  {
+    "question": "What is living is a question with both technical and ______ dimensions.",
+    "answer": "philosophical"
+  },
+  {
+    "question": "The range of organisms increases with increase in the ______ of observation.",
+    "answer": "area"
+  },
+  {
+    "question": "The ______ of flowers evokes awe and wonder.",
+    "answer": "valley"
+  },
+  {
+    "question": "You cannot see some organisms with your ______ eye.",
+    "answer": "naked"
+  },
+  {
+    "question": "As scientists, we reflect on what is ______.",
+    "answer": "living"
+  },
+  {
+    "question": "The number of species known and described is around ______ million.",
+    "answer": "1.7"
+  }
+]
