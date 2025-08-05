@@ -1,1 +1,74 @@
-
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Classification of organisms was done instinctively",
+      "Aristotle used simple morphological characters",
+      "Aristotle classified plants into",
+      "Aristotle divided animals into",
+      "Linnaeus developed a Two Kingdom system"
+    ],
+    "columnB": [
+      "Trees, shrubs and herbs",
+      "Plantae and Animalia",
+      "Not using criteria that were scientific",
+      "Those which had red blood and those that did not",
+      "Simple morphological characters"
+    ],
+    "answer": {
+      "Classification of organisms was done instinctively": "Not using criteria that were scientific",
+      "Aristotle used simple morphological characters": "Simple morphological characters",
+      "Aristotle classified plants into": "Trees, shrubs and herbs",
+      "Aristotle divided animals into": "Those which had red blood and those that did not",
+      "Linnaeus developed a Two Kingdom system": "Plantae and Animalia"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Two Kingdom system included",
+      "Two Kingdom system did not distinguish between",
+      "Green algae",
+      "Fungi",
+      "Classification of organisms into plants and animals"
+    ],
+    "columnB": [
+      "Photosynthetic organisms",
+      "Eukaryotes and prokaryotes",
+      "All plants and animals respectively",
+      "Non-photosynthetic organisms",
+      "Was easily done and was easy to understand"
+    ],
+    "answer": {
+      "Two Kingdom system included": "All plants and animals respectively",
+      "Two Kingdom system did not distinguish between": "Eukaryotes and prokaryotes",
+      "Green algae": "Photosynthetic organisms",
+      "Fungi": "Non-photosynthetic organisms",
+      "Classification of organisms into plants and animals": "Was easily done and was easy to understand"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Two kingdom classification was found inadequate",
+      "Need was felt to include characteristics like",
+      "Classification systems have undergone",
+      "Plant and animal kingdoms have been",
+      "Understanding of groups/organisms under kingdoms"
+    ],
+    "columnB": [
+      "A constant under all different systems",
+      "Cell structure, nature of wall, mode of nutrition, habitat, methods of reproduction, evolutionary relationships",
+      "Changing over time",
+      "Several changes over the time",
+      "A large number of organisms did not fall into either category"
+    ],
+    "answer": {
+      "Two kingdom classification was found inadequate": "A large number of organisms did not fall into either category",
+      "Need was felt to include characteristics like": "Cell structure, nature of wall, mode of nutrition, habitat, methods of reproduction, evolutionary relationships",
+      "Classification systems have undergone": "Several changes over the time",
+      "Plant and animal kingdoms have been": "A constant under all different systems",
+      "Understanding of groups/organisms under kingdoms": "Changing over time"
+    }
+  }
+]
