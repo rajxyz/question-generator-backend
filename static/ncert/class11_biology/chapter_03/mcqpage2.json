@@ -1,1 +1,180 @@
+[
+  {
+    "question": "Which classification systems are currently acceptable?",
+    "options": ["Artificial classification systems", "Numerical classification systems", "Phylogenetic classification systems", "Natural classification systems"],
+    "answer": "Phylogenetic classification systems"
+  },
+  {
+    "question": "Phylogenetic classification is based on:",
+    "options": ["Morphological traits", "Chromosome behaviour", "Chemical composition", "Evolutionary relationships"],
+    "answer": "Evolutionary relationships"
+  },
+  {
+    "question": "Phylogenetic classification assumes that organisms in the same taxa have:",
+    "options": ["Similar appearance", "Equal chromosome numbers", "A common ancestor", "The same environment"],
+    "answer": "A common ancestor"
+  },
+  {
+    "question": "Which of the following is used to help resolve classification difficulties, especially when fossil evidence is lacking?",
+    "options": ["Habitat data", "Information from many other sources", "Seed germination patterns", "Geographical location"],
+    "answer": "Information from many other sources"
+  },
+  {
+    "question": "When is additional information from other sources especially important in classification?",
+    "options": ["When organisms are aquatic", "When there is no supporting fossil evidence", "When vegetative characters are available", "When sexual characters are clear"],
+    "answer": "When there is no supporting fossil evidence"
+  },
+  {
+    "question": "Numerical taxonomy is based on:",
+    "options": ["DNA sequencing", "Fossil records", "All observable characteristics", "Geographical distribution"],
+    "answer": "All observable characteristics"
+  },
+  {
+    "question": "Numerical taxonomy is now easily carried out using:",
+    "options": ["Fossils", "Laboratory experiments", "Field observations", "Computers"],
+    "answer": "Computers"
+  },
+  {
+    "question": "In numerical taxonomy, what is assigned to all characters?",
+    "options": ["Names", "Percentages", "Graphs", "Numbers and codes"],
+    "answer": "Numbers and codes"
+  },
+  {
+    "question": "Why can hundreds of characters be considered in numerical taxonomy?",
+    "options": ["Because only genetic traits are used", "Because it uses simplified models", "Because computers process the data", "Because data is collected from fossils"],
+    "answer": "Because computers process the data"
+  },
+  {
+    "question": "In numerical taxonomy, each character is given:",
+    "options": ["Less weightage", "Equal importance", "No code", "Only morphological value"],
+    "answer": "Equal importance"
+  },
+  {
+    "question": "Cytotaxonomy is based on which type of information?",
+    "options": ["Ecological", "Chromosomal", "Morphological", "Biogeographical"],
+    "answer": "Chromosomal"
+  },
+  {
+    "question": "Which of the following is included in cytological information used in cytotaxonomy?",
+    "options": ["Embryo structure", "Leaf venation", "Chromosome number, structure, and behaviour", "Pigment colour"],
+    "answer": "Chromosome number, structure, and behaviour"
+  },
+  {
+    "question": "Chemotaxonomy uses which basis for classification?",
+    "options": ["Behavioural traits", "Chemical constituents of the plant", "Leaf arrangements", "Root structures"],
+    "answer": "Chemical constituents of the plant"
+  },
+  {
+    "question": "Which methods are used by taxonomists these days besides phylogenetic systems?",
+    "options": ["Artificial and ecological taxonomy", "Cytotaxonomy and chemotaxonomy", "Habitual and floral taxonomy", "Numerical and fossil taxonomy"],
+    "answer": "Cytotaxonomy and chemotaxonomy"
+  }
+]
 
+[
+  {
+    "question": "Algae are primarily:",
+    "options": ["Heterotrophic organisms", "Chlorophyll-bearing, autotrophic organisms", "Parasitic fungi", "Prokaryotic organisms"],
+    "answer": "Chlorophyll-bearing, autotrophic organisms"
+  },
+  {
+    "question": "The body structure of algae is described as:",
+    "options": ["Vascular", "Woody", "Thalloid", "Differentiated into root, stem and leaves"],
+    "answer": "Thalloid"
+  },
+  {
+    "question": "Algae are largely found in:",
+    "options": ["Deserts", "Fresh water and marine environments", "Air", "Host bodies"],
+    "answer": "Fresh water and marine environments"
+  },
+  {
+    "question": "Besides aquatic habitats, algae also occur in:",
+    "options": ["Dry air", "Deep underground", "Moist stones, soils and wood", "Snowy mountains only"],
+    "answer": "Moist stones, soils and wood"
+  },
+  {
+    "question": "Algae can form associations with fungi and animals such as:",
+    "options": ["Lichen and termites", "Mosses and birds", "Lichen and sloth bear", "Ferns and squirrels"],
+    "answer": "Lichen and sloth bear"
+  },
+  {
+    "question": "Which of the following is a colonial form of algae?",
+    "options": ["Spirogyra", "Ulothrix", "Volvox", "Fucus"],
+    "answer": "Volvox"
+  },
+  {
+    "question": "Which of the following algae has a filamentous form?",
+    "options": ["Volvox and Fucus", "Ulothrix and Spirogyra", "Eudorina and Volvox", "Chlamydomonas and Ulva"],
+    "answer": "Ulothrix and Spirogyra"
+  },
+  {
+    "question": "Marine forms of algae such as kelps form:",
+    "options": ["Spores", "Filaments", "Massive plant bodies", "Microscopic colonies"],
+    "answer": "Massive plant bodies"
+  },
+  {
+    "question": "Vegetative reproduction in algae occurs by:",
+    "options": ["Binary fission", "Budding", "Fragmentation", "Spore formation"],
+    "answer": "Fragmentation"
+  },
+  {
+    "question": "In algae, each fragment from vegetative reproduction develops into:",
+    "options": ["A gamete", "A sporophyte", "A thallus", "A filament"],
+    "answer": "A thallus"
+  },
+  {
+    "question": "Asexual reproduction in algae commonly occurs through the formation of:",
+    "options": ["Conidia", "Zoospores", "Zygospores", "Megaspores"],
+    "answer": "Zoospores"
+  },
+  {
+    "question": "Zoospores in algae are:",
+    "options": ["Non-motile", "Multicellular", "Flagellated and motile", "Photosynthetic but non-flagellated"],
+    "answer": "Flagellated and motile"
+  },
+  {
+    "question": "Upon germination, zoospores in algae give rise to:",
+    "options": ["Gametes", "Roots", "Leaves", "New plants"],
+    "answer": "New plants"
+  },
+  {
+    "question": "Sexual reproduction in algae involves:",
+    "options": ["Binary fission", "Fusion of gametes", "Vegetative propagation", "Sporogenesis"],
+    "answer": "Fusion of gametes"
+  },
+  {
+    "question": "In Ulothrix, sexual reproduction involves gametes that are:",
+    "options": ["Flagellated and dissimilar in size", "Non-flagellated and dissimilar", "Flagellated and similar in size", "Non-flagellated and fused with spores"],
+    "answer": "Flagellated and similar in size"
+  },
+  {
+    "question": "In Spirogyra, the gametes involved in sexual reproduction are:",
+    "options": ["Flagellated and dissimilar in size", "Non-flagellated and similar in size", "Motile and non-motile pair", "Of different species"],
+    "answer": "Non-flagellated and similar in size"
+  },
+  {
+    "question": "Reproduction involving fusion of gametes that are similar in size is called:",
+    "options": ["Anisogamous", "Oogamous", "Isogamous", "Polygamous"],
+    "answer": "Isogamous"
+  },
+  {
+    "question": "In species of Eudorina, the fusion of gametes dissimilar in size is termed as:",
+    "options": ["Isogamous", "Oogamous", "Anisogamous", "Monogamous"],
+    "answer": "Anisogamous"
+  },
+  {
+    "question": "In Volvox, fusion occurs between:",
+    "options": ["Two flagellated gametes", "Non-motile gametes", "Two similar gametes", "One large non-motile female and one small motile male gamete"],
+    "answer": "One large non-motile female and one small motile male gamete"
+  },
+  {
+    "question": "Oogamous reproduction involves fusion between:",
+    "options": ["Two non-motile gametes", "Gametes of similar size", "One large non-motile female and a smaller motile male gamete", "Two motile gametes of different sizes"],
+    "answer": "One large non-motile female and a smaller motile male gamete"
+  },
+  {
+    "question": "Which of the following algae exhibit oogamous reproduction?",
+    "options": ["Ulothrix and Spirogyra", "Volvox and Fucus", "Eudorina and Ulva", "Spirogyra and Eudorina"],
+    "answer": "Volvox and Fucus"
+  }
+]
