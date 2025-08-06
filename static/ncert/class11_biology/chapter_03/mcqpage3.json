@@ -1,1 +1,147 @@
-
+[
+  {
+    "question": "What percentage of total carbon dioxide fixation on earth is carried out by algae?",
+    "options": ["About one-fourth", "About one-third", "At least a half", "More than three-fourths"],
+    "answer": "At least a half"
+  },
+  {
+    "question": "Algae increase the level of which gas in their immediate environment?",
+    "options": ["Nitrogen", "Hydrogen", "Oxygen", "Carbon dioxide"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Algae are important as:",
+    "options": ["Primary consumers", "Primary producers", "Secondary consumers", "Decomposers"],
+    "answer": "Primary producers"
+  },
+  {
+    "question": "Energy-rich compounds produced by algae form the basis of food cycles of:",
+    "options": ["Terrestrial animals", "All plants", "All aquatic animals", "Fungi"],
+    "answer": "All aquatic animals"
+  },
+  {
+    "question": "How many species of marine algae are used as food?",
+    "options": ["30", "50", "70", "100"],
+    "answer": "70"
+  },
+  {
+    "question": "Which of the following algae are used as food?",
+    "options": ["Ulothrix, Spirogyra", "Chlamydomonas, Volvox", "Porphyra, Laminaria, Sargassum", "Fucus, Eudorina"],
+    "answer": "Porphyra, Laminaria, Sargassum"
+  },
+  {
+    "question": "Which group of algae produces algin?",
+    "options": ["Green algae", "Red algae", "Brown algae", "Blue green algae"],
+    "answer": "Brown algae"
+  },
+  {
+    "question": "Carrageen is obtained from which group of algae?",
+    "options": ["Brown algae", "Red algae", "Green algae", "Cyanobacteria"],
+    "answer": "Red algae"
+  },
+  {
+    "question": "Agar is commercially obtained from:",
+    "options": ["Volvox and Ulothrix", "Gelidium and Gracilaria", "Fucus and Sargassum", "Chlamydomonas and Spirogyra"],
+    "answer": "Gelidium and Gracilaria"
+  },
+  {
+    "question": "Agar is used to:",
+    "options": ["Store food", "Grow microbes", "Increase pH", "Reduce oxygen"],
+    "answer": "Grow microbes"
+  },
+  {
+    "question": "Besides microbial cultures, agar is used in the preparation of:",
+    "options": ["Ointments", "Bread", "Ice-creams and jellies", "Fertilizers"],
+    "answer": "Ice-creams and jellies"
+  },
+  {
+    "question": "Which unicellular alga is rich in proteins and used as a food supplement?",
+    "options": ["Volvox", "Chlorella", "Spirogyra", "Ulva"],
+    "answer": "Chlorella"
+  },
+  {
+    "question": "Chlorella is even used by:",
+    "options": ["Farmers", "Fishermen", "Space travellers", "Miners"],
+    "answer": "Space travellers"
+  },
+  {
+    "question": "How many main classes is algae divided into?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "answer": "Three"
+  },
+  {
+    "question": "The three main classes of algae are:",
+    "options": ["Chlorophyceae, Bacillariophyceae, Euglenophyceae", "Chlorophyceae, Phaeophyceae, Rhodophyceae", "Charophyceae, Cyanophyceae, Chlorophyceae", "Rhodophyceae, Bacillariophyceae, Phaeophyceae"],
+    "answer": "Chlorophyceae, Phaeophyceae, Rhodophyceae"
+  },
+  {
+    "question": "Members of Chlorophyceae are commonly known as:",
+    "options": ["Brown algae", "Red algae", "Green algae", "Blue green algae"],
+    "answer": "Green algae"
+  },
+  {
+    "question": "The plant body of green algae may be:",
+    "options": ["Unicellular, colonial or filamentous", "Multicellular, woody or vascular", "Colonial, vascular or rooted", "Filamentous, parasitic or saprophytic"],
+    "answer": "Unicellular, colonial or filamentous"
+  },
+  {
+    "question": "Green algae are usually grass green due to dominance of:",
+    "options": ["Chlorophyll a and c", "Carotenoids", "Chlorophyll a and b", "Phycobilins"],
+    "answer": "Chlorophyll a and b"
+  },
+  {
+    "question": "In green algae, pigments are localised in:",
+    "options": ["Cytoplasm", "Mitochondria", "Vacuole", "Chloroplasts"],
+    "answer": "Chloroplasts"
+  },
+  {
+    "question": "The chloroplasts in green algae may be:",
+    "options": ["Spindle-shaped only", "Discoid, plate-like, reticulate, cup-shaped, spiral or ribbon-shaped", "Round or square", "Tubular or cuboidal"],
+    "answer": "Discoid, plate-like, reticulate, cup-shaped, spiral or ribbon-shaped"
+  },
+  {
+    "question": "What are pyrenoids?",
+    "options": ["Pigment granules", "Chloroplasts", "Storage bodies in chloroplasts", "Vacuoles with proteins"],
+    "answer": "Storage bodies in chloroplasts"
+  },
+  {
+    "question": "Pyrenoids contain:",
+    "options": ["Only starch", "Only lipids", "Protein besides starch", "Only proteins"],
+    "answer": "Protein besides starch"
+  },
+  {
+    "question": "In some algae, food may also be stored as:",
+    "options": ["Vacuoles", "Glycogen granules", "Oil droplets", "Glucose"],
+    "answer": "Oil droplets"
+  },
+  {
+    "question": "Green algae usually have a cell wall composed of:",
+    "options": ["Only cellulose", "Only pectose", "An inner layer of cellulose and outer layer of pectose", "Chitin and cellulose"],
+    "answer": "An inner layer of cellulose and outer layer of pectose"
+  },
+  {
+    "question": "Vegetative reproduction in green algae usually occurs by:",
+    "options": ["Fission", "Budding", "Fragmentation", "Sporulation"],
+    "answer": "Fragmentation"
+  },
+  {
+    "question": "Asexual reproduction in green algae occurs by:",
+    "options": ["Conidia", "Flagellated zoospores", "Binary fission", "Zygospores"],
+    "answer": "Flagellated zoospores"
+  },
+  {
+    "question": "Zoospores in green algae are produced in:",
+    "options": ["Zoosporangia", "Thallus", "Antheridia", "Pyrenoids"],
+    "answer": "Zoosporangia"
+  },
+  {
+    "question": "Sexual reproduction in green algae may be:",
+    "options": ["Only oogamous", "Isogamous, anisogamous or oogamous", "Only isogamous", "Only anisogamous"],
+    "answer": "Isogamous, anisogamous or oogamous"
+  },
+  {
+    "question": "Which of the following are commonly found green algae?",
+    "options": ["Gelidium, Gracilaria, Chlorella", "Volvox, Ulothrix, Chlamydomonas, Spirogyra, Chara", "Fucus, Sargassum, Porphyra", "Eudorina, Volvox, Laminaria"],
+    "answer": "Volvox, Ulothrix, Chlamydomonas, Spirogyra, Chara"
+  }
+]
