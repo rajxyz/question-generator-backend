@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Who proposed the Five Kingdom classification?",
+    "options": ["Linnaeus", "Bentham", "Whittaker", "Hooker"],
+    "answer": "Whittaker"
+  },
+  {
+    "question": "In which year was the Five Kingdom classification proposed?",
+    "options": ["1969", "1869", "1979", "1959"],
+    "answer": "1969"
+  },
+  {
+    "question": "Which of the following is NOT one of the Five Kingdoms in Whittaker's classification?",
+    "options": ["Protista", "Fungi", "Animalia", "Bacteria"],
+    "answer": "Bacteria"
+  },
+  {
+    "question": "The Five Kingdom classification includes Monera, Protista, Fungi, Animalia and ______.",
+    "options": ["Algae", "Plantae", "Virus", "Lichens"],
+    "answer": "Plantae"
+  },
+  {
+    "question": "Which kingdom's further classification is discussed in this chapter?",
+    "options": ["Monera", "Animalia", "Protista", "Plantae"],
+    "answer": "Plantae"
+  },
+  {
+    "question": "Fungi, and members of which two kingdoms having cell walls have now been excluded from Plantae?",
+    "options": ["Protista and Animalia", "Monera and Protista", "Fungi and Animalia", "Fungi and Monera"],
+    "answer": "Monera and Protista"
+  },
+  {
+    "question": "Earlier classifications placed fungi and some other organisms in which kingdom?",
+    "options": ["Animalia", "Protista", "Plantae", "Monera"],
+    "answer": "Plantae"
+  },
+  {
+    "question": "Cyanobacteria are also referred to as:",
+    "options": ["Red algae", "Brown algae", "Green algae", "Blue green algae"],
+    "answer": "Blue green algae"
+  },
+  {
+    "question": "According to the given paragraph, blue green algae are not considered as:",
+    "options": ["Bacteria", "Monerans", "Algae", "Protists"],
+    "answer": "Algae"
+  },
+  {
+    "question": "Which groups are described under Plantae in this chapter?",
+    "options": ["Bryophytes, Fungi, Angiosperms", "Algae, Bryophytes, Pteridophytes, Gymnosperms, Angiosperms", "Algae, Monera, Angiosperms", "Fungi, Protista, Angiosperms"],
+    "answer": "Algae, Bryophytes, Pteridophytes, Gymnosperms, Angiosperms"
+  },
+  {
+    "question": "The earliest classification systems used which type of characters?",
+    "options": ["Genetic", "Internal anatomical", "Gross superficial morphological", "Ecological"],
+    "answer": "Gross superficial morphological"
+  },
+  {
+    "question": "The classification system given by Linnaeus was mainly based on:",
+    "options": ["Genetic characters", "Embryological characters", "Androecium structure", "Root structure"],
+    "answer": "Androecium structure"
+  },
+  {
+    "question": "Artificial systems of classification separated closely related species because they were based on:",
+    "options": ["Internal anatomy", "Embryology", "Few characteristics", "Genetics"],
+    "answer": "Few characteristics"
+  },
+  {
+    "question": "Which of the following is a reason why artificial systems of classification are not acceptable?",
+    "options": ["They were based on evolution", "They included fungi", "They gave equal weightage to vegetative and sexual characters", "They only considered internal features"],
+    "answer": "They gave equal weightage to vegetative and sexual characters"
+  },
+  {
+    "question": "Vegetative characters are often more affected by:",
+    "options": ["Age", "Time", "Environment", "Pollination"],
+    "answer": "Environment"
+  },
+  {
+    "question": "Natural classification systems are based on:",
+    "options": ["External appearance only", "Habit and habitat", "Natural affinities among organisms", "Human usage of plants"],
+    "answer": "Natural affinities among organisms"
+  },
+  {
+    "question": "Which features are considered in natural classification systems?",
+    "options": ["Only vegetative", "Only reproductive", "External and internal features", "Only embryological"],
+    "answer": "External and internal features"
+  },
+  {
+    "question": "Which internal features are considered in natural classification systems?",
+    "options": ["Behaviour and reproduction", "Ultrastructure, anatomy, embryology, phytochemistry", "Colour and shape", "Number of leaves and roots"],
+    "answer": "Ultrastructure, anatomy, embryology, phytochemistry"
+  },
+  {
+    "question": "Who gave a natural classification system for flowering plants?",
+    "options": ["Whittaker and Linnaeus", "Linnaeus and Hooker", "Bentham and Hooker", "Darwin and Mendel"],
+    "answer": "Bentham and Hooker"
+  },
+  {
+    "question": "George Bentham worked with which other scientist on the natural classification system?",
+    "options": ["Linnaeus", "Whittaker", "Joseph Dalton Hooker", "Darwin"],
+    "answer": "Joseph Dalton Hooker"
+  }
+]
