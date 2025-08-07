@@ -1,1 +1,112 @@
-
+[
+  {
+    "question": "What makes us seek the defining characteristics of living organisms?",
+    "options": [
+      "Reproductive ability of organisms",
+      "The range of organisms in terms of size, colour, habitat, physiological and morphological features",
+      "Similarities between plants and animals",
+      "The number of extinct organisms"
+    ],
+    "answer": "The range of organisms in terms of size, colour, habitat, physiological and morphological features"
+  },
+  {
+    "question": "Why have biologists evolved certain rules and principles?",
+    "options": [
+      "To preserve organisms",
+      "To generate economic value from organisms",
+      "To facilitate the study of kinds and diversity of organisms",
+      "To find medicinal plants"
+    ],
+    "answer": "To facilitate the study of kinds and diversity of organisms"
+  },
+  {
+    "question": "What is taxonomy?",
+    "options": [
+      "Study of habitats",
+      "Study of physiology",
+      "Branch of knowledge dealing with identification, nomenclature and classification of organisms",
+      "Study of DNA structure"
+    ],
+    "answer": "Branch of knowledge dealing with identification, nomenclature and classification of organisms"
+  },
+  {
+    "question": "Taxonomic studies of species are useful in all of the following except:",
+    "options": [
+      "Agriculture",
+      "Forestry",
+      "Industry",
+      "Astrology"
+    ],
+    "answer": "Astrology"
+  },
+  {
+    "question": "The basics of taxonomy are evolved under:",
+    "options": [
+      "Genetic codes",
+      "Universal codes",
+      "National codes",
+      "International codes"
+    ],
+    "answer": "International codes"
+  },
+  {
+    "question": "Scientific or biological name of an organism comprises:",
+    "options": [
+      "One word",
+      "Two words",
+      "Three words",
+      "Four words"
+    ],
+    "answer": "Two words"
+  },
+  {
+    "question": "On what basis is each organism identified and assigned a correct scientific name?",
+    "options": [
+      "Geographical distribution",
+      "Economic importance",
+      "Resemblances and distinct differences",
+      "DNA sequencing"
+    ],
+    "answer": "Resemblances and distinct differences"
+  },
+  {
+    "question": "The system of naming organisms with two words is called:",
+    "options": [
+      "Trinomial system",
+      "Binomial system",
+      "Monomial system",
+      "Scientific system"
+    ],
+    "answer": "Binomial system"
+  },
+  {
+    "question": "An organism occupies a place in the:",
+    "options": [
+      "Food chain",
+      "System of classification",
+      "Environment",
+      "Biosphere"
+    ],
+    "answer": "System of classification"
+  },
+  {
+    "question": "What are taxonomic categories also referred to as?",
+    "options": [
+      "Species",
+      "Ranks",
+      "Taxa",
+      "Orders"
+    ],
+    "answer": "Taxa"
+  },
+  {
+    "question": "All the taxonomic categories together constitute:",
+    "options": [
+      "Classification chart",
+      "Biosphere",
+      "Taxonomic system",
+      "Taxonomic hierarchy"
+    ],
+    "answer": "Taxonomic hierarchy"
+  }
+]
