@@ -33,10 +33,7 @@
     "question": "Observation under a dissecting microscope reveals range in:",
     "options": ["Root growth", "Leaf shape", "Anther shape and attachment", "Petal color"],
     "answer": "Anther shape and attachment"
-  }
-]
-
-[
+  },
   {
     "question": "A typical angiosperm anther is:",
     "options": ["Unilobed", "Trilobed", "Bilobed", "Multilobed"],
@@ -91,10 +88,7 @@
     "question": "Pollen sacs are packed with:",
     "options": ["Ovules", "Anthers", "Pollen grains", "Nectar"],
     "answer": "Pollen grains"
-  }
-]
-
-[
+  },
   {
     "question": "Microsporangia develop further and become:",
     "options": ["Ovules", "Anthers", "Pollen sacs", "Filaments"],
@@ -154,10 +148,7 @@
     "question": "Sporogenous tissue is made of compactly arranged:",
     "options": ["Vascular bundles", "Heterogenous cells", "Homogenous cells", "Empty spaces"],
     "answer": "Homogenous cells"
-  }
-]
-
-[
+  },
   {
     "question": "During microsporogenesis, cells of the sporogenous tissue undergo:",
     "options": ["Mitosis", "Binary fission", "Meiotic divisions", "Budding"],
