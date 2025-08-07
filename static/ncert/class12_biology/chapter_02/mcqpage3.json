@@ -48,9 +48,7 @@
     "question": "The two parts in a flower where the most important units of sexual reproduction develop are:",
     "options": ["Calyx and corolla", "Petal and sepal", "Androecium and gynoecium", "Style and ovary"],
     "answer": "Androecium and gynoecium"
-  }
-]
- [
+  },
   {
     "question": "Before the flower appears, the decision for flowering has already:",
     "options": ["Started", "Failed", "Taken place", "Ended"],
@@ -96,4 +94,4 @@
     "options": ["Male reproductive organ", "Sterile structure", "Female reproductive organ", "Seed coat"],
     "answer": "Female reproductive organ"
   }
- ]
+]
