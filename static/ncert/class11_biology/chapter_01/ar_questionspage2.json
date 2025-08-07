@@ -1,62 +1,90 @@
 [
   {
-    "column_I": [
-      "A. Ernst Mayr",
-      "B. Title given to Mayr",
-      "C. Birthplace",
-      "D. Year of birth"
+    "assertion": "Ernst Mayr was born on 5 July 1904 in Kempten, Germany.",
+    "reason": "Ernst Mayr was one of the 100 greatest scientists of all time.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
     ],
-    "column_II": [
-      "1. The Darwin of the 20th century",
-      "2. Kempten, Germany",
-      "3. 1904",
-      "4. Harvard University evolutionary biologist"
-    ],
-    "matches": ["A–4", "B–1", "C–2", "D–3"]
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
   },
   {
-    "column_I": [
-      "A. Year Mayr joined Harvard",
-      "B. Year Mayr retired",
-      "C. Title after retirement",
-      "D. Faculty joined at Harvard"
+    "assertion": "Ernst Mayr has been called 'The Darwin of the 20th century'.",
+    "reason": "Ernst Mayr was a Harvard University evolutionary biologist.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
     ],
-    "column_II": [
-      "1. 1953",
-      "2. 1975",
-      "3. Alexander Agassiz Professor of Zoology Emeritus",
-      "4. Faculty of Arts and Sciences"
-    ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
   },
   {
-    "column_I": [
-      "A. Fields of Mayr's research",
-      "B. Central question of evolutionary biology",
-      "C. Contribution to species concept",
-      "D. Career span"
+    "assertion": "Ernst Mayr joined Harvard’s Faculty of Arts and Sciences in 1953.",
+    "reason": "He retired in 1975 and assumed the title Alexander Agassiz Professor of Zoology Emeritus.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
     ],
-    "column_II": [
-      "1. Ornithology, taxonomy, zoogeography, evolution, systematics, philosophy of biology",
-      "2. Origin of species diversity",
-      "3. Pioneered currently accepted definition of biological species",
-      "4. Nearly 80 years"
-    ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
   },
   {
-    "column_I": [
-      "A. Balzan Prize",
-      "B. International Prize for Biology",
-      "C. Crafoord Prize",
-      "D. Year of death"
+    "assertion": "Ernst Mayr's research spanned ornithology, taxonomy, zoogeography, evolution, systematics, and the history and philosophy of biology.",
+    "reason": "He had a career that lasted nearly 80 years.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
     ],
-    "column_II": [
-      "1. 1983",
-      "2. 1994",
-      "3. 1999",
-      "4. 2004"
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Ernst Mayr made the origin of species diversity the central question of evolutionary biology.",
+    "reason": "He almost single-handedly contributed to this shift in focus.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
     ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Ernst Mayr pioneered the currently accepted definition of a biological species.",
+    "reason": "He was awarded the Nobel Prize in Biology.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C. Assertion is true but Reason is false."
+  },
+  {
+    "assertion": "Ernst Mayr was awarded the Balzan Prize in 1983, the International Prize for Biology in 1994, and the Crafoord Prize in 1999.",
+    "reason": "These three prizes are widely regarded as the triple crown of biology.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Ernst Mayr died in the year 2004 at the age of 100.",
+    "reason": "He was born in the year 1904.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
   }
 ]
