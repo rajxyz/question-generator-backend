@@ -1,1 +1,47 @@
-
+[
+  {
+    "column_I": [
+      "A. Living world",
+      "B. Taxonomy",
+      "C. Identification, nomenclature and classification",
+      "D. Binomial system of nomenclature"
+    ],
+    "column_II": [
+      "1. Rich in variety",
+      "2. Branch of knowledge dealing with identification, nomenclature and classification",
+      "3. Rules and principles evolved by biologists",
+      "4. Scientific/biological name comprising two words"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Taxonomic studies",
+      "B. International codes",
+      "C. Resemblances and distinct differences",
+      "D. Organism in classification"
+    ],
+    "column_II": [
+      "1. Useful in agriculture, forestry, industry and for knowing our bio-resources and their diversity",
+      "2. Universally evolved basics of taxonomy",
+      "3. Basis for identification and assignment of correct scientific name",
+      "4. Occupies a place or position in the system of classification"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Taxonomic categories",
+      "B. Taxa",
+      "C. Categories/ranks",
+      "D. Taxonomic hierarchy"
+    ],
+    "column_II": [
+      "1. Also referred to as taxa",
+      "2. Each organism assigned to one",
+      "3. Many categories/ranks",
+      "4. All the categories constitute it"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  }
+]
