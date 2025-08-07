@@ -1,1 +1,123 @@
-ok
+[
+  {
+    "assertion": "Name of the author appears after the specific epithet in the biological name.",
+    "reason": "It indicates that this species was first described by the author.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "It is nearly impossible to study all the living organisms.",
+    "reason": "Classification is the process by which anything is grouped into convenient categories based on some easily observable characters.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Classification is the process by which anything is grouped into convenient categories.",
+    "reason": "These categories are based on some easily observable characters.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "The scientific term for convenient categories used to study organisms is taxa.",
+    "reason": "Taxa can indicate categories at very different levels.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "‘Animals’, ‘mammals’ and ‘dogs’ represent taxa at different levels.",
+    "reason": "A dog is a mammal and mammals are animals.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Based on characteristics, all living organisms can be classified into different taxa.",
+    "reason": "This process of classification is taxonomy.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "External and internal structure, along with the structure of cell, are essential for modern taxonomic studies.",
+    "reason": "These characteristics form the basis of modern taxonomic studies.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Characterisation, identification, classification and nomenclature are the processes that are basic to taxonomy.",
+    "reason": "These processes help in systematic study of organisms.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "The earliest classifications were based on the ‘uses’ of various organisms.",
+    "reason": "In early days, human beings needed to find sources for their basic needs of food, clothing and shelter.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Systematics takes into account evolutionary relationships between organisms.",
+    "reason": "The scope of systematics includes identification, nomenclature and classification.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Systematics is derived from the Latin word ‘systema’.",
+    "reason": "‘Systema’ means systematic arrangement of organisms.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  }
+]
