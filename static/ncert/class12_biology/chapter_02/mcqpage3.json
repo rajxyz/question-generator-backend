@@ -1,5 +1,50 @@
 [
   {
+    "question": "Plants reproduce by which mode according to the paragraph?",
+    "options": ["Asexually", "Vegetatively", "Sexually", "Clonally"],
+    "answer": "Sexually"
+  },
+  {
+    "question": "The flowers, scents, perfumes and colours in plants are meant to aid:",
+    "options": ["Photosynthesis", "Asexual reproduction", "Sexual reproduction", "Growth"],
+    "answer": "Sexual reproduction"
+  },
+  {
+    "question": "Flowers do not exist only for:",
+    "options": ["Sexual reproduction", "Seed formation", "Our selfishness", "Attracting insects"],
+    "answer": "Our selfishness"
+  },
+  {
+    "question": "All flowering plants show:",
+    "options": ["Asexual reproduction", "Binary fission", "Sexual reproduction", "Spore formation"],
+    "answer": "Sexual reproduction"
+  },
+  {
+    "question": "Diversity in inflorescences, flowers, and floral parts shows adaptations to ensure formation of:",
+    "options": ["Roots and stems", "Flowers and buds", "Fruits and seeds", "Leaves and nodes"],
+    "answer": "Fruits and seeds"
+  },
+  {
+    "question": "The diversity in floral structures ensures formation of the end products of:",
+    "options": ["Photosynthesis", "Sexual reproduction", "Transpiration", "Respiration"],
+    "answer": "Sexual reproduction"
+  },
+  {
+    "question": "Fruits and seeds are the end products of:",
+    "options": ["Asexual reproduction", "Pollination", "Fertilisation", "Sexual reproduction"],
+    "answer": "Sexual reproduction"
+  },
+  {
+    "question": "This chapter explains sexual reproduction in:",
+    "options": ["Gymnosperms", "Fungi", "Bryophytes", "Flowering plants (angiosperms)"],
+    "answer": "Flowering plants (angiosperms)"
+  },
+  {
+    "question": "This chapter helps us understand the morphology, structure and processes of:",
+    "options": ["Vegetative propagation", "Germination", "Sexual reproduction", "Seed dispersal"],
+    "answer": "Sexual reproduction"
+  },
+  {
     "question": "Human beings have had an intimate relationship with flowers since:",
     "options": ["Ancient history", "Recent times", "Time immemorial", "100 years ago"],
     "answer": "Time immemorial"
@@ -48,50 +93,5 @@
     "question": "The two parts in a flower where the most important units of sexual reproduction develop are:",
     "options": ["Calyx and corolla", "Petal and sepal", "Androecium and gynoecium", "Style and ovary"],
     "answer": "Androecium and gynoecium"
-  },
-  {
-    "question": "Before the flower appears, the decision for flowering has already:",
-    "options": ["Started", "Failed", "Taken place", "Ended"],
-    "answer": "Taken place"
-  },
-  {
-    "question": "The development of floral primordium is initiated by:",
-    "options": ["Photosynthesis", "Water and sunlight", "Hormonal and structural changes", "External temperature only"],
-    "answer": "Hormonal and structural changes"
-  },
-  {
-    "question": "Floral primordium undergoes:",
-    "options": ["Senescence", "Differentiation and further development", "Dormancy", "Destruction"],
-    "answer": "Differentiation and further development"
-  },
-  {
-    "question": "Inflorescences are formed which bear:",
-    "options": ["Leaves", "Fruits", "Seeds", "Floral buds"],
-    "answer": "Floral buds"
-  },
-  {
-    "question": "Floral buds develop into:",
-    "options": ["Roots", "Leaves", "Flowers", "Fruits"],
-    "answer": "Flowers"
-  },
-  {
-    "question": "In the flower, the reproductive structures that develop are:",
-    "options": ["Petals and sepals", "Androecium and gynoecium", "Roots and stems", "Ovary and ovule"],
-    "answer": "Androecium and gynoecium"
-  },
-  {
-    "question": "The androecium consists of a whorl of:",
-    "options": ["Carpels", "Sepals", "Stamens", "Petals"],
-    "answer": "Stamens"
-  },
-  {
-    "question": "The stamens in androecium represent the:",
-    "options": ["Female reproductive organ", "Male reproductive organ", "Accessory organ", "Sterile organ"],
-    "answer": "Male reproductive organ"
-  },
-  {
-    "question": "The gynoecium represents the:",
-    "options": ["Male reproductive organ", "Sterile structure", "Female reproductive organ", "Seed coat"],
-    "answer": "Female reproductive organ"
   }
 ]
