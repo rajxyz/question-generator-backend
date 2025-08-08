@@ -2,43 +2,64 @@
   {
     "question": "Match the following:",
     "columnA": [
-      "Audio-visual and the print-media",
-      "Introduction of sex education in schools",
-      "Proper information about reproductive organs, adolescence and related changes, safe and hygienic sexual practices, sexually transmitted diseases (STD), AIDS",
-      "Educating people, especially fertile couples and those in marriageable age group"
+      "World population in 1900",
+      "World population in 2000",
+      "World population in 2011",
+      "India's population at the time of independence"
     ],
     "columnB": [
-      "Would help people, especially those in the adolescent age group to lead a reproductively healthy life",
-      "Should be encouraged to provide right information to the young so as to discourage children from believing in myths and having misconceptions about sex-related aspects",
-      "Governmental and non-governmental agencies have taken various steps to create awareness among the people about reproduction-related aspects",
-      "Would address the importance of bringing up socially conscious healthy families of desired size"
+      "7.2 billion",
+      "350 million",
+      "2 billion (2000 million)",
+      "6 billion"
     ],
     "answer": {
-      "Audio-visual and the print-media": "Governmental and non-governmental agencies have taken various steps to create awareness among the people about reproduction-related aspects",
-      "Introduction of sex education in schools": "Should be encouraged to provide right information to the young so as to discourage children from believing in myths and having misconceptions about sex-related aspects",
-      "Proper information about reproductive organs, adolescence and related changes, safe and hygienic sexual practices, sexually transmitted diseases (STD), AIDS": "Would help people, especially those in the adolescent age group to lead a reproductively healthy life",
-      "Educating people, especially fertile couples and those in marriageable age group": "Would address the importance of bringing up socially conscious healthy families of desired size"
+      "World population in 1900": "2 billion (2000 million)",
+      "World population in 2000": "6 billion",
+      "World population in 2011": "7.2 billion",
+      "India's population at the time of independence": "350 million"
     }
   },
   {
     "question": "Match the following:",
     "columnA": [
-      "Parents, other close relatives, teachers and friends",
-      "Awareness of problems due to uncontrolled population growth",
-      "Awareness of social evils like sex-abuse and sex-related crimes",
-      "Importance of breast feeding, equal opportunities for the male and the female child"
+      "India's population by 2000",
+      "India's population in May 2011",
+      "Probable reasons for population explosion",
+      "RCH programme"
     ],
     "columnB": [
-      "Also have a major role in the dissemination of reproduction-related information",
-      "Need to be created to enable people to think and take up necessary steps to prevent them",
-      "Would address the importance of bringing up socially conscious healthy families of desired size",
-      "Need to be created to enable people to think and take up necessary steps to prevent them and thereby build up a socially responsible and healthy society"
+      "Crossed 1.2 billion",
+      "Rapid decline in death rate, maternal mortality rate (MMR) and infant mortality rate (IMR) as well as an increase in number of people in reproducible age",
+      "Reached close to the billion mark",
+      "Could bring down the population growth rate only marginally"
     ],
     "answer": {
-      "Parents, other close relatives, teachers and friends": "Also have a major role in the dissemination of reproduction-related information",
-      "Awareness of problems due to uncontrolled population growth": "Need to be created to enable people to think and take up necessary steps to prevent them",
-      "Awareness of social evils like sex-abuse and sex-related crimes": "Need to be created to enable people to think and take up necessary steps to prevent them and thereby build up a socially responsible and healthy society",
-      "Importance of breast feeding, equal opportunities for the male and the female child": "Would address the importance of bringing up socially conscious healthy families of desired size"
+      "India's population by 2000": "Reached close to the billion mark",
+      "India's population in May 2011": "Crossed 1.2 billion",
+      "Probable reasons for population explosion": "Rapid decline in death rate, maternal mortality rate (MMR) and infant mortality rate (IMR) as well as an increase in number of people in reproducible age",
+      "RCH programme": "Could bring down the population growth rate only marginally"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "All-round development in various fields",
+      "Increased health facilities and better living conditions",
+      "2011 census report",
+      "Population growth rate in 2011"
+    ],
+    "columnB": [
+      "Had an explosive impact on the growth of population",
+      "Significantly improved the quality of life of the people",
+      "Less than 2 per cent, i.e., 20/1000/year",
+      "According to the 2011 census report"
+    ],
+    "answer": {
+      "All-round development in various fields": "Significantly improved the quality of life of the people",
+      "Increased health facilities and better living conditions": "Had an explosive impact on the growth of population",
+      "2011 census report": "According to the 2011 census report",
+      "Population growth rate in 2011": "Less than 2 per cent, i.e., 20/1000/year"
     }
   }
 ]
@@ -47,88 +68,111 @@
   {
     "question": "Match the following:",
     "columnA": [
-      "Strong infrastructural facilities, professional expertise and material support",
-      "Medical assistance and care",
-      "Reproduction-related problems",
-      "Better techniques and new strategies"
+      "Alarming population growth rate",
+      "Scarcity of basic requirements",
+      "Basic requirements",
+      "Government action"
     ],
     "columnB": [
-      "Pregnancy, delivery, STDs, abortions, contraception, menstrual problems, infertility, etc.",
-      "Are essential for successful implementation of various action plans to attain reproductive health",
-      "Are also required to provide more efficient care and assistance to people",
-      "To be provided to people in reproduction-related problems"
+      "Food, shelter and clothing",
+      "Forced the government to take up serious measures to check this population growth rate",
+      "Could lead to an absolute scarcity of even the basic requirements",
+      "A rate at which our population could increase rapidly"
     ],
     "answer": {
-      "Strong infrastructural facilities, professional expertise and material support": "Are essential for successful implementation of various action plans to attain reproductive health",
-      "Medical assistance and care": "To be provided to people in reproduction-related problems",
-      "Reproduction-related problems": "Pregnancy, delivery, STDs, abortions, contraception, menstrual problems, infertility, etc.",
-      "Better techniques and new strategies": "Are also required to provide more efficient care and assistance to people"
-    }
-  },
-  {
-    "question": "Match the following:",
-    "columnA": [
-      "Statutory ban on amniocentesis for sex-determination",
-      "Massive child immunisation",
-      "Amniocentesis",
-      "Fetal cells and dissolved substances in amniotic fluid"
-    ],
-    "columnB": [
-      "Are analysed to test for the presence of certain genetic disorders such as, down syndrome, haemoplilia, sickle-cell anemia, etc., determine the survivability of the foetus",
-      "Some of the amniotic fluid of the developing foetus is taken to analyse the fetal cells and dissolved substances",
-      "To legally check increasing menace of female foeticides",
-      "Are some programmes that merit mention in this connection"
-    ],
-    "answer": {
-      "Statutory ban on amniocentesis for sex-determination": "To legally check increasing menace of female foeticides",
-      "Massive child immunisation": "Are some programmes that merit mention in this connection",
-      "Amniocentesis": "Some of the amniotic fluid of the developing foetus is taken to analyse the fetal cells and dissolved substances",
-      "Fetal cells and dissolved substances in amniotic fluid": "Are analysed to test for the presence of certain genetic disorders such as, down syndrome, haemoplilia, sickle-cell anemia, etc., determine the survivability of the foetus"
+      "Alarming population growth rate": "A rate at which our population could increase rapidly",
+      "Scarcity of basic requirements": "Could lead to an absolute scarcity of even the basic requirements",
+      "Basic requirements": "Food, shelter and clothing",
+      "Government action": "Forced the government to take up serious measures to check this population growth rate"
     }
   }
 ]
-
 [
   {
     "question": "Match the following:",
     "columnA": [
-      "Research on various reproduction-related areas",
-      "‘Saheli’",
-      "Central Drug Research Institute (CDRI), Lucknow",
-      "Governmental and non-governmental agencies"
+      "Most important step to overcome population problem",
+      "Advertisements in the media and posters/bills",
+      "Statutory raising of marriageable age for females",
+      "Statutory raising of marriageable age for males"
     ],
     "columnB": [
-      "A new oral contraceptive for the females",
-      "Developed ‘Saheli’",
-      "Are encouraged and supported to find out new methods and/or to improve upon the existing ones",
-      "Support research on various reproduction-related areas"
+      "Show a happy couple with two children with a slogan Hum Do Hamare Do (we two, our two)",
+      "To motivate smaller families by using various contraceptive methods",
+      "18 years",
+      "21 years"
     ],
     "answer": {
-      "Research on various reproduction-related areas": "Are encouraged and supported to find out new methods and/or to improve upon the existing ones",
-      "‘Saheli’": "A new oral contraceptive for the females",
-      "Central Drug Research Institute (CDRI), Lucknow": "Developed ‘Saheli’",
-      "Governmental and non-governmental agencies": "Support research on various reproduction-related areas"
+      "Most important step to overcome population problem": "To motivate smaller families by using various contraceptive methods",
+      "Advertisements in the media and posters/bills": "Show a happy couple with two children with a slogan Hum Do Hamare Do (we two, our two)",
+      "Statutory raising of marriageable age for females": "18 years",
+      "Statutory raising of marriageable age for males": "21 years"
     }
   },
   {
     "question": "Match the following:",
     "columnA": [
-      "Better awareness about sex related matters",
-      "Increased number of medically assisted deliveries",
-      "Better post-natal care",
-      "Increased number of couples with small families"
+      "Ideal contraceptive",
+      "Contraceptive categories",
+      "Natural methods",
+      "Periodic abstinence"
     ],
     "columnB": [
-      "Indicate improved reproductive health of the society",
-      "Leading to decreased maternal and infant mortality rates",
-      "Indicate improved reproductive health of the society",
-      "Indicate improved reproductive health of the society"
+      "User-friendly, easily available, effective and reversible with no or least side-effects and should not interfere with the sexual drive, desire and/or the sexual act of the user",
+      "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods",
+      "Work on the principle of avoiding chances of ovum and sperms meeting",
+      "Couples avoid or abstain from coitus from day 10 to 17 of the menstrual cycle when ovulation could be expected"
     ],
     "answer": {
-      "Better awareness about sex related matters": "Indicate improved reproductive health of the society",
-      "Increased number of medically assisted deliveries": "Leading to decreased maternal and infant mortality rates",
-      "Better post-natal care": "Indicate improved reproductive health of the society",
-      "Increased number of couples with small families": "Indicate improved reproductive health of the society"
+      "Ideal contraceptive": "User-friendly, easily available, effective and reversible with no or least side-effects and should not interfere with the sexual drive, desire and/or the sexual act of the user",
+      "Contraceptive categories": "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods",
+      "Natural methods": "Work on the principle of avoiding chances of ovum and sperms meeting",
+      "Periodic abstinence": "Couples avoid or abstain from coitus from day 10 to 17 of the menstrual cycle when ovulation could be expected"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Fertile period",
+      "One child norm",
+      "Incentives given to couples",
+      "Young, urban, working couples"
+    ],
+    "columnB": [
+      "Adopted by many couples",
+      "To tackle the population problem",
+      "Day 10 to 17 of the menstrual cycle when ovulation could be expected",
+      "As chances of fertilisation are very high during this period"
+    ],
+    "answer": {
+      "Fertile period": "Day 10 to 17 of the menstrual cycle when ovulation could be expected",
+      "One child norm": "Adopted by many couples",
+      "Incentives given to couples": "To tackle the population problem",
+      "Young, urban, working couples": "As chances of fertilisation are very high during this period"
     }
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
