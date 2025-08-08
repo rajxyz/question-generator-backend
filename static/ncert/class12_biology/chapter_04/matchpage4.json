@@ -2,154 +2,192 @@
   {
     "question": "Match the following:",
     "columnA": [
-      "World population in 1900",
-      "World population in 2000",
-      "World population in 2011",
-      "India's population at the time of independence"
-    ],
-    "columnB": [
-      "7.2 billion",
-      "350 million",
-      "2 billion (2000 million)",
-      "6 billion"
-    ],
-    "answer": {
-      "World population in 1900": "2 billion (2000 million)",
-      "World population in 2000": "6 billion",
-      "World population in 2011": "7.2 billion",
-      "India's population at the time of independence": "350 million"
-    }
-  },
-  {
-    "question": "Match the following:",
-    "columnA": [
-      "India's population by 2000",
-      "India's population in May 2011",
-      "Probable reasons for population explosion",
-      "RCH programme"
-    ],
-    "columnB": [
-      "Crossed 1.2 billion",
-      "Rapid decline in death rate, maternal mortality rate (MMR) and infant mortality rate (IMR) as well as an increase in number of people in reproducible age",
-      "Reached close to the billion mark",
-      "Could bring down the population growth rate only marginally"
-    ],
-    "answer": {
-      "India's population by 2000": "Reached close to the billion mark",
-      "India's population in May 2011": "Crossed 1.2 billion",
-      "Probable reasons for population explosion": "Rapid decline in death rate, maternal mortality rate (MMR) and infant mortality rate (IMR) as well as an increase in number of people in reproducible age",
-      "RCH programme": "Could bring down the population growth rate only marginally"
-    }
-  },
-  {
-    "question": "Match the following:",
-    "columnA": [
-      "All-round development in various fields",
-      "Increased health facilities and better living conditions",
-      "2011 census report",
-      "Population growth rate in 2011"
-    ],
-    "columnB": [
-      "Had an explosive impact on the growth of population",
-      "Significantly improved the quality of life of the people",
-      "Less than 2 per cent, i.e., 20/1000/year",
-      "According to the 2011 census report"
-    ],
-    "answer": {
-      "All-round development in various fields": "Significantly improved the quality of life of the people",
-      "Increased health facilities and better living conditions": "Had an explosive impact on the growth of population",
-      "2011 census report": "According to the 2011 census report",
-      "Population growth rate in 2011": "Less than 2 per cent, i.e., 20/1000/year"
-    }
-  }
-]
-[
-  {
-    "question": "Match the following:",
-    "columnA": [
-      "Alarming population growth rate",
-      "Scarcity of basic requirements",
-      "Basic requirements",
-      "Government action"
-    ],
-    "columnB": [
-      "Food, shelter and clothing",
-      "Forced the government to take up serious measures to check this population growth rate",
-      "Could lead to an absolute scarcity of even the basic requirements",
-      "A rate at which our population could increase rapidly"
-    ],
-    "answer": {
-      "Alarming population growth rate": "A rate at which our population could increase rapidly",
-      "Scarcity of basic requirements": "Could lead to an absolute scarcity of even the basic requirements",
-      "Basic requirements": "Food, shelter and clothing",
-      "Government action": "Forced the government to take up serious measures to check this population growth rate"
-    }
-  }
-]
-
-
-[
-  {
-    "question": "Match the following:",
-    "columnA": [
-      "Most important step to overcome population problem",
-      "Advertisements in the media and posters/bills",
-      "Statutory raising of marriageable age for females",
-      "Statutory raising of marriageable age for males"
-    ],
-    "columnB": [
-      "Show a happy couple with two children with a slogan Hum Do Hamare Do (we two, our two)",
-      "To motivate smaller families by using various contraceptive methods",
-      "18 years",
-      "21 years"
-    ],
-    "answer": {
-      "Most important step to overcome population problem": "To motivate smaller families by using various contraceptive methods",
-      "Advertisements in the media and posters/bills": "Show a happy couple with two children with a slogan Hum Do Hamare Do (we two, our two)",
-      "Statutory raising of marriageable age for females": "18 years",
-      "Statutory raising of marriageable age for males": "21 years"
-    }
-  },
-  {
-    "question": "Match the following:",
-    "columnA": [
-      "Ideal contraceptive",
-      "Contraceptive categories",
-      "Natural methods",
-      "Periodic abstinence"
-    ],
-    "columnB": [
-      "User-friendly, easily available, effective and reversible with no or least side-effects and should not interfere with the sexual drive, desire and/or the sexual act of the user",
-      "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods",
-      "Work on the principle of avoiding chances of ovum and sperms meeting",
-      "Couples avoid or abstain from coitus from day 10 to 17 of the menstrual cycle when ovulation could be expected"
-    ],
-    "answer": {
-      "Ideal contraceptive": "User-friendly, easily available, effective and reversible with no or least side-effects and should not interfere with the sexual drive, desire and/or the sexual act of the user",
-      "Contraceptive categories": "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods",
-      "Natural methods": "Work on the principle of avoiding chances of ovum and sperms meeting",
-      "Periodic abstinence": "Couples avoid or abstain from coitus from day 10 to 17 of the menstrual cycle when ovulation could be expected"
-    }
-  },
-  {
-    "question": "Match the following:",
-    "columnA": [
       "Fertile period",
-      "One child norm",
-      "Incentives given to couples",
-      "Young, urban, working couples"
+      "Withdrawal or coitus interruptus",
+      "Lactational amenorrhea method",
+      "Conception prevention during fertile period"
     ],
     "columnB": [
-      "Adopted by many couples",
-      "To tackle the population problem",
+      "Male partner withdraws his penis from the vagina just before ejaculation",
       "Day 10 to 17 of the menstrual cycle when ovulation could be expected",
-      "As chances of fertilisation are very high during this period"
+      "As long as the mother breast-feeds the child fully, chances of conception are almost nil",
+      "By abstaining from coitus during this period"
     ],
     "answer": {
       "Fertile period": "Day 10 to 17 of the menstrual cycle when ovulation could be expected",
-      "One child norm": "Adopted by many couples",
-      "Incentives given to couples": "To tackle the population problem",
-      "Young, urban, working couples": "As chances of fertilisation are very high during this period"
+      "Withdrawal or coitus interruptus": "Male partner withdraws his penis from the vagina just before ejaculation",
+      "Lactational amenorrhea method": "As long as the mother breast-feeds the child fully, chances of conception are almost nil",
+      "Conception prevention during fertile period": "By abstaining from coitus during this period"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Maximum effective period of lactational amenorrhea",
+      "Side effects of natural methods",
+      "Chances of failure in natural methods",
+      "Barrier methods"
+    ],
+    "columnB": [
+      "Chances of failure are high",
+      "Side effects are almost nil",
+      "Effective only upto a maximum period of six months following parturition",
+      "Ovum and sperms are prevented from physically meeting with the help of barriers"
+    ],
+    "answer": {
+      "Maximum effective period of lactational amenorrhea": "Effective only upto a maximum period of six months following parturition",
+      "Side effects of natural methods": "Side effects are almost nil",
+      "Chances of failure in natural methods": "Chances of failure are high",
+      "Barrier methods": "Ovum and sperms are prevented from physically meeting with the help of barriers"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Condoms",
+      "‘Nirodh’",
+      "Female condoms",
+      "Benefit of condoms"
+    ],
+    "columnB": [
+      "Popular brand of condom for the male",
+      "Used to cover the penis in the male or vagina and cervix in the female just before coitus",
+      "Protect the user from contracting STIs and AIDS",
+      "Disposable, can be self-inserted and give privacy to the user"
+    ],
+    "answer": {
+      "Condoms": "Used to cover the penis in the male or vagina and cervix in the female just before coitus",
+      "‘Nirodh’": "Popular brand of condom for the male",
+      "Female condoms": "Disposable, can be self-inserted and give privacy to the user",
+      "Benefit of condoms": "Protect the user from contracting STIs and AIDS"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Diaphragms, cervical caps and vaults",
+      "Function of rubber barriers",
+      "Spermicidal creams, jellies and foams",
+      "Use with rubber barriers"
+    ],
+    "columnB": [
+      "Reusable",
+      "Inserted into the female reproductive tract to cover the cervix during coitus",
+      "Used along with barriers to increase their contraceptive efficiency",
+      "Prevent conception by blocking the entry of sperms through the cervix"
+    ],
+    "answer": {
+      "Diaphragms, cervical caps and vaults": "Reusable",
+      "Function of rubber barriers": "Inserted into the female reproductive tract to cover the cervix during coitus",
+      "Spermicidal creams, jellies and foams": "Used along with barriers to increase their contraceptive efficiency",
+      "Use with rubber barriers": "Prevent conception by blocking the entry of sperms through the cervix"
+    }
+  }
+]
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Slogan promoting small family norm",
+      "Statutory marriageable age for females",
+      "Statutory marriageable age for males",
+      "One child norm mostly adopted by"
+    ],
+    "columnB": [
+      "21 years",
+      "Young, urban, working couples",
+      "18 years",
+      "Hum Do Hamare Do"
+    ],
+    "answer": {
+      "Slogan promoting small family norm": "Hum Do Hamare Do",
+      "Statutory marriageable age for females": "18 years",
+      "Statutory marriageable age for males": "21 years",
+      "One child norm mostly adopted by": "Young, urban, working couples"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Ideal contraceptive should be",
+      "Barrier methods fall under",
+      "Method that does not interfere with sexual drive",
+      "Contraceptive measures taken to tackle population problem"
+    ],
+    "columnB": [
+      "Easily available, effective and reversible",
+      "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods",
+      "User-friendly with no or least side-effects",
+      "Incentives given to couples with small families"
+    ],
+    "answer": {
+      "Ideal contraceptive should be": "Easily available, effective and reversible",
+      "Barrier methods fall under": "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods",
+      "Method that does not interfere with sexual drive": "User-friendly with no or least side-effects",
+      "Contraceptive measures taken to tackle population problem": "Incentives given to couples with small families"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Natural method working principle",
+      "Periodic abstinence period",
+      "Fertile period of menstrual cycle",
+      "Natural methods aim to"
+    ],
+    "columnB": [
+      "Avoiding chances of ovum and sperms meeting",
+      "Day 10 to 17 of the menstrual cycle",
+      "When ovulation could be expected",
+      "Avoid coitus during ovulation period"
+    ],
+    "answer": {
+      "Natural method working principle": "Avoiding chances of ovum and sperms meeting",
+      "Periodic abstinence period": "Day 10 to 17 of the menstrual cycle",
+      "Fertile period of menstrual cycle": "When ovulation could be expected",
+      "Natural methods aim to": "Avoid coitus during ovulation period"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Non-medicated IUD example",
+      "Copper releasing IUD example",
+      "Hormone releasing IUD example",
+      "IUDs inserted by"
+    ],
+    "columnB": [
+      "Lippes loop",
+      "CuT, Cu7, Multiload 375",
+      "Progestasert, LNG-20",
+      "Doctors or expert nurses"
+    ],
+    "answer": {
+      "Non-medicated IUD example": "Lippes loop",
+      "Copper releasing IUD example": "CuT, Cu7, Multiload 375",
+      "Hormone releasing IUD example": "Progestasert, LNG-20",
+      "IUDs inserted by": "Doctors or expert nurses"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Cu ions in IUDs function",
+      "Hormone releasing IUDs effect on uterus",
+      "Hormone releasing IUDs effect on cervix",
+      "IUDs suitable for"
+    ],
+    "columnB": [
+      "Suppress sperm motility and the fertilising capacity of sperms",
+      "Make the uterus unsuitable for implantation",
+      "Make the cervix hostile to the sperms",
+      "Females who want to delay pregnancy and/or space children"
+    ],
+    "answer": {
+      "Cu ions in IUDs function": "Suppress sperm motility and the fertilising capacity of sperms",
+      "Hormone releasing IUDs effect on uterus": "Make the uterus unsuitable for implantation",
+      "Hormone releasing IUDs effect on cervix": "Make the cervix hostile to the sperms",
+      "IUDs suitable for": "Females who want to delay pregnancy and/or space children"
     }
   }
 ]
