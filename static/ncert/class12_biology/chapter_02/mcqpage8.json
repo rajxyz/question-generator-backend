@@ -1,112 +1,62 @@
 [
   {
-    "question": "What is the stalk that attaches the ovule to the placenta called?",
-    "options": ["Hilum", "Funicle", "Chalaza", "Micropyle"],
-    "answer": "Funicle"
+    "question": "What does the gynoecium represent?",
+    "options": ["Male reproductive part", "Vegetative part", "Female reproductive part", "Accessory part"],
+    "answer": "Female reproductive part"
   },
   {
-    "question": "The junction between ovule and funicle is known as:",
-    "options": ["Nucellus", "Chalaza", "Hilum", "Micropyle"],
-    "answer": "Hilum"
+    "question": "A gynoecium with a single pistil is called:",
+    "options": ["Multicarpellary", "Apocarpous", "Monocarpellary", "Syncarpous"],
+    "answer": "Monocarpellary"
   },
   {
-    "question": "What are the protective envelopes of the ovule called?",
-    "options": ["Integuments", "Nucellus", "Embryo sac", "Chalaza"],
-    "answer": "Integuments"
+    "question": "When pistils are fused together, the gynoecium is called:",
+    "options": ["Apocarpous", "Polygamous", "Syncarpous", "Unicarpellary"],
+    "answer": "Syncarpous"
   },
   {
-    "question": "Which structure surrounds the nucellus but leaves an opening at the tip?",
-    "options": ["Funicle", "Hilum", "Integuments", "Micropyle"],
-    "answer": "Integuments"
+    "question": "When pistils are free, the gynoecium is called:",
+    "options": ["Multicarpellary", "Apocarpous", "Monocarpellary", "Syncarpous"],
+    "answer": "Apocarpous"
   },
   {
-    "question": "What is the small opening at the tip of the ovule called?",
-    "options": ["Hilum", "Micropyle", "Chalaza", "Funicle"],
-    "answer": "Micropyle"
+    "question": "Which part of the pistil acts as a landing platform for pollen grains?",
+    "options": ["Style", "Ovary", "Stigma", "Locule"],
+    "answer": "Stigma"
   },
   {
-    "question": "Which part of the ovule is opposite to the micropylar end?",
-    "options": ["Nucellus", "Hilum", "Chalaza", "Funicle"],
-    "answer": "Chalaza"
+    "question": "What is the elongated slender part of the pistil called?",
+    "options": ["Style", "Stigma", "Ovary", "Placenta"],
+    "answer": "Style"
   },
   {
-    "question": "What is enclosed within the integuments of an ovule?",
-    "options": ["Funicle", "Hilum", "Nucellus", "Chalaza"],
-    "answer": "Nucellus"
+    "question": "Which part of the pistil is bulged and basal?",
+    "options": ["Style", "Ovary", "Stigma", "Locule"],
+    "answer": "Ovary"
   },
   {
-    "question": "What type of cells make up the nucellus?",
-    "options": ["Cells with chloroplasts", "Cells with abundant reserve food", "Xylem cells", "Parenchyma cells"],
-    "answer": "Cells with abundant reserve food"
+    "question": "What is the cavity inside the ovary called?",
+    "options": ["Locule", "Placenta", "Ovule", "Style"],
+    "answer": "Locule"
   },
   {
-    "question": "What is located within the nucellus?",
-    "options": ["Funicle", "Embryo sac", "Micropyle", "Chalaza"],
-    "answer": "Embryo sac"
+    "question": "Ovules arise from which part inside the ovary?",
+    "options": ["Style", "Locule", "Stigma", "Placenta"],
+    "answer": "Placenta"
   },
   {
-    "question": "The embryo sac is also known as the:",
-    "options": ["Female gametophyte", "Male gametophyte", "Nucellus", "Megasporangium"],
-    "answer": "Female gametophyte"
+    "question": "Ovules are also known as:",
+    "options": ["Megasporangia", "Microsporangia", "Zygotes", "Embryo sacs"],
+    "answer": "Megasporangia"
   },
   {
-    "question": "How many embryo sacs does a typical ovule generally have?",
-    "options": ["Two", "One", "None", "Four"],
+    "question": "How many ovules are found in wheat, paddy, and mango?",
+    "options": ["Two", "Many", "None", "One"],
     "answer": "One"
   },
   {
-    "question": "From what is the embryo sac formed?",
-    "options": ["Microspore", "Ovule", "Integument", "Megaspore"],
-    "answer": "Megaspore"
-  },
-  {
-    "question": "What is the process of formation of megaspores from the megaspore mother cell called?",
-    "options": ["Microsporogenesis", "Megasporogenesis", "Gametogenesis", "Fertilisation"],
-    "answer": "Megasporogenesis"
-  },
-  {
-    "question": "Where is the megaspore mother cell generally located in the ovule?",
-    "options": ["Chalazal region", "Middle of the nucellus", "Micropylar region", "Funicle region"],
-    "answer": "Micropylar region"
-  },
-  {
-    "question": "What type of cell is the megaspore mother cell?",
-    "options": ["Small cell with thin cytoplasm", "Large cell with dense cytoplasm and prominent nucleus", "Xylem cell", "Parenchyma cell"],
-    "answer": "Large cell with dense cytoplasm and prominent nucleus"
-  },
-  {
-    "question": "What does the megaspore mother cell undergo to form megaspores?",
-    "options": ["Mitosis", "Binary fission", "Meiosis", "Asexual division"],
-    "answer": "Meiosis"
-  },
-  {
-    "question": "How many megaspores are produced from one megaspore mother cell?",
-    "options": ["Two", "Three", "Four", "One"],
-    "answer": "Four"
-  },
-  {
-    "question": "How many megaspores become functional in most flowering plants?",
-    "options": ["All four", "Two", "One", "Three"],
-    "answer": "One"
-  },
-  {
-    "question": "What happens to the other three megaspores that do not become functional?",
-    "options": ["They become pollen grains", "They divide further", "They degenerate", "They form ovules"],
-    "answer": "They degenerate"
-  },
-  {
-    "question": "What does the functional megaspore develop into?",
-    "options": ["Male gametophyte", "Ovule", "Pollen grain", "Female gametophyte"],
-    "answer": "Female gametophyte"
-  },
-  {
-    "question": "What is another name for the female gametophyte?",
-    "options": ["Embryo sac", "Nucellus", "Ovule", "Pollen tube"],
-    "answer": "Embryo sac"
-  },
-  {
-    "question": "The formation of embryo sac from a single megaspore is called:",
-    "options": ["Tetrasporic development", "Bisporic development", "Monosporic development", "Polysporogenic development"],
-    "answer": "Monosporic development"
+    "question": "Which of the following has many ovules per ovary?",
+    "options": ["Wheat", "Mango", "Watermelon", "Paddy"],
+    "answer": "Watermelon"
   }
 ]
