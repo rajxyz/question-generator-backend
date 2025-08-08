@@ -1,1 +1,112 @@
-
+[  
+  {  
+    "question": "Pollen grains must land on the stigma before losing:",  
+    "options": ["Color", "Moisture", "Viability", "Mass"],  
+    "answer": "Viability"  
+  },  
+  {  
+    "question": "The viability of pollen grains depends on:",  
+    "options": ["Soil quality", "Light intensity", "Temperature and humidity", "Altitude"],  
+    "answer": "Temperature and humidity"  
+  },  
+  {  
+    "question": "In rice and wheat, pollen grains lose viability within:",  
+    "options": ["1 hour", "30 minutes", "2 hours", "10 minutes"],  
+    "answer": "30 minutes"  
+  },  
+  {  
+    "question": "Members of Rosaceae, Leguminoseae and Solanaceae maintain pollen viability for:",  
+    "options": ["Days", "Weeks", "Months", "Minutes"],  
+    "answer": "Months"  
+  },  
+  {  
+    "question": "Pollen grains can be stored for years in:",  
+    "options": ["Hot water", "Sunlight", "Liquid nitrogen", "Refrigerators"],  
+    "answer": "Liquid nitrogen"  
+  },  
+  {  
+    "question": "What is the temperature of liquid nitrogen used to store pollen?",  
+    "options": ["-100°C", "-80°C", "-196°C", "-50°C"],  
+    "answer": "-196°C"  
+  },  
+  {  
+    "question": "Pollen banks are similar to:",  
+    "options": ["Blood banks", "Sperm banks", "Seed banks", "Bone marrow banks"],  
+    "answer": "Seed banks"  
+  },  
+  {  
+    "question": "Pollen banks are useful in:",  
+    "options": ["Pollution control", "Crop breeding programmes", "Water harvesting", "Genetic mutation studies"],  
+    "answer": "Crop breeding programmes"  
+  },  
+  {  
+    "question": "Pollen grains need to reach the stigma for:",  
+    "options": ["Germination", "Fertilisation", "Pollination", "Seed dispersal"],  
+    "answer": "Fertilisation"  
+  },  
+  {  
+    "question": "Storing pollen grains is similar to storing:",  
+    "options": ["Pesticides", "Fertilizers", "Semen/sperms", "Enzymes"],  
+    "answer": "Semen/sperms"  
+  },  
+  {  
+    "question": "What does the gynoecium represent?",  
+    "options": ["Male reproductive part", "Vegetative part", "Female reproductive part", "Accessory part"],  
+    "answer": "Female reproductive part"  
+  },  
+  {  
+    "question": "A gynoecium with a single pistil is called:",  
+    "options": ["Multicarpellary", "Apocarpous", "Monocarpellary", "Syncarpous"],  
+    "answer": "Monocarpellary"  
+  },  
+  {  
+    "question": "When pistils are fused together, the gynoecium is called:",  
+    "options": ["Apocarpous", "Polygamous", "Syncarpous", "Unicarpellary"],  
+    "answer": "Syncarpous"  
+  },  
+  {  
+    "question": "When pistils are free, the gynoecium is called:",  
+    "options": ["Multicarpellary", "Apocarpous", "Monocarpellary", "Syncarpous"],  
+    "answer": "Apocarpous"  
+  },  
+  {  
+    "question": "Which part of the pistil acts as a landing platform for pollen grains?",  
+    "options": ["Style", "Ovary", "Stigma", "Locule"],  
+    "answer": "Stigma"  
+  },  
+  {  
+    "question": "What is the elongated slender part of the pistil called?",  
+    "options": ["Style", "Stigma", "Ovary", "Placenta"],  
+    "answer": "Style"  
+  },  
+  {  
+    "question": "Which part of the pistil is bulged and basal?",  
+    "options": ["Style", "Ovary", "Stigma", "Locule"],  
+    "answer": "Ovary"  
+  },  
+  {  
+    "question": "What is the cavity inside the ovary called?",  
+    "options": ["Locule", "Placenta", "Ovule", "Style"],  
+    "answer": "Locule"  
+  },  
+  {  
+    "question": "Ovules arise from which part inside the ovary?",  
+    "options": ["Style", "Locule", "Stigma", "Placenta"],  
+    "answer": "Placenta"  
+  },  
+  {  
+    "question": "Ovules are also known as:",  
+    "options": ["Megasporangia", "Microsporangia", "Zygotes", "Embryo sacs"],  
+    "answer": "Megasporangia"  
+  },  
+  {  
+    "question": "How many ovules are found in wheat, paddy, and mango?",  
+    "options": ["Two", "Many", "None", "One"],  
+    "answer": "One"  
+  },  
+  {  
+    "question": "Which of the following has many ovules per ovary?",  
+    "options": ["Wheat", "Mango", "Watermelon", "Paddy"],  
+    "answer": "Watermelon"  
+  }  
+]
