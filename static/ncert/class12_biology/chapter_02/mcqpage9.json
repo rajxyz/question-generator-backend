@@ -1,1 +1,62 @@
-
+[
+  {
+    "question": "What is the stalk that attaches the ovule to the placenta called?",
+    "options": ["Hilum", "Funicle", "Chalaza", "Micropyle"],
+    "answer": "Funicle"
+  },
+  {
+    "question": "The junction between ovule and funicle is known as:",
+    "options": ["Nucellus", "Chalaza", "Hilum", "Micropyle"],
+    "answer": "Hilum"
+  },
+  {
+    "question": "What are the protective envelopes of the ovule called?",
+    "options": ["Integuments", "Nucellus", "Embryo sac", "Chalaza"],
+    "answer": "Integuments"
+  },
+  {
+    "question": "Which structure surrounds the nucellus but leaves an opening at the tip?",
+    "options": ["Funicle", "Hilum", "Integuments", "Micropyle"],
+    "answer": "Integuments"
+  },
+  {
+    "question": "What is the small opening at the tip of the ovule called?",
+    "options": ["Hilum", "Micropyle", "Chalaza", "Funicle"],
+    "answer": "Micropyle"
+  },
+  {
+    "question": "Which part of the ovule is opposite to the micropylar end?",
+    "options": ["Nucellus", "Hilum", "Chalaza", "Funicle"],
+    "answer": "Chalaza"
+  },
+  {
+    "question": "What is enclosed within the integuments of an ovule?",
+    "options": ["Funicle", "Hilum", "Nucellus", "Chalaza"],
+    "answer": "Nucellus"
+  },
+  {
+    "question": "What type of cells make up the nucellus?",
+    "options": ["Cells with chloroplasts", "Cells with abundant reserve food", "Xylem cells", "Parenchyma cells"],
+    "answer": "Cells with abundant reserve food"
+  },
+  {
+    "question": "What is located within the nucellus?",
+    "options": ["Funicle", "Embryo sac", "Micropyle", "Chalaza"],
+    "answer": "Embryo sac"
+  },
+  {
+    "question": "The embryo sac is also known as the:",
+    "options": ["Female gametophyte", "Male gametophyte", "Nucellus", "Megasporangium"],
+    "answer": "Female gametophyte"
+  },
+  {
+    "question": "How many embryo sacs does a typical ovule generally have?",
+    "options": ["Two", "One", "None", "Four"],
+    "answer": "One"
+  },
+  {
+    "question": "From what is the embryo sac formed?",
+    "options": ["Microspore", "Ovule", "Integument", "Megaspore"],
+    "answer": "Megaspore"
+  }
+]
