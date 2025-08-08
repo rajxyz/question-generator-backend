@@ -24,3 +24,32 @@
   },
   "word_count_covered": 91
 }
+
+
+
+{
+  "type": "match_the_following",
+  "question": "Match each ovule-related term with its correct NCERT-defined description:",
+  "column_A": [
+    "1. Funicle",
+    "2. Hilum",
+    "3. Micropyle",
+    "4. Chalaza",
+    "5. Nucellus"
+  ],
+  "column_B": [
+    "A. Stalk attaching ovule to placenta",
+    "B. Junction between ovule and funicle",
+    "C. Small opening in integuments",
+    "D. Basal part of ovule",
+    "E. Mass of cells with reserve food"
+  ],
+  "answers": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "D",
+    "5": "E"
+  },
+  "word_count_covered": 90
+}
