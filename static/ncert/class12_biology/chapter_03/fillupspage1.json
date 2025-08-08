@@ -1,68 +1,102 @@
 [
   {
-    "assertion": "Humans are sexually reproducing and viviparous.",
-    "reason": "The reproductive events in humans include formation of gametes, transfer of sperms, fertilisation, implantation, gestation and parturition.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
+    "question": "Humans are sexually reproducing and ______.",
+    "answer": "viviparous"
   },
   {
-    "assertion": "Sperms are formed in males and ovum in females during gametogenesis.",
-    "reason": "Gametogenesis includes transfer of sperms into the female genital tract.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "C"
+    "question": "The reproductive events in humans include formation of ______.",
+    "answer": "gametes"
   },
   {
-    "assertion": "Fusion of male and female gametes leads to the formation of zygote.",
-    "reason": "Zygote formation is followed by formation and development of blastocyst.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "B"
+    "question": "Sperms are formed in ______ and ovum in females.",
+    "answer": "males"
   },
   {
-    "assertion": "Attachment of blastocyst to the uterine wall is called implantation.",
-    "reason": "Gestation refers to embryonic development.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "B"
+    "question": "Transfer of sperms into the female genital tract is called ______.",
+    "answer": "insemination"
   },
   {
-    "assertion": "The reproductive events occur after puberty.",
-    "reason": "Puberty is the stage after which the body is reproductively mature.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
+    "question": "Fusion of male and female gametes is called ______.",
+    "answer": "fertilisation"
   },
   {
-    "assertion": "Sperm formation continues even in old men.",
-    "reason": "Formation of ovum ceases in women around the age of fifty years.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "B"
+    "question": "Fertilisation leads to formation of ______.",
+    "answer": "zygote"
+  },
+  {
+    "question": "Formation and development of ______ occurs after fertilisation.",
+    "answer": "blastocyst"
+  },
+  {
+    "question": "Attachment of blastocyst to the uterine wall is known as ______.",
+    "answer": "implantation"
+  },
+  {
+    "question": "Embryonic development is also called ______.",
+    "answer": "gestation"
+  },
+  {
+    "question": "Delivery of the baby is termed as ______.",
+    "answer": "parturition"
+  },
+  {
+    "question": "Reproductive events occur after ______.",
+    "answer": "puberty"
+  },
+  {
+    "question": "There are remarkable differences between the reproductive events in the ______ and in the female.",
+    "answer": "male"
+  },
+  {
+    "question": "Sperm formation continues even in ______ men.",
+    "answer": "old"
+  },
+  {
+    "question": "Formation of ovum ceases in women around the age of ______ years.",
+    "answer": "fifty"
+  },
+  {
+    "question": "The male and female reproductive systems in human are ______.",
+    "answer": "different"
+  },
+  {
+    "question": "The process of ______ includes sperms in males and ovum in females.",
+    "answer": "gametogenesis"
+  },
+  {
+    "question": "The fusion of gametes results in the formation of a ______.",
+    "answer": "zygote"
+  },
+  {
+    "question": "The zygote develops into a ______ before implantation.",
+    "answer": "blastocyst"
+  },
+  {
+    "question": "Implantation occurs in the ______ wall.",
+    "answer": "uterine"
+  },
+  {
+    "question": "After gestation, the baby is delivered in a process called ______.",
+    "answer": "parturition"
+  },
+  {
+    "question": "Gametogenesis results in formation of sperms in males and ______ in females.",
+    "answer": "ovum"
+  },
+  {
+    "question": "The reproductive events in humans begin after the onset of ______.",
+    "answer": "puberty"
+  },
+  {
+    "question": "During fertilisation, the male and female ______ fuse.",
+    "answer": "gametes"
+  },
+  {
+    "question": "Development of the blastocyst is followed by its ______ to the uterine wall.",
+    "answer": "attachment"
+  },
+  {
+    "question": "Let us examine the ______ and female reproductive systems in human.",
+    "answer": "male"
   }
 ]
