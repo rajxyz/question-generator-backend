@@ -110,3 +110,180 @@
     "answer": "Spiral"
   }
 ]
+[
+  {
+    "question": "What is true about bacterial structure?",
+    "options": [
+      "It is complex",
+      "It is very simple",
+      "It is the same as fungi",
+      "It is multicellular"
+    ],
+    "answer": "It is very simple"
+  },
+  {
+    "question": "Despite having a simple structure, bacteria are very:",
+    "options": [
+      "Slow growing",
+      "Difficult to observe",
+      "Complex in behaviour",
+      "Unstable in nature"
+    ],
+    "answer": "Complex in behaviour"
+  },
+  {
+    "question": "Which group shows the most extensive metabolic diversity?",
+    "options": [
+      "Fungi",
+      "Protists",
+      "Plants",
+      "Bacteria"
+    ],
+    "answer": "Bacteria"
+  },
+  {
+    "question": "What type of bacteria synthesise their own food from inorganic substrates?",
+    "options": [
+      "Heterotrophic bacteria",
+      "Parasitic bacteria",
+      "Autotrophic bacteria",
+      "Saprophytic bacteria"
+    ],
+    "answer": "Autotrophic bacteria"
+  },
+  {
+    "question": "Photosynthetic autotrophic bacteria synthesise food using:",
+    "options": [
+      "Organic acids",
+      "Light energy",
+      "Fungi",
+      "Proteins"
+    ],
+    "answer": "Light energy"
+  },
+  {
+    "question": "Chemosynthetic autotrophic bacteria synthesise food using:",
+    "options": [
+      "Organic substances",
+      "Light",
+      "Inorganic chemical reactions",
+      "Oxygen"
+    ],
+    "answer": "Inorganic chemical reactions"
+  },
+  {
+    "question": "Most bacteria are:",
+    "options": [
+      "Autotrophs",
+      "Parasites",
+      "Heterotrophs",
+      "Carnivores"
+    ],
+    "answer": "Heterotrophs"
+  },
+  {
+    "question": "Heterotrophic bacteria depend on:",
+    "options": [
+      "Inorganic salts",
+      "Other organisms or dead organic matter",
+      "Sunlight only",
+      "Soil particles"
+    ],
+    "answer": "Other organisms or dead organic matter"
+  },
+  {
+    "question": "Archaebacteria are special because they live in:",
+    "options": [
+      "Freshwater lakes",
+      "Normal soil",
+      "Harsh habitats",
+      "Shady forests"
+    ],
+    "answer": "Harsh habitats"
+  },
+  {
+    "question": "Which of the following is an example of archaebacteria found in extreme salty areas?",
+    "options": [
+      "Methanogens",
+      "Thermoacidophiles",
+      "Halophiles",
+      "Cyanobacteria"
+    ],
+    "answer": "Halophiles"
+  },
+  {
+    "question": "Which type of archaebacteria live in hot springs?",
+    "options": [
+      "Methanogens",
+      "Halophiles",
+      "Thermoacidophiles",
+      "Eubacteria"
+    ],
+    "answer": "Thermoacidophiles"
+  },
+  {
+    "question": "Which archaebacteria are found in marshy areas?",
+    "options": [
+      "Halophiles",
+      "Thermoacidophiles",
+      "Methanogens",
+      "Actinomycetes"
+    ],
+    "answer": "Methanogens"
+  },
+  {
+    "question": "What structural feature allows archaebacteria to survive extreme conditions?",
+    "options": [
+      "Their pigments",
+      "Different cell wall structure",
+      "Multicellularity",
+      "Flagella"
+    ],
+    "answer": "Different cell wall structure"
+  },
+  {
+    "question": "Methanogens are present in the gut of:",
+    "options": [
+      "Insects",
+      "Fish",
+      "Ruminant animals",
+      "Birds"
+    ],
+    "answer": "Ruminant animals"
+  },
+  {
+    "question": "Methanogens help produce:",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Methane (biogas)",
+      "Ammonia"
+    ],
+    "answer": "Methane (biogas)"
+  },
+  {
+    "question": "What is the source of biogas production involving methanogens?",
+    "options": [
+      "Leaf litter",
+      "Dead fish",
+      "Dung of ruminant animals",
+      "Tree bark"
+    ],
+    "answer": "Dung of ruminant animals"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
