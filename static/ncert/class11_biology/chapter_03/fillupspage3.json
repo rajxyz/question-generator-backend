@@ -1,1 +1,214 @@
-
+[
+  {
+    "question": "Algae are useful to man in a variety of ______.",
+    "answer": "ways"
+  },
+  {
+    "question": "At least half of the total carbon dioxide fixation on Earth is carried out by ______.",
+    "answer": "algae"
+  },
+  {
+    "question": "Algae fix carbon dioxide through the process of ______.",
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Being photosynthetic, algae increase the level of dissolved ______ in their environment.",
+    "answer": "oxygen"
+  },
+  {
+    "question": "Algae are primary producers of energy-rich ______.",
+    "answer": "compounds"
+  },
+  {
+    "question": "Primary producers like algae form the basis of the ______ cycles of aquatic animals.",
+    "answer": "food"
+  },
+  {
+    "question": "Many species of ______, Laminaria and Sargassum are used as food.",
+    "answer": "Porphyra"
+  },
+  {
+    "question": "Porphyra, Laminaria and ______ are marine algae used as food.",
+    "answer": "Sargassum"
+  },
+  {
+    "question": "About ______ species of marine algae are used as food.",
+    "answer": "70"
+  },
+  {
+    "question": "Certain brown and red algae produce large amounts of ______ (water holding substances).",
+    "answer": "hydrocolloids"
+  },
+  {
+    "question": "Brown algae produce hydrocolloid called ______.",
+    "answer": "algin"
+  },
+  {
+    "question": "Red algae produce hydrocolloid called ______.",
+    "answer": "carrageen"
+  },
+  {
+    "question": "Hydrocolloids like algin and carrageen are used ______.",
+    "answer": "commercially"
+  },
+  {
+    "question": "Agar is obtained from ______ and Gracilaria.",
+    "answer": "Gelidium"
+  },
+  {
+    "question": "Agar is a commercial product used to grow ______.",
+    "answer": "microbes"
+  },
+  {
+    "question": "Agar is also used in the preparation of ______ and jellies.",
+    "answer": "ice-creams"
+  },
+  {
+    "question": "A unicellular alga rich in proteins used as food supplement is ______.",
+    "answer": "Chlorella"
+  },
+  {
+    "question": "Chlorella is even used by ______ travellers as food supplement.",
+    "answer": "space"
+  },
+  {
+    "question": "The algae are divided into three classes: Chlorophyceae, Phaeophyceae and ______.",
+    "answer": "Rhodophyceae"
+  },
+  {
+    "question": "Members of Chlorophyceae are commonly called ______ algae.",
+    "answer": "green"
+  },
+  {
+    "question": "The plant body of green algae may be unicellular, colonial or ______.",
+    "answer": "filamentous"
+  },
+  {
+    "question": "Green algae are usually grass green due to chlorophyll a and ______.",
+    "answer": "b"
+  },
+  {
+    "question": "The pigments in green algae are localised in definite ______.",
+    "answer": "chloroplasts"
+  },
+  {
+    "question": "Chloroplasts may be discoid, plate-like, reticulate, cup-shaped, spiral or ______-shaped.",
+    "answer": "ribbon"
+  },
+  {
+    "question": "Storage bodies in chloroplasts of green algae are called ______.",
+    "answer": "pyrenoids"
+  },
+  {
+    "question": "Pyrenoids contain protein besides ______.",
+    "answer": "starch"
+  },
+  {
+    "question": "Some green algae may store food in the form of ______ droplets.",
+    "answer": "oil"
+  },
+  {
+    "question": "Green algae have a rigid cell wall made of inner layer of cellulose and outer layer of ______.",
+    "answer": "pectose"
+  },
+  {
+    "question": "Vegetative reproduction in green algae usually occurs by ______.",
+    "answer": "fragmentation"
+  },
+  {
+    "question": "Asexual reproduction in green algae occurs via flagellated ______.",
+    "answer": "zoospores"
+  },
+  {
+    "question": "Zoospores are produced in specialized structures called ______.",
+    "answer": "zoosporangia"
+  },
+  {
+    "question": "Sexual reproduction in green algae shows variation in type and formation of ______ cells.",
+    "answer": "sex"
+  },
+  {
+    "question": "Sexual reproduction in green algae may be isogamous, anisogamous or ______.",
+    "answer": "oogamous"
+  },
+  {
+    "question": "Commonly found green algae include Chlamydomonas, Volvox, Ulothrix, Spirogyra and ______.",
+    "answer": "Chara"
+  },
+  {
+    "question": "The green colour of Chlorophyceae is due to pigments chlorophyll a and ______.",
+    "answer": "b"
+  },
+  {
+    "question": "In different species, the chloroplast shape may be spiral, reticulate or ______-shaped.",
+    "answer": "cup"
+  },
+  {
+    "question": "Agar is used to grow microbes and in preparation of ______ and jellies.",
+    "answer": "ice-creams"
+  },
+  {
+    "question": "Brown algae such as Laminaria produce the hydrocolloid ______.",
+    "answer": "algin"
+  },
+  {
+    "question": "Red algae such as Gracilaria produce the hydrocolloid ______.",
+    "answer": "carrageen"
+  },
+  {
+    "question": "Commercial hydrocolloid agar is extracted from Gelidium and ______.",
+    "answer": "Gracilaria"
+  },
+  {
+    "question": "Green algae usually have a rigid ______ wall.",
+    "answer": "cell"
+  },
+  {
+    "question": "The cell wall of green algae consists of cellulose and ______.",
+    "answer": "pectose"
+  },
+  {
+    "question": "Flagellated zoospores are produced inside ______ during asexual reproduction.",
+    "answer": "zoosporangia"
+  },
+  {
+    "question": "Isogamous reproduction involves fusion of gametes ______ in size.",
+    "answer": "similar"
+  },
+  {
+    "question": "Anisogamous reproduction involves gametes of ______ sizes.",
+    "answer": "different"
+  },
+  {
+    "question": "Oogamous reproduction involves a large, non-motile female gamete and a ______ male gamete.",
+    "answer": "motile"
+  },
+  {
+    "question": "Members of Chlorophyceae may be unicellular, ______ or filamentous.",
+    "answer": "colonial"
+  },
+  {
+    "question": "Pigments in Chlorophyceae are localised in definite ______.",
+    "answer": "chloroplasts"
+  },
+  {
+    "question": "Pyrenoids, present in chloroplasts, contain protein and ______.",
+    "answer": "starch"
+  },
+  {
+    "question": "Green algae may store food as ______ droplets.",
+    "answer": "oil"
+  },
+  {
+    "question": "Some commonly found green algae are Chlamydomonas, Volvox, Ulothrix, Spirogyra and ______.",
+    "answer": "Chara"
+  },
+  {
+    "question": "Zoospores are produced in structures called ______ during asexual reproduction.",
+    "answer": "zoosporangia"
+  },
+  {
+    "question": "Chlorella is used as food supplement because it is rich in ______.",
+    "answer": "proteins"
+  }
+]
