@@ -134,3 +134,53 @@
     "answer": "A"
   }
 ]
+
+
+
+[
+  {
+    "question": "In transverse section, a typical microsporangium appears:",
+    "options": ["Oval", "Circular", "Triangular", "Irregular"],
+    "answer": "Circular"
+  },
+  {
+    "question": "How many wall layers generally surround a microsporangium?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "answer": "Four"
+  },
+  {
+    "question": "The outer three wall layers of microsporangium perform:",
+    "options": ["Nourishment", "Protection and dehiscence", "Pollen tube formation", "Gamete fusion"],
+    "answer": "Protection and dehiscence"
+  },
+  {
+    "question": "Which is the innermost wall layer of the microsporangium?",
+    "options": ["Epidermis", "Tapetum", "Endothecium", "Middle layers"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "Tapetum nourishes the developing:",
+    "options": ["Ovules", "Pollen grains", "Seed coat", "Endosperm"],
+    "answer": "Pollen grains"
+  },
+  {
+    "question": "Cells of tapetum generally have:",
+    "options": ["One nucleus", "No nucleus", "More than one nucleus", "Degenerated nucleus"],
+    "answer": "More than one nucleus"
+  },
+  {
+    "question": "The central region of a young anther contains:",
+    "options": ["Pollen grains", "Sporogenous tissue", "Endosperm cells", "Ovules"],
+    "answer": "Sporogenous tissue"
+  },
+  {
+    "question": "Cells of sporogenous tissue undergo meiosis to form:",
+    "options": ["Pollen sacs", "Microspore tetrads", "Ovules", "Endosperm"],
+    "answer": "Microspore tetrads"
+  },
+  {
+    "question": "The ploidy of cells in microspore tetrads is:",
+    "options": ["Haploid", "Diploid", "Triploid", "Tetraploid"],
+    "answer": "Haploid"
+  }
+]
