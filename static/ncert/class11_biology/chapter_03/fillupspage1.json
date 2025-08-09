@@ -1,1 +1,202 @@
-
+[
+  {
+    "question": "In the previous chapter, we looked at the broad classification of living organisms under the system proposed by ______ (1969).",
+    "answer": "Whittaker"
+  },
+  {
+    "question": "Whittaker suggested the Five Kingdom classification viz. Monera, Protista, ______, Animalia and Plantae.",
+    "answer": "Fungi"
+  },
+  {
+    "question": "Whittaker suggested the Five Kingdom classification viz. Monera, ______, Fungi, Animalia and Plantae.",
+    "answer": "Protista"
+  },
+  {
+    "question": "Whittaker suggested the Five Kingdom classification viz. Monera, Protista, Fungi, Animalia and ______.",
+    "answer": "Plantae"
+  },
+  {
+    "question": "In this chapter, we will deal in detail with further classification within Kingdom ______.",
+    "answer": "Plantae"
+  },
+  {
+    "question": "Kingdom Plantae is popularly known as the ‘______ kingdom’.",
+    "answer": "plant"
+  },
+  {
+    "question": "Our understanding of the plant kingdom has ______ over time.",
+    "answer": "changed"
+  },
+  {
+    "question": "Fungi, and members of the Monera and Protista having ______ ______ have now been excluded from Plantae.",
+    "answer": "cell walls"
+  },
+  {
+    "question": "Earlier classifications placed Monera, Protista, and Fungi in the same ______.",
+    "answer": "kingdom"
+  },
+  {
+    "question": "Cyanobacteria are also referred to as ______ ______ algae.",
+    "answer": "blue green"
+  },
+  {
+    "question": "Cyanobacteria are not considered ‘______’ any more.",
+    "answer": "algae"
+  },
+  {
+    "question": "In this chapter, we will describe Algae, Bryophytes, ______, Gymnosperms and Angiosperms under Plantae.",
+    "answer": "Pteridophytes"
+  },
+  {
+    "question": "We will describe Algae, Bryophytes, Pteridophytes, Gymnosperms and ______ under Plantae.",
+    "answer": "Angiosperms"
+  },
+  {
+    "question": "Let us also look at classification within ______ to understand some of the concerns that influenced classification systems.",
+    "answer": "angiosperms"
+  },
+  {
+    "question": "The earliest systems of classification used only gross superficial ______ characters.",
+    "answer": "morphological"
+  },
+  {
+    "question": "The earliest classification systems considered habit, colour, number and shape of ______.",
+    "answer": "leaves"
+  },
+  {
+    "question": "The earliest classification systems were based mainly on ______ characters.",
+    "answer": "vegetative"
+  },
+  {
+    "question": "Some classification systems were based on the ______ structure.",
+    "answer": "androecium"
+  },
+  {
+    "question": "The system based on androecium structure was given by ______.",
+    "answer": "Linnaeus"
+  },
+  {
+    "question": "The earliest classification systems were ______ as they separated closely related species.",
+    "answer": "artificial"
+  },
+  {
+    "question": "Artificial systems gave equal weightage to vegetative and ______ characteristics.",
+    "answer": "sexual"
+  },
+  {
+    "question": "Vegetative characters are more easily affected by the ______.",
+    "answer": "environment"
+  },
+  {
+    "question": "Natural classification systems were based on natural ______ among organisms.",
+    "answer": "affinities"
+  },
+  {
+    "question": "Natural classification systems consider not only external but also ______ features.",
+    "answer": "internal"
+  },
+  {
+    "question": "Natural classification systems consider ultra-structure, anatomy, embryology and ______.",
+    "answer": "phytochemistry"
+  },
+  {
+    "question": "A natural classification for flowering plants was given by George ______ and Joseph Dalton Hooker.",
+    "answer": "Bentham"
+  },
+  {
+    "question": "A natural classification for flowering plants was given by George Bentham and ______ ______ Hooker.",
+    "answer": "Joseph Dalton"
+  },
+  {
+    "question": "Fungi, and members of Monera and Protista having cell walls have now been ______ from Plantae.",
+    "answer": "excluded"
+  },
+  {
+    "question": "Earlier classifications placed Fungi in the same kingdom as ______.",
+    "answer": "Plantae"
+  },
+  {
+    "question": "Classification systems based only on a few characteristics are known as ______ systems.",
+    "answer": "artificial"
+  },
+  {
+    "question": "Artificial classification systems separated closely ______ species.",
+    "answer": "related"
+  },
+  {
+    "question": "Natural classification systems developed as an alternative to ______ classification systems.",
+    "answer": "artificial"
+  },
+  {
+    "question": "Natural classification systems consider internal features like anatomy and ______.",
+    "answer": "embryology"
+  },
+  {
+    "question": "Vegetative characters are not reliable because they are more easily affected by ______.",
+    "answer": "environment"
+  },
+  {
+    "question": "The classification system given by Linnaeus is based on the structure of ______.",
+    "answer": "androecium"
+  },
+  {
+    "question": "Systems that gave equal weight to vegetative and sexual characters are considered ______.",
+    "answer": "artificial"
+  },
+  {
+    "question": "George Bentham and Joseph Dalton Hooker gave a classification for ______ plants.",
+    "answer": "flowering"
+  },
+  {
+    "question": "Natural systems consider both external and ______ features of plants.",
+    "answer": "internal"
+  },
+  {
+    "question": "The term 'plant kingdom' is popularly used for Kingdom ______.",
+    "answer": "Plantae"
+  },
+  {
+    "question": "We will describe ______, Bryophytes, Pteridophytes, Gymnosperms and Angiosperms under Plantae.",
+    "answer": "Algae"
+  },
+  {
+    "question": "Members of Monera and Protista with cell walls were earlier placed in the same ______ as plants.",
+    "answer": "kingdom"
+  },
+  {
+    "question": "Such systems that use superficial morphological characters are called ______ systems.",
+    "answer": "artificial"
+  },
+  {
+    "question": "Systems that rely on habit, colour and shape of leaves are considered ______.",
+    "answer": "superficial"
+  },
+  {
+    "question": "Systems using natural affinities among organisms are known as ______ classification systems.",
+    "answer": "natural"
+  },
+  {
+    "question": "The natural classification system takes into account phytochemistry and ______ structure.",
+    "answer": "ultra-"
+  },
+  {
+    "question": "Artificial systems separated species that were actually ______ related.",
+    "answer": "closely"
+  },
+  {
+    "question": "The androecium is a part of the ______ reproductive system.",
+    "answer": "male"
+  },
+  {
+    "question": "Systems based only on androecium structure ignore many other ______ features.",
+    "answer": "morphological"
+  },
+  {
+    "question": "Phytochemistry refers to the study of ______ compounds in plants.",
+    "answer": "chemical"
+  },
+  {
+    "question": "Joseph Dalton Hooker was one of the scientists who proposed a ______ classification system.",
+    "answer": "natural"
+  }
+]
