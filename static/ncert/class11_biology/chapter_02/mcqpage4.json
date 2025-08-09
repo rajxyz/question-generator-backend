@@ -1,5 +1,326 @@
 [
   {
+    "question": "What are eubacteria also referred to as?",
+    "options": [
+      "Archaebacteria",
+      "Ancient bacteria",
+      "True bacteria",
+      "Fungal bacteria"
+    ],
+    "answer": "True bacteria"
+  },
+  {
+    "question": "What characterises eubacteria?",
+    "options": [
+      "No cell wall",
+      "Presence of a nucleus",
+      "Rigid cell wall and sometimes flagellum",
+      "Lack of DNA"
+    ],
+    "answer": "Rigid cell wall and sometimes flagellum"
+  },
+  {
+    "question": "Which structure is found in motile eubacteria?",
+    "options": [
+      "Cilia",
+      "Pili",
+      "Flagellum",
+      "Pseudopodia"
+    ],
+    "answer": "Flagellum"
+  },
+  {
+    "question": "Cyanobacteria are also known as:",
+    "options": [
+      "Red algae",
+      "Green algae",
+      "Blue-green algae",
+      "Brown algae"
+    ],
+    "answer": "Blue-green algae"
+  },
+  {
+    "question": "Which pigment in cyanobacteria is similar to that in green plants?",
+    "options": [
+      "Chlorophyll b",
+      "Carotenoids",
+      "Chlorophyll a",
+      "Phycocyanin"
+    ],
+    "answer": "Chlorophyll a"
+  },
+  {
+    "question": "What is the mode of nutrition in cyanobacteria?",
+    "options": [
+      "Heterotrophic",
+      "Parasitic",
+      "Saprophytic",
+      "Photosynthetic autotrophs"
+    ],
+    "answer": "Photosynthetic autotrophs"
+  },
+  {
+    "question": "Cyanobacteria can exist in which of the following forms?",
+    "options": [
+      "Only unicellular",
+      "Only filamentous",
+      "Only colonial",
+      "Unicellular, colonial or filamentous"
+    ],
+    "answer": "Unicellular, colonial or filamentous"
+  },
+  {
+    "question": "Cyanobacteria may be found in which of the following habitats?",
+    "options": [
+      "Only marine",
+      "Only freshwater",
+      "Freshwater, marine or terrestrial",
+      "Only terrestrial"
+    ],
+    "answer": "Freshwater, marine or terrestrial"
+  },
+  {
+    "question": "What surrounds the colonies of cyanobacteria?",
+    "options": [
+      "Silica shell",
+      "Gelatinous sheath",
+      "Cellulose wall",
+      "Protein coat"
+    ],
+    "answer": "Gelatinous sheath"
+  },
+  {
+    "question": "What do cyanobacteria often form in polluted water bodies?",
+    "options": [
+      "Crystals",
+      "Mats",
+      "Blooms",
+      "Spores"
+    ],
+    "answer": "Blooms"
+  },
+  {
+    "question": "Which organisms can fix atmospheric nitrogen in heterocysts?",
+    "options": [
+      "Spirogyra and Volvox",
+      "Rhizobium and Azotobacter",
+      "Nostoc and Anabaena",
+      "Chlamydomonas and Ulothrix"
+    ],
+    "answer": "Nostoc and Anabaena"
+  },
+  {
+    "question": "What is the function of heterocysts in some cyanobacteria?",
+    "options": [
+      "Photosynthesis",
+      "Nitrogen fixation",
+      "Spore formation",
+      "Movement"
+    ],
+    "answer": "Nitrogen fixation"
+  },
+  {
+    "question": "Which substances are oxidised by chemosynthetic autotrophic bacteria?",
+    "options": [
+      "Sugars and proteins",
+      "Chlorophyll and glucose",
+      "Nitrates, nitrites and ammonia",
+      "Carbon dioxide and oxygen"
+    ],
+    "answer": "Nitrates, nitrites and ammonia"
+  },
+  {
+    "question": "What is the purpose of oxidising inorganic substances by chemosynthetic bacteria?",
+    "options": [
+      "To produce oxygen",
+      "To release nitrogen gas",
+      "To form proteins",
+      "To produce ATP"
+    ],
+    "answer": "To produce ATP"
+  },
+  {
+    "question": "What role do chemosynthetic autotrophic bacteria play?",
+    "options": [
+      "Forming algae blooms",
+      "Recycling nutrients",
+      "Causing infections",
+      "Fixing oxygen"
+    ],
+    "answer": "Recycling nutrients"
+  },
+  {
+    "question": "Which of the following nutrients are recycled by chemosynthetic autotrophic bacteria?",
+    "options": [
+      "Only nitrogen and potassium",
+      "Only phosphorous and calcium",
+      "Nitrogen, phosphorous, iron and sulphur",
+      "Carbon and hydrogen"
+    ],
+    "answer": "Nitrogen, phosphorous, iron and sulphur"
+  }
+]
+
+[
+  {
+    "question": "Which type of bacteria are most abundant in nature?",
+    "options": [
+      "Autotrophic bacteria",
+      "Photosynthetic bacteria",
+      "Heterotrophic bacteria",
+      "Chemosynthetic bacteria"
+    ],
+    "answer": "Heterotrophic bacteria"
+  },
+  {
+    "question": "What is the major role of most heterotrophic bacteria in nature?",
+    "options": [
+      "Photosynthesis",
+      "Nitrogen fixation",
+      "Decomposition",
+      "Oxygen production"
+    ],
+    "answer": "Decomposition"
+  },
+  {
+    "question": "Which of the following is NOT a helpful role of bacteria mentioned in the paragraph?",
+    "options": [
+      "Making curd from milk",
+      "Causing malaria",
+      "Production of antibiotics",
+      "Fixing nitrogen in legume roots"
+    ],
+    "answer": "Causing malaria"
+  },
+  {
+    "question": "Which process is aided by bacteria in legume roots?",
+    "options": [
+      "Photosynthesis",
+      "Reproduction",
+      "Nitrogen fixation",
+      "Fermentation"
+    ],
+    "answer": "Nitrogen fixation"
+  },
+  {
+    "question": "Which of the following is a disease caused by bacteria?",
+    "options": [
+      "Malaria",
+      "Cholera",
+      "Dengue",
+      "Ringworm"
+    ],
+    "answer": "Cholera"
+  },
+  {
+    "question": "Which disease is NOT listed in the paragraph as caused by bacteria?",
+    "options": [
+      "Typhoid",
+      "Tetanus",
+      "Citrus canker",
+      "Tuberculosis"
+    ],
+    "answer": "Tuberculosis"
+  },
+  {
+    "question": "How do bacteria primarily reproduce?",
+    "options": [
+      "Budding",
+      "Fission",
+      "Spore formation",
+      "Binary conjugation"
+    ],
+    "answer": "Fission"
+  },
+  {
+    "question": "What do bacteria produce under unfavourable conditions?",
+    "options": [
+      "Spores",
+      "Seeds",
+      "Gametes",
+      "Cysts"
+    ],
+    "answer": "Spores"
+  },
+  {
+    "question": "How do bacteria reproduce sexually?",
+    "options": [
+      "By fertilisation",
+      "By conjugation involving plasmids",
+      "By a primitive type of DNA transfer",
+      "By binary fusion"
+    ],
+    "answer": "By a primitive type of DNA transfer"
+  },
+  {
+    "question": "Which organisms completely lack a cell wall?",
+    "options": [
+      "Bacteria",
+      "Cyanobacteria",
+      "Mycoplasma",
+      "Fungi"
+    ],
+    "answer": "Mycoplasma"
+  },
+  {
+    "question": "What is true about Mycoplasma cells?",
+    "options": [
+      "They are the largest living cells",
+      "They have thick cell walls",
+      "They are the smallest living cells known",
+      "They are not pathogenic"
+    ],
+    "answer": "They are the smallest living cells known"
+  },
+  {
+    "question": "Which organisms can survive without oxygen?",
+    "options": [
+      "All bacteria",
+      "Cyanobacteria",
+      "Mycoplasma",
+      "Algae"
+    ],
+    "answer": "Mycoplasma"
+  },
+  {
+    "question": "What is true about many Mycoplasma?",
+    "options": [
+      "They fix nitrogen in soil",
+      "They are helpful in digestion",
+      "They are pathogenic in animals and plants",
+      "They form spores under stress"
+    ],
+    "answer": "They are pathogenic in animals and plants"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
     "question": "What is true about bacterial structure?",
     "options": [
       "It is complex",
