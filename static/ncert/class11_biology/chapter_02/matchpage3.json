@@ -9,9 +9,9 @@
       "Many bacteria"
     ],
     "columnB": [
+      "Are the most abundant micro-organisms",
       "Are the sole members of the Kingdom Monera",
       "Almost everywhere",
-      "Are the most abundant micro-organisms",
       "Such as hot springs, deserts, snow and deep oceans",
       "Live in or on other organisms as parasites"
     ],
@@ -32,10 +32,10 @@
       "Spirillum (pl.: spirilla)"
     ],
     "columnB": [
-      "Spiral",
       "Rod-shaped",
       "Comma-shaped",
-      "Spherical"
+      "Spherical",
+      "Spiral"
     ],
     "answer": {
       "Coccus (pl.: cocci)": "Spherical",
@@ -43,5 +43,73 @@
       "Vibrium (pl.: vibrio)": "Comma-shaped",
       "Spirillum (pl.: spirilla)": "Spiral"
     }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Bacterial structure",
+      "Bacterial behaviour",
+      "Metabolic diversity",
+      "Autotrophic bacteria",
+      "Heterotrophic bacteria"
+    ],
+    "columnB": [
+      "Very complex in behaviour",
+      "Very simple",
+      "Show the most extensive metabolic diversity",
+      "Depend on other organisms or on dead organic matter for food",
+      "Synthesise their own food from inorganic substrates"
+    ],
+    "answer": {
+      "Bacterial structure": "Very simple",
+      "Bacterial behaviour": "Very complex in behaviour",
+      "Metabolic diversity": "Show the most extensive metabolic diversity",
+      "Autotrophic bacteria": "Synthesise their own food from inorganic substrates",
+      "Heterotrophic bacteria": "Depend on other organisms or on dead organic matter for food"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Photosynthetic autotrophic bacteria",
+      "Chemosynthetic autotrophic bacteria",
+      "Autotrophic bacteria",
+      "Heterotrophs"
+    ],
+    "columnB": [
+      "Depend on other organisms or on dead organic matter for food",
+      "They may be photosynthetic autotrophic or chemosynthetic autotrophic",
+      "Type of autotrophic bacteria",
+      "Type of autotrophic bacteria"
+    ],
+    "answer": {
+      "Photosynthetic autotrophic bacteria": "Type of autotrophic bacteria",
+      "Chemosynthetic autotrophic bacteria": "Type of autotrophic bacteria",
+      "Autotrophic bacteria": "They may be photosynthetic autotrophic or chemosynthetic autotrophic",
+      "Heterotrophs": "Depend on other organisms or on dead organic matter for food"
+    }
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
