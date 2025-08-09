@@ -1,0 +1,101 @@
+[
+  {
+    "assertion": "In flowering plants, the male and female gametes are produced in the pollen grain and embryo sac respectively.",
+    "reason": "As both types of gametes are non-motile, they have to be brought together for fertilisation to occur.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Pollination is the mechanism to bring non-motile gametes together for fertilisation.",
+    "reason": "Transfer of pollen grains (shed from the anther) to the stigma of a pistil is termed pollination.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Flowering plants have evolved an amazing array of adaptations to achieve pollination.",
+    "reason": "They make use of external agents to achieve pollination.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Pollination can be divided into three types depending on the source of pollen.",
+    "reason": "Autogamy is a type of pollination achieved within the same flower.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Complete autogamy is rather rare in a normal flower which opens and exposes the anthers and the stigma.",
+    "reason": "Autogamy in such flowers requires synchrony in pollen release and stigma receptivity and also, the anthers and the stigma should lie close to each other.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Some plants such as Viola, Oxalis, and Commelina produce two types of flowers.",
+    "reason": "Cleistogamous flowers do not open at all.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "In cleistogamous flowers, the anthers and stigma lie close to each other.",
+    "reason": "When anthers dehisce in the flower buds, pollen grains come in contact with the stigma to effect pollination.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Cleistogamous flowers are invariably autogamous.",
+    "reason": "There is no chance of cross-pollen landing on the stigma in cleistogamous flowers.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Cleistogamous flowers produce assured seed-set even in the absence of pollinators.",
+    "reason": "Cleistogamous flowers do not open at all.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  }
+]
