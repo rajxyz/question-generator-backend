@@ -1,0 +1,46 @@
+[
+  {
+    "assertion": "Geitonogamy is functionally cross-pollination involving a pollinating agent.",
+    "reason": "In geitonogamy, pollen grains come from the same plant.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Xenogamy is the only type of pollination which brings genetically different types of pollen grains to the stigma.",
+    "reason": "In xenogamy, transfer of pollen grains occurs from anther to the stigma of a different plant.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Plants use two abiotic (wind and water) and one biotic (animals) agents to achieve pollination.",
+    "reason": "Majority of plants use biotic agents for pollination.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Pollen grains coming in contact with the stigma is a chance factor in both wind and water pollination.",
+    "reason": "To compensate for the uncertainties and associated loss of pollen grains, flowers produce enormous amount of pollen.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
