@@ -1,74 +1,158 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
-      "Classification of organisms was done instinctively",
-      "Aristotle used simple morphological characters",
-      "Aristotle classified plants into",
-      "Aristotle divided animals into",
-      "Linnaeus developed a Two Kingdom system"
-    ],
+    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
+    "columnB": ["Prokaryotic", "Eukaryotic", "Eukaryotic", "Eukaryotic", "Eukaryotic"],
+    "answer": {
+      "Monera": "Prokaryotic",
+      "Protista": "Eukaryotic",
+      "Fungi": "Eukaryotic",
+      "Plantae": "Eukaryotic",
+      "Animalia": "Eukaryotic"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
     "columnB": [
-      "Trees, shrubs and herbs",
-      "Plantae and Animalia",
-      "Not using criteria that were scientific",
-      "Those which had red blood and those that did not",
-      "Simple morphological characters"
+      "Noncellulosic (Polysaccharide + amino acid)",
+      "Present in some",
+      "Present with chitin",
+      "Present (cellulose)",
+      "Absent"
     ],
     "answer": {
-      "Classification of organisms was done instinctively": "Not using criteria that were scientific",
-      "Aristotle used simple morphological characters": "Simple morphological characters",
-      "Aristotle classified plants into": "Trees, shrubs and herbs",
-      "Aristotle divided animals into": "Those which had red blood and those that did not",
-      "Linnaeus developed a Two Kingdom system": "Plantae and Animalia"
+      "Monera": "Noncellulosic (Polysaccharide + amino acid)",
+      "Protista": "Present in some",
+      "Fungi": "Present with chitin",
+      "Plantae": "Present (cellulose)",
+      "Animalia": "Absent"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
+    "columnB": ["Absent", "Present", "Present", "Present", "Present"],
+    "answer": {
+      "Monera": "Absent",
+      "Protista": "Present",
+      "Fungi": "Present",
+      "Plantae": "Present",
+      "Animalia": "Present"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
+    "columnB": ["Cellular", "Cellular", "Multiceullar/loose tissue", "Tissue/organ", "Tissue/organ/organ system"],
+    "answer": {
+      "Monera": "Cellular",
+      "Protista": "Cellular",
+      "Fungi": "Multiceullar/loose tissue",
+      "Plantae": "Tissue/organ",
+      "Animalia": "Tissue/organ/organ system"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
+    "columnB": [
+      "Autotrophic (chemosynthetic and photosynthetic) and Heterotrophic (saprophytic/parasitic)",
+      "Autotrophic (Photosynthetic) and Heterotrophic",
+      "Heterotrophic (Saprophytic/Parasitic)",
+      "Autotrophic (Photosynthetic)",
+      "Heterotrophic (Holozoic/Saprophytic etc.)"
+    ],
+    "answer": {
+      "Monera": "Autotrophic (chemosynthetic and photosynthetic) and Heterotrophic (saprophytic/parasitic)",
+      "Protista": "Autotrophic (Photosynthetic) and Heterotrophic",
+      "Fungi": "Heterotrophic (Saprophytic/Parasitic)",
+      "Plantae": "Autotrophic (Photosynthetic)",
+      "Animalia": "Heterotrophic (Holozoic/Saprophytic etc.)"
     }
   },
   {
     "question": "Match the following:",
     "columnA": [
-      "Two Kingdom system included",
-      "Two Kingdom system did not distinguish between",
-      "Green algae",
-      "Fungi",
-      "Classification of organisms into plants and animals"
+      "R.H. Whittaker (1969)",
+      "Five Kingdoms defined by Whittaker",
+      "Main criteria for classification",
+      "Three-domain system"
     ],
     "columnB": [
-      "Photosynthetic organisms",
-      "Eukaryotes and prokaryotes",
-      "All plants and animals respectively",
-      "Non-photosynthetic organisms",
-      "Was easily done and was easy to understand"
+      "Divides Kingdom Monera into two domains",
+      "Monera, Protista, Fungi, Plantae and Animalia",
+      "Proposed a Five Kingdom Classification",
+      "Cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships"
     ],
     "answer": {
-      "Two Kingdom system included": "All plants and animals respectively",
-      "Two Kingdom system did not distinguish between": "Eukaryotes and prokaryotes",
-      "Green algae": "Photosynthetic organisms",
-      "Fungi": "Non-photosynthetic organisms",
-      "Classification of organisms into plants and animals": "Was easily done and was easy to understand"
+      "R.H. Whittaker (1969)": "Proposed a Five Kingdom Classification",
+      "Five Kingdoms defined by Whittaker": "Monera, Protista, Fungi, Plantae and Animalia",
+      "Main criteria for classification": "Cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships",
+      "Three-domain system": "Divides Kingdom Monera into two domains"
     }
   },
   {
     "question": "Match the following:",
     "columnA": [
-      "Two kingdom classification was found inadequate",
-      "Need was felt to include characteristics like",
-      "Classification systems have undergone",
-      "Plant and animal kingdoms have been",
-      "Understanding of groups/organisms under kingdoms"
+      "Earlier classification systems included",
+      "Character that unified the whole kingdom ‘Plants’",
+      "Prokaryotic organisms placed under ‘Plants’",
+      "Eukaryotic organisms placed under ‘Plants’"
     ],
     "columnB": [
-      "A constant under all different systems",
-      "Cell structure, nature of wall, mode of nutrition, habitat, methods of reproduction, evolutionary relationships",
-      "Changing over time",
-      "Several changes over the time",
-      "A large number of organisms did not fall into either category"
+      "Cell wall in their cells",
+      "Bacteria and blue green algae (cyanobacteria)",
+      "Fungi, mosses, ferns, gymnosperms and angiosperms",
+      "Bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and angiosperms"
     ],
     "answer": {
-      "Two kingdom classification was found inadequate": "A large number of organisms did not fall into either category",
-      "Need was felt to include characteristics like": "Cell structure, nature of wall, mode of nutrition, habitat, methods of reproduction, evolutionary relationships",
-      "Classification systems have undergone": "Several changes over the time",
-      "Plant and animal kingdoms have been": "A constant under all different systems",
-      "Understanding of groups/organisms under kingdoms": "Changing over time"
+      "Earlier classification systems included": "Bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and angiosperms",
+      "Character that unified the whole kingdom ‘Plants’": "Cell wall in their cells",
+      "Prokaryotic organisms placed under ‘Plants’": "Bacteria and blue green algae (cyanobacteria)",
+      "Eukaryotic organisms placed under ‘Plants’": "Fungi, mosses, ferns, gymnosperms and angiosperms"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Unicellular organism placed under algae",
+      "Multicellular organism placed under algae",
+      "Group not differentiated from autotrophic green plants in earlier classification",
+      "Wall composition of fungi"
+    ],
+    "columnB": [
+      "Spirogyra",
+      "Chlamydomonas",
+      "Heterotrophic group – fungi",
+      "Chitin"
+    ],
+    "answer": {
+      "Unicellular organism placed under algae": "Chlamydomonas",
+      "Multicellular organism placed under algae": "Spirogyra",
+      "Group not differentiated from autotrophic green plants in earlier classification": "Heterotrophic group – fungi",
+      "Wall composition of fungi": "Chitin"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Wall composition of green plants",
+      "Change in classification when wall composition considered",
+      "Kingdom to which fungi were placed when separated",
+      "Blue green algae"
+    ],
+    "columnB": [
+      "Cellulosic cell wall",
+      "Fungi placed in a separate kingdom",
+      "Kingdom Fungi",
+      "Cyanobacteria"
+    ],
+    "answer": {
+      "Wall composition of green plants": "Cellulosic cell wall",
+      "Change in classification when wall composition considered": "Fungi placed in a separate kingdom",
+      "Kingdom to which fungi were placed when separated": "Kingdom Fungi",
+      "Blue green algae": "Cyanobacteria"
     }
   }
 ]
