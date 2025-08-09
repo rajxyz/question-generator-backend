@@ -1,0 +1,62 @@
+[
+  {
+    "question": "The primary sex organs – the ______ in the males and the ovaries in the females – produce gametes.",
+    "answer": "testis"
+  },
+  {
+    "question": "The primary sex organs – the testis in the males and the ______ in the females – produce gametes.",
+    "answer": "ovaries"
+  },
+  {
+    "question": "The process by which the testis and ovaries produce gametes is called ______.",
+    "answer": "gametogenesis"
+  },
+  {
+    "question": "In testis, immature male germ cells (spermatogonia) produce sperms by the process of ______.",
+    "answer": "spermatogenesis"
+  },
+  {
+    "question": "Spermatogenesis begins at ______.",
+    "answer": "puberty"
+  },
+  {
+    "question": "Spermatogonia multiply by ______ division.",
+    "answer": "mitotic"
+  },
+  {
+    "question": "Each spermatogonium is ______ and contains 46 chromosomes.",
+    "answer": "diploid"
+  },
+  {
+    "question": "Primary spermatocytes complete the first meiotic division to form two equal, haploid cells called ______.",
+    "answer": "secondary spermatocytes"
+  },
+  {
+    "question": "Secondary spermatocytes undergo the second meiotic division to produce four equal, haploid ______.",
+    "answer": "spermatids"
+  },
+  {
+    "question": "The process by which spermatids are transformed into spermatozoa is called ______.",
+    "answer": "spermiogenesis"
+  },
+  {
+    "question": "The release of sperm from seminiferous tubules is called ______.",
+    "answer": "spermiation"
+  },
+  {
+    "question": "Spermatogenesis starts at puberty due to increased secretion of ______ hormone.",
+    "answer": "gonadotropin releasing"
+  },
+  {
+    "question": "GnRH acts at the ______ gland to stimulate secretion of LH and FSH.",
+    "answer": "anterior pituitary"
+  },
+  {
+    "question": "LH acts on the ______ cells and stimulates synthesis of androgens.",
+    "answer": "Leydig"
+  },
+  {
+    "question": "FSH acts on ______ cells and stimulates secretion of some factors which help in spermiogenesis.",
+    "answer": "Sertoli"
+  }
+]
