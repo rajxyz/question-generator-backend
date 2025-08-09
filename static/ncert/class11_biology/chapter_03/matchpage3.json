@@ -1,1 +1,122 @@
-
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Carbon dioxide fixation on earth",
+      "Photosynthetic algae",
+      "Primary producers of energy-rich compounds",
+      "Porphyra, Laminaria and Sargassum",
+      "Hydrocolloids from brown and red algae"
+    ],
+    "columnB": [
+      "Increase the level of dissolved oxygen in their immediate environment",
+      "Used as food",
+      "Algin and carrageen",
+      "At least a half carried out by algae",
+      "Form the basis of the food cycles of all aquatic animals"
+    ],
+    "answer": {
+      "Carbon dioxide fixation on earth": "At least a half carried out by algae",
+      "Photosynthetic algae": "Increase the level of dissolved oxygen in their immediate environment",
+      "Primary producers of energy-rich compounds": "Form the basis of the food cycles of all aquatic animals",
+      "Porphyra, Laminaria and Sargassum": "Used as food",
+      "Hydrocolloids from brown and red algae": "Algin and carrageen"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Agar",
+      "Chlorella",
+      "Classes of algae",
+      "Gelidium and Gracilaria",
+      "Used to grow microbes and in preparations of ice-creams and jellies"
+    ],
+    "columnB": [
+      "Chlorophyceae, Phaeophyceae and Rhodophyceae",
+      "A unicellular alga rich in proteins",
+      "Used as food supplement even by space travellers",
+      "Commercial product obtained from Gelidium and Gracilaria",
+      "Agar"
+    ],
+    "answer": {
+      "Agar": "Commercial product obtained from Gelidium and Gracilaria",
+      "Chlorella": "A unicellular alga rich in proteins",
+      "Classes of algae": "Chlorophyceae, Phaeophyceae and Rhodophyceae",
+      "Gelidium and Gracilaria": "Used to grow microbes and in preparations of ice-creams and jellies",
+      "Used to grow microbes and in preparations of ice-creams and jellies": "Agar"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Chlorophyceae members",
+      "Green colour in algae",
+      "Pyrenoids",
+      "Food stored in some algae",
+      "Green algae cell wall"
+    ],
+    "columnB": [
+      "Chlorophyll a and b",
+      "Contain protein besides starch",
+      "Unicellular, colonial or filamentous",
+      "An inner layer of cellulose and an outer layer of pectose",
+      "Oil droplets"
+    ],
+    "answer": {
+      "Chlorophyceae members": "Unicellular, colonial or filamentous",
+      "Green colour in algae": "Chlorophyll a and b",
+      "Pyrenoids": "Contain protein besides starch",
+      "Food stored in some algae": "Oil droplets",
+      "Green algae cell wall": "An inner layer of cellulose and an outer layer of pectose"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Chloroplast shapes in green algae",
+      "Vegetative reproduction in green algae",
+      "Asexual reproduction in green algae",
+      "Sexual reproduction in green algae",
+      "Common green algae"
+    ],
+    "columnB": [
+      "Chlamydomonas, Volvox, Ulothrix, Spirogyra and Chara",
+      "Discoid, plate-like, reticulate, cup-shaped, spiral or ribbon-shaped",
+      "Considerable variation in the type and formation of sex cells",
+      "By flagellated zoospores produced in zoosporangia",
+      "By fragmentation"
+    ],
+    "answer": {
+      "Chloroplast shapes in green algae": "Discoid, plate-like, reticulate, cup-shaped, spiral or ribbon-shaped",
+      "Vegetative reproduction in green algae": "By fragmentation",
+      "Asexual reproduction in green algae": "By flagellated zoospores produced in zoosporangia",
+      "Sexual reproduction in green algae": "Considerable variation in the type and formation of sex cells",
+      "Common green algae": "Chlamydomonas, Volvox, Ulothrix, Spirogyra and Chara"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Phaeophyceae habitat",
+      "Variation in size and form",
+      "Ectocarpus",
+      "Kelps",
+      "Pigments in brown algae"
+    ],
+    "columnB": [
+      "Chlorophyll a, c, carotenoids and xanthophylls",
+      "Primarily in marine habitats",
+      "Simple branched, filamentous forms",
+      "Profusely branched forms which may reach a height of 100 metres",
+      "Show great variation"
+    ],
+    "answer": {
+      "Phaeophyceae habitat": "Primarily in marine habitats",
+      "Variation in size and form": "Show great variation",
+      "Ectocarpus": "Simple branched, filamentous forms",
+      "Kelps": "Profusely branched forms which may reach a height of 100 metres",
+      "Pigments in brown algae": "Chlorophyll a, c, carotenoids and xanthophylls"
+    }
+  }
+]
