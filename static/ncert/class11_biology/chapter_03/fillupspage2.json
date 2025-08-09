@@ -1,1 +1,244 @@
-
+[
+  {
+    "question": "At present, ______ classification systems based on evolutionary relationships are acceptable.",
+    "answer": "phylogenetic"
+  },
+  {
+    "question": "Phylogenetic classification systems are based on ______ relationships between various organisms.",
+    "answer": "evolutionary"
+  },
+  {
+    "question": "Phylogenetic classification assumes that organisms of the same taxa have a common ______.",
+    "answer": "ancestor"
+  },
+  {
+    "question": "Organisms belonging to the same ______ have a common ancestor.",
+    "answer": "taxa"
+  },
+  {
+    "question": "We now use information from many other ______ to resolve difficulties in classification.",
+    "answer": "sources"
+  },
+  {
+    "question": "Additional sources become important when there is no supporting ______ evidence.",
+    "answer": "fossil"
+  },
+  {
+    "question": "Numerical Taxonomy is now easily carried out using ______.",
+    "answer": "computers"
+  },
+  {
+    "question": "Numerical Taxonomy is based on all ______ characteristics.",
+    "answer": "observable"
+  },
+  {
+    "question": "In Numerical Taxonomy, number and ______ are assigned to all the characters.",
+    "answer": "codes"
+  },
+  {
+    "question": "In Numerical Taxonomy, data are processed and each character is given equal ______.",
+    "answer": "importance"
+  },
+  {
+    "question": "Numerical Taxonomy allows hundreds of ______ to be considered at the same time.",
+    "answer": "characters"
+  },
+  {
+    "question": "Cytotaxonomy is based on ______ information like chromosome number and structure.",
+    "answer": "cytological"
+  },
+  {
+    "question": "Cytotaxonomy uses chromosome number, structure, and ______.",
+    "answer": "behaviour"
+  },
+  {
+    "question": "Cytotaxonomy is based on cytological information like ______ number.",
+    "answer": "chromosome"
+  },
+  {
+    "question": "Cytotaxonomy is also used by ______ these days.",
+    "answer": "taxonomists"
+  },
+  {
+    "question": "Chemotaxonomy uses the chemical ______ of the plant.",
+    "answer": "constituents"
+  },
+  {
+    "question": "Chemotaxonomy helps resolve ______ in classification.",
+    "answer": "confusions"
+  },
+  {
+    "question": "Taxonomists use cytotaxonomy and ______ to resolve classification issues.",
+    "answer": "chemotaxonomy"
+  },
+  {
+    "question": "All observable characteristics are used in ______ Taxonomy.",
+    "answer": "Numerical"
+  },
+  {
+    "question": "Numerical Taxonomy gives equal importance to each ______.",
+    "answer": "character"
+  },
+  {
+    "question": "Chemotaxonomy is based on ______ constituents of plants.",
+    "answer": "chemical"
+  },
+  {
+    "question": "Numerical Taxonomy is carried out with the help of ______.",
+    "answer": "computers"
+  },
+  {
+    "question": "Fossil evidence is often not available to support ______.",
+    "answer": "classification"
+  },
+  {
+    "question": "Information from many other sources helps resolve ______ in classification.",
+    "answer": "difficulties"
+  },
+  {
+    "question": "Chromosome number, structure, and behaviour are part of ______ information.",
+    "answer": "cytological"
+  }
+]
+[
+  {
+    "question": "Algae are ______-bearing, simple, thalloid, autotrophic and largely aquatic organisms.",
+    "answer": "chlorophyll"
+  },
+  {
+    "question": "Algae are chlorophyll-bearing, simple, ______, autotrophic and largely aquatic organisms.",
+    "answer": "thalloid"
+  },
+  {
+    "question": "Algae are largely ______ (both fresh water and marine) organisms.",
+    "answer": "aquatic"
+  },
+  {
+    "question": "Algae occur in a variety of other habitats such as moist stones, soils and ______.",
+    "answer": "wood"
+  },
+  {
+    "question": "Some algae occur in association with fungi to form ______.",
+    "answer": "lichen"
+  },
+  {
+    "question": "Some algae occur in association with animals, e.g., on ______ ______.",
+    "answer": "sloth bear"
+  },
+  {
+    "question": "The form and size of algae is highly ______.",
+    "answer": "variable"
+  },
+  {
+    "question": "Colonial forms of algae include ______.",
+    "answer": "Volvox"
+  },
+  {
+    "question": "Filamentous forms of algae include Ulothrix and ______.",
+    "answer": "Spirogyra"
+  },
+  {
+    "question": "A few marine forms of algae such as ______ form massive plant bodies.",
+    "answer": "kelps"
+  },
+  {
+    "question": "Algae reproduce by vegetative, asexual and ______ methods.",
+    "answer": "sexual"
+  },
+  {
+    "question": "Vegetative reproduction in algae occurs by ______.",
+    "answer": "fragmentation"
+  },
+  {
+    "question": "Each fragment of an alga develops into a ______.",
+    "answer": "thallus"
+  },
+  {
+    "question": "Asexual reproduction in algae involves production of different types of ______.",
+    "answer": "spores"
+  },
+  {
+    "question": "The most common type of asexual spores in algae are the ______.",
+    "answer": "zoospores"
+  },
+  {
+    "question": "Zoospores are ______ (motile) spores.",
+    "answer": "flagellated"
+  },
+  {
+    "question": "On germination, zoospores give rise to new ______.",
+    "answer": "plants"
+  },
+  {
+    "question": "Sexual reproduction in algae occurs through fusion of two ______.",
+    "answer": "gametes"
+  },
+  {
+    "question": "Gametes can be flagellated and similar in size as seen in ______.",
+    "answer": "Ulothrix"
+  },
+  {
+    "question": "Gametes can be non-flagellated but similar in size as in ______.",
+    "answer": "Spirogyra"
+  },
+  {
+    "question": "Reproduction involving fusion of gametes similar in size is called ______.",
+    "answer": "isogamous"
+  },
+  {
+    "question": "Fusion of gametes dissimilar in size is termed ______.",
+    "answer": "anisogamous"
+  },
+  {
+    "question": "An example of anisogamy is seen in species of ______.",
+    "answer": "Eudorina"
+  },
+  {
+    "question": "Fusion between a large, non-motile female gamete and a smaller motile male gamete is called ______.",
+    "answer": "oogamous"
+  },
+  {
+    "question": "An example of oogamous reproduction is seen in ______ and Fucus.",
+    "answer": "Volvox"
+  },
+  {
+    "question": "Oogamous reproduction involves one large, ______ (static) female gamete.",
+    "answer": "non-motile"
+  },
+  {
+    "question": "In oogamy, the male gamete is smaller and ______.",
+    "answer": "motile"
+  },
+  {
+    "question": "Algae may be found on moist stones, soils, wood, and in association with ______.",
+    "answer": "animals"
+  },
+  {
+    "question": "The colonial form of algae Volvox and filamentous form Spirogyra are examples of variation in ______.",
+    "answer": "form"
+  },
+  {
+    "question": "Kelps are marine algae that form massive ______ bodies.",
+    "answer": "plant"
+  },
+  {
+    "question": "Fragmentation is a method of ______ reproduction in algae.",
+    "answer": "vegetative"
+  },
+  {
+    "question": "Asexual reproduction in algae is most commonly through ______.",
+    "answer": "zoospores"
+  },
+  {
+    "question": "In isogamy, gametes are ______ in size.",
+    "answer": "similar"
+  },
+  {
+    "question": "In anisogamy, gametes are ______ in size.",
+    "answer": "dissimilar"
+  },
+  {
+    "question": "In oogamy, the female gamete is non-motile and the male gamete is ______.",
+    "answer": "motile"
+  }
+]
