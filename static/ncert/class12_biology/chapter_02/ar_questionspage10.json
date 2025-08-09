@@ -1,1 +1,47 @@
 
+[
+  {
+    "assertion": "The process of formation of megaspores from the megaspore mother cell is called megasporogenesis.",
+    "reason": "Ovules generally differentiate a single megaspore mother cell in the micropylar region of the nucellus.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The MMC undergoes meiotic division.",
+    "reason": "Meiosis results in the production of four megaspores.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Only the functional megaspore develops into the female gametophyte.",
+    "reason": "In a majority of flowering plants, one of the megaspores is functional while the other three degenerate.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "This method of embryo sac formation from a single megaspore is termed monosporic development.",
+    "reason": "Only the functional megaspore develops into the female gametophyte.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
