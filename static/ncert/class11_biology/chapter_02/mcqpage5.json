@@ -1,1 +1,202 @@
-
+[
+  {
+    "question": "All single-celled eukaryotes are placed under which kingdom?",
+    "options": [
+      "Monera",
+      "Protista",
+      "Fungi",
+      "Animalia"
+    ],
+    "answer": "Protista"
+  },
+  {
+    "question": "What is said about the boundaries of Kingdom Protista?",
+    "options": [
+      "They are well defined",
+      "They are strictly based on morphology",
+      "They are not well defined",
+      "They are based on habitat"
+    ],
+    "answer": "They are not well defined"
+  },
+  {
+    "question": "What may be considered a photosynthetic protistan to one biologist may be considered what to another?",
+    "options": [
+      "A fungus",
+      "A bacteria",
+      "A plant",
+      "An animal"
+    ],
+    "answer": "A plant"
+  },
+  {
+    "question": "Which groups are included under Protista in this book?",
+    "options": [
+      "Bacteria and fungi",
+      "Cyanobacteria and algae",
+      "Chrysophytes, Dinoflagellates, Euglenoids, Slime moulds and Protozoans",
+      "Algae, fungi, bacteria, and protozoa"
+    ],
+    "answer": "Chrysophytes, Dinoflagellates, Euglenoids, Slime moulds and Protozoans"
+  },
+  {
+    "question": "Members of Protista are primarily:",
+    "options": [
+      "Terrestrial",
+      "Aquatic",
+      "Aerial",
+      "Parasitic"
+    ],
+    "answer": "Aquatic"
+  },
+  {
+    "question": "Protista forms a link with which other kingdoms?",
+    "options": [
+      "Fungi, Plantae, and Animalia",
+      "Monera, Plantae, and Bacteria",
+      "Only Animalia",
+      "Only Fungi"
+    ],
+    "answer": "Fungi, Plantae, and Animalia"
+  },
+  {
+    "question": "What type of cell body do protists have?",
+    "options": [
+      "Prokaryotic",
+      "Multicellular",
+      "Eukaryotic with well-defined nucleus",
+      "No nucleus"
+    ],
+    "answer": "Eukaryotic with well-defined nucleus"
+  },
+  {
+    "question": "What cell structures may some protists have for movement?",
+    "options": [
+      "Pseudopodia or fimbriae",
+      "Flagella or cilia",
+      "Cilia or pili",
+      "Flagella or spicules"
+    ],
+    "answer": "Flagella or cilia"
+  },
+  {
+    "question": "How do protists reproduce?",
+    "options": [
+      "Only asexually",
+      "Only sexually",
+      "By budding and binary fission",
+      "Asexually and sexually involving cell fusion and zygote formation"
+    ],
+    "answer": "Asexually and sexually involving cell fusion and zygote formation"
+  },
+  {
+    "question": "What organisms are included in Chrysophytes?",
+    "options": [
+      "Dinoflagellates and protozoans",
+      "Slime moulds and bacteria",
+      "Diatoms and golden algae (desmids)",
+      "Fungi and algae"
+    ],
+    "answer": "Diatoms and golden algae (desmids)"
+  },
+  {
+    "question": "Where are Chrysophytes found?",
+    "options": [
+      "Only in freshwater",
+      "In fresh water and marine environments",
+      "Only in deserts",
+      "In air and soil"
+    ],
+    "answer": "In fresh water and marine environments"
+  },
+  {
+    "question": "Chrysophytes are usually:",
+    "options": [
+      "Large and visible",
+      "Microscopic and float passively",
+      "Sessile and rooted",
+      "Multicellular and free-living"
+    ],
+    "answer": "Microscopic and float passively"
+  },
+  {
+    "question": "What is the mode of nutrition of most Chrysophytes?",
+    "options": [
+      "Parasitic",
+      "Heterotrophic",
+      "Photosynthetic",
+      "Saprophytic"
+    ],
+    "answer": "Photosynthetic"
+  },
+  {
+    "question": "What is the structure of a diatom cell wall?",
+    "options": [
+      "Single-layered and flexible",
+      "Two thin overlapping shells like a soap box",
+      "Triple membrane like bacteria",
+      "Cellulosic and woody"
+    ],
+    "answer": "Two thin overlapping shells like a soap box"
+  },
+  {
+    "question": "What are the diatom cell walls embedded with?",
+    "options": [
+      "Cellulose",
+      "Protein",
+      "Silica",
+      "Chitin"
+    ],
+    "answer": "Silica"
+  },
+  {
+    "question": "Because of silica, the walls of diatoms are:",
+    "options": [
+      "Soft",
+      "Indestructible",
+      "Permeable",
+      "Sticky"
+    ],
+    "answer": "Indestructible"
+  },
+  {
+    "question": "What is the accumulation of diatom cell walls over billions of years called?",
+    "options": [
+      "Siliceous clay",
+      "Marine plankton",
+      "Diatomaceous earth",
+      "Coral deposit"
+    ],
+    "answer": "Diatomaceous earth"
+  },
+  {
+    "question": "Which property of diatomaceous earth makes it useful in polishing and filtration?",
+    "options": [
+      "Color",
+      "Grittiness",
+      "Solubility",
+      "Hardness"
+    ],
+    "answer": "Grittiness"
+  },
+  {
+    "question": "What is diatomaceous earth used for?",
+    "options": [
+      "Fuel and pesticides",
+      "Polishing and filtration of oils and syrups",
+      "Glass manufacturing",
+      "Fertiliser and dyes"
+    ],
+    "answer": "Polishing and filtration of oils and syrups"
+  },
+  {
+    "question": "Diatoms are the chief ______ in the oceans.",
+    "options": [
+      "Decomposers",
+      "Consumers",
+      "Producers",
+      "Predators"
+    ],
+    "answer": "Producers"
+  }
+]
