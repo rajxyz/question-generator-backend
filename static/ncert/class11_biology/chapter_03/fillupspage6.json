@@ -1,1 +1,282 @@
-
+[
+  {
+    "question": "The plant body of bryophytes is more ______ than that of algae.",
+    "answer": "differentiated"
+  },
+  {
+    "question": "Bryophyte plant body is thallus-like and ______ or erect.",
+    "answer": "prostrate"
+  },
+  {
+    "question": "Bryophytes are attached to the substratum by ______ or multicellular rhizoids.",
+    "answer": "unicellular"
+  },
+  {
+    "question": "Bryophytes lack true roots, ______ or leaves.",
+    "answer": "stem"
+  },
+  {
+    "question": "The main plant body of the bryophyte is ______.",
+    "answer": "haploid"
+  },
+  {
+    "question": "The bryophyte gametophyte produces ______.",
+    "answer": "gametes"
+  },
+  {
+    "question": "The sex organs in bryophytes are ______.",
+    "answer": "multicellular"
+  },
+  {
+    "question": "The male sex organ in bryophytes is called ______.",
+    "answer": "antheridium"
+  },
+  {
+    "question": "Antheridia produce ______ antherozoids.",
+    "answer": "biflagellate"
+  },
+  {
+    "question": "The female sex organ in bryophytes is called ______.",
+    "answer": "archegonium"
+  },
+  {
+    "question": "The archegonium is ______-shaped and produces a single egg.",
+    "answer": "flask"
+  },
+  {
+    "question": "An antherozoid fuses with the egg to produce a ______.",
+    "answer": "zygote"
+  },
+  {
+    "question": "Zygotes in bryophytes do not undergo reduction division ______.",
+    "answer": "immediately"
+  },
+  {
+    "question": "Zygotes produce a multicellular body called a ______.",
+    "answer": "sporophyte"
+  },
+  {
+    "question": "The sporophyte is attached to the ______ gametophyte.",
+    "answer": "photosynthetic"
+  },
+  {
+    "question": "The sporophyte derives nourishment from the ______.",
+    "answer": "gametophyte"
+  },
+  {
+    "question": "Some cells of the sporophyte undergo meiosis to produce ______ spores.",
+    "answer": "haploid"
+  },
+  {
+    "question": "These haploid spores germinate to produce the ______.",
+    "answer": "gametophyte"
+  },
+  {
+    "question": "Bryophytes have little economic importance but some mosses provide ______ for animals.",
+    "answer": "food"
+  },
+  {
+    "question": "Species of ______ provide peat used as fuel and packing material.",
+    "answer": "Sphagnum"
+  },
+  {
+    "question": "Sphagnum is used as packing material because of its capacity to hold ______.",
+    "answer": "water"
+  },
+  {
+    "question": "Mosses along with lichens are the first organisms to colonise ______.",
+    "answer": "rocks"
+  },
+  {
+    "question": "Mosses decompose rocks and make the substrate suitable for ______ plants.",
+    "answer": "higher"
+  },
+  {
+    "question": "Mosses form dense mats on the soil and prevent ______ erosion.",
+    "answer": "soil"
+  },
+  {
+    "question": "Bryophytes are divided into ______ and mosses.",
+    "answer": "liverworts"
+  },
+  {
+    "question": "Liverworts usually grow in moist, ______ habitats.",
+    "answer": "shady"
+  },
+  {
+    "question": "Liverworts grow on banks of streams, marshy ground, and damp ______.",
+    "answer": "soil"
+  },
+  {
+    "question": "The liverwort plant body is ______.",
+    "answer": "thalloid"
+  },
+  {
+    "question": "An example of a thalloid liverwort is ______.",
+    "answer": "Marchantia"
+  },
+  {
+    "question": "The liverwort thallus is dorsiventral and closely ______ to the substrate.",
+    "answer": "appressed"
+  },
+  {
+    "question": "Leafy liverworts have leaf-like appendages in ______ rows.",
+    "answer": "two"
+  },
+  {
+    "question": "Asexual reproduction in liverworts occurs by fragmentation or ______.",
+    "answer": "gemmae"
+  },
+  {
+    "question": "Gemmae are green, multicellular, ______ buds.",
+    "answer": "asexual"
+  },
+  {
+    "question": "Gemmae develop in structures called ______ cups.",
+    "answer": "gemma"
+  },
+  {
+    "question": "Gemma cups are located on the ______.",
+    "answer": "thalli"
+  },
+  {
+    "question": "Gemmae detach from the parent body and ______ into new individuals.",
+    "answer": "germinate"
+  },
+  {
+    "question": "During sexual reproduction, male and female sex organs may be on same or different ______.",
+    "answer": "thalli"
+  },
+  {
+    "question": "The liverwort sporophyte is differentiated into foot, seta and ______.",
+    "answer": "capsule"
+  },
+  {
+    "question": "Spores are produced within the capsule after ______.",
+    "answer": "meiosis"
+  },
+  {
+    "question": "These spores germinate to form free-living ______.",
+    "answer": "gametophytes"
+  },
+  {
+    "question": "Bryophytes are attached to substrate by ______ or multicellular rhizoids.",
+    "answer": "unicellular"
+  },
+  {
+    "question": "Bryophytes may possess root-like, stem-like or ______-like structures.",
+    "answer": "leaf"
+  },
+  {
+    "question": "The egg is produced inside the ______.",
+    "answer": "archegonium"
+  },
+  {
+    "question": "Biflagellate antherozoids are produced by the ______.",
+    "answer": "antheridium"
+  },
+  {
+    "question": "The capsule is part of the liverwort ______.",
+    "answer": "sporophyte"
+  },
+  {
+    "question": "Marchantia is an example of a ______ liverwort.",
+    "answer": "thalloid"
+  },
+  {
+    "question": "Liverworts grow on damp soil, tree bark and in deep ______.",
+    "answer": "woods"
+  },
+  {
+    "question": "Spores in liverworts are formed inside the ______.",
+    "answer": "capsule"
+  },
+  {
+    "question": "The liverwort thallus is ______ and closely appressed to the substrate.",
+    "answer": "dorsiventral"
+  },
+  {
+    "question": "Sphagnum moss provides ______ used as fuel.",
+    "answer": "peat"
+  },
+  {
+    "question": "Bryophyte sporophyte remains ______ on the gametophyte.",
+    "answer": "attached"
+  },
+  {
+    "question": "Liverworts reproduce asexually by ______ or gemmae.",
+    "answer": "fragmentation"
+  },
+  {
+    "question": "Multicellular rhizoids help attach bryophytes to the ______.",
+    "answer": "substratum"
+  },
+  {
+    "question": "Gemmae are ______ buds that grow into new plants.",
+    "answer": "asexual"
+  },
+  {
+    "question": "Gemmae develop in special ______ called gemma cups.",
+    "answer": "receptacles"
+  },
+  {
+    "question": "The liverwort capsule produces spores after ______.",
+    "answer": "meiosis"
+  },
+  {
+    "question": "Male and female organs may be present on the same or different ______.",
+    "answer": "thalli"
+  },
+  {
+    "question": "The seta connects the foot and the ______ in the sporophyte.",
+    "answer": "capsule"
+  },
+  {
+    "question": "Bryophytes reproduce sexually through antheridia and ______.",
+    "answer": "archegonia"
+  },
+  {
+    "question": "The female reproductive organ in liverworts is the ______.",
+    "answer": "archegonium"
+  },
+  {
+    "question": "Bryophyte gametophyte is the main ______ generation.",
+    "answer": "haploid"
+  },
+  {
+    "question": "The sporophyte derives ______ from the gametophyte.",
+    "answer": "nourishment"
+  },
+  {
+    "question": "Mosses prevent soil erosion by forming ______ on the soil.",
+    "answer": "dense mats"
+  },
+  {
+    "question": "Mosses and lichens are the first organisms to ______ rocks.",
+    "answer": "colonise"
+  },
+  {
+    "question": "The antherozoids reach the archegonium through ______.",
+    "answer": "water"
+  },
+  {
+    "question": "The main function of the foot in sporophyte is ______.",
+    "answer": "attachment"
+  },
+  {
+    "question": "Liverworts have tiny leaf-like appendages arranged in ______ rows.",
+    "answer": "two"
+  },
+  {
+    "question": "Liverworts can be found on tree ______ in moist environments.",
+    "answer": "bark"
+  },
+  {
+    "question": "Gemmae develop inside gemma ______ on the thallus.",
+    "answer": "cups"
+  },
+  {
+    "question": "Archegonium in liverworts produces a single ______.",
+    "answer": "egg"
+  }
+    ]
