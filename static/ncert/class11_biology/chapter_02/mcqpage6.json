@@ -1,0 +1,455 @@
+[
+  {
+    "question": "Dinoflagellates are mostly:",
+    "options": [
+      "Terrestrial and photosynthetic",
+      "Marine and heterotrophic",
+      "Marine and photosynthetic",
+      "Freshwater and heterotrophic"
+    ],
+    "answer": "Marine and photosynthetic"
+  },
+  {
+    "question": "Dinoflagellates appear in different colours depending on:",
+    "options": [
+      "Size of the cell",
+      "Amount of light",
+      "Shape of nucleus",
+      "Main pigments present in their cells"
+    ],
+    "answer": "Main pigments present in their cells"
+  },
+  {
+    "question": "What is present on the outer surface of dinoflagellates' cell wall?",
+    "options": [
+      "Chitin layer",
+      "Pellicle",
+      "Cellulose plates",
+      "Silica shells"
+    ],
+    "answer": "Cellulose plates"
+  },
+  {
+    "question": "How many flagella do most dinoflagellates have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "In dinoflagellates, one flagellum lies longitudinally and the other lies:",
+    "options": [
+      "Obliquely",
+      "Centrally",
+      "Transversely in a furrow",
+      "Horizontally in cytoplasm"
+    ],
+    "answer": "Transversely in a furrow"
+  },
+  {
+    "question": "Which red dinoflagellate often causes red tides?",
+    "options": [
+      "Euglena",
+      "Anabaena",
+      "Gonyaulax",
+      "Nostoc"
+    ],
+    "answer": "Gonyaulax"
+  },
+  {
+    "question": "What causes the sea to appear red during red tides?",
+    "options": [
+      "Oil spills",
+      "Algae blooms",
+      "Rapid multiplication of red dinoflagellates",
+      "Sewage discharge"
+    ],
+    "answer": "Rapid multiplication of red dinoflagellates"
+  },
+  {
+    "question": "What effect do toxins from red dinoflagellates have?",
+    "options": [
+      "They promote growth in fish",
+      "They kill marine animals like fishes",
+      "They help in oxygen generation",
+      "They aid digestion"
+    ],
+    "answer": "They kill marine animals like fishes"
+  },
+  {
+    "question": "Where are most euglenoids found?",
+    "options": [
+      "Marine water",
+      "Stagnant fresh water",
+      "Hot springs",
+      "Salty lakes"
+    ],
+    "answer": "Stagnant fresh water"
+  },
+  {
+    "question": "What structure replaces the cell wall in euglenoids?",
+    "options": [
+      "Chitin sheath",
+      "Silica shell",
+      "Cellulose coat",
+      "Pellicle"
+    ],
+    "answer": "Pellicle"
+  },
+  {
+    "question": "What is the pellicle made of?",
+    "options": [
+      "Silica",
+      "Chitin",
+      "Protein",
+      "Cellulose"
+    ],
+    "answer": "Protein"
+  },
+  {
+    "question": "Why is the body of euglenoids flexible?",
+    "options": [
+      "Due to cellulose plates",
+      "Due to silica shell",
+      "Due to pellicle",
+      "Due to lack of nucleus"
+    ],
+    "answer": "Due to pellicle"
+  },
+  {
+    "question": "How many flagella do euglenoids have?",
+    "options": [
+      "Two: both equal",
+      "Two: one short and one long",
+      "Three",
+      "None"
+    ],
+    "answer": "Two: one short and one long"
+  },
+  {
+    "question": "What happens to euglenoids when deprived of sunlight?",
+    "options": [
+      "They die immediately",
+      "They perform fermentation",
+      "They become heterotrophic",
+      "They form spores"
+    ],
+    "answer": "They become heterotrophic"
+  },
+  {
+    "question": "How do euglenoids obtain food in the absence of sunlight?",
+    "options": [
+      "By osmosis",
+      "By absorbing minerals",
+      "By predating on smaller organisms",
+      "By fermentation"
+    ],
+    "answer": "By predating on smaller organisms"
+  },
+  {
+    "question": "Pigments of euglenoids are identical to those present in:",
+    "options": [
+      "Algae",
+      "Lower fungi",
+      "Bacteria",
+      "Higher plants"
+    ],
+    "answer": "Higher plants"
+  },
+  {
+    "question": "Which of the following is an example of a euglenoid?",
+    "options": [
+      "Nostoc",
+      "Gonyaulax",
+      "Euglena",
+      "Paramecium"
+    ],
+    "answer": "Euglena"
+  },
+  {
+    "question": "What type of nutrition do slime moulds have?",
+    "options": [
+      "Photosynthetic",
+      "Parasitic",
+      "Saprophytic",
+      "Heterotrophic"
+    ],
+    "answer": "Saprophytic"
+  },
+  {
+    "question": "Where does the body of slime moulds move?",
+    "options": [
+      "On animal surfaces",
+      "Along decaying twigs and leaves",
+      "Inside living cells",
+      "In roots of plants"
+    ],
+    "answer": "Along decaying twigs and leaves"
+  },
+  {
+    "question": "What do slime moulds engulf?",
+    "options": [
+      "Water and minerals",
+      "Other slime moulds",
+      "Organic material",
+      "Live bacteria"
+    ],
+    "answer": "Organic material"
+  },
+  {
+    "question": "What is the name of the aggregation formed by slime moulds under suitable conditions?",
+    "options": [
+      "Mycelium",
+      "Colony",
+      "Plasmodium",
+      "Cyst"
+    ],
+    "answer": "Plasmodium"
+  },
+  {
+    "question": "During unfavourable conditions, plasmodium differentiates and forms:",
+    "options": [
+      "Vegetative bodies",
+      "Spores only",
+      "Fruiting bodies bearing spores",
+      "Cysts"
+    ],
+    "answer": "Fruiting bodies bearing spores"
+  },
+  {
+    "question": "What do the spores of slime moulds possess?",
+    "options": [
+      "Pigments",
+      "True walls",
+      "Flagella",
+      "Chlorophyll"
+    ],
+    "answer": "True walls"
+  },
+  {
+    "question": "Spores of slime moulds are extremely:",
+    "options": [
+      "Fragile",
+      "Resistant",
+      "Large",
+      "Heavy"
+    ],
+    "answer": "Resistant"
+  },
+  {
+    "question": "How long can slime mould spores survive?",
+    "options": [
+      "A few hours",
+      "A few days",
+      "Several years",
+      "A week"
+    ],
+    "answer": "Several years"
+  }
+]
+
+[
+  {
+    "question": "What is the mode of nutrition in all protozoans?",
+    "options": [
+      "Autotrophic",
+      "Heterotrophic",
+      "Saprophytic",
+      "Mixotrophic"
+    ],
+    "answer": "Heterotrophic"
+  },
+  {
+    "question": "Protozoans live as:",
+    "options": [
+      "Producers",
+      "Predators or parasites",
+      "Symbionts",
+      "Saprophytes"
+    ],
+    "answer": "Predators or parasites"
+  },
+  {
+    "question": "Protozoans are believed to be primitive relatives of:",
+    "options": [
+      "Plants",
+      "Fungi",
+      "Bacteria",
+      "Animals"
+    ],
+    "answer": "Animals"
+  },
+  {
+    "question": "How many major groups of protozoans are there?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "Amoeboid protozoans are found in:",
+    "options": [
+      "Only marine water",
+      "Fresh water, sea water or moist soil",
+      "Dry soil",
+      "Inside animal cells only"
+    ],
+    "answer": "Fresh water, sea water or moist soil"
+  },
+  {
+    "question": "What do amoeboid protozoans use for movement and capturing prey?",
+    "options": [
+      "Cilia",
+      "Flagella",
+      "Pseudopodia",
+      "Tentacles"
+    ],
+    "answer": "Pseudopodia"
+  },
+  {
+    "question": "Which amoeboid protozoan is parasitic?",
+    "options": [
+      "Amoeba",
+      "Entamoeba",
+      "Paramoecium",
+      "Plasmodium"
+    ],
+    "answer": "Entamoeba"
+  },
+  {
+    "question": "Marine amoeboid protozoans may have:",
+    "options": [
+      "Flagella",
+      "Cilia",
+      "Silica shells",
+      "Pellicle"
+    ],
+    "answer": "Silica shells"
+  },
+  {
+    "question": "Flagellated protozoans are either:",
+    "options": [
+      "Photosynthetic or parasitic",
+      "Free-living or parasitic",
+      "Marine or freshwater",
+      "Sessile or ciliated"
+    ],
+    "answer": "Free-living or parasitic"
+  },
+  {
+    "question": "What structure do flagellated protozoans possess?",
+    "options": [
+      "Cilia",
+      "Flagella",
+      "Spores",
+      "Pseudopodia"
+    ],
+    "answer": "Flagella"
+  },
+  {
+    "question": "Which disease is caused by parasitic flagellated protozoans?",
+    "options": [
+      "Malaria",
+      "Sleeping sickness",
+      "Typhoid",
+      "Cholera"
+    ],
+    "answer": "Sleeping sickness"
+  },
+  {
+    "question": "Which of the following is an example of a flagellated protozoan?",
+    "options": [
+      "Plasmodium",
+      "Paramoecium",
+      "Trypanosoma",
+      "Entamoeba"
+    ],
+    "answer": "Trypanosoma"
+  },
+  {
+    "question": "Ciliated protozoans are typically:",
+    "options": [
+      "Parasitic and sessile",
+      "Aquatic and actively moving",
+      "Terrestrial and immobile",
+      "Anaerobic and parasitic"
+    ],
+    "answer": "Aquatic and actively moving"
+  },
+  {
+    "question": "What enables movement in ciliated protozoans?",
+    "options": [
+      "Flagella",
+      "Cilia",
+      "Pseudopodia",
+      "Spores"
+    ],
+    "answer": "Cilia"
+  },
+  {
+    "question": "What structure do ciliated protozoans use for feeding?",
+    "options": [
+      "Cytostome",
+      "Vacuole",
+      "Gullet",
+      "Pseudopodia"
+    ],
+    "answer": "Gullet"
+  },
+  {
+    "question": "Which protozoan is given as an example of a ciliated protozoan?",
+    "options": [
+      "Amoeba",
+      "Plasmodium",
+      "Paramoecium",
+      "Trypanosoma"
+    ],
+    "answer": "Paramoecium"
+  },
+  {
+    "question": "What causes food to be steered into the gullet of ciliated protozoans?",
+    "options": [
+      "Chemical reactions",
+      "Water current",
+      "Ciliary movement",
+      "Flagellar action"
+    ],
+    "answer": "Ciliary movement"
+  },
+  {
+    "question": "Sporozoans are characterised by the presence of:",
+    "options": [
+      "Flagella",
+      "Cilia",
+      "Pseudopodia",
+      "Infectious spore-like stage"
+    ],
+    "answer": "Infectious spore-like stage"
+  },
+  {
+    "question": "Which sporozoan causes malaria?",
+    "options": [
+      "Paramoecium",
+      "Amoeba",
+      "Plasmodium",
+      "Trypanosoma"
+    ],
+    "answer": "Plasmodium"
+  },
+  {
+    "question": "Malaria has a ______ effect on human population.",
+    "options": [
+      "Negligible",
+      "Minor",
+      "Staggering",
+      "Temporary"
+    ],
+    "answer": "Staggering"
+  }
+]
