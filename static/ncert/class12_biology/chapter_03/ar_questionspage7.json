@@ -1,0 +1,50 @@
+[
+  {
+    "assertion": "Secretions from accessory ducts and glands are necessary for sperm maturation and motility.",
+    "reason": "Epididymis, vas deferens, seminal vesicle, and prostate glands contribute to the formation of seminal plasma.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "The functions of male accessory ducts and glands are controlled by FSH.",
+    "reason": "Testicular hormones (androgens) regulate these functions.",
+    "answer": "C",
+    "explanation": "Assertion is false, but Reason is true. The functions are maintained by androgens, not FSH."
+  },
+  {
+    "assertion": "Oogenesis begins after puberty in human females.",
+    "reason": "Primary oocytes are formed from oogonia after birth.",
+    "answer": "D",
+    "explanation": "Both Assertion and Reason are false. Oogenesis begins during embryonic development, and no oogonia are formed after birth."
+  },
+  {
+    "assertion": "Primary oocytes are arrested in prophase-I of meiosis during embryonic development.",
+    "reason": "This arrest continues until puberty in females.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains the Assertion."
+  },
+  {
+    "assertion": "A female infant is born with a fixed number of oogonia in her ovaries.",
+    "reason": "Oogonia continue to divide and increase in number after birth.",
+    "answer": "C",
+    "explanation": "Assertion is true, but Reason is false. No new oogonia are formed after birth."
+  },
+  {
+    "assertion": "Each primary oocyte is surrounded by granulosa cells to form a primary follicle.",
+    "reason": "Granulosa cells provide nourishment and hormonal support to the developing oocyte.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "At puberty, millions of primary follicles remain in each ovary.",
+    "reason": "No follicles degenerate between birth and puberty.",
+    "answer": "D",
+    "explanation": "Both Assertion and Reason are false. Only 60,000–80,000 primary follicles remain at puberty due to degeneration of many."
+  },
+  {
+    "assertion": "Secondary follicles have more layers of granulosa cells and develop a theca.",
+    "reason": "The transition from primary to secondary follicle includes structural and functional changes.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  }
+]
