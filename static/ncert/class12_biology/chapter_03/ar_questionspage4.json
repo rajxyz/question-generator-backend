@@ -1,1 +1,134 @@
-
+[
+  {
+    "assertion": "Functional mammary gland is characteristic of all female mammals.",
+    "reason": "The mammary glands are paired structures that contain glandular tissue and variable amount of fat.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The glandular tissue of each breast is divided into 15-20 mammary lobes.",
+    "reason": "Each mammary lobe contains clusters of cells called alveoli.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The cells of alveoli secrete milk, which is stored in the lumens of alveoli.",
+    "reason": "The alveoli open into mammary tubules.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Several mammary ducts join to form a wider mammary ampulla.",
+    "reason": "The mammary ampulla is connected to lactiferous duct and opens at the nipple.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The primary sex organs produce gametes by the process called gametogenesis.",
+    "reason": "Testes in males and ovaries in females are the primary sex organs.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In testis, immature male germ cells produce sperms by spermatogenesis.",
+    "reason": "Spermatogenesis begins at puberty.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The spermatogonia multiply by mitotic division and increase in numbers.",
+    "reason": "Spermatogonia are present on the inside wall of seminiferous tubules.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Each spermatogonium is diploid and contains 46 chromosomes.",
+    "reason": "Some of the spermatogonia periodically undergo meiosis.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "A primary spermatocyte completes the first meiotic division to form two secondary spermatocytes.",
+    "reason": "Each secondary spermatocyte is haploid and has 23 chromosomes.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Secondary spermatocytes undergo second meiotic division to produce four equal, haploid spermatids.",
+    "reason": "Each spermatid is haploid and formed through meiosis from secondary spermatocytes.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Spermatids are transformed into spermatozoa by the process called spermiogenesis.",
+    "reason": "After spermiogenesis, sperm heads become embedded in the Sertoli cells.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Sperms are finally released from the seminiferous tubules by the process called spermiation.",
+    "reason": "Sperm heads become embedded in the Sertoli cells before release.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  }
+]
