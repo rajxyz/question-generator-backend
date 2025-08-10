@@ -1,1 +1,102 @@
-
+[
+  {
+    "question": "Which abiotic pollination type is most common?",
+    "options": ["Wind", "Water", "Insect", "Animal"],
+    "answer": "Wind"
+  },
+  {
+    "question": "Wind-pollinated pollen grains are light and ______.",
+    "options": ["Sticky", "Non-sticky", "Heavy", "Wet"],
+    "answer": "Non-sticky"
+  },
+  {
+    "question": "What helps pollen dispersal in wind-pollinated plants?",
+    "options": ["Enclosed stamens", "Well-exposed stamens", "Small stigma", "Closed flowers"],
+    "answer": "Well-exposed stamens"
+  },
+  {
+    "question": "Large, often-feathery stigma helps in trapping ______.",
+    "options": ["Water", "Air-borne pollen", "Nectar", "Seeds"],
+    "answer": "Air-borne pollen"
+  },
+  {
+    "question": "Number of ovules in wind-pollinated flower ovary?",
+    "options": ["Single", "Two", "Many", "None"],
+    "answer": "Single"
+  },
+  {
+    "question": "Example of inflorescence with wind pollination: ______.",
+    "options": ["Corn cob", "Mango", "Rose", "Pea"],
+    "answer": "Corn cob"
+  },
+  {
+    "question": "Pollination by water is limited to about ______ genera.",
+    "options": ["10", "20", "30", "50"],
+    "answer": "30"
+  },
+  {
+    "question": "Water pollination is mostly found in ______.",
+    "options": ["Dicots", "Monocotyledons", "Gymnosperms", "Bryophytes"],
+    "answer": "Monocotyledons"
+  },
+  {
+    "question": "Mode of male gamete transport in bryophytes?",
+    "options": ["Wind", "Water", "Insects", "Birds"],
+    "answer": "Water"
+  },
+  {
+    "question": "Need for water limits distribution in some ______.",
+    "options": ["Bryophytes", "Angiosperms", "Gymnosperms", "Cacti"],
+    "answer": "Bryophytes"
+  },
+  {
+    "question": "Example of fresh water pollinated plant: ______.",
+    "options": ["Zostera", "Hydrilla", "Pine", "Mango"],
+    "answer": "Hydrilla"
+  },
+  {
+    "question": "Zostera is an example of ______ plant.",
+    "options": ["Marine sea-grass", "Freshwater herb", "Shrub", "Tree"],
+    "answer": "Marine sea-grass"
+  },
+  {
+    "question": "Flowers of water lily are pollinated by ______.",
+    "options": ["Water", "Insects or wind", "Self", "Bats"],
+    "answer": "Insects or wind"
+  },
+  {
+    "question": "In Vallisneria, female flower reaches surface via ______.",
+    "options": ["Short stalk", "Long stalk", "Floating leaves", "Air sacs"],
+    "answer": "Long stalk"
+  },
+  {
+    "question": "In Vallisneria, male flowers or pollen grains are released onto ______.",
+    "options": ["Leaves", "Surface of water", "Roots", "Soil"],
+    "answer": "Surface of water"
+  },
+  {
+    "question": "Female flowers in seagrasses remain ______ during pollination.",
+    "options": ["Submerged", "Floating", "Dry", "Aerial"],
+    "answer": "Submerged"
+  },
+  {
+    "question": "Pollen grains in many water-pollinated species are ______ shaped.",
+    "options": ["Round", "Ribbon-like", "Oval", "Triangular"],
+    "answer": "Ribbon-like"
+  },
+  {
+    "question": "Mucilaginous covering protects pollen grains from ______.",
+    "options": ["Drying", "Wetting", "Germination", "Freezing"],
+    "answer": "Wetting"
+  },
+  {
+    "question": "Both wind and water pollinated flowers are not ______.",
+    "options": ["Colourful", "Fragrant", "Green", "Open"],
+    "answer": "Colourful"
+  },
+  {
+    "question": "Wind and water pollinated flowers do not produce ______.",
+    "options": ["Seeds", "Nectar", "Pollen", "Leaves"],
+    "answer": "Nectar"
+  }
+]
