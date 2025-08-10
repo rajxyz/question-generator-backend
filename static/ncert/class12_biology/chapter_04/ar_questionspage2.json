@@ -1,1 +1,386 @@
+[
+  {
+    "question": {
+      "assertion": "Assertion (A): Governmental and non-governmental agencies use media to create awareness about reproductive health.",
+      "reason": "Reason (R): Audio-visual and print media help disseminate information about reproduction-related aspects."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both are true as per NCERT and R explains how awareness is created."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Teachers and relatives play no role in spreading sex education.",
+      "reason": "Reason (R): Only schools are responsible for providing reproductive health information."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "D",
+    "explanation": "Both A and R are false — NCERT clearly states relatives and teachers have a role too."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Sex education in schools helps reduce misconceptions about sex-related topics.",
+      "reason": "Reason (R): Proper education prevents children from believing in myths."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both statements are directly from NCERT and logically connected."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Awareness of STDs is not necessary during adolescence.",
+      "reason": "Reason (R): Adolescents are not sexually active and do not need reproductive education."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "D",
+    "explanation": "NCERT emphasizes the need to educate adolescents about STDs — both A and R are false."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Knowledge of safe and hygienic sexual practices is important for adolescents.",
+      "reason": "Reason (R): It helps in leading a reproductively healthy life."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both are true — this is one of the central ideas in the paragraph."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Proper sex education may help reduce the spread of sexually transmitted diseases.",
+      "reason": "Reason (R): STDs like AIDS are often transmitted due to lack of awareness."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both points are directly implied in the NCERT text."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Reproductive education should only be given to married couples.",
+      "reason": "Reason (R): Adolescents do not benefit from reproductive education."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "D",
+    "explanation": "Both A and R are false — NCERT emphasizes the importance of education for adolescents."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Education about birth control methods is essential for couples in reproductive age.",
+      "reason": "Reason (R): It enables them to plan their family and reduce unwanted pregnancies."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both are true and logically linked as per NCERT goals."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Educating people about post-natal care is part of reproductive health awareness.",
+      "reason": "Reason (R): Proper care of mother and child after birth contributes to a healthy society."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both points are from NCERT — this is part of RCH goals."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Breastfeeding is not relevant to reproductive health education.",
+      "reason": "Reason (R): It is only a traditional practice, not scientifically important."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "D",
+    "explanation": "NCERT emphasizes breastfeeding as a key part of post-natal care. Both A and R are false."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Equal opportunities for both male and female children is part of reproductive health.",
+      "reason": "Reason (R): Gender equality helps promote healthy and socially conscious families."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both A and R are emphasized in NCERT as part of reproductive and social health goals."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Uncontrolled population growth can lead to reproductive health issues.",
+      "reason": "Reason (R): Overpopulation increases the burden on healthcare and social resources."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both statements align with NCERT’s warning about population pressure."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Awareness of social evils like sex abuse is not part of reproductive health.",
+      "reason": "Reason (R): Reproductive health only focuses on physical hygiene."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "D",
+    "explanation": "NCERT clearly states social awareness is critical — both A and R are false."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Reproductive education helps reduce sex-related crimes.",
+      "reason": "Reason (R): Education builds awareness and discourages harmful behaviours."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "NCERT encourages reproductive education as a preventive measure against sex-related crimes."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Building a socially responsible and healthy society requires reproductive health awareness.",
+      "reason": "Reason (R): Awareness encourages informed decisions and responsible behaviour."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "This is a direct outcome of NCERT’s objectives for a healthy, aware society."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Educating adolescents is unnecessary if adults are already aware.",
+      "reason": "Reason (R): Adolescents can learn about reproductive health naturally through experience."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "D",
+    "explanation": "Both A and R are false — NCERT promotes adolescent education explicitly to break myths and misconceptions."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Mass media can be a powerful tool for reproductive health education.",
+      "reason": "Reason (R): Media has wide reach and can influence public awareness effectively."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "The paragraph begins with this point — both statements are directly from NCERT."
+  }
+]
 
+[
+  {
+    "question": {
+      "assertion": "Assertion (A): Strong infrastructure and professional expertise are essential for reproductive healthcare.",
+      "reason": "Reason (R): These ensure proper medical support in issues like pregnancy and infertility."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): STDs and menstrual problems are examples of reproduction-related issues.",
+      "reason": "Reason (R): These problems can be treated using surgical procedures only."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): New strategies and techniques improve reproductive care services.",
+      "reason": "Reason (R): Techniques should be avoided as they complicate the treatment of infertility."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Amniocentesis can help detect genetic disorders in a fetus.",
+      "reason": "Reason (R): Amniotic fluid contains fetal cells and dissolved substances useful for diagnosis."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Amniocentesis is promoted to detect fetal abnormalities in all pregnancies.",
+      "reason": "Reason (R): Government encourages its use to reduce childbirth complications."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): There is a statutory ban on amniocentesis for sex determination.",
+      "reason": "Reason (R): This aims to curb female foeticide."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Down syndrome and sickle-cell anemia are genetic disorders.",
+      "reason": "Reason (R): These conditions can be detected using amniocentesis."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Child immunisation is included in reproductive health action plans.",
+      "reason": "Reason (R): It ensures reproductive success in adulthood."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Amniocentesis helps determine the survivability of the foetus.",
+      "reason": "Reason (R): It allows analysis of fetal cells and genetic material."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Infertility is a reproductive health problem.",
+      "reason": "Reason (R): Infertility only occurs due to menstrual disorders.",
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Reproductive health includes care for abortions.",
+      "reason": "Reason (R): Abortions are never part of healthcare systems.",
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "C"
+  }
+      ]
