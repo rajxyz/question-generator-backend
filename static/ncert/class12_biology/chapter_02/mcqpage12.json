@@ -1,86 +1,112 @@
 [
   {
-    "question": "Pollination can be divided into how many types depending on the source of pollen?",
+    "question": "Depending on the source of pollen, pollination can be divided into how many types?",
+    "options": ["Two", "Three", "Four", "Five"],
     "answer": "Three"
   },
   {
-    "question": "Pollination within the same flower is called?",
+    "question": "Pollination achieved within the same flower is called?",
+    "options": ["Geitonogamy", "Xenogamy", "Autogamy", "Allogamy"],
     "answer": "Autogamy"
   },
   {
-    "question": "Transfer of pollen from anther to stigma of same flower occurs in?",
-    "answer": "Autogamy"
+    "question": "In autogamy, pollen grains are transferred from the anther to the stigma of?",
+    "options": ["Same flower", "Another flower of same plant", "Different plant", "Another species"],
+    "answer": "Same flower"
   },
   {
     "question": "Complete autogamy in normal flowers is?",
+    "options": ["Common", "Rare", "Absent", "Frequent"],
     "answer": "Rare"
   },
   {
     "question": "Autogamy requires synchrony in pollen release and?",
+    "options": ["Petal opening", "Nectar secretion", "Stigma receptivity", "Ovule formation"],
     "answer": "Stigma receptivity"
   },
   {
     "question": "For autogamy, anthers and stigma should lie?",
-    "answer": "Close"
+    "options": ["Far apart", "Close to each other", "In different flowers", "In different plants"],
+    "answer": "Close to each other"
   },
   {
-    "question": "Genus producing two types of flowers includes Viola, Oxalis, and?",
-    "answer": "Commelina"
+    "question": "Viola, Oxalis, and Commelina produce how many types of flowers?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
   },
   {
     "question": "Flowers with exposed anthers and stigma are called?",
+    "options": ["Cleistogamous", "Chasmogamous", "Monoecious", "Dioecious"],
     "answer": "Chasmogamous"
   },
   {
     "question": "Flowers which do not open at all are called?",
+    "options": ["Chasmogamous", "Cleistogamous", "Protandrous", "Proterogynous"],
     "answer": "Cleistogamous"
   },
   {
     "question": "In cleistogamous flowers, anthers and stigma lie?",
-    "answer": "Close"
+    "options": ["Close to each other", "Far apart", "In separate flowers", "In separate plants"],
+    "answer": "Close to each other"
   },
   {
     "question": "Cleistogamous flowers are invariably?",
+    "options": ["Geitonogamous", "Xenogamous", "Autogamous", "Allogamous"],
     "answer": "Autogamous"
   },
   {
-    "question": "Cleistogamous flowers produce assured seed-set without?",
+    "question": "Cleistogamous flowers produce assured seed-set even in the absence of?",
+    "options": ["Water", "Wind", "Pollinators", "Light"],
     "answer": "Pollinators"
   },
   {
-    "question": "Transfer of pollen to another flower of same plant is?",
+    "question": "Transfer of pollen from anther to stigma of another flower of the same plant is called?",
+    "options": ["Autogamy", "Geitonogamy", "Xenogamy", "Allogamy"],
     "answer": "Geitonogamy"
   },
   {
-    "question": "Functionally cross-pollination but genetically autogamy is?",
-    "answer": "Geitonogamy"
+    "question": "Geitonogamy is functionally cross-pollination involving?",
+    "options": ["Pollinating agent", "Wind", "Water", "Self-pollination"],
+    "answer": "Pollinating agent"
   },
   {
-    "question": "Transfer of pollen to stigma of different plant is?",
+    "question": "Genetically, geitonogamy is similar to?",
+    "options": ["Autogamy", "Xenogamy", "Allogamy", "Cross-pollination"],
+    "answer": "Autogamy"
+  },
+  {
+    "question": "Transfer of pollen grains from anther to stigma of a different plant is called?",
+    "options": ["Autogamy", "Geitonogamy", "Xenogamy", "Self-pollination"],
     "answer": "Xenogamy"
   },
   {
-    "question": "Type of pollination bringing genetically different pollen is?",
+    "question": "Which type of pollination brings genetically different pollen to the stigma?",
+    "options": ["Autogamy", "Geitonogamy", "Xenogamy", "Self-pollination"],
     "answer": "Xenogamy"
   },
   {
     "question": "Abiotic agents of pollination include wind and?",
+    "options": ["Insects", "Water", "Birds", "Bats"],
     "answer": "Water"
   },
   {
     "question": "Majority of plants use which agents for pollination?",
+    "options": ["Abiotic", "Biotic", "Wind", "Water"],
     "answer": "Biotic"
   },
   {
-    "question": "Small proportion of plants use which agents?",
+    "question": "Only a small proportion of plants use which agents for pollination?",
+    "options": ["Biotic", "Abiotic", "Birds", "Bats"],
     "answer": "Abiotic"
   },
   {
     "question": "Pollen contact with stigma in wind and water pollination is a?",
+    "options": ["Sure factor", "Chance factor", "Genetic factor", "Controlled factor"],
     "answer": "Chance factor"
   },
   {
-    "question": "To compensate loss of pollen, flowers produce enormous amount of?",
+    "question": "To compensate for pollen loss, flowers produce enormous amount of?",
+    "options": ["Seeds", "Ovules", "Pollen", "Petals"],
     "answer": "Pollen"
   }
 ]
