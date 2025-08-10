@@ -1,1 +1,92 @@
-
+[
+  {
+    "question": "The functional megaspore nucleus divides mitotically to form how many nuclei initially?",
+    "options": ["One", "Two", "Four", "Eight"],
+    "answer": "Two"
+  },
+  {
+    "question": "The two nuclei in the 2-nucleate embryo sac move to:",
+    "options": ["Same pole", "Opposite poles", "Micropylar end", "Chalazal end"],
+    "answer": "Opposite poles"
+  },
+  {
+    "question": "How many mitotic nuclear divisions occur after functional megaspore formation to reach the 8-nucleate stage?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "question": "The mitotic divisions in embryo sac formation are:",
+    "options": ["Free nuclear", "Cytokinetic", "Both", "None"],
+    "answer": "Free nuclear"
+  },
+  {
+    "question": "At which stage are cell walls laid down in embryo sac development?",
+    "options": ["2-nucleate", "4-nucleate", "8-nucleate", "Functional megaspore"],
+    "answer": "8-nucleate"
+  },
+  {
+    "question": "How many of the eight nuclei in a mature embryo sac are surrounded by cell walls?",
+    "options": ["Four", "Six", "Seven", "Eight"],
+    "answer": "Six"
+  },
+  {
+    "question": "The remaining two nuclei in a mature embryo sac are called:",
+    "options": ["Synergids", "Antipodals", "Polar nuclei", "Egg nuclei"],
+    "answer": "Polar nuclei"
+  },
+  {
+    "question": "The egg apparatus is located at which end of the embryo sac?",
+    "options": ["Micropylar end", "Chalazal end", "Central cell", "Both ends"],
+    "answer": "Micropylar end"
+  },
+  {
+    "question": "The egg apparatus consists of two synergids and:",
+    "options": ["Two eggs", "One egg cell", "Three eggs", "One antipodal"],
+    "answer": "One egg cell"
+  },
+  {
+    "question": "Special cellular thickenings at the micropylar tip of synergids are called:",
+    "options": ["Filiform apparatus", "Polar thickening", "Micropylar knobs", "Guide cells"],
+    "answer": "Filiform apparatus"
+  },
+  {
+    "question": "The filiform apparatus helps in guiding:",
+    "options": ["Antipodals", "Pollen tubes", "Egg nucleus", "Polar nuclei"],
+    "answer": "Pollen tubes"
+  },
+  {
+    "question": "Cells located at the chalazal end of embryo sac are called:",
+    "options": ["Synergids", "Antipodals", "Egg cells", "Polar nuclei"],
+    "answer": "Antipodals"
+  },
+  {
+    "question": "How many polar nuclei are present in the large central cell?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "question": "A typical angiosperm embryo sac at maturity is:",
+    "options": ["8-nucleate, 7-celled", "7-nucleate, 8-celled", "8-nucleate, 8-celled", "7-nucleate, 7-celled"],
+    "answer": "8-nucleate, 7-celled"
+  },
+  {
+    "question": "In flowering plants, male and female gametes are produced in:",
+    "options": ["Anther and ovule", "Pollen grain and embryo sac", "Ovary and stamen", "Ovule and petal"],
+    "answer": "Pollen grain and embryo sac"
+  },
+  {
+    "question": "Gametes in flowering plants are:",
+    "options": ["Motile", "Non-motile", "Flagellated", "Ciliated"],
+    "answer": "Non-motile"
+  },
+  {
+    "question": "Transfer of pollen grains to stigma is called:",
+    "options": ["Fertilisation", "Pollination", "Germination", "Syngamy"],
+    "answer": "Pollination"
+  },
+  {
+    "question": "Pollination is achieved using:",
+    "options": ["Only wind", "Only water", "External agents", "Self movement of gametes"],
+    "answer": "External agents"
+  }
+]
