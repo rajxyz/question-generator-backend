@@ -1,0 +1,50 @@
+[
+  {
+    "assertion": "The tertiary follicle is identified by the presence of a fluid-filled cavity called the antrum.",
+    "reason": "The antrum is a distinguishing feature that appears in the primary follicle stage.",
+    "answer": "C",
+    "explanation": "Assertion is true, but Reason is false. The antrum appears at the tertiary follicle stage, not in the primary follicle."
+  },
+  {
+    "assertion": "The theca layer of the tertiary follicle is organized into two distinct layers.",
+    "reason": "The inner layer is called the theca interna and the outer one is theca externa.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "The primary oocyte completes its first meiotic division at the secondary follicle stage.",
+    "reason": "This division results in a secondary oocyte and a polar body.",
+    "answer": "C",
+    "explanation": "Assertion is false because the first meiotic division is completed at the tertiary follicle stage. However, the Reason is true."
+  },
+  {
+    "assertion": "The first meiotic division in oogenesis is unequal.",
+    "reason": "It produces a large secondary oocyte and a small first polar body.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains Assertion."
+  },
+  {
+    "assertion": "The secondary oocyte retains most of the cytoplasm from the primary oocyte.",
+    "reason": "This is advantageous as the secondary oocyte needs nutrients for early development.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "The secondary oocyte is surrounded by a membrane called zona pellucida.",
+    "reason": "Zona pellucida forms during the transformation from primary follicle to secondary follicle.",
+    "answer": "C",
+    "explanation": "Assertion is true, but Reason is false. Zona pellucida forms after the secondary oocyte is formed in the tertiary follicle."
+  },
+  {
+    "assertion": "Ovulation involves the release of the primary oocyte from the Graafian follicle.",
+    "reason": "The Graafian follicle ruptures to release the secondary oocyte during ovulation.",
+    "answer": "C",
+    "explanation": "Assertion is false; the secondary oocyte (not primary) is released. Reason is true."
+  },
+  {
+    "assertion": "The Graafian follicle represents the final stage of follicular maturation before ovulation.",
+    "reason": "It forms from the tertiary follicle and contains the secondary oocyte surrounded by zona pellucida.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains the Assertion."
+  }
+]
