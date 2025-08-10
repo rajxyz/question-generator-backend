@@ -1,1 +1,142 @@
-
+[
+  {
+    "question": {
+      "assertion": "Assertion (A): The human reproductive system and its functions are discussed in Chapter 2.",
+      "reason": "Reason (R): Chapter 2 of NCERT covers male and female reproductive systems and gamete formation."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "NCERT Chapter 2 indeed explains reproductive systems and their functions."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Reproductive health refers to healthy reproductive organs with normal function.",
+      "reason": "Reason (R): The absence of disease is the only component of reproductive health."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "C",
+    "explanation": "Reproductive health includes emotional and social aspects, not just disease absence."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): The concept of reproductive health has a broader perspective.",
+      "reason": "Reason (R): It includes emotional and social dimensions of reproduction."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "NCERT mentions the broader definition includes emotional and social aspects."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): According to WHO, reproductive health refers to total well-being in reproduction.",
+      "reason": "Reason (R): WHO defines reproductive health as physical, emotional, behavioural, and social well-being."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both A and R are directly from the WHO definition in NCERT."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): A reproductively healthy society must have functionally normal reproductive organs.",
+      "reason": "Reason (R): Physical normalcy alone defines reproductive health."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "C",
+    "explanation": "Reproductive health requires both functional organs and normal emotional/behavioral aspects."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Reproductive health includes behavioural well-being.",
+      "reason": "Reason (R): WHO excludes behavioural aspects from its definition of reproductive health."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "C",
+    "explanation": "Behavioural aspects are included in WHO’s definition, so R is false."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Emotional and behavioural interactions are essential in a reproductively healthy society.",
+      "reason": "Reason (R): Reproductive health is achieved only through biological treatment and surgeries."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "C",
+    "explanation": "A is true as per NCERT, but R is incorrect because it narrows reproductive health to just medical treatments."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): A reproductively healthy society requires normal emotional interactions in all sex-related aspects.",
+      "reason": "Reason (R): Emotional balance influences reproductive decision-making and behavior.",
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both A and R align with NCERT emphasis on emotional and social interactions."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Understanding reproductive health is necessary before applying its methods.",
+      "reason": "Reason (R): Reproductive health methods must be based on complete understanding of its components."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "NCERT implies that understanding is required before adopting methods for reproductive health."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): The need to maintain reproductive health leads to the development of healthcare programs.",
+      "reason": "Reason (R): Reproductive health is crucial for individual and societal well-being."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "NCERT links reproductive health to national programs aimed at maintaining public well-being."
+  }
+]
