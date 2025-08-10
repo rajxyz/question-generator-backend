@@ -58,5 +58,63 @@
     "question": "From what is the embryo sac formed?",
     "options": ["Microspore", "Ovule", "Integument", "Megaspore"],
     "answer": "Megaspore"
+  },
+  {
+    "question": "What is the process of formation of megaspores from the megaspore mother cell called?",
+    "options": ["Microsporogenesis", "Megasporogenesis", "Gametogenesis", "Fertilisation"],
+    "answer": "Megasporogenesis"
+  },
+  {
+    "question": "Where is the megaspore mother cell generally located in the ovule?",
+    "options": ["Chalazal region", "Middle of the nucellus", "Micropylar region", "Funicle region"],
+    "answer": "Micropylar region"
+  },
+  {
+    "question": "What type of cell is the megaspore mother cell?",
+    "options": ["Small cell with thin cytoplasm", "Large cell with dense cytoplasm and prominent nucleus", "Xylem cell", "Parenchyma cell"],
+    "answer": "Large cell with dense cytoplasm and prominent nucleus"
+  },
+  {
+    "question": "What does the megaspore mother cell undergo to form megaspores?",
+    "options": ["Mitosis", "Binary fission", "Meiosis", "Asexual division"],
+    "answer": "Meiosis"
+  },
+  {
+    "question": "How many megaspores are produced from one megaspore mother cell?",
+    "options": ["Two", "Three", "Four", "One"],
+    "answer": "Four"
+  },
+  {
+    "question": "How many megaspores become functional in most flowering plants?",
+    "options": ["All four", "Two", "One", "Three"],
+    "answer": "One"
+  },
+  {
+    "question": "What happens to the other three megaspores that do not become functional?",
+    "options": ["They become pollen grains", "They divide further", "They degenerate", "They form ovules"],
+    "answer": "They degenerate"
+  },
+  {
+    "question": "What does the functional megaspore develop into?",
+    "options": ["Male gametophyte", "Ovule", "Pollen grain", "Female gametophyte"],
+    "answer": "Female gametophyte"
+  },
+  {
+    "question": "What is another name for the female gametophyte?",
+    "options": ["Embryo sac", "Nucellus", "Ovule", "Pollen tube"],
+    "answer": "Embryo sac"
+  },
+  {
+    "question": "The formation of embryo sac from a single megaspore is called:",
+    "options": ["Tetrasporic development", "Bisporic development", "Monosporic development", "Polysporogenic development"],
+    "answer": "Monosporic development"
   }
 ]
+
+
+
+
+
+
+
+
