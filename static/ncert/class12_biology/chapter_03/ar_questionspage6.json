@@ -1,0 +1,50 @@
+[
+  {
+    "assertion": "Spermatogenesis starts at the age of puberty in males.",
+    "reason": "This is due to increased secretion of gonadotropin-releasing hormone (GnRH) from the hypothalamus.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion. GnRH from the hypothalamus stimulates anterior pituitary to release LH and FSH, initiating spermatogenesis."
+  },
+  {
+    "assertion": "LH acts on Sertoli cells to stimulate spermiogenesis.",
+    "reason": "Sertoli cells are stimulated by FSH to secrete factors that help in spermiogenesis.",
+    "answer": "C",
+    "explanation": "Assertion is false, but Reason is true. LH acts on Leydig cells, not Sertoli cells."
+  },
+  {
+    "assertion": "FSH stimulates Sertoli cells to assist in spermiogenesis.",
+    "reason": "Sertoli cells secrete factors that aid the maturation of spermatids into spermatozoa.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains Assertion."
+  },
+  {
+    "assertion": "Leydig cells are stimulated by LH to secrete androgens.",
+    "reason": "Androgens inhibit spermatogenesis in adult males.",
+    "answer": "C",
+    "explanation": "Assertion is true, but Reason is false. Androgens actually promote spermatogenesis."
+  },
+  {
+    "assertion": "Sperm motility is essential for fertilisation of the ovum.",
+    "reason": "The middle piece of the sperm contains numerous mitochondria that produce energy for movement.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains Assertion."
+  },
+  {
+    "assertion": "Acrosome in the sperm contains enzymes needed for fertilisation.",
+    "reason": "Acrosomal enzymes help the sperm penetrate the egg coverings during fertilisation.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly explains Assertion."
+  },
+  {
+    "assertion": "Human sperm contains a diploid nucleus.",
+    "reason": "The diploid set ensures genetic diversity in offspring.",
+    "answer": "D",
+    "explanation": "Both Assertion and Reason are false. Human sperm has a haploid nucleus, not diploid."
+  },
+  {
+    "assertion": "60% of sperms must be morphologically normal for normal fertility.",
+    "reason": "At least 40% sperms must also exhibit vigorous motility.",
+    "answer": "A",
+    "explanation": "Both Assertion and Reason are true, and Reason correctly supports normal fertility criteria."
+  }
+]
