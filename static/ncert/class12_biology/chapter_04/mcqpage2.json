@@ -1,1 +1,307 @@
+{
+  "paragraph_word_count": 100,
+  "total_questions": 17,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which media are involved in spreading reproductive health awareness?",
+      "options": {
+        "A": "Only newspapers",
+        "B": "Only television",
+        "C": "Audio-visual and print media",
+        "D": "None of the above"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "Who plays an important role in spreading awareness besides government agencies?",
+      "options": {
+        "A": "Only doctors",
+        "B": "NGOs (Non-governmental organisations)",
+        "C": "Businessmen",
+        "D": "Army personnel"
+      },
+      "answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of the following is a common method used by agencies to spread awareness?",
+      "options": {
+        "A": "Hiding information",
+        "B": "Using print and audio-visual media",
+        "C": "Personal therapy only",
+        "D": "Limiting public outreach"
+      },
+      "answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "Which group of people close to a child help spread reproductive awareness?",
+      "options": {
+        "A": "Strangers",
+        "B": "Celebrities",
+        "C": "Parents, relatives, teachers, and friends",
+        "D": "News reporters"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 5,
+      "question": "What is the role of teachers in reproductive health education?",
+      "options": {
+        "A": "Ignore the topic",
+        "B": "Promote myths",
+        "C": "Provide correct guidance",
+        "D": "Discourage discussion"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "Why should sex education be introduced in schools?",
+      "options": {
+        "A": "To promote early marriage",
+        "B": "To increase curiosity",
+        "C": "To discourage myths and misconceptions",
+        "D": "To reduce academic stress"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "Sex education helps in providing?",
+      "options": {
+        "A": "Wrong assumptions",
+        "B": "Unscientific beliefs",
+        "C": "Right and scientific information",
+        "D": "Political opinions"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "Which age group benefits most from reproductive health education?",
+      "options": {
+        "A": "Elderly",
+        "B": "Infants",
+        "C": "Adolescent",
+        "D": "Toddlers"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "Which of these is NOT a purpose of sex education?",
+      "options": {
+        "A": "To inform about reproductive health",
+        "B": "To reduce misconceptions",
+        "C": "To promote myths",
+        "D": "To guide adolescents properly"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "What kind of sexual practices should be encouraged?",
+      "options": {
+        "A": "Unsafe ones",
+        "B": "Risky behaviors",
+        "C": "Safe and hygienic",
+        "D": "Secretive practices"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "Which of these is a Sexually Transmitted Disease (STD)?",
+      "options": {
+        "A": "Tuberculosis",
+        "B": "AIDS",
+        "C": "Malaria",
+        "D": "Common cold"
+      },
+      "answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "Which of these infections is discussed in sex education?",
+      "options": {
+        "A": "Typhoid",
+        "B": "STD",
+        "C": "Arthritis",
+        "D": "Pneumonia"
+      },
+      "answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question": "Awareness about adolescence includes which of the following?",
+      "options": {
+        "A": "Political rights",
+        "B": "Reproductive organs and body changes",
+        "C": "Election symbols",
+        "D": "Pension schemes"
+      },
+      "answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "Information about adolescence should be?",
+      "options": {
+        "A": "Avoided in schools",
+        "B": "Left to chance",
+        "C": "Accurate and scientific",
+        "D": "Based on myths"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "Which of these would reduce the spread of AIDS in adolescents?",
+      "options": {
+        "A": "Proper reproductive health education",
+        "B": "Hiding facts",
+        "C": "Myths and misconceptions",
+        "D": "Discouraging discussions"
+      },
+      "answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "Who is most vulnerable to myths and misinformation about sex?",
+      "options": {
+        "A": "Adults",
+        "B": "Toddlers",
+        "C": "Adolescents",
+        "D": "Elderly"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "What is one of the benefits of awareness programmes for youth?",
+      "options": {
+        "A": "Increased STDs",
+        "B": "Confusion about sexual health",
+        "C": "Leading a reproductively healthy life",
+        "D": "Isolation from parents"
+      },
+      "answer": "C"
+    }
+  ]
+}
 
+[
+  {
+    "question": "What does reproductive health include beyond physical health?",
+    "options": ["Only physical health", "Emotional and social aspects", "Economic well-being", "Educational aspects"],
+    "answer": "Emotional and social aspects"
+  },
+  {
+    "question": "According to WHO, reproductive health is:",
+    "options": ["Only healthy reproductive organs", "Complete reproductive well-being", "Emotional stability only", "Behavioral success"],
+    "answer": "Complete reproductive well-being"
+  },
+  {
+    "question": "Which aspects are part of reproductive well-being?",
+    "options": ["Physical, emotional, social", "Physical only", "Mental only", "None"],
+    "answer": "Physical, emotional, social"
+  },
+  {
+    "question": "A reproductively healthy society has:",
+    "options": ["Only physically fit individuals", "Normal reproductive organs and emotional interactions", "Educated people only", "Doctors and nurses"],
+    "answer": "Normal reproductive organs and emotional interactions"
+  },
+  {
+    "question": "Why is maintaining reproductive health important?",
+    "options": ["To prevent population growth", "To build healthy society", "To avoid education", "To reduce food demand"],
+    "answer": "To build healthy society"
+  },
+  {
+    "question": "India started national reproductive health programmes in:",
+    "options": ["1961", "1975", "1951", "1981"],
+    "answer": "1951"
+  },
+  {
+    "question": "The term 'family planning' was introduced in:",
+    "options": ["1980", "1951", "2000", "1995"],
+    "answer": "1951"
+  },
+  {
+    "question": "Which program currently covers wider reproductive areas?",
+    "options": ["WHO", "AIIMS Plan", "RCH Programmes", "Janani Suraksha"],
+    "answer": "RCH Programmes"
+  },
+  {
+    "question": "Main aim of RCH programme is:",
+    "options": ["Eradicate malaria", "Eradicate cancer", "Build reproductively healthy society", "Eliminate poverty"],
+    "answer": "Build reproductively healthy society"
+  },
+  {
+    "question": "One goal of RCH is:",
+    "options": ["Economic equality", "Physical education", "Reproductive awareness", "Blood donation"],
+    "answer": "Reproductive awareness"
+  },
+  {
+    "question": "What are used to create reproductive awareness?",
+    "options": ["Radio only", "Only posters", "Audio-visual and print media", "Classrooms"],
+    "answer": "Audio-visual and print media"
+  },
+  {
+    "question": "Who plays role in information dissemination?",
+    "options": ["Only doctors", "Only government", "Parents, teachers, friends", "None"],
+    "answer": "Parents, teachers, friends"
+  },
+  {
+    "question": "Purpose of sex education in schools is to:",
+    "options": ["Avoid education", "Promote myths", "Discourage misconceptions", "Reduce syllabus"],
+    "answer": "Discourage misconceptions"
+  },
+  {
+    "question": "Sex education helps children understand:",
+    "options": ["Cooking skills", "Agriculture", "Sex-related aspects correctly", "Myths about health"],
+    "answer": "Sex-related aspects correctly"
+  },
+  {
+    "question": "Proper sex education discourages:",
+    "options": ["Eating habits", "Physical activity", "Myths and misconceptions", "Blood donation"],
+    "answer": "Myths and misconceptions"
+  },
+  {
+    "question": "Adolescents need awareness about:",
+    "options": ["Farming", "Reproductive health", "History", "Cooking"],
+    "answer": "Reproductive health"
+  },
+  {
+    "question": "STD stands for:",
+    "options": ["Standard Test Disease", "Sexually Transmitted Disease", "Student Test Data", "Surgical Trauma Diagnosis"],
+    "answer": "Sexually Transmitted Disease"
+  },
+  {
+    "question": "AIDS is an example of:",
+    "options": ["Nutritional disease", "Sexually Transmitted Disease", "Mental disorder", "Genetic disorder"],
+    "answer": "Sexually Transmitted Disease"
+  },
+  {
+    "question": "Education helps adolescents to:",
+    "options": ["Remain confused", "Misunderstand sex", "Live healthy lives", "Skip biology"],
+    "answer": "Live healthy lives"
+  },
+  {
+    "question": "Which group needs birth control education?",
+    "options": ["Children", "Old people", "Fertile couples", "Babies"],
+    "answer": "Fertile couples"
+  },
+  {
+    "question": "Post-natal care refers to care of:",
+    "options": ["Father", "Doctor", "Mother and child", "Teacher"],
+    "answer": "Mother and child"
+  },
+  {
+    "question": "What helps bring healthy families?",
+    "options": ["Cooking well", "Equal gender opportunity", "More children", "Less education"],
+    "answer": "Equal gender opportunity"
+  },
+  {
+    "
