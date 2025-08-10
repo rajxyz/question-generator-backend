@@ -140,3 +140,90 @@
     "explanation": "NCERT links reproductive health to national programs aimed at maintaining public well-being."
   }
 ]
+
+[
+  {
+    "question": {
+      "assertion": "Assertion (A): India was one of the first countries to start national-level reproductive health programmes.",
+      "reason": "Reason (R): India initiated the ‘family planning’ programme in 1951."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both are correct and R supports A — India initiated family planning as a reproductive health measure in 1951."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): Family planning programmes were started in India before 1960.",
+      "reason": "Reason (R): The first national family planning programme in India was launched in 1951."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "The year 1951 confirms that family planning began before 1960; both statements are true and related."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): The name of the reproductive health programmes in India has remained the same since 1951.",
+      "reason": "Reason (R): The original 'family planning' programme was later expanded and renamed as RCH."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "D",
+    "explanation": "A is false — the name changed to RCH; R is correct — it reflects the expansion of the programme."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): RCH programmes cover only family planning methods.",
+      "reason": "Reason (R): RCH stands for Reproductive and Child Health, which includes various reproductive health areas."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "D",
+    "explanation": "A is false — RCH covers more than family planning; R is true and directly from NCERT."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): One major goal of RCH programmes is to create awareness about reproductive health.",
+      "reason": "Reason (R): RCH programmes aim to support the development of a reproductively healthy society."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A",
+    "explanation": "Both A and R are true and connected — awareness and support are key pillars of RCH as per NCERT."
+  },
+  {
+    "question": {
+      "assertion": "Assertion (A): RCH programmes provide no facility or support for reproductive health.",
+      "reason": "Reason (R): RCH focuses only on policy making and not implementation."
+    },
+    "options": [
+      "A and R are true, and R is the correct explanation of A",
+      "A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "D",
+    "explanation": "Both A and R are false — NCERT states RCH provides both awareness and support services."
+  }
+]
