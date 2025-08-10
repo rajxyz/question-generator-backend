@@ -1,1 +1,52 @@
-
+[
+  {
+    "question": "The process of formation of megaspores from the megaspore mother cell is called:",
+    "options": ["Microsporogenesis", "Megasporogenesis", "Fertilisation", "Pollination"],
+    "answer": "Megasporogenesis"
+  },
+  {
+    "question": "Ovules generally differentiate a single megaspore mother cell (MMC) in the _____ region of the nucellus.",
+    "options": ["Micropylar", "Chalazal", "Funicular", "Integumentary"],
+    "answer": "Micropylar"
+  },
+  {
+    "question": "The megaspore mother cell (MMC) is a large cell containing:",
+    "options": ["Sparse cytoplasm and small nucleus", "Dense cytoplasm and a prominent nucleus", "Sparse cytoplasm and prominent vacuoles", "Dense cytoplasm and no nucleus"],
+    "answer": "Dense cytoplasm and a prominent nucleus"
+  },
+  {
+    "question": "The megaspore mother cell undergoes which type of cell division?",
+    "options": ["Mitosis", "Amitosis", "Meiosis", "Binary fission"],
+    "answer": "Meiosis"
+  },
+  {
+    "question": "Meiosis in the MMC results in the production of how many megaspores?",
+    "options": ["Two", "Three", "Four", "Eight"],
+    "answer": "Four"
+  },
+  {
+    "question": "In a majority of flowering plants, how many megaspores are functional?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "One"
+  },
+  {
+    "question": "In most flowering plants, the other megaspores apart from the functional one:",
+    "options": ["Fuse", "Degenerate", "Divide", "Differentiate"],
+    "answer": "Degenerate"
+  },
+  {
+    "question": "Only the functional megaspore develops into the:",
+    "options": ["Male gametophyte", "Female gametophyte", "Zygote", "Seed"],
+    "answer": "Female gametophyte"
+  },
+  {
+    "question": "The female gametophyte in flowering plants is also called:",
+    "options": ["Endosperm", "Embryo sac", "Integument", "Ovule"],
+    "answer": "Embryo sac"
+  },
+  {
+    "question": "Embryo sac formation from a single megaspore is termed:",
+    "options": ["Bisporic development", "Tetrasporic development", "Monosporic development", "Multisporic development"],
+    "answer": "Monosporic development"
+  }
+]
