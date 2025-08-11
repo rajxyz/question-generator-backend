@@ -1,1 +1,77 @@
-
+[
+  {
+    "question": "What type of reproduction do humans exhibit?",
+    "options": ["Asexual", "Parthenogenesis", "Sexual", "Budding"],
+    "answer": "Sexual"
+  },
+  {
+    "question": "Humans are:",
+    "options": ["Oviparous", "Ovoviviparous", "Viviparous", "Asexual"],
+    "answer": "Viviparous"
+  },
+  {
+    "question": "What is the term for the process of formation of gametes?",
+    "options": ["Fertilisation", "Gestation", "Gametogenesis", "Implantation"],
+    "answer": "Gametogenesis"
+  },
+  {
+    "question": "In males, gametogenesis results in the formation of:",
+    "options": ["Ova", "Zygotes", "Embryos", "Sperms"],
+    "answer": "Sperms"
+  },
+  {
+    "question": "In females, gametogenesis leads to the formation of:",
+    "options": ["Zygotes", "Sperms", "Blastocysts", "Ovum"],
+    "answer": "Ovum"
+  },
+  {
+    "question": "Transfer of sperms into the female genital tract is called:",
+    "options": ["Fertilisation", "Gestation", "Implantation", "Insemination"],
+    "answer": "Insemination"
+  },
+  {
+    "question": "Fusion of male and female gametes is termed:",
+    "options": ["Implantation", "Gametogenesis", "Fertilisation", "Parturition"],
+    "answer": "Fertilisation"
+  },
+  {
+    "question": "Fusion of gametes leads to the formation of:",
+    "options": ["Foetus", "Embryo", "Zygote", "Blastocyst"],
+    "answer": "Zygote"
+  },
+  {
+    "question": "What is formed after the zygote that attaches to the uterine wall?",
+    "options": ["Foetus", "Embryo", "Blastocyst", "Ovum"],
+    "answer": "Blastocyst"
+  },
+  {
+    "question": "Attachment of blastocyst to the uterine wall is called:",
+    "options": ["Fertilisation", "Gestation", "Implantation", "Parturition"],
+    "answer": "Implantation"
+  },
+  {
+    "question": "Embryonic development is also known as:",
+    "options": ["Parturition", "Gestation", "Implantation", "Fertilisation"],
+    "answer": "Gestation"
+  },
+  {
+    "question": "Delivery of the baby is termed:",
+    "options": ["Fertilisation", "Implantation", "Gametogenesis", "Parturition"],
+    "answer": "Parturition"
+  },
+  {
+    "question": "When do reproductive events in humans occur?",
+    "options": ["Before birth", "After menopause", "After puberty", "During infancy"],
+    "answer": "After puberty"
+  },
+  {
+    "question": "Sperm formation in males continues:",
+    "options": ["Until puberty", "Until 50 years", "Only during adolescence", "Even in old men"],
+    "answer": "Even in old men"
+  },
+  {
+    "question": "Ovum formation in women ceases around the age of:",
+    "options": ["30 years", "40 years", "50 years", "60 years"],
+    "answer": "50 years"
+  }
+]
