@@ -1,94 +1,106 @@
 [
   {
     "column_I": [
-      "A. Systematics",
-      "B. Latin word 'systema'",
-      "C. Systema Naturae",
-      "D. Scope of systematics"
+      "A. Solanum",
+      "B. Panthera",
+      "C. Felis",
+      "D. Genera"
     ],
     "column_II": [
-      "1. Systematic arrangement of organisms",
-      "2. Title of Linnaeus’ publication",
-      "3. Derived from Latin",
-      "4. Includes identification, nomenclature and classification"
+      "1. Includes potato and brinjal",
+      "2. Includes lion, leopard and tiger",
+      "3. Includes cats",
+      "4. Aggregates of closely related species"
     ],
-    "matches": ["A–1", "B–3", "C–2", "D–4"]
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
   },
   {
     "column_I": [
-      "A. Identification",
-      "B. Nomenclature",
-      "C. Classification",
-      "D. Evolutionary relationships"
+      "A. Solanaceae",
+      "B. Felidae",
+      "C. Canidae",
+      "D. Family"
     ],
     "column_II": [
-      "1. Included in the scope of systematics",
-      "2. Included in the scope of systematics",
-      "3. Included in the scope of systematics",
-      "4. Taken into account by systematics"
+      "1. Includes genera like Solanum, Petunia, Datura",
+      "2. Includes Panthera and Felis",
+      "3. Includes dogs",
+      "4. Group of related genera with fewer similarities"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Polymoniales",
+      "B. Carnivora",
+      "C. Order",
+      "D. Convolvulaceae"
+    ],
+    "column_II": [
+      "1. Includes families like Solanaceae",
+      "2. Includes families like Felidae and Canidae",
+      "3. Assemblage of families with few similar characters",
+      "4. A plant family under Polymoniales"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Primata",
+      "B. Carnivora",
+      "C. Mammalia",
+      "D. Class"
+    ],
+    "column_II": [
+      "1. Includes monkey, gorilla and gibbon",
+      "2. Includes tiger, cat and dog",
+      "3. Includes orders Primata and Carnivora",
+      "4. Includes related orders"
+    ],
+    "matches": ["A–1", "B–2", "C–3", "D–4"]
+  },
+  {
+    "column_I": [
+      "A. Phylum",
+      "B. Chordata",
+      "C. Division",
+      "D. Notochord"
+    ],
+    "column_II": [
+      "1. Higher category than class in animals",
+      "2. Includes animals like fishes, amphibians, reptiles, birds and mammals",
+      "3. Higher category than class in plants",
+      "4. Common feature of phylum Chordata"
     ],
     "matches": ["A–1", "B–2", "C–3", "D–4"]
   }
 ]
-[
-  {
-    "column_I": [
-      "A. Taxonomic category",
-      "B. Taxonomic hierarchy",
-      "C. Taxon",
-      "D. Species"
-    ],
-    "column_II": [
-      "1. A part of overall taxonomic arrangement",
-      "2. All categories together",
-      "3. A unit of classification",
-      "4. Group of individuals with fundamental similarities"
-    ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
-  },
-  {
-    "column_I": [
-      "A. Mangifera",
-      "B. Solanum",
-      "C. Panthera",
-      "D. Homo"
-    ],
-    "column_II": [
-      "1. indica",
-      "2. tuberosum",
-      "3. leo",
-      "4. sapiens"
-    ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
-  },
-  {
-    "column_I": [
-      "A. Panthera tigris",
-      "B. Solanum nigrum",
-      "C. Solanum melongena",
-      "D. Homo sapiens"
-    ],
-    "column_II": [
-      "1. Tiger",
-      "2. Black nightshade",
-      "3. Brinjal",
-      "4. Human being"
-    ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
-  },
-  {
-    "column_I": [
-      "A. Kingdom",
-      "B. Phylum",
-      "C. Class",
-      "D. Order"
-    ],
-    "column_II": [
-      "1. Common taxonomic category",
-      "2. Common taxonomic category",
-      "3. Common taxonomic category",
-      "4. Common taxonomic category"
-    ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
-  }
-]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
