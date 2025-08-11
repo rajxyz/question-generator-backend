@@ -1,0 +1,97 @@
+[
+  {
+    "assertion": "Natural contraceptive methods prevent ovum and sperm from meeting.",
+    "reason": "These methods involve avoiding coitus during the fertile period.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Periodic abstinence involves avoiding coitus from day 10 to 17 of menstrual cycle.",
+    "reason": "Ovulation and highest chance of fertilisation occur during this phase.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Withdrawal method prevents insemination by male partner withdrawing before ejaculation.",
+    "reason": "This ensures semen does not enter the female reproductive tract.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Lactational amenorrhea prevents conception due to absence of menstruation during lactation.",
+    "reason": "Intense lactation suppresses ovulation after childbirth.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Lactational amenorrhea is effective indefinitely after childbirth.",
+    "reason": "Ovulation never resumes in breastfeeding mothers.",
+    "answer": "D"
+  },
+  {
+    "assertion": "Natural methods have almost nil side effects.",
+    "reason": "No medicines or devices are used in these methods.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Natural contraceptive methods are 100% reliable.",
+    "reason": "Failure chances in these methods are negligible.",
+    "answer": "D"
+  }
+]
+[
+  {
+    "assertion": "Barrier methods prevent physical meeting of ovum and sperm.",
+    "reason": "They use physical devices to block sperm entry into the female tract.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Condoms are thin rubber or latex sheaths used before coitus.",
+    "reason": "They cover penis in males or cervix in females to prevent semen entry.",
+    "answer": "A"
+  },
+  {
+    "assertion": "'Nirodh' is a popular female condom brand in India.",
+    "reason": "It is inserted into the vagina to block sperm entry.",
+    "answer": "D"
+  },
+  {
+    "assertion": "Condoms also protect against sexually transmitted infections (STIs) and AIDS.",
+    "reason": "They act as a barrier preventing exchange of infectious body fluids.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Diaphragms, cervical caps and vaults block sperm entry through the cervix.",
+    "reason": "They are reusable rubber devices placed in the female reproductive tract.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Spermicidal creams, jellies and foams decrease contraceptive efficiency.",
+    "reason": "They kill sperms and are often used with barrier devices.",
+    "answer": "D"
+  }
+]
+
+[
+  {
+    "assertion": "Intra Uterine Devices (IUDs) are inserted into the uterus via the vagina.",
+    "reason": "They are placed by trained doctors or expert nurses.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Lippes loop is a copper releasing IUD.",
+    "reason": "Copper ions released reduce sperm motility and fertilising capacity.",
+    "answer": "D"
+  },
+  {
+    "assertion": "CuT, Cu7 and Multiload 375 are examples of copper releasing IUDs.",
+    "reason": "Copper ions suppress sperm motility and fertilising capacity.",
+    "answer": "A"
+  },
+  {
+    "assertion": "Progestasert and LNG-20 are hormone releasing IUDs.",
+    "reason": "Hormones released prevent conception by altering uterine environment.",
+    "answer": "A"
+  },
+  {
+    "assertion": "IUDs increase phagocytosis of sperms in the uterus.",
+    "reason": "This reduces chances of fertilisation.",
+    "answer": "A"
+  }
+]
