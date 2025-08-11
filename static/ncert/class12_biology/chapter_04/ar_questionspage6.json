@@ -66,3 +66,60 @@
     "answer": "C"
   }
 ]
+[
+  {
+    "assertion": "Intentional or voluntary termination of pregnancy before full term is called medical termination of pregnancy (MTP) or induced abortion.",
+    "reason": "Nearly 45 to 50 million MTPs are performed in a year all over the world which accounts to 1/5th of the total number of conceived pregnancies in a year.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Government of India legalised MTP in 1971 with some strict conditions to avoid its misuse.",
+    "reason": "Such restrictions are important to check indiscriminate and illegal female foeticides which are reported to be high in India.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "MTPs are done to get rid of unwanted pregnancies either due to casual unprotected intercourse or failure of the contraceptive used during coitus or rapes.",
+    "reason": "MTPs are also essential in certain cases where continuation of the pregnancy could be harmful or even fatal either to the mother or to the foetus or both.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "MTPs are considered relatively safe during the first trimester, i.e., upto 12 weeks of pregnancy.",
+    "reason": "Second trimester abortions are much more riskier.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "A majority of the MTPs are performed illegally by unqualified quacks which are not only unsafe but could be fatal too.",
+    "reason": "Misuse of amniocentesis to determine the sex of the unborn child is another dangerous trend.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  }
+]
