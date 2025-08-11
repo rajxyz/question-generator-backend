@@ -1,1 +1,117 @@
-
+[
+  {
+    "question": "What is the male external genitalia?",
+    "options": ["Scrotum", "Penis", "Testis", "Urethra"],
+    "answer": "Penis"
+  },
+  {
+    "question": "What type of tissue helps in erection of the penis?",
+    "options": ["Muscle tissue", "Special tissue", "Connective tissue", "Adipose tissue"],
+    "answer": "Special tissue"
+  },
+  {
+    "question": "What is the function of erection of the penis?",
+    "options": ["To urinate", "To ejaculate", "To fertilize", "To facilitate insemination"],
+    "answer": "To facilitate insemination"
+  },
+  {
+    "question": "What is the enlarged end of the penis called?",
+    "options": ["Penile tip", "Urethral end", "Glans penis", "Corpora cavernosa"],
+    "answer": "Glans penis"
+  },
+  {
+    "question": "What covers the glans penis?",
+    "options": ["Hard skin", "Prepuce", "Loose fold of skin called foreskin", "Cartilage"],
+    "answer": "Loose fold of skin called foreskin"
+  },
+  {
+    "question": "Which of the following are male accessory glands?",
+    "options": ["Seminal vesicles, prostate, bulbourethral glands", "Testis, vas deferens, scrotum", "Bladder, prostate, urethra", "Penis, testis, epididymis"],
+    "answer": "Seminal vesicles, prostate, bulbourethral glands"
+  },
+  {
+    "question": "What do the secretions of male accessory glands constitute?",
+    "options": ["Urine", "Blood plasma", "Seminal plasma", "Prostatic fluid"],
+    "answer": "Seminal plasma"
+  },
+  {
+    "question": "Seminal plasma is rich in:",
+    "options": ["Fructose, calcium and certain enzymes", "Glucose, sodium and proteins", "Cholesterol, calcium and vitamins", "Water, proteins and hormones"],
+    "answer": "Fructose, calcium and certain enzymes"
+  },
+  {
+    "question": "What is the function of the bulbourethral gland secretions?",
+    "options": ["Stimulate sperm production", "Lubricate the penis", "Transport sperms", "Form semen"],
+    "answer": "Lubricate the penis"
+  },
+  {
+    "question": "The female reproductive system is located in the:",
+    "options": ["Thoracic region", "Abdominal region", "Pelvic region", "Cranial region"],
+    "answer": "Pelvic region"
+  },
+  {
+    "question": "Which of the following are parts of the female reproductive system?",
+    "options": ["Ovaries, oviducts, uterus, cervix, vagina", "Uterus, penis, vagina, bladder", "Ovaries, testes, cervix, bladder", "Fallopian tube, epididymis, urethra, ovary"],
+    "answer": "Ovaries, oviducts, uterus, cervix, vagina"
+  },
+  {
+    "question": "What are the external genitalia of the female located along with?",
+    "options": ["Thoracic region", "Pelvic region", "Abdominal cavity", "Back muscles"],
+    "answer": "Pelvic region"
+  },
+  {
+    "question": "Which glands are structurally and functionally integrated with the female reproductive system?",
+    "options": ["Sweat glands", "Pituitary glands", "Mammary glands", "Adrenal glands"],
+    "answer": "Mammary glands"
+  },
+  {
+    "question": "The female reproductive system supports which of the following processes?",
+    "options": ["Digestion and respiration", "Ovulation, fertilisation, pregnancy, birth and child care", "Excretion and circulation", "Hormone release and urination"],
+    "answer": "Ovulation, fertilisation, pregnancy, birth and child care"
+  },
+  {
+    "question": "What are the primary female sex organs?",
+    "options": ["Oviducts", "Uterus", "Ovaries", "Cervix"],
+    "answer": "Ovaries"
+  },
+  {
+    "question": "What do ovaries produce?",
+    "options": ["Sperms and enzymes", "Ovum and ovarian hormones", "Milk and antibodies", "Blood and enzymes"],
+    "answer": "Ovum and ovarian hormones"
+  },
+  {
+    "question": "Where are the ovaries located?",
+    "options": ["Near kidneys", "On each side of the thorax", "On each side of the lower abdomen", "Behind the uterus"],
+    "answer": "On each side of the lower abdomen"
+  },
+  {
+    "question": "What is the approximate length of each ovary?",
+    "options": ["1 to 2 cm", "2 to 4 cm", "3 to 5 cm", "4 to 6 cm"],
+    "answer": "2 to 4 cm"
+  },
+  {
+    "question": "How are the ovaries connected to the pelvic wall and uterus?",
+    "options": ["By blood vessels", "By ducts", "By ligaments", "By muscles"],
+    "answer": "By ligaments"
+  },
+  {
+    "question": "What covers each ovary?",
+    "options": ["Thick dermis", "Fat capsule", "Thin epithelium", "Cartilaginous sheath"],
+    "answer": "Thin epithelium"
+  },
+  {
+    "question": "What does the epithelium of the ovary enclose?",
+    "options": ["Ovarian cortex", "Ovarian follicles", "Ovarian stroma", "Ovum"],
+    "answer": "Ovarian stroma"
+  },
+  {
+    "question": "Into how many zones is the ovarian stroma divided?",
+    "options": ["Three", "Two", "Four", "One"],
+    "answer": "Two"
+  },
+  {
+    "question": "What are the zones of ovarian stroma?",
+    "options": ["Cortex and capsule", "Medulla and surface", "Peripheral cortex and inner medulla", "Epithelium and follicles"],
+    "answer": "Peripheral cortex and inner medulla"
+  }
+]
