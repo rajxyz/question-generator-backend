@@ -1,0 +1,68 @@
+[
+  {
+    "assertion": "Surgical methods, also called sterilisation, are generally advised for the male/female partner as a terminal method to prevent any more pregnancies.",
+    "reason": "Surgical intervention blocks gamete transport and thereby prevents conception.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Sterilisation procedure in the male is called vasectomy and that in the female is called tubectomy.",
+    "reason": "In vasectomy, a small part of the vas deferens is removed or tied up through a small incision on the scrotum.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In tubectomy, a small part of the fallopian tube is removed or tied up through a small incision in the abdomen or through vagina.",
+    "reason": "These techniques are highly effective but their reversibility is very poor.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The selection of a suitable contraceptive method and its use should always be undertaken in consultation with qualified medical professionals.",
+    "reason": "Contraceptives are not regular requirements for the maintenance of reproductive health.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Contraceptives are practiced against a natural reproductive event, i.e., conception/pregnancy.",
+    "reason": "One is forced to use these methods either to prevent pregnancy or to delay or space pregnancy due to personal reasons.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The widespread use of contraceptive methods has a significant role in checking uncontrolled growth of population.",
+    "reason": "Possible ill-effects like nausea, abdominal pain, breakthrough bleeding, irregular menstrual bleeding or even breast cancer should be totally ignored.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  }
+]
