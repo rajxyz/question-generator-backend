@@ -95,3 +95,30 @@
     "answer": "Immunologically competent cells"
   }
 ]
+[
+  {
+    "question": "Where is the male reproductive system located?",
+    "options": ["Thoracic region", "Abdominal cavity", "Pelvis region", "Cranial region"],
+    "answer": "Pelvis region"
+  },
+  {
+    "question": "The male reproductive system includes a pair of:",
+    "options": ["Ovaries", "Penis", "Testes", "Vas deferens"],
+    "answer": "Testes"
+  },
+  {
+    "question": "Which of the following is a component of the male reproductive system?",
+    "options": ["Accessory ducts", "Uterus", "Fallopian tubes", "Ovarian follicles"],
+    "answer": "Accessory ducts"
+  },
+  {
+    "question": "Which glands are part of the male reproductive system?",
+    "options": ["Thyroid glands", "Accessory glands", "Mammary glands", "Adrenal glands"],
+    "answer": "Accessory glands"
+  },
+  {
+    "question": "Which of the following is included in the male reproductive system?",
+    "options": ["External genitalia", "Pancreas", "Urinary bladder", "Kidneys"],
+    "answer": "External genitalia"
+  }
+]
