@@ -1,1 +1,164 @@
-
+[
+  {
+    "question": "What do the oviducts, uterus, and vagina together constitute?",
+    "options": ["Female reproductive organs", "Female accessory ducts", "Primary sex organs", "External genitalia"],
+    "answer": "Female accessory ducts"
+  },
+  {
+    "question": "What is the approximate length of each fallopian tube?",
+    "options": ["5-6 cm", "8-9 cm", "10-12 cm", "15-17 cm"],
+    "answer": "10-12 cm"
+  },
+  {
+    "question": "From where does each fallopian tube extend to the uterus?",
+    "options": ["From the uterus to the cervix", "From the ovary to the cervix", "From the periphery of ovary to the uterus", "From the vagina to the uterus"],
+    "answer": "From the periphery of ovary to the uterus"
+  },
+  {
+    "question": "Which part of the oviduct is closer to the ovary?",
+    "options": ["Ampulla", "Isthmus", "Infundibulum", "Fimbriae"],
+    "answer": "Infundibulum"
+  },
+  {
+    "question": "What structures help in collection of the ovum after ovulation?",
+    "options": ["Ampulla", "Cilia", "Fimbriae", "Infundibulum"],
+    "answer": "Fimbriae"
+  },
+  {
+    "question": "What is the function of fimbriae?",
+    "options": ["Transport of sperm", "Hormone secretion", "Ovum collection after ovulation", "Formation of zygote"],
+    "answer": "Ovum collection after ovulation"
+  },
+  {
+    "question": "The infundibulum leads to which part of the oviduct?",
+    "options": ["Isthmus", "Fimbriae", "Ampulla", "Uterus"],
+    "answer": "Ampulla"
+  },
+  {
+    "question": "Which part of the oviduct is the last and has a narrow lumen?",
+    "options": ["Ampulla", "Infundibulum", "Fimbriae", "Isthmus"],
+    "answer": "Isthmus"
+  },
+  {
+    "question": "Which part of the oviduct joins the uterus?",
+    "options": ["Infundibulum", "Fimbriae", "Ampulla", "Isthmus"],
+    "answer": "Isthmus"
+  },
+  {
+    "question": "What is another name for the uterus?",
+    "options": ["Cervix", "Womb", "Oviduct", "Birth canal"],
+    "answer": "Womb"
+  },
+  {
+    "question": "What is the shape of the uterus?",
+    "options": ["Round", "Flat", "Inverted pear", "Tube-like"],
+    "answer": "Inverted pear"
+  },
+  {
+    "question": "How is the uterus supported in the body?",
+    "options": ["By cervix", "By uterine wall", "By ligaments attached to pelvic wall", "By fallopian tubes"],
+    "answer": "By ligaments attached to pelvic wall"
+  },
+  {
+    "question": "The uterus opens into the vagina through which structure?",
+    "options": ["Oviduct", "Isthmus", "Ampulla", "Cervix"],
+    "answer": "Cervix"
+  },
+  {
+    "question": "What is the cavity of the cervix called?",
+    "options": ["Isthmus", "Fimbriae", "Cervical canal", "Uterine cavity"],
+    "answer": "Cervical canal"
+  },
+  {
+    "question": "The cervical canal and vagina together form which structure?",
+    "options": ["Womb", "Oviduct", "Birth canal", "Cervix"],
+    "answer": "Birth canal"
+  },
+  {
+    "question": "How many layers does the wall of the uterus have?",
+    "options": ["Two", "Three", "Four", "One"],
+    "answer": "Three"
+  },
+  {
+    "question": "Which is the external thin membranous layer of the uterus?",
+    "options": ["Myometrium", "Perimetrium", "Endometrium", "Epimetrium"],
+    "answer": "Perimetrium"
+  },
+  {
+    "question": "Which uterine layer is made of thick smooth muscle?",
+    "options": ["Perimetrium", "Myometrium", "Endometrium", "Epithelium"],
+    "answer": "Myometrium"
+  },
+  {
+    "question": "Which layer of the uterus is glandular and lines the uterine cavity?",
+    "options": ["Perimetrium", "Myometrium", "Endometrium", "Epidermis"],
+    "answer": "Endometrium"
+  },
+  {
+    "question": "Which uterine layer undergoes cyclical changes during the menstrual cycle?",
+    "options": ["Perimetrium", "Myometrium", "Endometrium", "Cervical canal"],
+    "answer": "Endometrium"
+  },
+  {
+    "question": "Which uterine layer exhibits strong contraction during delivery?",
+    "options": ["Perimetrium", "Myometrium", "Endometrium", "Cervical canal"],
+    "answer": "Myometrium"
+  }
+]
+[
+  {
+    "assertion": "Assertion: The female external genitalia include mons pubis, labia majora, labia minora, hymen and clitoris.",
+    "reason": "Reason: Mons pubis is a cushion of fatty tissue covered by skin and pubic hair.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Assertion: The labia majora are fleshy folds of tissue, which extend down from the mons pubis and surround the vaginal opening.",
+    "reason": "Reason: The labia minora are paired folds of tissue under the labia majora.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Assertion: The opening of the vagina is often covered partially by a membrane called hymen.",
+    "reason": "Reason: The clitoris is a tiny finger-like structure which lies at the upper junction of the two labia minora above the urethral opening.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Assertion: The hymen is often torn during the first coitus.",
+    "reason": "Reason: In some women the hymen persists even after coitus.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Assertion: The hymen can also be broken by a sudden fall, insertion of a vaginal tampon or active participation in sports.",
+    "reason": "Reason: The presence or absence of hymen is not a reliable indicator of virginity or sexual experience.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  }
+]
