@@ -1,1 +1,192 @@
 
+
+
+[
+  {
+    "question": "What is a functional mammary gland characteristic of?",
+    "options": ["All male mammals", "All female mammals", "All adult mammals", "All mammals with offspring"],
+    "answer": "All female mammals"
+  },
+  {
+    "question": "What are the paired structures of the mammary glands called?",
+    "options": ["Lobes", "Alveoli", "Breasts", "Ducts"],
+    "answer": "Breasts"
+  },
+  {
+    "question": "What two components are found in mammary glands?",
+    "options": ["Fat and lobules", "Lobes and ducts", "Glandular tissue and fat", "Milk and ampulla"],
+    "answer": "Glandular tissue and fat"
+  },
+  {
+    "question": "How many mammary lobes are present in each breast?",
+    "options": ["10–15", "20–25", "5–10", "15–20"],
+    "answer": "15–20"
+  },
+  {
+    "question": "What do mammary lobes contain?",
+    "options": ["Ducts", "Fat cells", "Nerves", "Clusters of alveoli"],
+    "answer": "Clusters of alveoli"
+  },
+  {
+    "question": "What is secreted by the cells of alveoli?",
+    "options": ["Blood", "Sweat", "Milk", "Hormones"],
+    "answer": "Milk"
+  },
+  {
+    "question": "Where is milk stored in the alveoli?",
+    "options": ["In the ducts", "In the lobes", "In the lumens", "In the ampulla"],
+    "answer": "In the lumens"
+  },
+  {
+    "question": "Where do the alveoli open into?",
+    "options": ["Mammary duct", "Lactiferous duct", "Mammary tubules", "Ampulla"],
+    "answer": "Mammary tubules"
+  },
+  {
+    "question": "What do the tubules of each lobe form?",
+    "options": ["Alveoli", "Lactiferous duct", "Mammary duct", "Ampulla"],
+    "answer": "Mammary duct"
+  },
+  {
+    "question": "What do several mammary ducts join to form?",
+    "options": ["Lobe", "Lactiferous duct", "Alveoli", "Mammary ampulla"],
+    "answer": "Mammary ampulla"
+  },
+  {
+    "question": "Which structure connects the ampulla to the nipple?",
+    "options": ["Mammary duct", "Lactiferous duct", "Mammary tubules", "Alveoli"],
+    "answer": "Lactiferous duct"
+  },
+  {
+    "question": "From where is milk expressed during breastfeeding?",
+    "options": ["Alveoli", "Lactiferous duct", "Ampulla", "Nipple"],
+    "answer": "Nipple"
+  }
+]
+[
+  {
+    "question": "Which organs produce gametes in males and females, respectively?",
+    "options": ["Penis and uterus", "Prostate and fallopian tubes", "Testis and ovaries", "Scrotum and ovaries"],
+    "answer": "Testis and ovaries"
+  },
+  {
+    "question": "What are the gametes produced by testis and ovary?",
+    "options": ["Spermatogonia and ovum", "Sperms and ovum", "Spermatocytes and eggs", "Spermatids and eggs"],
+    "answer": "Sperms and ovum"
+  },
+  {
+    "question": "What is the process of gamete production called?",
+    "options": ["Fertilization", "Gametogenesis", "Spermiation", "Meiosis"],
+    "answer": "Gametogenesis"
+  },
+  {
+    "question": "In testis, which cells produce sperms?",
+    "options": ["Spermatogonia", "Sertoli cells", "Leydig cells", "Spermatids"],
+    "answer": "Spermatogonia"
+  },
+  {
+    "question": "When does spermatogenesis begin?",
+    "options": ["At birth", "During childhood", "At puberty", "After fertilization"],
+    "answer": "At puberty"
+  },
+  {
+    "question": "Where are spermatogonia located?",
+    "options": ["Outside wall of seminiferous tubules", "Middle of the epididymis", "Inside wall of seminiferous tubules", "In the vas deferens"],
+    "answer": "Inside wall of seminiferous tubules"
+  },
+  {
+    "question": "By which process do spermatogonia multiply?",
+    "options": ["Meiotic division", "Fertilization", "Spermiogenesis", "Mitotic division"],
+    "answer": "Mitotic division"
+  },
+  {
+    "question": "How many chromosomes does each spermatogonium contain?",
+    "options": ["23", "44", "46", "22"],
+    "answer": "46"
+  },
+  {
+    "question": "What are the spermatogonia called that undergo meiosis?",
+    "options": ["Primary spermatogonia", "Secondary spermatocytes", "Sertoli cells", "Primary spermatocytes"],
+    "answer": "Primary spermatocytes"
+  },
+  {
+    "question": "What type of division is the first meiotic division?",
+    "options": ["Equational division", "Reduction division", "Mitotic division", "Cleavage division"],
+    "answer": "Reduction division"
+  },
+  {
+    "question": "What is formed after the first meiotic division of a primary spermatocyte?",
+    "options": ["Spermatids", "Spermatogonia", "Sertoli cells", "Secondary spermatocytes"],
+    "answer": "Secondary spermatocytes"
+  },
+  {
+    "question": "How many chromosomes are present in each secondary spermatocyte?",
+    "options": ["23", "46", "44", "22"],
+    "answer": "23"
+  },
+  {
+    "question": "What is formed after the second meiotic division of secondary spermatocytes?",
+    "options": ["Primary spermatocytes", "Spermatogonia", "Spermatids", "Sertoli cells"],
+    "answer": "Spermatids"
+  },
+  {
+    "question": "What is the number of chromosomes in spermatids?",
+    "options": ["46", "23", "44", "22"],
+    "answer": "23"
+  },
+  {
+    "question": "By what process are spermatids transformed into spermatozoa?",
+    "options": ["Fertilization", "Spermatogenesis", "Spermiation", "Spermiogenesis"],
+    "answer": "Spermiogenesis"
+  },
+  {
+    "question": "Where do sperm heads become embedded after spermiogenesis?",
+    "options": ["Seminiferous tubules", "Leydig cells", "Sertoli cells", "Vas deferens"],
+    "answer": "Sertoli cells"
+  },
+  {
+    "question": "What is the process called by which sperms are released from seminiferous tubules?",
+    "options": ["Spermatogenesis", "Spermiation", "Spermiogenesis", "Fertilization"],
+    "answer": "Spermiation"
+  },
+  {
+    "question": "What triggers the start of spermatogenesis at puberty?",
+    "options": ["Increase in testosterone", "Increase in FSH", "Increase in GnRH", "Decrease in LH"],
+    "answer": "Increase in GnRH"
+  },
+  {
+    "question": "What type of hormone is GnRH?",
+    "options": ["Pituitary hormone", "Testicular hormone", "Hypothalamic hormone", "Adrenal hormone"],
+    "answer": "Hypothalamic hormone"
+  },
+  {
+    "question": "What gland does GnRH act on?",
+    "options": ["Thyroid gland", "Adrenal gland", "Posterior pituitary", "Anterior pituitary"],
+    "answer": "Anterior pituitary"
+  },
+  {
+    "question": "Which hormones are secreted by the anterior pituitary in response to GnRH?",
+    "options": ["GnRH and FSH", "LH and FSH", "Testosterone and LH", "GnRH and testosterone"],
+    "answer": "LH and FSH"
+  },
+  {
+    "question": "What is the target of LH in the male reproductive system?",
+    "options": ["Sertoli cells", "Seminiferous tubules", "Leydig cells", "Prostate gland"],
+    "answer": "Leydig cells"
+  },
+  {
+    "question": "What does LH stimulate in Leydig cells?",
+    "options": ["Sperm motility", "Ovum production", "Androgen synthesis and secretion", "Testosterone degradation"],
+    "answer": "Androgen synthesis and secretion"
+  },
+  {
+    "question": "What do androgens stimulate?",
+    "options": ["Ovulation", "Spermatogenesis", "Meiosis in ovaries", "LH secretion"],
+    "answer": "Spermatogenesis"
+  },
+  {
+    "question": "What is the action of FSH on Sertoli cells?",
+    "options": ["Stimulates spermiation", "Stimulates testosterone production", "Stimulates secretion of factors for spermiogenesis", "Inhibits meiosis"],
+    "answer": "Stimulates secretion of factors for spermiogenesis"
+  }
+]
