@@ -1,1 +1,296 @@
 
+[
+  {
+    "question": "Match the following components of embryo sac structure:",
+    "column_A": ["Micropylar end", "Chalazal end", "Central cell", "Embryo sac at maturity"],
+    "column_B": ["Egg apparatus", "Antipodals", "Two polar nuclei", "8-nucleate, 7-celled"],
+    "answer": {
+      "Micropylar end": "Egg apparatus",
+      "Chalazal end": "Antipodals",
+      "Central cell": "Two polar nuclei",
+      "Embryo sac at maturity": "8-nucleate, 7-celled"
+    }
+  },
+  {
+    "question": "Match the following components of egg apparatus:",
+    "column_A": ["Synergids", "Egg cell", "Filiform apparatus", "Micropylar end"],
+    "column_B": ["Guides pollen tube", "Part of egg apparatus", "Thickening at tip", "Contains egg apparatus"],
+    "answer": {
+      "Synergids": "Guides pollen tube",
+      "Egg cell": "Part of egg apparatus",
+      "Filiform apparatus": "Thickening at tip",
+      "Micropylar end": "Contains egg apparatus"
+    }
+  },
+  {
+    "question": "Match the following positions with their respective cells:",
+    "column_A": ["Micropylar end", "Chalazal end", "Central cell", "Synergid location"],
+    "column_B": ["Egg apparatus", "Antipodals", "Polar nuclei", "Near egg cell"],
+    "answer": {
+      "Micropylar end": "Egg apparatus",
+      "Chalazal end": "Antipodals",
+      "Central cell": "Polar nuclei",
+      "Synergid location": "Near egg cell"
+    }
+  },
+  {
+    "question": "Match the following based on cell functions:",
+    "column_A": ["Synergids", "Filiform apparatus", "Antipodals", "Polar nuclei"],
+    "column_B": ["Guide pollen tube", "Thickening at micropylar tip", "At chalazal end", "Present in central cell"],
+    "answer": {
+      "Synergids": "Guide pollen tube",
+      "Filiform apparatus": "Thickening at micropylar tip",
+      "Antipodals": "At chalazal end",
+      "Polar nuclei": "Present in central cell"
+    }
+  },
+  {
+    "question": "Match the following cell count facts:",
+    "column_A": ["Total nuclei in embryo sac", "Total cells in mature sac", "Number of antipodals", "Number of synergids"],
+    "column_B": ["8", "7", "3", "2"],
+    "answer": {
+      "Total nuclei in embryo sac": "8",
+      "Total cells in mature sac": "7",
+      "Number of antipodals": "3",
+      "Number of synergids": "2"
+    }
+  },
+  {
+    "question": "Match the following for complete embryo sac identity:",
+    "column_A": ["Egg apparatus", "Antipodals", "Polar nuclei", "Mature embryo sac"],
+    "column_B": ["3 cells at micropylar end", "3 cells at chalazal end", "Located in central cell", "7-celled, 8-nucleate"],
+    "answer": {
+      "Egg apparatus": "3 cells at micropylar end",
+      "Antipodals": "3 cells at chalazal end",
+      "Polar nuclei": "Located in central cell",
+      "Mature embryo sac": "7-celled, 8-nucleate"
+    }
+  },
+  {
+    "question": "Match the following cell types to locations:",
+    "column_A": ["Synergids", "Egg cell", "Antipodals", "Polar nuclei"],
+    "column_B": ["Micropylar end", "Between synergids", "Chalazal end", "Central cell"],
+    "answer": {
+      "Synergids": "Micropylar end",
+      "Egg cell": "Between synergids",
+      "Antipodals": "Chalazal end",
+      "Polar nuclei": "Central cell"
+    }
+  },
+  {
+    "question": "Match the following about special cellular features:",
+    "column_A": ["Synergids", "Filiform apparatus", "Micropylar tip", "Guidance of pollen tube"],
+    "column_B": ["Have thickening", "Present in synergids", "Has filiform apparatus", "Function of synergids"],
+    "answer": {
+      "Synergids": "Have thickening",
+      "Filiform apparatus": "Present in synergids",
+      "Micropylar tip": "Has filiform apparatus",
+      "Guidance of pollen tube": "Function of synergids"
+    }
+  },
+  {
+    "question": "Match the following with role and identity:",
+    "column_A": ["Egg cell", "Synergids", "Antipodals", "Polar nuclei"],
+    "column_B": ["Forms zygote", "Guide pollen tube", "Unknown function", "Fuse to form endosperm"],
+    "answer": {
+      "Egg cell": "Forms zygote",
+      "Synergids": "Guide pollen tube",
+      "Antipodals": "Unknown function",
+      "Polar nuclei": "Fuse to form endosperm"
+    }
+  },
+  {
+    "question": "Match the following regarding polarity:",
+    "column_A": ["Micropylar end", "Chalazal end", "Egg apparatus", "Antipodals"],
+    "column_B": ["Upper pole", "Lower pole", "At micropylar end", "At chalazal end"],
+    "answer": {
+      "Micropylar end": "Upper pole",
+      "Chalazal end": "Lower pole",
+      "Egg apparatus": "At micropylar end",
+      "Antipodals": "At chalazal end"
+    }
+  },
+  {
+    "question": "Match the following based on quantity in embryo sac:",
+    "column_A": ["Polar nuclei", "Antipodals", "Egg cell", "Synergids"],
+    "column_B": ["2", "3", "1", "2"],
+    "answer": {
+      "Polar nuclei": "2",
+      "Antipodals": "3",
+      "Egg cell": "1",
+      "Synergids": "2"
+    }
+  },
+  {
+    "question": "Match the following parts of embryo sac to their description:",
+    "column_A": ["Synergids", "Antipodals", "Central cell", "Egg cell"],
+    "column_B": ["With filiform apparatus", "At chalazal end", "Has polar nuclei", "Fuses with sperm"],
+    "answer": {
+      "Synergids": "With filiform apparatus",
+      "Antipodals": "At chalazal end",
+      "Central cell": "Has polar nuclei",
+      "Egg cell": "Fuses with sperm"
+    }
+  },
+  {
+    "question": "Match the following based on cell grouping in embryo sac:",
+    "column_A": ["Micropylar group", "Chalazal group", "Middle cell", "Functional megaspore fate"],
+    "column_B": ["Egg apparatus", "Antipodals", "Central cell", "Forms embryo sac"],
+    "answer": {
+      "Micropylar group": "Egg apparatus",
+      "Chalazal group": "Antipodals",
+      "Middle cell": "Central cell",
+      "Functional megaspore fate": "Forms embryo sac"
+    }
+  }
+]
+[
+  {
+    "question": "Match the following gamete production sites:",
+    "column_A": ["Male gametes", "Female gametes", "Pollen grain", "Embryo sac"],
+    "column_B": ["Produced in pollen grain", "Produced in embryo sac", "Male gamete site", "Female gamete site"],
+    "answer": {
+      "Male gametes": "Produced in pollen grain",
+      "Female gametes": "Produced in embryo sac",
+      "Pollen grain": "Male gamete site",
+      "Embryo sac": "Female gamete site"
+    }
+  },
+  {
+    "question": "Match the following for fertilisation in plants:",
+    "column_A": ["Male gametes", "Female gametes", "Non-motile gametes", "Fertilisation"],
+    "column_B": ["Need to be brought together", "Produced in embryo sac", "Cannot move on their own", "Fusion of gametes"],
+    "answer": {
+      "Male gametes": "Need to be brought together",
+      "Female gametes": "Produced in embryo sac",
+      "Non-motile gametes": "Cannot move on their own",
+      "Fertilisation": "Fusion of gametes"
+    }
+  },
+  {
+    "question": "Match the following based on pollination purpose:",
+    "column_A": ["Pollination", "Gamete transfer", "Objective of pollination", "Fusion"],
+    "column_B": ["Mechanism to bring gametes together", "Via pollination", "Fertilisation", "Gametes must meet"],
+    "answer": {
+      "Pollination": "Mechanism to bring gametes together",
+      "Gamete transfer": "Via pollination",
+      "Objective of pollination": "Fertilisation",
+      "Fusion": "Gametes must meet"
+    }
+  },
+  {
+    "question": "Match the following pollination steps:",
+    "column_A": ["Pollen grains", "Anther", "Stigma", "Pistil"],
+    "column_B": ["Shed from anther", "Releases pollen", "Receives pollen", "Part of flower"],
+    "answer": {
+      "Pollen grains": "Shed from anther",
+      "Anther": "Releases pollen",
+      "Stigma": "Receives pollen",
+      "Pistil": "Part of flower"
+    }
+  },
+  {
+    "question": "Match the following regarding definition of pollination:",
+    "column_A": ["Pollination", "Pollen grain transfer", "Anther", "Stigma"],
+    "column_B": ["To stigma of pistil", "From anther to stigma", "Releases pollen grains", "Receives pollen grains"],
+    "answer": {
+      "Pollination": "To stigma of pistil",
+      "Pollen grain transfer": "From anther to stigma",
+      "Anther": "Releases pollen grains",
+      "Stigma": "Receives pollen grains"
+    }
+  },
+  {
+    "question": "Match the following plant reproductive adaptations:",
+    "column_A": ["Flowering plants", "Pollination adaptations", "External agents", "Pollen transfer"],
+    "column_B": ["Have evolved mechanisms", "Help achieve pollination", "Used in pollination", "Occurs via agents"],
+    "answer": {
+      "Flowering plants": "Have evolved mechanisms",
+      "Pollination adaptations": "Help achieve pollination",
+      "External agents": "Used in pollination",
+      "Pollen transfer": "Occurs via agents"
+    }
+  },
+  {
+    "question": "Match the following about pollination aids:",
+    "column_A": ["Wind", "Insects", "Water", "Animals"],
+    "column_B": ["External agents of pollination", "Aid pollen transfer", "Used by flowering plants", "Natural pollinators"],
+    "answer": {
+      "Wind": "External agents of pollination",
+      "Insects": "Aid pollen transfer",
+      "Water": "Used by flowering plants",
+      "Animals": "Natural pollinators"
+    }
+  },
+  {
+    "question": "Match the following structural parts of pollination:",
+    "column_A": ["Anther", "Stigma", "Pistil", "Flower"],
+    "column_B": ["Produces pollen", "Receives pollen", "Female reproductive part", "Pollination site"],
+    "answer": {
+      "Anther": "Produces pollen",
+      "Stigma": "Receives pollen",
+      "Pistil": "Female reproductive part",
+      "Flower": "Pollination site"
+    }
+  },
+  {
+    "question": "Match the following events in pollination process:",
+    "column_A": ["Pollen grain", "Released from", "Reaches", "Via"],
+    "column_B": ["Anther", "Stigma", "Pollination", "Pistil"],
+    "answer": {
+      "Pollen grain": "Anther",
+      "Released from": "Anther",
+      "Reaches": "Stigma",
+      "Via": "Pollination"
+    }
+  },
+  {
+    "question": "Match the following for classification of agents:",
+    "column_A": ["Wind", "Insect", "Water", "Pollinating agents"],
+    "column_B": ["Abiotic", "Biotic", "Abiotic", "External"],
+    "answer": {
+      "Wind": "Abiotic",
+      "Insect": "Biotic",
+      "Water": "Abiotic",
+      "Pollinating agents": "External"
+    }
+  },
+  {
+    "question": "Match the following types of agents used in pollination:",
+    "column_A": ["Biotic agents", "Abiotic agents", "Examples of biotic", "Examples of abiotic"],
+    "column_B": ["Animals, insects", "Wind, water", "Pollination help", "Non-living agents"],
+    "answer": {
+      "Biotic agents": "Animals, insects",
+      "Abiotic agents": "Wind, water",
+      "Examples of biotic": "Pollination help",
+      "Examples of abiotic": "Non-living agents"
+    }
+  },
+  {
+    "question": "Match the following for reproductive strategy:",
+    "column_A": ["Pollination", "Gametes", "Non-motile", "Transfer"],
+    "column_B": ["Achieves fertilisation", "Need to meet", "Cannot move", "Via pollination"],
+    "answer": {
+      "Pollination": "Achieves fertilisation",
+      "Gametes": "Need to meet",
+      "Non-motile": "Cannot move",
+      "Transfer": "Via pollination"
+    }
+  },
+  {
+    "question": "Match the following definitions:",
+    "column_A": ["Pollination", "Anther", "Stigma", "Fertilisation"],
+    "column_B": [
+      "Transfer of pollen to stigma",
+      "Produces pollen grains",
+      "Receives pollen grains",
+      "Fusion of male and female gametes"
+    ],
+    "answer": {
+      "Pollination": "Transfer of pollen to stigma",
+      "Anther": "Produces pollen grains",
+      "Stigma": "Receives pollen grains",
+      "Fertilisation": "Fusion of male and female gametes"
+    }
+  }
+]
