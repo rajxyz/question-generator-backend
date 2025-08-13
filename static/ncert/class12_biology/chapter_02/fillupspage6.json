@@ -1,47 +1,50 @@
 [
   {
-    "question": "Each cell of the sporogenous tissue is capable of giving rise to a ______.",
-    "answer": "microspore tetrad",
-    "word_count": 7
+    "question": "Each cell of the ______ tissue is capable of giving rise to a microspore tetrad.",
+    "answer": "sporogenous"
   },
   {
-    "question": "Each cell of the sporogenous tissue is a potential ______ cell.",
-    "answer": "pollen or microspore mother",
-    "word_count": 6
+    "question": "Each one is a potential pollen or microspore ______ cell.",
+    "answer": "mother"
   },
   {
-    "question": "Formation of microspores from a pollen mother cell through meiosis is called ______.",
-    "answer": "microsporogenesis",
-    "word_count": 6
+    "question": "The process of formation of microspores from a pollen mother cell through ______ is called microsporogenesis.",
+    "answer": "meiosis"
   },
   {
-    "question": "As they are formed, microspores are arranged in a cluster of four cells called the ______.",
-    "answer": "microspore tetrad",
-    "word_count": 7
+    "question": "The microspores are arranged in a cluster of four cells called the microspore ______.",
+    "answer": "tetrad"
   },
   {
-    "question": "As anthers mature and dehydrate, microspores dissociate and develop into ______.",
-    "answer": "pollen grains",
-    "word_count": 6
+    "question": "As the anthers mature and ______, the microspores dissociate from each other.",
+    "answer": "dehydrate"
   },
   {
-    "question": "Inside each microsporangium, thousands of microspores or pollen grains are released with ______ of anther.",
-    "answer": "dehiscence",
-    "word_count": 6
+    "question": "The microspores develop into ______ grains.",
+    "answer": "pollen"
+  },
+  {
+    "question": "Inside each ______ several thousands of microspores or pollen grains are formed.",
+    "answer": "microsporangium"
+  },
+  {
+    "question": "The pollen grains are released with the ______ of anther.",
+    "answer": "dehiscence"
   },
   {
     "question": "Pollen grains represent the male ______.",
-    "answer": "gametophytes",
-    "word_count": 5
+    "answer": "gametophytes"
   },
   {
-    "question": "In Hibiscus, opened anthers deposit yellowish powdery ______ on fingers.",
-    "answer": "pollen grains",
-    "word_count": 5
+    "question": "The opened anthers of ______ or any other flower deposit yellowish pollen grains on your fingers.",
+    "answer": "Hibiscus"
   },
   {
-    "question": "Under a microscope, pollen grains show variety in sizes, shapes, colours, and ______.",
-    "answer": "designs",
-    "word_count": 7
+    "question": "Sprinkle pollen grains on a drop of ______ taken on a glass slide to observe under a microscope.",
+    "answer": "water"
+  },
+  {
+    "question": "Pollen grains from different species show a variety of architecture in sizes, shapes, colours, and ______.",
+    "answer": "designs"
   }
 ]
