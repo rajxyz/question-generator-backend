@@ -1,1 +1,62 @@
-
+[
+  {
+    "question": "What happens if pollen is of the wrong type?",
+    "options": [
+      "It is stored in ovary",
+      "It is rejected by preventing germination or tube growth",
+      "It fuses with style cells",
+      "It directly fertilises the egg cell"
+    ],
+    "answer": "It is rejected by preventing germination or tube growth"
+  },
+  {
+    "question": "The pistil's ability to recognise pollen is due to:",
+    "options": [
+      "Genetic similarity",
+      "Continuous dialogue between pollen and pistil",
+      "Water absorption from stigma",
+      "Presence of germ pores"
+    ],
+    "answer": "Continuous dialogue between pollen and pistil"
+  },
+  {
+    "question": "The dialogue between pollen and pistil is mediated by:",
+    "options": [
+      "Light signals",
+      "Chemical components of pollen and pistil",
+      "Electrical impulses",
+      "Mechanical pressure"
+    ],
+    "answer": "Chemical components of pollen and pistil"
+  },
+  {
+    "question": "What is produced after pollen grain germination on stigma?",
+    "options": [
+      "Zygote",
+      "Embryo sac",
+      "Pollen tube",
+      "Endosperm"
+    ],
+    "answer": "Pollen tube"
+  },
+  {
+    "question": "Through which structure does pollen tube emerge?",
+    "options": [
+      "Germ pore",
+      "Micropyle",
+      "Chalaza",
+      "Funicle"
+    ],
+    "answer": "Germ pore"
+  },
+  {
+    "question": "What moves from pollen grain into pollen tube?",
+    "options": [
+      "Only nucleus",
+      "Only cytoplasm",
+      "Contents of pollen grain",
+      "Only sperm cells"
+    ],
+    "answer": "Contents of pollen grain"
+  }
+]
