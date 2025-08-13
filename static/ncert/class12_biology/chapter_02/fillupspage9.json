@@ -1,34 +1,53 @@
 [
   {
-    "question": "The ovule is attached to the placenta by which stalk?",
-    "answer": "Funicle"
+    "question": "The ovule is a small structure attached to the placenta by means of a stalk called ______.",
+    "answer": "funicle"
   },
   {
-    "question": "Which region is the junction between ovule and funicle?",
-    "answer": "Hilum"
+    "question": "The body of the ovule fuses with funicle in the region called ______.",
+    "answer": "hilum"
   },
   {
-    "question": "Protective envelopes of the ovule are called?",
-    "answer": "Integuments"
+    "question": "Hilum represents the junction between ______ and funicle.",
+    "answer": "ovule"
   },
   {
-    "question": "What is the small opening at the tip of the ovule called?",
-    "answer": "Micropyle"
+    "question": "Each ovule has one or two protective envelopes called ______.",
+    "answer": "integuments"
   },
   {
-    "question": "The basal part of the ovule opposite the micropyle is called?",
-    "answer": "Chalaza"
+    "question": "Integuments encircle the nucellus except at the tip where a small opening called the ______ is organised.",
+    "answer": "micropyle"
   },
   {
-    "question": "Which tissue inside integuments contains abundant reserve food?",
-    "answer": "Nucellus"
+    "question": "Opposite the micropylar end is the ______, representing the basal part of the ovule.",
+    "answer": "chalaza"
   },
   {
-    "question": "What is located inside the nucellus?",
-    "answer": "Embryo sac"
+    "question": "Enclosed within the integuments is a mass of cells called the ______.",
+    "answer": "nucellus"
   },
   {
-    "question": "The embryo sac develops from which spore?",
-    "answer": "Megaspore"
+    "question": "Cells of the nucellus have abundant reserve ______ materials.",
+    "answer": "food"
+  },
+  {
+    "question": "Located in the nucellus is the embryo sac or ______ gametophyte.",
+    "answer": "female"
+  },
+  {
+    "question": "An ovule generally has a single embryo sac formed from a ______.",
+    "answer": "megaspore"
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
