@@ -1,0 +1,68 @@
+[
+  {
+    "assertion": "Bees, butterflies, flies, beetles, wasps, ants, moths, birds and bats are common pollinating agents in flowering plants.",
+    "reason": "Among animals, insects, particularly bees, are the dominant biotic pollinating agents.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Some primates, arboreal rodents, and reptiles have been reported as pollinators in some species.",
+    "reason": "Flowers of animal-pollinated plants are specifically adapted for a particular species of animal.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Majority of insect-pollinated flowers are large, colourful, fragrant and rich in nectar.",
+    "reason": "Animals are attracted to flowers by colour and/or fragrance.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Flowers pollinated by flies and beetles secrete foul odours to attract these animals.",
+    "reason": "Foul odours repel most animals and prevent pollination.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "In animal pollination, the body of the animal gets a coating of pollen grains.",
+    "reason": "Pollen grains in animal-pollinated flowers are generally sticky.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In Yucca, both the moth and the plant cannot complete their life cycles without each other.",
+    "reason": "The moth deposits its eggs in the locule of the ovary and the flower gets pollinated by the moth.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
