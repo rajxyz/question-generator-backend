@@ -1,1 +1,62 @@
-
+[
+  {
+    "question": "In some flowers, the moth deposits its eggs in which part of the ovary?",
+    "options": ["Style", "Locule", "Stigma", "Endosperm"],
+    "answer": "Locule"
+  },
+  {
+    "question": "What happens to the flower when a moth deposits its eggs in the locule of the ovary?",
+    "options": ["It wilts", "It gets pollinated by the moth", "It becomes sterile", "It changes colour"],
+    "answer": "It gets pollinated by the moth"
+  },
+  {
+    "question": "The larvae of the moth emerge as seeds start ______.",
+    "options": ["Pollinating", "Falling", "Developing", "Dispersing"],
+    "answer": "Developing"
+  },
+  {
+    "question": "Visitors that consume pollen or nectar without bringing about pollination are called?",
+    "options": ["Pollinators", "Pollen/nectar robbers", "Seed dispersers", "Predators"],
+    "answer": "Pollen/nectar robbers"
+  },
+  {
+    "question": "Majority of flowering plants produce which type of flowers?",
+    "options": ["Male", "Female", "Hermaphrodite", "Sterile"],
+    "answer": "Hermaphrodite"
+  },
+  {
+    "question": "Continued self-pollination results in ______.",
+    "options": ["Hybrid vigour", "Inbreeding depression", "Increased yield", "Cross-pollination"],
+    "answer": "Inbreeding depression"
+  },
+  {
+    "question": "In some species, pollen is released before stigma becomes receptive or vice versa to prevent?",
+    "options": ["Cross-pollination", "Autogamy", "Fertilisation", "Seed dispersal"],
+    "answer": "Autogamy"
+  },
+  {
+    "question": "Self-incompatibility prevents self-pollen from fertilising ovules by inhibiting?",
+    "options": ["Pollen germination or pollen tube growth", "Seed dispersal", "Flower opening", "Fruit ripening"],
+    "answer": "Pollen germination or pollen tube growth"
+  },
+  {
+    "question": "In monoecious plants like castor and maize, autogamy is prevented but not ______.",
+    "options": ["Geitonogamy", "Cross-pollination", "Self-incompatibility", "Inbreeding depression"],
+    "answer": "Geitonogamy"
+  },
+  {
+    "question": "In dioecious plants like papaya, male and female flowers are present on ______ plants.",
+    "options": ["Same", "Different", "Hermaphrodite", "Sterile"],
+    "answer": "Different"
+  },
+  {
+    "question": "Pollination does not guarantee transfer of which type of pollen?",
+    "options": ["Compatible pollen", "Right type of pollen", "Incompatible pollen", "Pollen of the same species"],
+    "answer": "Right type of pollen"
+  },
+  {
+    "question": "The pistil can recognise whether the pollen is of the right type or the ______ type.",
+    "options": ["Wrong", "Sterile", "Immature", "Overripe"],
+    "answer": "Wrong"
+  }
+]
