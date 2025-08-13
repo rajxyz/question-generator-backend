@@ -1,0 +1,274 @@
+[
+  {
+    "question": "Figure 1.2a shows the two parts of a typical ______.",
+    "answer": "stamen"
+  },
+  {
+    "question": "The long and slender stalk of a stamen is called the ______.",
+    "answer": "filament"
+  },
+  {
+    "question": "The terminal generally bilobed structure of a stamen is called the ______.",
+    "answer": "anther"
+  },
+  {
+    "question": "The proximal end of the filament is attached to the ______ or the petal of the flower.",
+    "answer": "thalamus"
+  },
+  {
+    "question": "The number and ______ of stamens are variable in flowers of different species.",
+    "answer": "length"
+  },
+  {
+    "question": "Stamens are variable in flowers of different ______.",
+    "answer": "species"
+  },
+  {
+    "question": "Collecting stamens from ten flowers of different species shows large variation in ______.",
+    "answer": "size"
+  },
+  {
+    "question": "Careful observation of stamens under a dissecting ______ elucidates variation in shape and attachment.",
+    "answer": "microscope"
+  },
+  {
+    "question": "A typical angiosperm anther is ______ with each lobe having two theca.",
+    "answer": "bilobed"
+  },
+  {
+    "question": "Each lobe of an angiosperm anther has two theca, i.e., they are ______.",
+    "answer": "dithecous"
+  },
+  {
+    "question": "A longitudinal ______ often runs lengthwise separating the theca.",
+    "answer": "groove"
+  },
+  {
+    "question": "The bilobed nature of an anther is distinct in the ______ section.",
+    "answer": "transverse"
+  },
+  {
+    "question": "An anther is a four-sided (tetragonal) structure with four ______ located at the corners.",
+    "answer": "microsporangia"
+  },
+  {
+    "question": "Two microsporangia are present in each ______ of the anther.",
+    "answer": "lobe"
+  },
+  {
+    "question": "The microsporangia develop into ______ sacs.",
+    "answer": "pollen"
+  },
+  {
+    "question": "Pollen sacs extend longitudinally all through the length of an ______.",
+    "answer": "anther"
+  },
+  {
+    "question": "Pollen sacs are packed with ______ grains.",
+    "answer": "pollen"
+  },
+  {
+    "question": "In transverse section, a typical microsporangium appears near ______ in outline.",
+    "answer": "circular"
+  },
+  {
+    "question": "A microsporangium is surrounded by ______ wall layers.",
+    "answer": "four"
+  },
+  {
+    "question": "The outer three wall layers protect and help in ______ of anther to release pollen.",
+    "answer": "dehiscence"
+  },
+  {
+    "question": "The innermost wall layer of a microsporangium is the ______.",
+    "answer": "tapetum"
+  },
+  {
+    "question": "The tapetum nourishes the developing ______ grains.",
+    "answer": "pollen"
+  },
+  {
+    "question": "Cells of the tapetum have dense ______.",
+    "answer": "cytoplasm"
+  },
+  {
+    "question": "Tapetal cells generally have more than one ______.",
+    "answer": "nucleus"
+  },
+  {
+    "question": "When the anther is young, the centre of each microsporangium has ______ tissue.",
+    "answer": "sporogenous"
+  },
+  {
+    "question": "Sporogenous tissue consists of compactly arranged ______ cells.",
+    "answer": "homogenous"
+  },
+  {
+    "question": "The sporogenous tissue occupies the ______ of each microsporangium.",
+    "answer": "centre"
+  },
+  {
+    "question": "During microsporogenesis, sporogenous tissue cells undergo ______ division.",
+    "answer": "meiotic"
+  },
+  {
+    "question": "Meiotic divisions in sporogenous tissue form microspore ______.",
+    "answer": "tetrads"
+  },
+  {
+    "question": "A stamen consists of filament and ______.",
+    "answer": "anther"
+  },
+  {
+    "question": "The filament is a long and ______ stalk.",
+    "answer": "slender"
+  },
+  {
+    "question": "The terminal structure of the stamen is generally ______.",
+    "answer": "bilobed"
+  },
+  {
+    "question": "The filament’s proximal end is attached to thalamus or ______.",
+    "answer": "petal"
+  },
+  {
+    "question": "Variation in size of stamens is seen in different ______.",
+    "answer": "species"
+  },
+  {
+    "question": "Variation in anther shape and ______ can be observed under a dissecting microscope.",
+    "answer": "attachment"
+  },
+  {
+    "question": "Each lobe of an anther has two ______.",
+    "answer": "theca"
+  },
+  {
+    "question": "A groove often runs lengthwise separating the ______.",
+    "answer": "theca"
+  },
+  {
+    "question": "The anther is a four-sided (______) structure.",
+    "answer": "tetragonal"
+  },
+  {
+    "question": "Two microsporangia occur in each ______.",
+    "answer": "lobe"
+  },
+  {
+    "question": "Microsporangia become pollen sacs filled with ______ grains.",
+    "answer": "pollen"
+  },
+  {
+    "question": "Pollen sacs extend along the length of an ______.",
+    "answer": "anther"
+  },
+  {
+    "question": "In transverse section, a microsporangium appears nearly ______.",
+    "answer": "circular"
+  },
+  {
+    "question": "Microsporangium is surrounded by epidermis, endothecium, middle layers, and ______.",
+    "answer": "tapetum"
+  },
+  {
+    "question": "The outer wall layers help in ______ of anther.",
+    "answer": "dehiscence"
+  },
+  {
+    "question": "The tapetum provides nourishment to developing ______.",
+    "answer": "pollen"
+  },
+  {
+    "question": "Tapetal cells usually have more than one ______.",
+    "answer": "nucleus"
+  },
+  {
+    "question": "Compactly arranged homogenous cells form the ______ tissue.",
+    "answer": "sporogenous"
+  },
+  {
+    "question": "The sporogenous tissue lies at the ______ of each microsporangium.",
+    "answer": "centre"
+  },
+  {
+    "question": "Cells of sporogenous tissue divide by ______ to form tetrads.",
+    "answer": "meiosis"
+  },
+  {
+    "question": "Microspore tetrads are formed after ______ division.",
+    "answer": "meiotic"
+  },
+  {
+    "question": "Figure 1.2b shows a three-dimensional cut section of an ______.",
+    "answer": "anther"
+  },
+  {
+    "question": "A bilobed anther contains two theca in each ______.",
+    "answer": "lobe"
+  },
+  {
+    "question": "Microsporangia are located at the ______ of the anther.",
+    "answer": "corners"
+  },
+  {
+    "question": "Four microsporangia are present in a typical ______ anther.",
+    "answer": "tetragonal"
+  },
+  {
+    "question": "The epidermis, endothecium, and middle layers form the outer ______ layers.",
+    "answer": "wall"
+  },
+  {
+    "question": "Tapetum is the ______ wall layer in a microsporangium.",
+    "answer": "innermost"
+  },
+  {
+    "question": "Cells of the tapetum have dense ______.",
+    "answer": "cytoplasm"
+  },
+  {
+    "question": "The young anther has compact ______ tissue at the centre.",
+    "answer": "sporogenous"
+  },
+  {
+    "question": "Sporogenous tissue undergoes meiosis to produce microspore ______.",
+    "answer": "tetrads"
+  },
+  {
+    "question": "Theca are separated by a longitudinal ______.",
+    "answer": "groove"
+  },
+  {
+    "question": "Pollen sacs extend ______ along the length of an anther.",
+    "answer": "longitudinally"
+  },
+  {
+    "question": "A typical stamen has a filament and an ______.",
+    "answer": "anther"
+  },
+  {
+    "question": "The outer wall layers protect and aid ______ release.",
+    "answer": "pollen"
+  },
+  {
+    "question": "Cells of the tapetum can be ______-nucleate.",
+    "answer": "bi"
+  },
+  {
+    "question": "The sporogenous tissue is made of ______ arranged cells.",
+    "answer": "compactly"
+  },
+  {
+    "question": "The anther is bilobed and ______.",
+    "answer": "dithecous"
+  },
+  {
+    "question": "Microsporogenesis results in formation of ______ tetrads.",
+    "answer": "microspore"
+  },
+  {
+    "question": "Pollen sacs are filled with ______ grains.",
+    "answer": "pollen"
+  }
+]
