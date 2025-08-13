@@ -1,0 +1,112 @@
+[
+  {
+    "assertion": "Pollen tube grows through the tissues of the stigma and style and reaches the ovary.",
+    "reason": "Pollen tube enters one of the synergids through the filiform apparatus.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "In some plants, pollen grains are shed at two-celled condition.",
+    "reason": "In such plants, the generative cell divides and forms the two male gametes during the growth of pollen tube in the stigma.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In plants which shed pollen in the three-celled condition, pollen tubes carry the two male gametes from the beginning.",
+    "reason": "Pollen-pistil interaction is a dynamic process involving pollen recognition followed by promotion or inhibition of the pollen.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Filiform apparatus present at the micropylar part of the synergids guides the entry of pollen tube.",
+    "reason": "Filiform apparatus is absent in the synergids of ovules.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Pollen-pistil interaction refers to all events from pollen deposition on the stigma until pollen tubes enter the ovule.",
+    "reason": "Knowledge of pollen-pistil interaction would help the plant breeder in manipulating incompatible pollinations to get desired hybrids.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "You can study pollen germination by dusting some pollen from flowers such as pea, chickpea, Crotalaria, balsam and Vinca on a glass slide containing a drop of sugar solution.",
+    "reason": "Pollen germination can be observed after about 15–30 minutes under the low power lens of the microscope.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Artificial hybridisation is an approach of crop improvement programme.",
+    "reason": "In such experiments, it is important to make sure that only the desired pollen grains are used for pollination and the stigma is protected from contamination.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Emasculation refers to the removal of anthers from the flower bud before the anther dehisces using a pair of forceps.",
+    "reason": "Emasculation is required if the female parent bears bisexual flowers.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Bagging prevents contamination of stigma with unwanted pollen.",
+    "reason": "Emasculated flowers are covered with a bag of suitable size made up of butter paper.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "If the female parent produces unisexual flowers, there is no need for emasculation.",
+    "reason": "In such cases, female flower buds are bagged before the flowers open and pollination is carried out when the stigma becomes receptive.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+    ]
