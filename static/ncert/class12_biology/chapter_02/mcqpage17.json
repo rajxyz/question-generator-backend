@@ -1,1 +1,117 @@
-
+[
+  {
+    "question": "Through which structures does the pollen tube grow to reach the ovary?",
+    "options": ["Stigma and style", "Ovule and style", "Ovary and stigma", "Style and filament"],
+    "answer": "Stigma and style"
+  },
+  {
+    "question": "In some plants, pollen grains are shed at which condition?",
+    "options": ["One-celled", "Two-celled", "Three-celled", "Four-celled"],
+    "answer": "Two-celled"
+  },
+  {
+    "question": "In plants shedding pollen at two-celled stage, the generative cell divides to form:",
+    "options": ["Two vegetative cells", "Two male gametes", "Two synergids", "Two antipodals"],
+    "answer": "Two male gametes"
+  },
+  {
+    "question": "In plants shedding pollen at three-celled stage, pollen tubes carry:",
+    "options": ["One male gamete", "Two male gametes from the beginning", "Only vegetative nucleus", "Two female gametes"],
+    "answer": "Two male gametes from the beginning"
+  },
+  {
+    "question": "Through which opening does pollen tube enter the ovule?",
+    "options": ["Chalaza", "Funicle", "Micropyle", "Hilum"],
+    "answer": "Micropyle"
+  },
+  {
+    "question": "Into which structure of the synergid does the pollen tube enter?",
+    "options": ["Chalazal apparatus", "Filiform apparatus", "Egg apparatus", "Polar nuclei"],
+    "answer": "Filiform apparatus"
+  },
+  {
+    "question": "Filiform apparatus is located at which part of the synergid?",
+    "options": ["Chalazal", "Micropylar", "Central", "Basal"],
+    "answer": "Micropylar"
+  },
+  {
+    "question": "What do recent studies show guides the entry of pollen tube?",
+    "options": ["Egg apparatus", "Filiform apparatus", "Endosperm tissue", "Embryo sac wall"],
+    "answer": "Filiform apparatus"
+  },
+  {
+    "question": "All events from pollen deposition on stigma until pollen tube enters ovule are called:",
+    "options": ["Fertilisation", "Pollination", "Pollen-pistil interaction", "Double fertilisation"],
+    "answer": "Pollen-pistil interaction"
+  },
+  {
+    "question": "Pollen-pistil interaction involves pollen recognition followed by:",
+    "options": ["Cell wall formation", "Promotion or inhibition of pollen", "Zygote formation", "Embryo development"],
+    "answer": "Promotion or inhibition of pollen"
+  },
+  {
+    "question": "Pollen-pistil interaction knowledge helps plant breeders to manipulate pollination even in:",
+    "options": ["Cross-pollination", "Self-pollination", "Incompatible pollinations", "Cleistogamy"],
+    "answer": "Incompatible pollinations"
+  },
+  {
+    "question": "Pollen germination can be studied by dusting pollen on glass slide containing:",
+    "options": ["Water", "10% sugar solution", "Glucose", "Nutrient agar"],
+    "answer": "10% sugar solution"
+  },
+  {
+    "question": "After how many minutes can pollen tubes be seen in pollen germination experiment?",
+    "options": ["1–5 minutes", "5–10 minutes", "15–30 minutes", "30–60 minutes"],
+    "answer": "15–30 minutes"
+  },
+  {
+    "question": "Which flowers are suggested for pollen germination study?",
+    "options": ["Sunflower, wheat, maize", "Pea, chickpea, Crotalaria, balsam, Vinca", "Lotus, lily, rose", "Rice, barley, mustard"],
+    "answer": "Pea, chickpea, Crotalaria, balsam, Vinca"
+  },
+  {
+    "question": "Breeders are interested in crossing different species to produce:",
+    "options": ["Wild varieties", "Inferior varieties", "Commercially superior varieties", "Sterile varieties"],
+    "answer": "Commercially superior varieties"
+  },
+  {
+    "question": "Artificial hybridisation is a major approach of:",
+    "options": ["Seed dispersal", "Crop improvement programme", "Plant defence", "Vegetative propagation"],
+    "answer": "Crop improvement programme"
+  },
+  {
+    "question": "In artificial hybridisation, what must be prevented?",
+    "options": ["Fruit development", "Ovule maturation", "Contamination of stigma with unwanted pollen", "Seed dispersal"],
+    "answer": "Contamination of stigma with unwanted pollen"
+  },
+  {
+    "question": "Removal of anthers from bisexual flower buds before anther dehiscence is called:",
+    "options": ["Bagging", "Emasculation", "Hybridisation", "Pollination"],
+    "answer": "Emasculation"
+  },
+  {
+    "question": "After emasculation, flowers are covered with bags generally made up of:",
+    "options": ["Plastic", "Cotton", "Butter paper", "Cloth"],
+    "answer": "Butter paper"
+  },
+  {
+    "question": "Covering emasculated flowers to prevent contamination is called:",
+    "options": ["Bagging", "Emasculation", "Crossing", "Fertilisation"],
+    "answer": "Bagging"
+  },
+  {
+    "question": "When stigma of bagged flower attains receptivity, pollen from male parent is:",
+    "options": ["Sprinkled on leaves", "Dusted on stigma", "Inserted into ovule", "Placed in style"],
+    "answer": "Dusted on stigma"
+  },
+  {
+    "question": "If female parent produces unisexual flowers, which step is not needed?",
+    "options": ["Bagging", "Emasculation", "Pollination", "Rebagging"],
+    "answer": "Emasculation"
+  },
+  {
+    "question": "Female flower buds of unisexual flowers are bagged before:",
+    "options": ["Flower opening", "Fruit set", "Pollen germination", "Seed maturation"],
+    "answer": "Flower opening"
+  }
+]
