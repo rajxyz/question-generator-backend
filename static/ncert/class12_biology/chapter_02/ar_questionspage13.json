@@ -1,1 +1,79 @@
-
+[
+  {
+    "assertion": "Pollination by water is quite rare in flowering plants.",
+    "reason": "Water pollination is limited to about 30 genera, mostly monocotyledons.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Water is a regular mode of transport for male gametes in lower plants like algae and bryophytes.",
+    "reason": "Lower plant groups depend on water for gamete transfer and fertilisation.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Distribution of bryophytes and pteridophytes is limited.",
+    "reason": "They require water for transport of male gametes and fertilisation.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In Vallisneria, the male flowers or pollen grains are carried passively by water currents.",
+    "reason": "The female flower of Vallisneria reaches the surface of water by a long stalk.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "In seagrasses, pollen grains are ribbon-like and remain submerged.",
+    "reason": "These pollen grains are carried passively by water to reach the stigma.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Water-pollinated flowers have mucilaginous covering over pollen grains.",
+    "reason": "The mucilaginous covering prevents the pollen grains from wetting in water.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Wind and water pollinated flowers are not very colourful and do not produce nectar.",
+    "reason": "They do not depend on animals for pollination.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+],
