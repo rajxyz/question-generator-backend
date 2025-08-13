@@ -1,1 +1,290 @@
-
+[
+  {
+    "question": "Match the following types of pollination:",
+    "column_A": ["Autogamy", "Pollination", "Source of pollen", "Three types"],
+    "column_B": ["Same flower", "Transfer of pollen", "Basis of classification", "Autogamy, geitonogamy, xenogamy"],
+    "answer": {
+      "Autogamy": "Same flower",
+      "Pollination": "Transfer of pollen",
+      "Source of pollen": "Basis of classification",
+      "Three types": "Autogamy, geitonogamy, xenogamy"
+    }
+  },
+  {
+    "question": "Match the following for autogamy:",
+    "column_A": ["Autogamy", "Same flower", "Pollen to stigma", "Self-pollination"],
+    "column_B": ["Within same flower", "Pollination in same flower", "From anther to stigma", "Type of autogamy"],
+    "answer": {
+      "Autogamy": "Within same flower",
+      "Same flower": "Pollination in same flower",
+      "Pollen to stigma": "From anther to stigma",
+      "Self-pollination": "Type of autogamy"
+    }
+  },
+  {
+    "question": "Match the following regarding normal flowers:",
+    "column_A": ["Normal flower", "Anthers", "Stigma", "Exposure"],
+    "column_B": ["Opens normally", "Exposed outside", "Receives pollen", "Anthers and stigma exposed"],
+    "answer": {
+      "Normal flower": "Opens normally",
+      "Anthers": "Exposed outside",
+      "Stigma": "Receives pollen",
+      "Exposure": "Anthers and stigma exposed"
+    }
+  },
+  {
+    "question": "Match the following requirements for complete autogamy:",
+    "column_A": ["Pollen release", "Stigma receptivity", "Synchrony", "Proximity"],
+    "column_B": ["Should coincide", "Should be receptive", "Simultaneous events", "Lie close to each other"],
+    "answer": {
+      "Pollen release": "Should coincide",
+      "Stigma receptivity": "Should be receptive",
+      "Synchrony": "Simultaneous events",
+      "Proximity": "Lie close to each other"
+    }
+  },
+  {
+    "question": "Match the following autogamous flower traits:",
+    "column_A": ["Autogamy", "Synchrony", "Anther position", "Stigma position"],
+    "column_B": ["Same flower pollination", "Pollen and stigma match time", "Close to stigma", "Close to anther"],
+    "answer": {
+      "Autogamy": "Same flower pollination",
+      "Synchrony": "Pollen and stigma match time",
+      "Anther position": "Close to stigma",
+      "Stigma position": "Close to anther"
+    }
+  },
+  {
+    "question": "Match the following plants with flower types:",
+    "column_A": ["Viola", "Oxalis", "Commelina", "Common pansy"],
+    "column_B": ["Chasmogamous and cleistogamous", "Two flower types", "Produces cleistogamous flowers", "Example of Viola"],
+    "answer": {
+      "Viola": "Chasmogamous and cleistogamous",
+      "Oxalis": "Two flower types",
+      "Commelina": "Produces cleistogamous flowers",
+      "Common pansy": "Example of Viola"
+    }
+  },
+  {
+    "question": "Match the following flower types:",
+    "column_A": ["Chasmogamous", "Cleistogamous", "Exposed parts", "Closed flower"],
+    "column_B": ["Anther and stigma exposed", "Do not open", "Seen in chasmogamous", "Seen in cleistogamous"],
+    "answer": {
+      "Chasmogamous": "Anther and stigma exposed",
+      "Cleistogamous": "Do not open",
+      "Exposed parts": "Seen in chasmogamous",
+      "Closed flower": "Seen in cleistogamous"
+    }
+  },
+  {
+    "question": "Match the following regarding cleistogamy:",
+    "column_A": ["Cleistogamous flowers", "Dehiscence", "Pollen contact", "Pollination"],
+    "column_B": ["Anthers do not open outside", "Occurs in flower buds", "Pollen touches stigma", "Self-pollination occurs"],
+    "answer": {
+      "Cleistogamous flowers": "Anthers do not open outside",
+      "Dehiscence": "Occurs in flower buds",
+      "Pollen contact": "Pollen touches stigma",
+      "Pollination": "Self-pollination occurs"
+    }
+  },
+  {
+    "question": "Match the following cleistogamous traits:",
+    "column_A": ["Anthers", "Stigma", "Close position", "Autogamy"],
+    "column_B": ["Release pollen in bud", "Receives own pollen", "Enables self-pollination", "Assured self-pollination"],
+    "answer": {
+      "Anthers": "Release pollen in bud",
+      "Stigma": "Receives own pollen",
+      "Close position": "Enables self-pollination",
+      "Autogamy": "Assured self-pollination"
+    }
+  },
+  {
+    "question": "Match the following for cleistogamous flowers:",
+    "column_A": ["Cross-pollination", "Self-pollination", "Pollinators", "Seed-set"],
+    "column_B": ["Not possible", "Always occurs", "Not required", "Assured in cleistogamy"],
+    "answer": {
+      "Cross-pollination": "Not possible",
+      "Self-pollination": "Always occurs",
+      "Pollinators": "Not required",
+      "Seed-set": "Assured in cleistogamy"
+    }
+  },
+  {
+    "question": "Match the following flower structures:",
+    "column_A": ["Chasmogamous flowers", "Cleistogamous flowers", "Flower buds", "Anther dehiscence"],
+    "column_B": ["Open flowers", "Closed flowers", "Contain developing flowers", "Release pollen"],
+    "answer": {
+      "Chasmogamous flowers": "Open flowers",
+      "Cleistogamous flowers": "Closed flowers",
+      "Flower buds": "Contain developing flowers",
+      "Anther dehiscence": "Release pollen"
+    }
+  },
+  {
+    "question": "Match the following pollination outcomes:",
+    "column_A": ["No cross-pollen", "Always autogamous", "Stigma contact", "Self-pollen"],
+    "column_B": ["In cleistogamy", "Self-pollination only", "Through pollen dehiscence", "Comes from same flower"],
+    "answer": {
+      "No cross-pollen": "In cleistogamy",
+      "Always autogamous": "Self-pollination only",
+      "Stigma contact": "Through pollen dehiscence",
+      "Self-pollen": "Comes from same flower"
+    }
+  },
+  {
+    "question": "Match the following for pollination assurance:",
+    "column_A": ["Pollinators", "Seed formation", "Cleistogamy", "Reproductive assurance"],
+    "column_B": ["Not needed", "Assured", "Ensures seed set", "Even without agents"],
+    "answer": {
+      "Pollinators": "Not needed",
+      "Seed formation": "Assured",
+      "Cleistogamy": "Ensures seed set",
+      "Reproductive assurance": "Even without agents"
+    }
+  }
+]
+[
+  {
+    "question": "Match the following types of pollination:",
+    "column_A": ["Autogamy", "Geitonogamy", "Xenogamy", "Pollination"],
+    "column_B": ["Same flower", "Different flower same plant", "Different plant", "Transfer of pollen grains"],
+    "answer": {
+      "Autogamy": "Same flower",
+      "Geitonogamy": "Different flower same plant",
+      "Xenogamy": "Different plant",
+      "Pollination": "Transfer of pollen grains"
+    }
+  },
+  {
+    "question": "Match the following regarding geitonogamy:",
+    "column_A": ["Geitonogamy", "Pollen source", "Pollination agent", "Stigma target"],
+    "column_B": ["Same plant", "Same plant", "Required", "Another flower on same plant"],
+    "answer": {
+      "Geitonogamy": "Same plant",
+      "Pollen source": "Same plant",
+      "Pollination agent": "Required",
+      "Stigma target": "Another flower on same plant"
+    }
+  },
+  {
+    "question": "Match geitonogamy with genetic and functional aspects:",
+    "column_A": ["Functionally", "Involves", "Genetically", "Similar to"],
+    "column_B": ["Cross-pollination", "Pollinating agent", "Same plant origin", "Autogamy"],
+    "answer": {
+      "Functionally": "Cross-pollination",
+      "Involves": "Pollinating agent",
+      "Genetically": "Same plant origin",
+      "Similar to": "Autogamy"
+    }
+  },
+  {
+    "question": "Match the following pollen movements:",
+    "column_A": ["Autogamy", "Geitonogamy", "Xenogamy", "Pollination types"],
+    "column_B": ["Same flower", "Another flower same plant", "Another plant", "Based on pollen source"],
+    "answer": {
+      "Autogamy": "Same flower",
+      "Geitonogamy": "Another flower same plant",
+      "Xenogamy": "Another plant",
+      "Pollination types": "Based on pollen source"
+    }
+  },
+  {
+    "question": "Match xenogamy traits during pollination:",
+    "column_A": ["Xenogamy", "Pollen transfer", "Stigma target", "Plant source"],
+    "column_B": ["Different plant", "From anther", "Another plant stigma", "Genetically different plant"],
+    "answer": {
+      "Xenogamy": "Different plant",
+      "Pollen transfer": "From anther",
+      "Stigma target": "Another plant stigma",
+      "Plant source": "Genetically different plant"
+    }
+  },
+  {
+    "question": "Match the following pollination definitions:",
+    "column_A": ["Autogamy", "Geitonogamy", "Xenogamy", "Cross-pollination"],
+    "column_B": ["Same flower", "Same plant different flower", "Different plant", "With pollinating agent"],
+    "answer": {
+      "Autogamy": "Same flower",
+      "Geitonogamy": "Same plant different flower",
+      "Xenogamy": "Different plant",
+      "Cross-pollination": "With pollinating agent"
+    }
+  },
+  {
+    "question": "Match these pollination outcomes genetically:",
+    "column_A": ["Autogamy", "Geitonogamy", "Xenogamy", "Genetic similarity"],
+    "column_B": ["Genetically same", "Same as autogamy", "Genetically different", "Depends on pollen source"],
+    "answer": {
+      "Autogamy": "Genetically same",
+      "Geitonogamy": "Same as autogamy",
+      "Xenogamy": "Genetically different",
+      "Genetic similarity": "Depends on pollen source"
+    }
+  },
+  {
+    "question": "Match the following examples and figures:",
+    "column_A": ["Geitonogamy", "Xenogamy", "Autogamy", "Figure 1.9b"],
+    "column_B": ["Same plant", "Different plant", "Same flower", "Illustrates xenogamy"],
+    "answer": {
+      "Geitonogamy": "Same plant",
+      "Xenogamy": "Different plant",
+      "Autogamy": "Same flower",
+      "Figure 1.9b": "Illustrates xenogamy"
+    }
+  },
+  {
+    "question": "Match pollination with key characteristics:",
+    "column_A": ["Geitonogamy", "Xenogamy", "Pollination", "Agent"],
+    "column_B": ["Same plant", "Different plant", "Transfer of pollen", "Required for some types"],
+    "answer": {
+      "Geitonogamy": "Same plant",
+      "Xenogamy": "Different plant",
+      "Pollination": "Transfer of pollen",
+      "Agent": "Required for some types"
+    }
+  },
+  {
+    "question": "Match geitonogamy with functions and genetics:",
+    "column_A": ["Pollination agent", "Pollen donor", "Stigma receiver", "Type of pollination"],
+    "column_B": ["Involved", "Same plant", "Same plant", "Geitonogamy"],
+    "answer": {
+      "Pollination agent": "Involved",
+      "Pollen donor": "Same plant",
+      "Stigma receiver": "Same plant",
+      "Type of pollination": "Geitonogamy"
+    }
+  },
+  {
+    "question": "Match xenogamy with traits during pollination:",
+    "column_A": ["Plant source", "Genetic effect", "Stigma", "Pollen movement"],
+    "column_B": ["Different plant", "Genetic variation", "Different plant stigma", "Cross-pollination type"],
+    "answer": {
+      "Plant source": "Different plant",
+      "Genetic effect": "Genetic variation",
+      "Stigma": "Different plant stigma",
+      "Pollen movement": "Cross-pollination type"
+    }
+  },
+  {
+    "question": "Match the following NCERT phrases with meaning:",
+    "column_A": ["Functionally cross-pollination", "Genetically similar", "Pollination agent required", "Same plant origin"],
+    "column_B": ["Geitonogamy", "Like autogamy", "For geitonogamy", "Pollen not from other plant"],
+    "answer": {
+      "Functionally cross-pollination": "Geitonogamy",
+      "Genetically similar": "Like autogamy",
+      "Pollination agent required": "For geitonogamy",
+      "Same plant origin": "Pollen not from other plant"
+    }
+  },
+  {
+    "question": "Match pollination type with movement and source:",
+    "column_A": ["Autogamy", "Geitonogamy", "Xenogamy", "Different flower"],
+    "column_B": ["Same flower", "Same plant", "Different plant", "In geitonogamy"],
+    "answer": {
+      "Autogamy": "Same flower",
+      "Geitonogamy": "Same plant",
+      "Xenogamy": "Different plant",
+      "Different flower": "In geitonogamy"
+    }
+  }
+], se
