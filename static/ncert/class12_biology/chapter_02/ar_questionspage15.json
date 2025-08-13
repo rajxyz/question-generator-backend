@@ -1,1 +1,68 @@
-
+[
+  {
+    "assertion": "The larvae of the moth come out of the eggs as the seeds start developing.",
+    "reason": "The moth deposits its eggs in the locule of the ovary and the flower gets pollinated by the moth.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Continued self-pollination results in inbreeding depression.",
+    "reason": "Majority of flowering plants produce hermaphrodite flowers and pollen grains are likely to come in contact with the stigma of the same flower.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In some species, pollen release and stigma receptivity are not synchronised.",
+    "reason": "This device prevents autogamy.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Self-incompatibility is a genetic mechanism that prevents self-pollen from fertilising the ovules.",
+    "reason": "It inhibits pollen germination or pollen tube growth in the pistil.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In dioecious plants such as papaya, male and female flowers are present on different plants.",
+    "reason": "This condition prevents both autogamy and geitonogamy.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The pistil has the ability to recognise whether the pollen is compatible or incompatible.",
+    "reason": "If it is the right type, the pistil accepts the pollen and promotes post-pollination events leading to fertilisation.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
