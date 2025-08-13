@@ -287,4 +287,150 @@
       "Different flower": "In geitonogamy"
     }
   }
-], se
+],
+
+[
+  {
+    "question": "Match the following types of pollination agents:",
+    "column_A": ["Wind", "Water", "Animals", "Agents used"],
+    "column_B": ["Abiotic", "Abiotic", "Biotic", "For pollination"],
+    "answer": {
+      "Wind": "Abiotic",
+      "Water": "Abiotic",
+      "Animals": "Biotic",
+      "Agents used": "For pollination"
+    }
+  },
+  {
+    "question": "Match plant types with pollination agent preference:",
+    "column_A": ["Majority of plants", "Small proportion of plants", "Use of biotic agents", "Use of abiotic agents"],
+    "column_B": ["Biotic agents", "Abiotic agents", "Animals", "Wind and water"],
+    "answer": {
+      "Majority of plants": "Biotic agents",
+      "Small proportion of plants": "Abiotic agents",
+      "Use of biotic agents": "Animals",
+      "Use of abiotic agents": "Wind and water"
+    }
+  },
+  {
+    "question": "Match abiotic agents with mode of pollination:",
+    "column_A": ["Wind pollination", "Water pollination", "Uncertainty", "Chance factor"],
+    "column_B": ["Abiotic agent", "Abiotic agent", "In abiotic pollination", "Pollen-stigma contact"],
+    "answer": {
+      "Wind pollination": "Abiotic agent",
+      "Water pollination": "Abiotic agent",
+      "Uncertainty": "In abiotic pollination",
+      "Chance factor": "Pollen-stigma contact"
+    }
+  },
+  {
+    "question": "Match the following phrases from NCERT:",
+    "column_A": ["Abiotic agents", "Biotic agents", "Animals", "Wind"],
+    "column_B": ["Used by small proportion", "Used by majority", "Pollination agents", "Abiotic agent"],
+    "answer": {
+      "Abiotic agents": "Used by small proportion",
+      "Biotic agents": "Used by majority",
+      "Animals": "Pollination agents",
+      "Wind": "Abiotic agent"
+    }
+  },
+  {
+    "question": "Match the following regarding abiotic pollination:",
+    "column_A": ["Wind", "Water", "Contact with stigma", "Pollination"],
+    "column_B": ["Abiotic", "Abiotic", "Chance factor", "In flowering plants"],
+    "answer": {
+      "Wind": "Abiotic",
+      "Water": "Abiotic",
+      "Contact with stigma": "Chance factor",
+      "Pollination": "In flowering plants"
+    }
+  },
+  {
+    "question": "Match the following for pollination outcomes:",
+    "column_A": ["Uncertainties", "Loss of pollen", "Abiotic agents", "Biotic agents"],
+    "column_B": ["In wind and water pollination", "Requires compensation", "Non-living", "Living"],
+    "answer": {
+      "Uncertainties": "In wind and water pollination",
+      "Loss of pollen": "Requires compensation",
+      "Abiotic agents": "Non-living",
+      "Biotic agents": "Living"
+    }
+  },
+  {
+    "question": "Match plant response to pollination uncertainty:",
+    "column_A": ["Uncertainty", "Loss of pollen", "Response of flowers", "Ovule number"],
+    "column_B": ["In abiotic pollination", "Common in wind pollination", "Enormous pollen production", "Less than pollen"],
+    "answer": {
+      "Uncertainty": "In abiotic pollination",
+      "Loss of pollen": "Common in wind pollination",
+      "Response of flowers": "Enormous pollen production",
+      "Ovule number": "Less than pollen"
+    }
+  },
+  {
+    "question": "Match the following reasons for high pollen count:",
+    "column_A": ["Chance contact", "Wind pollination", "Water pollination", "Compensating factor"],
+    "column_B": ["Pollen touching stigma", "Abiotic method", "Abiotic method", "Enormous pollen production"],
+    "answer": {
+      "Chance contact": "Pollen touching stigma",
+      "Wind pollination": "Abiotic method",
+      "Water pollination": "Abiotic method",
+      "Compensating factor": "Enormous pollen production"
+    }
+  },
+  {
+    "question": "Match the following agents with properties:",
+    "column_A": ["Wind", "Water", "Animals", "Pollination"],
+    "column_B": ["Abiotic", "Abiotic", "Biotic", "Pollen transfer"],
+    "answer": {
+      "Wind": "Abiotic",
+      "Water": "Abiotic",
+      "Animals": "Biotic",
+      "Pollination": "Pollen transfer"
+    }
+  },
+  {
+    "question": "Match pollination uncertainty with plant adaptation:",
+    "column_A": ["Uncertainty", "Loss of pollen", "Abiotic agents", "Pollen grains"],
+    "column_B": ["Compensated by plants", "Requires more pollen", "Cause chance pollination", "Produced in excess"],
+    "answer": {
+      "Uncertainty": "Compensated by plants",
+      "Loss of pollen": "Requires more pollen",
+      "Abiotic agents": "Cause chance pollination",
+      "Pollen grains": "Produced in excess"
+    }
+  },
+  {
+    "question": "Match agent usage frequency in plants:",
+    "column_A": ["Biotic agents", "Abiotic agents", "Wind and water", "Animals"],
+    "column_B": ["Majority of plants", "Small proportion of plants", "Abiotic", "Biotic"],
+    "answer": {
+      "Biotic agents": "Majority of plants",
+      "Abiotic agents": "Small proportion of plants",
+      "Wind and water": "Abiotic",
+      "Animals": "Biotic"
+    }
+  },
+  {
+    "question": "Match reason for enormous pollen production:",
+    "column_A": ["Wind pollination", "Water pollination", "Uncertainty", "Ovule count"],
+    "column_B": ["Abiotic mode", "Chance factor", "Loss of pollen", "Fewer than pollen grains"],
+    "answer": {
+      "Wind pollination": "Abiotic mode",
+      "Water pollination": "Chance factor",
+      "Uncertainty": "Loss of pollen",
+      "Ovule count": "Fewer than pollen grains"
+    }
+  },
+  {
+    "question": "Match the following descriptions from NCERT:",
+    "column_A": ["Enormous pollen", "Ovules", "Pollination agent", "Majority plants"],
+    "column_B": ["More than ovules", "Less than pollen", "Transfers pollen", "Use biotic agents"],
+    "answer": {
+      "Enormous pollen": "More than ovules",
+      "Ovules": "Less than pollen",
+      "Pollination agent": "Transfers pollen",
+      "Majority plants": "Use biotic agents"
+    }
+  }
+]
