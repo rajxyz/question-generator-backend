@@ -1,0 +1,26 @@
+[
+  {
+    "assertion": "The pistil can reject pollen by preventing its germination or pollen tube growth.",
+    "reason": "The ability of the pistil to recognise pollen is mediated by chemical interactions between pollen and pistil components.",
+    "answer": "A",
+    "explanation": "Both the assertion and reason are correct, and the reason correctly explains how the pistil rejects incompatible pollen."
+  },
+  {
+    "assertion": "Recognition of pollen by the pistil occurs through a continuous dialogue between them.",
+    "reason": "This dialogue involves mechanical stimulation of the stigma surface by the pollen grain.",
+    "answer": "C",
+    "explanation": "The assertion is correct, but the reason is incorrect because recognition is chemical, not mechanical."
+  },
+  {
+    "assertion": "Pollen germinates on the stigma through one of the germ pores.",
+    "reason": "The contents of the pollen grain move into the pollen tube after germination.",
+    "answer": "A",
+    "explanation": "Both statements are correct, and the reason explains the process following pollen germination."
+  },
+  {
+    "assertion": "The pistil always accepts pollen grains from all plant species.",
+    "reason": "Pollen-pistil interaction is a non-specific process.",
+    "answer": "D",
+    "explanation": "Both assertion and reason are incorrect because pollen acceptance is specific and depends on compatibility."
+  }
+]
