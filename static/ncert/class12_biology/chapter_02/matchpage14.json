@@ -1,1 +1,65 @@
-
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Bees",
+      "Sunbirds and humming birds",
+      "Bats",
+      "Gecko lizard and garden lizard"
+    ],
+    "columnB": [
+      "Common pollinating agents",
+      "Pollinators in some species",
+      "Pollinators in some species",
+      "Pollinators in some species"
+    ],
+    "answer": {
+      "Bees": "Common pollinating agents",
+      "Sunbirds and humming birds": "Pollinators in some species",
+      "Bats": "Pollinators in some species",
+      "Gecko lizard and garden lizard": "Pollinators in some species"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Majority of insect-pollinated flowers",
+      "Small flowers",
+      "Flowers pollinated by flies and beetles",
+      "Nectar and pollen grains"
+    ],
+    "columnB": [
+      "Large, colourful, fragrant and rich in nectar",
+      "Clustered into an inflorescence",
+      "Secrete foul odours",
+      "Usual floral rewards"
+    ],
+    "answer": {
+      "Majority of insect-pollinated flowers": "Large, colourful, fragrant and rich in nectar",
+      "Small flowers": "Clustered into an inflorescence",
+      "Flowers pollinated by flies and beetles": "Secrete foul odours",
+      "Nectar and pollen grains": "Usual floral rewards"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Animal visitor harvesting rewards",
+      "Pollen grains in animal pollinated flowers",
+      "Amorphophallus",
+      "Yucca"
+    ],
+    "columnB": [
+      "Comes in contact with anthers and stigma",
+      "Generally sticky",
+      "Flower about 6 feet in height",
+      "Mutual relationship with moth where both cannot complete their life cycle without each other"
+    ],
+    "answer": {
+      "Animal visitor harvesting rewards": "Comes in contact with anthers and stigma",
+      "Pollen grains in animal pollinated flowers": "Generally sticky",
+      "Amorphophallus": "Flower about 6 feet in height",
+      "Yucca": "Mutual relationship with moth where both cannot complete their life cycle without each other"
+    }
+  }
+]
