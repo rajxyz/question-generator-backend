@@ -1,1 +1,72 @@
-
+[
+  {
+    "question": "Majority of flowering plants use a range of which agents for pollination?",
+    "options": ["Wind", "Animals", "Water", "Gravity"],
+    "answer": "Animals"
+  },
+  {
+    "question": "Which of the following are common pollinating agents in flowering plants?",
+    "options": ["Bees, butterflies, flies", "Sharks, dolphins, turtles", "Cows, goats, sheep", "Snakes, frogs, crabs"],
+    "answer": "Bees, butterflies, flies"
+  },
+  {
+    "question": "Among animals, which are the dominant biotic pollinating agents?",
+    "options": ["Bats", "Birds", "Insects, particularly bees", "Rodents"],
+    "answer": "Insects, particularly bees"
+  },
+  {
+    "question": "Which larger animals have been reported as pollinators in some species?",
+    "options": ["Primates, rodents, reptiles", "Whales, seals, penguins", "Cats, dogs, foxes", "Elephants, camels, horses"],
+    "answer": "Primates, rodents, reptiles"
+  },
+  {
+    "question": "Flowers of animal-pollinated plants are often adapted for which of the following?",
+    "options": ["All animal species", "A particular species of animal", "Only birds", "Only insects"],
+    "answer": "A particular species of animal"
+  },
+  {
+    "question": "Majority of insect-pollinated flowers are:",
+    "options": ["Small and inconspicuous", "Large, colourful, fragrant and rich in nectar", "Leafy and green", "Dry and without fragrance"],
+    "answer": "Large, colourful, fragrant and rich in nectar"
+  },
+  {
+    "question": "When flowers are small, how do they become conspicuous?",
+    "options": ["By producing large leaves", "By clustering into an inflorescence", "By producing large seeds", "By growing taller"],
+    "answer": "By clustering into an inflorescence"
+  },
+  {
+    "question": "What attracts animals to flowers?",
+    "options": ["Colour and/or fragrance", "Temperature", "Sound", "Humidity"],
+    "answer": "Colour and/or fragrance"
+  },
+  {
+    "question": "Flowers pollinated by flies and beetles secrete what to attract them?",
+    "options": ["Sweet nectar", "Foul odours", "Bright pigments", "Sticky gum"],
+    "answer": "Foul odours"
+  },
+  {
+    "question": "What are the usual floral rewards to sustain animal visits?",
+    "options": ["Seeds and fruits", "Nectar and pollen grains", "Leaves and stems", "Roots and tubers"],
+    "answer": "Nectar and pollen grains"
+  },
+  {
+    "question": "For harvesting rewards, animal visitors come in contact with:",
+    "options": ["Petals and sepals", "Anthers and stigma", "Roots and leaves", "Ovary and style"],
+    "answer": "Anthers and stigma"
+  },
+  {
+    "question": "In animal-pollinated flowers, pollen grains are generally:",
+    "options": ["Smooth", "Sticky", "Dry", "Hairy"],
+    "answer": "Sticky"
+  },
+  {
+    "question": "Which is the tallest flower mentioned, about 6 feet in height?",
+    "options": ["Rafflesia", "Amorphophallus", "Sunflower", "Yucca"],
+    "answer": "Amorphophallus"
+  },
+  {
+    "question": "In Yucca and moth relationship, both species:",
+    "options": ["Can complete their life cycles independently", "Cannot complete their life cycles without each other", "Live in water", "Are wind-pollinated"],
+    "answer": "Cannot complete their life cycles without each other"
+  }
+]
