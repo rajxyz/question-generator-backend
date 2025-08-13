@@ -1,1 +1,280 @@
+[
+  {
+    "question": "Match the type of pollination with its features:",
+    "column_A": ["Wind pollination", "Abiotic pollination", "Biotic pollination", "Water pollination"],
+    "column_B": ["Light, non-sticky pollen", "Includes wind", "Involves animals", "Less common"],
+    "answer": {
+      "Wind pollination": "Light, non-sticky pollen",
+      "Abiotic pollination": "Includes wind",
+      "Biotic pollination": "Involves animals",
+      "Water pollination": "Less common"
+    }
+  },
+  {
+    "question": "Match the pollen grain features with purpose:",
+    "column_A": ["Light", "Non-sticky", "Air-borne", "Transported by wind"],
+    "column_B": ["Easily carried", "Not clumping", "Dispersed in air", "In wind currents"],
+    "answer": {
+      "Light": "Easily carried",
+      "Non-sticky": "Not clumping",
+      "Air-borne": "Dispersed in air",
+      "Transported by wind": "In wind currents"
+    }
+  },
+  {
+    "question": "Match flower structures aiding wind pollination:",
+    "column_A": ["Well-exposed stamens", "Feathery stigma", "Single ovule", "Inflorescence"],
+    "column_B": ["Easy pollen release", "Traps pollen", "Per ovary", "Numerous flowers"],
+    "answer": {
+      "Well-exposed stamens": "Easy pollen release",
+      "Feathery stigma": "Traps pollen",
+      "Single ovule": "Per ovary",
+      "Inflorescence": "Numerous flowers"
+    }
+  },
+  {
+    "question": "Match flower adaptations with wind pollination:",
+    "column_A": ["Well-exposed stamens", "Large stigma", "Pollen grains", "Wind currents"],
+    "column_B": ["Help pollen dispersion", "Trap air-borne pollen", "Light and non-sticky", "Carry pollen"],
+    "answer": {
+      "Well-exposed stamens": "Help pollen dispersion",
+      "Large stigma": "Trap air-borne pollen",
+      "Pollen grains": "Light and non-sticky",
+      "Wind currents": "Carry pollen"
+    }
+  },
+  {
+    "question": "Match wind-pollinated plants with characteristics:",
+    "column_A": ["Corn cob", "Grass", "Inflorescence", "Stigma and style"],
+    "column_B": ["Waves in wind", "Wind pollinated", "Multiple flowers", "Trap pollen"],
+    "answer": {
+      "Corn cob": "Waves in wind",
+      "Grass": "Wind pollinated",
+      "Inflorescence": "Multiple flowers",
+      "Stigma and style": "Trap pollen"
+    }
+  },
+  {
+    "question": "Match pollination types with frequency:",
+    "column_A": ["Wind pollination", "Water pollination", "Abiotic pollination", "Biotic pollination"],
+    "column_B": ["More common", "Less common", "Includes wind & water", "Involves animals"],
+    "answer": {
+      "Wind pollination": "More common",
+      "Water pollination": "Less common",
+      "Abiotic pollination": "Includes wind & water",
+      "Biotic pollination": "Involves animals"
+    }
+  },
+  {
+    "question": "Match floral parts with function in wind pollination:",
+    "column_A": ["Stamens", "Stigma", "Style", "Ovule"],
+    "column_B": ["Pollen release", "Pollen trap", "Supports stigma", "Single per ovary"],
+    "answer": {
+      "Stamens": "Pollen release",
+      "Stigma": "Pollen trap",
+      "Style": "Supports stigma",
+      "Ovule": "Single per ovary"
+    }
+  },
+  {
+    "question": "Match structural traits of wind-pollinated flowers:",
+    "column_A": ["Numerous flowers", "Inflorescence", "Air movement", "Pollen grains"],
+    "column_B": ["In cluster", "Flower group", "Dispersal medium", "Light and dry"],
+    "answer": {
+      "Numerous flowers": "In cluster",
+      "Inflorescence": "Flower group",
+      "Air movement": "Dispersal medium",
+      "Pollen grains": "Light and dry"
+    }
+  },
+  {
+    "question": "Match each plant part to its pollination role:",
+    "column_A": ["Ears of corn", "Stigma", "Style", "Wind"],
+    "column_B": ["Trap pollen", "Receive pollen", "Support structure", "Pollination agent"],
+    "answer": {
+      "Ears of corn": "Trap pollen",
+      "Stigma": "Receive pollen",
+      "Style": "Support structure",
+      "Wind": "Pollination agent"
+    }
+  },
+  {
+    "question": "Match flower pollination traits from NCERT:",
+    "column_A": ["Pollens are light", "Pollens are non-sticky", "Stamens are exposed", "Stigma is feathery"],
+    "column_B": ["Easily airborne", "Do not clump", "Help dispersal", "Trap pollen"],
+    "answer": {
+      "Pollens are light": "Easily airborne",
+      "Pollens are non-sticky": "Do not clump",
+      "Stamens are exposed": "Help dispersal",
+      "Stigma is feathery": "Trap pollen"
+    }
+  },
+  {
+    "question": "Match wind-pollinated floral characters:",
+    "column_A": ["Light pollen", "Non-sticky pollen", "Feathery stigma", "Exposed stamens"],
+    "column_B": ["Carried by wind", "No clumping", "Trap airborne grains", "Easily released"],
+    "answer": {
+      "Light pollen": "Carried by wind",
+      "Non-sticky pollen": "No clumping",
+      "Feathery stigma": "Trap airborne grains",
+      "Exposed stamens": "Easily released"
+    }
+  },
+  {
+    "question": "Match examples and features of wind pollination:",
+    "column_A": ["Corn", "Grasses", "Ears", "Style"],
+    "column_B": ["Familiar example", "Commonly wind pollinated", "Stigma and style", "Supports stigma"],
+    "answer": {
+      "Corn": "Familiar example",
+      "Grasses": "Commonly wind pollinated",
+      "Ears": "Stigma and style",
+      "Style": "Supports stigma"
+    }
+  },
+  {
+    "question": "Match parts of corn with function:",
+    "column_A": ["Corn cob", "Ears", "Stigma", "Wind"],
+    "column_B": ["Inflorescence", "Trap pollen", "Receives grains", "Pollination medium"],
+    "answer": {
+      "Corn cob": "Inflorescence",
+      "Ears": "Trap pollen",
+      "Stigma": "Receives grains",
+      "Wind": "Pollination medium"
+    }
+  },
+  {
+    "question": "Match pollination agent and structural need:",
+    "column_A": ["Wind", "Pollens", "Flowers", "Inflorescence"],
+    "column_B": ["Disperses grains", "Light and dry", "Modified structures", "Packed flowers"],
+    "answer": {
+      "Wind": "Disperses grains",
+      "Pollens": "Light and dry",
+      "Flowers": "Modified structures",
+      "Inflorescence": "Packed flowers"
+    }
+  },
+  {
+    "question": "Match the function with floral part:",
+    "column_A": ["Stigma", "Style", "Stamens", "Ovule"],
+    "column_B": ["Pollen reception", "Hold stigma", "Pollen release", "One per ovary"],
+    "answer": {
+      "Stigma": "Pollen reception",
+      "Style": "Hold stigma",
+      "Stamens": "Pollen release",
+      "Ovule": "One per ovary"
+    }
+  },
+  {
+    "question": "Match the following examples with trait:",
+    "column_A": ["Grass", "Corn", "Wind pollination", "Airborne pollen"],
+    "column_B": ["Commonly uses wind", "Ears are stigma", "Abiotic mode", "Requires light pollen"],
+    "answer": {
+      "Grass": "Commonly uses wind",
+      "Corn": "Ears are stigma",
+      "Wind pollination": "Abiotic mode",
+      "Airborne pollen": "Requires light pollen"
+    }
+  },
+  {
+    "question": "Match pollen traits with dispersal method:",
+    "column_A": ["Light", "Dry", "Non-sticky", "Feathery stigma"],
+    "column_B": ["Float in air", "Easily carried", "Not clump", "Trap grains"],
+    "answer": {
+      "Light": "Float in air",
+      "Dry": "Easily carried",
+      "Non-sticky": "Not clump",
+      "Feathery stigma": "Trap grains"
+    }
+  },
+  {
+    "question": "Match wind-pollination traits with pollination ease:",
+    "column_A": ["Exposed stamens", "Feathery stigma", "Wind current", "Packed inflorescence"],
+    "column_B": ["Pollen dispersal", "Pollen trap", "Transport agent", "Many flowers"],
+    "answer": {
+      "Exposed stamens": "Pollen dispersal",
+      "Feathery stigma": "Pollen trap",
+      "Wind current": "Transport agent",
+      "Packed inflorescence": "Many flowers"
+    }
+  },
+  {
+    "question": "Match NCERT traits with plant pollination strategy:",
+    "column_A": ["Single ovule", "Numerous flowers", "Corn cob", "Grasses"],
+    "column_B": ["Per ovary", "Form inflorescence", "Traps pollen", "Wind-pollinated"],
+    "answer": {
+      "Single ovule": "Per ovary",
+      "Numerous flowers": "Form inflorescence",
+      "Corn cob": "Traps pollen",
+      "Grasses": "Wind-pollinated"
+    }
+  }
+]
 
+[
+  {
+    "question": "Match plant types with pollination rarity.",
+    "column_A": ["Flowering plants", "Pollination by water", "Pollination rarity", "Monocotyledons", "Water pollinated genera"],
+    "column_B": ["rare", "limited to 30 genera", "water pollination", "mostly involved", "about 30"],
+    "word_count": 34
+  },
+  {
+    "question": "Match groups with male gamete transport method.",
+    "column_A": ["Algae", "Bryophytes", "Pteridophytes", "Male gametes", "Water"],
+    "column_B": ["lower plant group", "need water", "need water", "transported by water", "transport medium"],
+    "word_count": 33
+  },
+  {
+    "question": "Match plant group with distribution dependency.",
+    "column_A": ["Bryophytes", "Pteridophytes", "Distribution", "Fertilisation", "Transport"],
+    "column_B": ["need water", "restricted by water", "water dependent", "requires water", "for male gametes"],
+    "word_count": 31
+  },
+  {
+    "question": "Match aquatic plants with water type.",
+    "column_A": ["Vallisneria", "Hydrilla", "Zostera", "Fresh water", "Marine sea-grasses"],
+    "column_B": ["water pollinated", "fresh water", "marine plant", "Vallisneria, Hydrilla", "e.g., Zostera"],
+    "word_count": 32
+  },
+  {
+    "question": "Match aquatic flowers with pollination agent.",
+    "column_A": ["Water hyacinth", "Water lily", "Land plants", "Pollination", "Insects"],
+    "column_B": ["pollinated by insects", "pollinated above water", "similar to aquatic", "not always by water", "biotic agent"],
+    "word_count": 35
+  },
+  {
+    "question": "Match Vallisneria pollination steps.",
+    "column_A": ["Female flower", "Long stalk", "Surface of water", "Pollen grains", "Male flowers"],
+    "column_B": ["reaches surface", "supports flower", "receives pollen", "released on water", "release pollen"],
+    "word_count": 36
+  },
+  {
+    "question": "Match water movement and fertilisation.",
+    "column_A": ["Water currents", "Stigma", "Pollen transport", "Passive movement", "Female flower"],
+    "column_B": ["carry pollen", "receives pollen", "achieves pollination", "by water", "target for pollination"],
+    "word_count": 30
+  },
+  {
+    "question": "Match seagrass features with pollination.",
+    "column_A": ["Seagrasses", "Female flowers", "Submerged", "Pollen grains", "Released"],
+    "column_B": ["water pollinated", "remain submerged", "inside water", "long ribbon like", "in water"],
+    "word_count": 32
+  },
+  {
+    "question": "Match pollen structure with function.",
+    "column_A": ["Ribbon like", "Shape", "Carried", "Inside water", "Pollination"],
+    "column_B": ["eases movement", "elongated", "passively", "pollination medium", "achieved in water"],
+    "word_count": 30
+  },
+  {
+    "question": "Match pollen protection mechanisms.",
+    "column_A": ["Water pollinated species", "Pollen grains", "Wetting", "Protection", "Mucilaginous covering"],
+    "column_B": ["have protective layer", "resistant to water", "prevented", "by mucilage", "coats pollen"],
+    "word_count": 31
+  },
+  {
+    "question": "Match flower types with visual traits.",
+    "column_A": ["Wind pollinated", "Water pollinated", "Colour", "Nectar", "Abiotic pollinated flowers"],
+    "column_B": ["not colourful", "lack nectar", "not produced", "not needed", "don’t attract animals"],
+    "word_count": 30
+  }
+    ]
