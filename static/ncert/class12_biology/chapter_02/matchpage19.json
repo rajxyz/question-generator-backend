@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Free-nuclear endosperm",
+      "Cellular endosperm",
+      "Coconut water",
+      "Coconut kernel",
+      "Persistent endosperm"
+    ],
+    "columnB": [
+      "Stage before cell wall formation",
+      "Endosperm after cell wall formation",
+      "Free-nuclear endosperm with thousands of nuclei",
+      "Cellular endosperm in coconut",
+      "Remains in mature seed (e.g., castor, coconut)"
+    ],
+    "answer": {
+      "Free-nuclear endosperm": "Stage before cell wall formation",
+      "Cellular endosperm": "Endosperm after cell wall formation",
+      "Coconut water": "Free-nuclear endosperm with thousands of nuclei",
+      "Coconut kernel": "Cellular endosperm in coconut",
+      "Persistent endosperm": "Remains in mature seed (e.g., castor, coconut)"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Non-persistent endosperm",
+      "Zygote location",
+      "Embryogeny",
+      "Epicotyl",
+      "Hypocotyl"
+    ],
+    "columnB": [
+      "Consumed before seed maturation (e.g., pea, bean)",
+      "Micropylar end of embryo sac",
+      "Similar in monocots and dicots initially",
+      "Above cotyledons, ends in plumule",
+      "Below cotyledons, ends in radicle"
+    ],
+    "answer": {
+      "Non-persistent endosperm": "Consumed before seed maturation (e.g., pea, bean)",
+      "Zygote location": "Micropylar end of embryo sac",
+      "Embryogeny": "Similar in monocots and dicots initially",
+      "Epicotyl": "Above cotyledons, ends in plumule",
+      "Hypocotyl": "Below cotyledons, ends in radicle"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Proembryo",
+      "Globular stage",
+      "Heart-shaped stage",
+      "Scutellum",
+      "Root cap"
+    ],
+    "columnB": [
+      "First stage after zygote division",
+      "Early spherical embryo stage",
+      "Stage before mature embryo in dicots",
+      "Single cotyledon in grasses",
+      "Covers root tip"
+    ],
+    "answer": {
+      "Proembryo": "First stage after zygote division",
+      "Globular stage": "Early spherical embryo stage",
+      "Heart-shaped stage": "Stage before mature embryo in dicots",
+      "Scutellum": "Single cotyledon in grasses",
+      "Root cap": "Covers root tip"
+    }
+  }
+]
