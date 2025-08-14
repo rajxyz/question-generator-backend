@@ -1,1 +1,218 @@
-
+[
+  {
+    "question": "With the help of ______-visual and the print-media governmental and non-governmental agencies have taken various steps to create awareness among the people about reproduction-related aspects.",
+    "answer": "audio"
+  },
+  {
+    "question": "With the help of audio-visual and the ______-media governmental and non-governmental agencies have taken various steps to create awareness among the people about reproduction-related aspects.",
+    "answer": "print"
+  },
+  {
+    "question": "Governmental and ______-governmental agencies have taken various steps to create awareness among the people about reproduction-related aspects.",
+    "answer": "non"
+  },
+  {
+    "question": "Parents, other close relatives, teachers and ______ also have a major role in the dissemination of the above information.",
+    "answer": "friends"
+  },
+  {
+    "question": "Introduction of sex education in ______ should also be encouraged to provide right information to the young.",
+    "answer": "schools"
+  },
+  {
+    "question": "Sex education should discourage children from believing in myths and having ______ about sex-related aspects.",
+    "answer": "misconceptions"
+  },
+  {
+    "question": "Proper information about reproductive ______, adolescence and related changes, safe and hygienic sexual practices, sexually transmitted diseases (STD), AIDS, etc., would help people lead a reproductively healthy life.",
+    "answer": "organs"
+  },
+  {
+    "question": "Proper information about reproductive organs, adolescence and related changes, safe and hygienic sexual practices, sexually transmitted diseases (STD), ______, etc., would help people lead a reproductively healthy life.",
+    "answer": "AIDS"
+  },
+  {
+    "question": "Educating people, especially fertile couples and those in ______ age group, about available birth control options is important.",
+    "answer": "marriageable"
+  },
+  {
+    "question": "Educating people about care of pregnant mothers, post-natal care of the mother and child, importance of ______ feeding is important.",
+    "answer": "breast"
+  },
+  {
+    "question": "Equal opportunities for the male and the ______ child would address the importance of socially conscious healthy families.",
+    "answer": "female"
+  },
+  {
+    "question": "Awareness of problems due to uncontrolled ______ growth, social evils like sex-abuse and sex-related crimes, etc., need to be created.",
+    "answer": "population"
+  },
+  {
+    "question": "Successful implementation of various action plans to attain reproductive health requires strong ______ facilities.",
+    "answer": "infrastructural"
+  },
+  {
+    "question": "Reproductive health requires strong infrastructural facilities, professional expertise and material ______.",
+    "answer": "support"
+  },
+  {
+    "question": "Medical assistance is needed for people in reproduction-related problems like pregnancy, delivery, STDs, abortions, ______, menstrual problems, infertility, etc.",
+    "answer": "contraception"
+  },
+  {
+    "question": "Implementation of better techniques and new ______ from time to time are also required to provide more efficient care.",
+    "answer": "strategies"
+  },
+  {
+    "question": "Statutory ban on ______ for sex-determination aims to check female foeticides.",
+    "answer": "amniocentesis"
+  },
+  {
+    "question": "Statutory ban on amniocentesis for sex-determination aims to legally check increasing menace of female ______.",
+    "answer": "foeticides"
+  },
+  {
+    "question": "Massive child ______, etc., are some programmes that merit mention in this connection.",
+    "answer": "immunisation"
+  },
+  {
+    "question": "In amniocentesis some of the ______ fluid of the developing foetus is taken to analyse the fetal cells.",
+    "answer": "amniotic"
+  },
+  {
+    "question": "Amniocentesis is used to test for certain genetic disorders such as down ______.",
+    "answer": "syndrome"
+  },
+  {
+    "question": "Amniocentesis can detect haemophilia, sickle-cell ______, etc.",
+    "answer": "anemia"
+  },
+  {
+    "question": "Research on various reproduction-related areas is encouraged by governmental and ______-governmental agencies.",
+    "answer": "non"
+  },
+  {
+    "question": "‘Saheli’ is a new oral contraceptive for females developed by scientists at Central Drug Research Institute (______) in Lucknow, India.",
+    "answer": "CDRI"
+  },
+  {
+    "question": "‘Saheli’ is a new oral contraceptive developed in ______, India.",
+    "answer": "Lucknow"
+  },
+  {
+    "question": "Better awareness about sex related matters has led to decreased maternal and ______ mortality rates.",
+    "answer": "infant"
+  },
+  {
+    "question": "Better awareness has led to increased number of couples with ______ families.",
+    "answer": "small"
+  },
+  {
+    "question": "Better detection and cure of ______ indicate improved reproductive health of the society.",
+    "answer": "STDs"
+  },
+  {
+    "question": "Overall increased medical facilities for all ______-related problems indicate improved reproductive health.",
+    "answer": "sex"
+  },
+  {
+    "question": "Saheli is a new ______ contraceptive for females.",
+    "answer": "oral"
+  },
+  {
+    "question": "Down syndrome, haemophilia, and sickle-cell anemia are ______ disorders detectable via amniocentesis.",
+    "answer": "genetic"
+  },
+  {
+    "question": "Strong infrastructural facilities, professional expertise and ______ support are essential to provide medical assistance.",
+    "answer": "material"
+  },
+  {
+    "question": "Amniocentesis involves taking some amniotic fluid to analyse the fetal ______.",
+    "answer": "cells"
+  },
+  {
+    "question": "Massive child immunisation is a programme that merits ______ in reproductive health strategies.",
+    "answer": "mention"
+  },
+  {
+    "question": "Educating people about available birth control ______ is important for reproductive health.",
+    "answer": "options"
+  },
+  {
+    "question": "Care of pregnant mothers and post-natal care address reproductive health in ______ families.",
+    "answer": "healthy"
+  },
+  {
+    "question": "Awareness is needed to prevent social evils like ______ abuse.",
+    "answer": "sex"
+  },
+  {
+    "question": "Equal opportunities should be given to both male and ______ children.",
+    "answer": "female"
+  },
+  {
+    "question": "Safe and hygienic ______ practices are part of proper reproductive health information.",
+    "answer": "sexual"
+  },
+  {
+    "question": "Sex education in schools can discourage myths and ______ about sex.",
+    "answer": "misconceptions"
+  },
+  {
+    "question": "Pregnancy, delivery, STDs, abortions, contraception, menstrual problems and ______ are examples of reproduction-related problems.",
+    "answer": "infertility"
+  },
+  {
+    "question": "Post-natal care of mother and ______ is important for healthy families.",
+    "answer": "child"
+  },
+  {
+    "question": "Professional ______ is required for implementing reproductive health action plans.",
+    "answer": "expertise"
+  },
+  {
+    "question": "Amniocentesis can determine the ______ of the foetus.",
+    "answer": "survivability"
+  },
+  {
+    "question": "Better post-natal care has led to decreased maternal and infant ______ rates.",
+    "answer": "mortality"
+  },
+  {
+    "question": "Better techniques and new strategies are required from time to time to provide more ______ care.",
+    "answer": "efficient"
+  },
+  {
+    "question": "Massive child immunisation and statutory bans are ______ of reproductive health programmes.",
+    "answer": "programmes"
+  },
+  {
+    "question": "Saheli was developed by scientists in ______, India.",
+    "answer": "Lucknow"
+  },
+  {
+    "question": "Sex-related crimes and uncontrolled population growth are ______ evils.",
+    "answer": "social"
+  },
+  {
+    "question": "Awareness of problems due to uncontrolled population growth helps build a socially ______ society.",
+    "answer": "responsible"
+  },
+  {
+    "question": "Saheli was developed by scientists at Central Drug ______ Institute.",
+    "answer": "Research"
+  },
+  {
+    "question": "Better detection and cure of STDs indicate improved reproductive ______.",
+    "answer": "health"
+  },
+  {
+    "question": "Reproductive health programmes address safe and hygienic sexual ______.",
+    "answer": "practices"
+  },
+  {
+    "question": "Statutory ban on amniocentesis is to check increasing menace of female ______.",
+    "answer": "foeticides"
+  }
+]
