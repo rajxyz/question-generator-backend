@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Sufficient food reserves in seeds",
+      "Hard seed coat",
+      "Products of sexual reproduction",
+      "Dehydration and dormancy of mature seeds"
+    ],
+    "columnB": [
+      "Protection to the young embryo",
+      "Generate new genetic combinations leading to variations",
+      "Crucial for storage of seeds",
+      "Nourish young seedlings until photosynthesis"
+    ],
+    "answer": {
+      "Sufficient food reserves in seeds": "Nourish young seedlings until photosynthesis",
+      "Hard seed coat": "Protection to the young embryo",
+      "Products of sexual reproduction": "Generate new genetic combinations leading to variations",
+      "Dehydration and dormancy of mature seeds": "Crucial for storage of seeds"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Seeds losing viability within a few months",
+      "Seeds of large number of species",
+      "Lupinus arcticus",
+      "Phoenix dactylifera"
+    ],
+    "columnB": [
+      "2000 years old viable seed discovered during archeological excavation at King Herod’s palace near the Dead Sea",
+      "Oldest record of 10,000 years dormancy seed excavated from Arctic Tundra",
+      "Live for several years",
+      "Few species"
+    ],
+    "answer": {
+      "Seeds losing viability within a few months": "Few species",
+      "Seeds of large number of species": "Live for several years",
+      "Lupinus arcticus": "Oldest record of 10,000 years dormancy seed excavated from Arctic Tundra",
+      "Phoenix dactylifera": "2000 years old viable seed discovered during archeological excavation at King Herod’s palace near the Dead Sea"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Orchid fruits",
+      "Orobanche and Striga fruits",
+      "Tiny seed of Ficus",
+      "Ficus tree"
+    ],
+    "columnB": [
+      "Thousands of tiny seeds",
+      "Parasitic species fruits containing thousands of tiny seeds",
+      "Develop into large tree",
+      "Produces billions of seeds"
+    ],
+    "answer": {
+      "Orchid fruits": "Thousands of tiny seeds",
+      "Orobanche and Striga fruits": "Parasitic species fruits containing thousands of tiny seeds",
+      "Tiny seed of Ficus": "Develop into large tree",
+      "Ficus tree": "Produces billions of seeds"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Apomixis",
+      "Fruit production without fertilisation",
+      "Diploid egg cell formed without reduction division",
+      "Form of reproduction in apomixis"
+    ],
+    "columnB": [
+      "Asexual reproduction that mimics sexual reproduction",
+      "Apomictic seed development",
+      "Develops into embryo without fertilisation",
+      "Parthenocarpy"
+    ],
+    "answer": {
+      "Apomixis": "Asexual reproduction that mimics sexual reproduction",
+      "Fruit production without fertilisation": "Parthenocarpy",
+      "Diploid egg cell formed without reduction division": "Develops into embryo without fertilisation",
+      "Form of reproduction in apomixis": "Asexual reproduction that mimics sexual reproduction"
+    }
+  }
+]
