@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Radicle and root cap",
+      "Coleorrhiza",
+      "Epicotyl",
+      "Coleoptile"
+    ],
+    "columnB": [
+      "Encloses shoot apex and a few leaf primordia",
+      "Encloses radicle and root cap",
+      "Cylindrical portion below cotyledon attachment",
+      "Portion of embryonal axis above level of scutellum"
+    ],
+    "answer": {
+      "Radicle and root cap": "Cylindrical portion below cotyledon attachment",
+      "Coleorrhiza": "Encloses radicle and root cap",
+      "Epicotyl": "Portion of embryonal axis above level of scutellum",
+      "Coleoptile": "Encloses shoot apex and a few leaf primordia"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Seed",
+      "Non-albuminous seeds",
+      "Albuminous seeds",
+      "Perisperm"
+    ],
+    "columnB": [
+      "Completely consumed endosperm during embryo development",
+      "Residual, persistent nucellus",
+      "Final product of sexual reproduction",
+      "Retain a part of endosperm"
+    ],
+    "answer": {
+      "Seed": "Final product of sexual reproduction",
+      "Non-albuminous seeds": "Completely consumed endosperm during embryo development",
+      "Albuminous seeds": "Retain a part of endosperm",
+      "Perisperm": "Residual, persistent nucellus"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Micropyle",
+      "Moisture content of mature seeds",
+      "Dormancy",
+      "Pericarp"
+    ],
+    "columnB": [
+      "10-15 per cent by mass",
+      "Small pore in the seed coat",
+      "State of inactivity of embryo",
+      "Wall of fruit"
+    ],
+    "answer": {
+      "Micropyle": "Small pore in the seed coat",
+      "Moisture content of mature seeds": "10-15 per cent by mass",
+      "Dormancy": "State of inactivity of embryo",
+      "Pericarp": "Wall of fruit"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "False fruits",
+      "True fruits",
+      "Fleshy fruits",
+      "Dry fruits"
+    ],
+    "columnB": [
+      "Guava, orange, mango",
+      "Apple, strawberry, cashew",
+      "Develop only from the ovary",
+      "Groundnut, mustard"
+    ],
+    "answer": {
+      "False fruits": "Apple, strawberry, cashew",
+      "True fruits": "Develop only from the ovary",
+      "Fleshy fruits": "Guava, orange, mango",
+      "Dry fruits": "Groundnut, mustard"
+    }
+  }
+]
