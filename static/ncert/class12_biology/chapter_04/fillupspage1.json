@@ -4,11 +4,15 @@
     "answer": "reproductive"
   },
   {
-    "question": "The term reproductive health simply refers to healthy reproductive organs with normal ______.",
+    "question": "Now, let’s discuss a closely related topic – ______ health.",
+    "answer": "reproductive"
+  },
+  {
+    "question": "The term simply refers to healthy reproductive organs with normal ______.",
     "answer": "functions"
   },
   {
-    "question": "Reproductive health includes the emotional and ______ aspects of reproduction also.",
+    "question": "It has a broader perspective and includes the emotional and ______ aspects of reproduction.",
     "answer": "social"
   },
   {
@@ -20,27 +24,111 @@
     "answer": "social"
   },
   {
-    "question": "A society with people having physically and functionally normal reproductive organs might be called ______ healthy.",
-    "answer": "reproductively"
+    "question": "A society with people having physically and functionally normal reproductive ______ might be called reproductively healthy.",
+    "answer": "organs"
   },
   {
-    "question": "India was amongst the first countries in the world to initiate action plans and programmes at a ______ level.",
-    "answer": "national"
+    "question": "India was amongst the first countries in the world to initiate ______ plans and programmes at a national level.",
+    "answer": "action"
+  },
+  {
+    "question": "India was amongst the first countries in the world to initiate action plans and ______ at a national level.",
+    "answer": "programmes"
+  },
+  {
+    "question": "These programmes called ‘family planning’ were initiated in ______.",
+    "answer": "1951"
   },
   {
     "question": "These programmes called ‘______ planning’ were initiated in 1951.",
     "answer": "family"
   },
   {
-    "question": "Improved programmes are currently in operation under the popular name ‘Reproductive and ______ Health Care (RCH) programmes’.",
+    "question": "The programmes were periodically ______ over the past decades.",
+    "answer": "assessed"
+  },
+  {
+    "question": "Improved programmes covering wider reproduction-related areas are currently in ______.",
+    "answer": "operation"
+  },
+  {
+    "question": "The improved programmes operate under the popular name ‘Reproductive and Child Health Care (______) programmes’.",
+    "answer": "RCH"
+  },
+  {
+    "question": "The improved programmes operate under the popular name ‘Reproductive and ______ Health Care (RCH) programmes’.",
     "answer": "Child"
   },
   {
-    "question": "Creating awareness among people about various reproduction related aspects is a major task under these ______.",
+    "question": "Creating awareness among people about various reproduction-related ______ is a major task under these programmes.",
+    "answer": "aspects"
+  },
+  {
+    "question": "Creating ______ among people about various reproduction-related aspects is a major task under these programmes.",
+    "answer": "awareness"
+  },
+  {
+    "question": "Providing ______ and support for building up a reproductively healthy society is a major task under these programmes.",
+    "answer": "facilities"
+  },
+  {
+    "question": "Providing facilities and ______ for building up a reproductively healthy society is a major task under these programmes.",
+    "answer": "support"
+  },
+  {
+    "question": "Reproductive health includes the emotional, behavioural and ______ aspects.",
+    "answer": "social"
+  },
+  {
+    "question": "A society with normal emotional and behavioural ______ among them in all sex-related aspects might be called reproductively healthy.",
+    "answer": "interactions"
+  },
+  {
+    "question": "The term reproductive health includes the emotional and ______ aspects of reproduction.",
+    "answer": "social"
+  },
+  {
+    "question": "Reproductive health means total well-being in all aspects of ______.",
+    "answer": "reproduction"
+  },
+  {
+    "question": "A reproductively healthy society requires physically and functionally normal reproductive ______.",
+    "answer": "organs"
+  },
+  {
+    "question": "India was one of the first countries to initiate action plans at a ______ level.",
+    "answer": "national"
+  },
+  {
+    "question": "Family planning programmes were periodically ______ over the past decades.",
+    "answer": "assessed"
+  },
+  {
+    "question": "Improved programmes covering wider reproduction-related areas are currently in operation under the popular name ‘Reproductive and ______ Health Care (RCH) programmes’.",
+    "answer": "Child"
+  },
+  {
+    "question": "Creating awareness among people and providing facilities are the major tasks under these ______.",
     "answer": "programmes"
   },
   {
-    "question": "Providing facilities and support for building up a reproductively healthy society are major tasks under these ______.",
-    "answer": "programmes"
+    "question": "The World Health Organisation is abbreviated as ______.",
+    "answer": "WHO"
+  },
+  {
+    "question": "Reproductive health is a state of total well-being in physical, emotional, behavioural and ______ aspects.",
+    "answer": "social"
+  },
+  {
+    "question": "Normal emotional and behavioural interactions among them in all ______-related aspects might be called reproductively healthy.",
+    "answer": "sex"
+  },
+  {
+    "question": "India initiated family planning programmes in the year ______.",
+    "answer": "1951"
+  },
+  {
+    "question": "Family planning programmes aimed to attain total reproductive health as a ______ goal.",
+    "answer": "social"
   }
 ]
