@@ -1,1 +1,242 @@
-
+[
+  {
+    "question": "In the last century an all-round development in various fields significantly improved the ______ of life of the people.",
+    "answer": "quality"
+  },
+  {
+    "question": "Increased health facilities along with better living conditions had an explosive impact on the growth of ______.",
+    "answer": "population"
+  },
+  {
+    "question": "The world population was around 2 billion (2000 million) in ______.",
+    "answer": "1900"
+  },
+  {
+    "question": "The world population rocketed to about 6 billion by ______.",
+    "answer": "2000"
+  },
+  {
+    "question": "The world population reached about 7.2 billion in ______.",
+    "answer": "2011"
+  },
+  {
+    "question": "Our population was approximately ______ million at the time of our independence.",
+    "answer": "350"
+  },
+  {
+    "question": "India's population reached close to the billion mark by ______.",
+    "answer": "2000"
+  },
+  {
+    "question": "India's population crossed 1.2 billion in May ______.",
+    "answer": "2011"
+  },
+  {
+    "question": "A rapid decline in ______ rate, maternal mortality rate (MMR) and infant mortality rate (IMR) are probable reasons for population growth.",
+    "answer": "death"
+  },
+  {
+    "question": "A rapid decline in death rate, ______ mortality rate (MMR) and infant mortality rate (IMR) are probable reasons for population growth.",
+    "answer": "maternal"
+  },
+  {
+    "question": "A rapid decline in death rate, maternal mortality rate (MMR) and ______ mortality rate (IMR) are probable reasons for population growth.",
+    "answer": "infant"
+  },
+  {
+    "question": "An increase in number of people in ______ age is a probable reason for population growth.",
+    "answer": "reproducible"
+  },
+  {
+    "question": "Through our Reproductive Child Health (RCH) programme we could bring down the population growth rate only ______.",
+    "answer": "marginally"
+  },
+  {
+    "question": "According to the ______ census report, the population growth rate was less than 2 per cent.",
+    "answer": "2011"
+  },
+  {
+    "question": "The population growth rate was less than 2 per cent, i.e., ______/1000/year.",
+    "answer": "20"
+  },
+  {
+    "question": "Such an alarming growth rate could lead to scarcity of basic requirements like food, shelter and ______.",
+    "answer": "clothing"
+  },
+  {
+    "question": "The government was forced to take up serious measures to check the population ______ rate.",
+    "answer": "growth"
+  },
+  {
+    "question": "The most important step to overcome the problem is to motivate ______ families by using various contraceptive methods.",
+    "answer": "smaller"
+  },
+  {
+    "question": "Advertisements in the media show a happy couple with two children with the slogan ______.",
+    "answer": "Hum Do Hamare Do"
+  },
+  {
+    "question": "Many young, urban, working couples have adopted a ‘______ child norm’.",
+    "answer": "one"
+  },
+  {
+    "question": "Statutory raising of marriageable age of females to ______ years is one measure taken.",
+    "answer": "18"
+  },
+  {
+    "question": "Statutory raising of marriageable age of males to ______ years is one measure taken.",
+    "answer": "21"
+  },
+  {
+    "question": "Incentives given to couples with ______ families are measures taken to tackle population growth.",
+    "answer": "small"
+  },
+  {
+    "question": "An ideal contraceptive should be user-friendly, easily available, effective and ______.",
+    "answer": "reversible"
+  },
+  {
+    "question": "An ideal contraceptive should have no or least ______-effects.",
+    "answer": "side"
+  },
+  {
+    "question": "An ideal contraceptive should not interfere with the sexual ______ of the user.",
+    "answer": "drive"
+  },
+  {
+    "question": "An ideal contraceptive should not interfere with the sexual drive, desire and/or the sexual ______ of the user.",
+    "answer": "act"
+  },
+  {
+    "question": "A wide range of contraceptive methods are presently ______.",
+    "answer": "available"
+  },
+  {
+    "question": "Contraceptive methods could be broadly grouped into Natural/Traditional, Barrier, ______, Oral contraceptives, Injectables, Implants and Surgical methods.",
+    "answer": "IUDs"
+  },
+  {
+    "question": "Contraceptive methods include Natural/Traditional, Barrier, IUDs, Oral contraceptives, ______, Implants and Surgical methods.",
+    "answer": "Injectables"
+  },
+  {
+    "question": "Contraceptive methods include Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, ______ and Surgical methods.",
+    "answer": "Implants"
+  },
+  {
+    "question": "Contraceptive methods include Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and ______ methods.",
+    "answer": "Surgical"
+  },
+  {
+    "question": "World population in 1900 was about ______ million.",
+    "answer": "2000"
+  },
+  {
+    "question": "By 2000, world population increased to about ______ billion.",
+    "answer": "6"
+  },
+  {
+    "question": "By 2011, world population increased to about ______ billion.",
+    "answer": "7.2"
+  },
+  {
+    "question": "Our population reached close to a ______ mark by 2000.",
+    "answer": "billion"
+  },
+  {
+    "question": "Our population crossed ______ billion in May 2011.",
+    "answer": "1.2"
+  },
+  {
+    "question": "Population growth rate according to 2011 census was less than ______ per cent.",
+    "answer": "2"
+  },
+  {
+    "question": "Population growth rate according to 2011 census was ______/1000/year.",
+    "answer": "20"
+  },
+  {
+    "question": "Basic requirements include food, shelter and ______.",
+    "answer": "clothing"
+  },
+  {
+    "question": "Hum Do Hamare Do translates to 'we two, our ______'.",
+    "answer": "two"
+  },
+  {
+    "question": "Marriageable age for females is ______ years.",
+    "answer": "18"
+  },
+  {
+    "question": "Marriageable age for males is ______ years.",
+    "answer": "21"
+  },
+  {
+    "question": "An ideal contraceptive should be ______-friendly.",
+    "answer": "user"
+  },
+  {
+    "question": "An ideal contraceptive should be easily ______.",
+    "answer": "available"
+  },
+  {
+    "question": "An ideal contraceptive should be effective and ______.",
+    "answer": "reversible"
+  },
+  {
+    "question": "It should not interfere with the sexual ______ of the user.",
+    "answer": "drive"
+  },
+  {
+    "question": "Contraceptive methods can be Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants, and ______ methods.",
+    "answer": "Surgical"
+  },
+  {
+    "question": "Our RCH programme helped to bring down the population growth rate only ______.",
+    "answer": "marginally"
+  },
+  {
+    "question": "The slogan Hum Do Hamare Do promotes having ______ children.",
+    "answer": "two"
+  },
+  {
+    "question": "Many young, urban, working couples have adopted a one child ______.",
+    "answer": "norm"
+  },
+  {
+    "question": "Incentives are given to couples with ______ families.",
+    "answer": "small"
+  },
+  {
+    "question": "Contraceptive methods include Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and ______ methods.",
+    "answer": "Surgical"
+  },
+  {
+    "question": "The world population was around ______ billion in 1900.",
+    "answer": "2"
+  },
+  {
+    "question": "India's population at independence was approximately ______ million.",
+    "answer": "350"
+  },
+  {
+    "question": "Number of people in ______ age increased, contributing to population growth.",
+    "answer": "reproducible"
+  },
+  {
+    "question": "Government took serious measures to check ______ growth rate.",
+    "answer": "population"
+  },
+  {
+    "question": "Motivating smaller families is an important ______.",
+    "answer": "step"
+  },
+  {
+    "question": "Contraceptive should not interfere with sexual drive, desire or sexual ______.",
+    "answer": "act"
+  },
+  {
+    "question": "Contraceptive methods are grouped into Natural/Traditional, ______, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods.",
+    "answer": "Barrier"
+  }
+]
