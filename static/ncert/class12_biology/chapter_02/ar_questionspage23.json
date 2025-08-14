@@ -1,0 +1,57 @@
+[
+  {
+    "assertion": "Some nucellar cells surrounding the embryo sac start dividing and develop into embryos.",
+    "reason": "Occurrence of more than one embryo in a seed is referred to as polyembryony.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Hybrid varieties of several food and vegetable crops are extensively cultivated.",
+    "reason": "Cultivation of hybrids has tremendously increased productivity.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Hybrid seeds have to be produced every year.",
+    "reason": "Seeds collected from hybrids, if sown, will segregate and do not maintain hybrid characters.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "If hybrids are made into apomicts, there is no segregation of characters in the progeny.",
+    "reason": "Farmers can keep using hybrid seeds year after year without buying new seeds.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Active research on apomixis is going on in many laboratories around the world.",
+    "reason": "The aim is to understand the genetics of apomixis and transfer apomictic genes into hybrid varieties.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  }
+]
