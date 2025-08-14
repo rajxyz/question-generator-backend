@@ -1,1 +1,44 @@
-
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Parthenocarpic fruits",
+      "Banana",
+      "Induced parthenocarpy",
+      "Parthenocarpic fruits characteristic"
+    ],
+    "columnB": [
+      "Develop without fertilisation",
+      "Example of parthenocarpic fruit",
+      "Application of growth hormones",
+      "Seedless"
+    ],
+    "answer": {
+      "Parthenocarpic fruits": "Develop without fertilisation",
+      "Banana": "Example of parthenocarpic fruit",
+      "Induced parthenocarpy": "Application of growth hormones",
+      "Parthenocarpic fruits characteristic": "Seedless"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Pollination and fertilisation independence",
+      "Seed formation dependability",
+      "Adaptive strategy of seeds",
+      "Colonisation help of seeds"
+    ],
+    "columnB": [
+      "Independent of water",
+      "More dependable",
+      "Dispersal to new habitats",
+      "Help the species to colonies in other area"
+    ],
+    "answer": {
+      "Pollination and fertilisation independence": "Independent of water",
+      "Seed formation dependability": "More dependable",
+      "Adaptive strategy of seeds": "Dispersal to new habitats",
+      "Colonisation help of seeds": "Help the species to colonies in other area"
+    }
+  }
+]
