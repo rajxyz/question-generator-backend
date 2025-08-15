@@ -81,6 +81,20 @@ app.get("/get-page", (req, res) => {
     const raw = fs.readFileSync(questionsFilePath, "utf-8");
     const questionsJson = JSON.parse(raw);
     pageQuestions = extractAllQuestions(questionsJson, type.toLowerCase());
+
+    // 🛠 Sanitize for Match the Following
+    if (type.toLowerCase() === "match") {
+      pageQuestions = pageQuestions.map(q => {
+        if (Array.isArray(q.matches)) {
+          q.matches = q.matches.map(pair => ({
+            left: pair.left || "",
+            right: pair.right || ""
+          }));
+        }
+        return q;
+      });
+    }
+
   } catch (err) {
     return res.status(500).json({
       status: "error",
