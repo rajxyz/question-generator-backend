@@ -41,8 +41,8 @@
       "C. Assertion is true but Reason is false.",
       "D. Assertion is false but Reason is true."
     ],
-    "
-[
+    "answer": "A"
+  },  
   {
     "assertion": "Assertion: All single-celled eukaryotes are placed under Protista.",
     "reason": "Reason: The boundaries of this kingdom are not well defined.",
