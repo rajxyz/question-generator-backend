@@ -103,9 +103,7 @@
     "question": "Which uterine layer exhibits strong contraction during delivery?",
     "options": ["Perimetrium", "Myometrium", "Endometrium", "Cervical canal"],
     "answer": "Myometrium"
-  }
-]
-[
+  },
   {
     "assertion": "Assertion: The female external genitalia include mons pubis, labia majora, labia minora, hymen and clitoris.",
     "reason": "Reason: Mons pubis is a cushion of fatty tissue covered by skin and pubic hair.",
