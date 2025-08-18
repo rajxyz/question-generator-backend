@@ -1,440 +1,441 @@
 {
-  "paragraph_word_count": 127,
-  "total_questions": 21,
-  "questions": [
+  "chapter": "Human Reproduction",
+  "pages": [
     {
-      "question_number": 1,
-      "question": "Which NCERT chapter primarily focuses on the human reproductive system and its functions?",
-      "options": {
-        "A": "Chapter 1 – Reproduction in Organisms",
-        "B": "Chapter 2 – Human Reproduction",
-        "C": "Chapter 3 – Reproductive Health",
-        "D": "Chapter 4 – Evolution"
-      },
-      "answer": "B"
+      "paragraph_word_count": 127,
+      "total_questions": 21,
+      "questions": [
+        {
+          "question_number": 1,
+          "question": "Which NCERT chapter primarily focuses on the human reproductive system and its functions?",
+          "options": {
+            "A": "Chapter 1 – Reproduction in Organisms",
+            "B": "Chapter 2 – Human Reproduction",
+            "C": "Chapter 3 – Reproductive Health",
+            "D": "Chapter 4 – Evolution"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 2,
+          "question": "What is the closely related topic discussed after the human reproductive system?",
+          "options": {
+            "A": "Endocrine system",
+            "B": "Nervous system",
+            "C": "Reproductive health",
+            "D": "Embryonic development"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 3,
+          "question": "The term 'reproductive health' primarily refers to?",
+          "options": {
+            "A": "Ability to produce offspring",
+            "B": "Healthy reproductive organs with normal function",
+            "C": "Only emotional state during reproduction",
+            "D": "Nutrition for reproduction"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 4,
+          "question": "Reproductive health includes which of the following aspects?",
+          "options": {
+            "A": "Only physical aspects",
+            "B": "Only mental aspects",
+            "C": "Only hormonal aspects",
+            "D": "Emotional and social aspects"
+          },
+          "answer": "D"
+        },
+        {
+          "question_number": 5,
+          "question": "According to WHO, reproductive health means?",
+          "options": {
+            "A": "Mental peace during reproduction",
+            "B": "Proper hormonal functioning only",
+            "C": "Total well-being in all aspects of reproduction",
+            "D": "Absence of reproductive diseases only"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 6,
+          "question": "Which organization defined reproductive health as total well-being?",
+          "options": {
+            "A": "UNESCO",
+            "B": "WHO",
+            "C": "UNICEF",
+            "D": "NCERT"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 7,
+          "question": "Which of the following is NOT a component of reproductive health per WHO?",
+          "options": {
+            "A": "Physical",
+            "B": "Emotional",
+            "C": "Economic",
+            "D": "Behavioural"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 8,
+          "question": "Which statement correctly defines a reproductively healthy society?",
+          "options": {
+            "A": "Only physically healthy people",
+            "B": "People with normal sexual behavior and reproductive organs",
+            "C": "People without any children",
+            "D": "Population control is maintained"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 9,
+          "question": "A reproductively healthy society should have?",
+          "options": {
+            "A": "Only low birth rate",
+            "B": "Abstinence from sexual activity",
+            "C": "Normal reproductive functions and emotional interactions",
+            "D": "High economic growth"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 10,
+          "question": "Which interaction is essential in a reproductively healthy society?",
+          "options": {
+            "A": "Religious interaction",
+            "B": "Economic interaction",
+            "C": "Sex-related emotional and behavioral interaction",
+            "D": "Educational interaction"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 11,
+          "question": "What is the importance of reproductive health?",
+          "options": {
+            "A": "Increases lifespan",
+            "B": "Reduces body weight",
+            "C": "Ensures overall well-being in reproduction",
+            "D": "Boosts sports performance"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 12,
+          "question": "Which of these is a goal of reproductive health?",
+          "options": {
+            "A": "Uncontrolled population",
+            "B": "Ignorance about STDs",
+            "C": "Awareness and prevention of reproductive diseases",
+            "D": "Isolation of individuals"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 13,
+          "question": "Which is NOT a method to achieve reproductive health?",
+          "options": {
+            "A": "Medical intervention",
+            "B": "Awareness programs",
+            "C": "Social taboos",
+            "D": "Family planning"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 14,
+          "question": "Sex-related education in schools aims at?",
+          "options": {
+            "A": "Increasing early marriage",
+            "B": "Reducing awareness",
+            "C": "Promoting safe reproductive behavior",
+            "D": "Preventing physical activity"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 15,
+          "question": "Why is it significant to maintain reproductive health?",
+          "options": {
+            "A": "To reduce body temperature",
+            "B": "To ensure overall reproductive well-being",
+            "C": "To increase exam performance",
+            "D": "To avoid vaccination"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 16,
+          "question": "What does WHO stand for?",
+          "options": {
+            "A": "World Help Organisation",
+            "B": "World Human Order",
+            "C": "World Health Organisation",
+            "D": "World History Observatory"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 17,
+          "question": "Normal functioning of reproductive organs implies?",
+          "options": {
+            "A": "Ability to digest food",
+            "B": "Proper gamete production and hormonal balance",
+            "C": "Increased heartbeat",
+            "D": "Blood clotting"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 18,
+          "question": "Social aspect of reproduction includes?",
+          "options": {
+            "A": "Food sharing",
+            "B": "Economic planning",
+            "C": "Responsible sexual behavior",
+            "D": "Political discussions"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 19,
+          "question": "Which of these reflects behavioural aspect of reproduction?",
+          "options": {
+            "A": "Blood pressure maintenance",
+            "B": "Emotional bonding and responsibility",
+            "C": "Cell respiration",
+            "D": "Water absorption"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 20,
+          "question": "What kind of society is considered reproductively healthy?",
+          "options": {
+            "A": "Only male-dominant society",
+            "B": "Population explosion society",
+            "C": "Physically and emotionally reproductive society",
+            "D": "Society with high STDs"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 21,
+          "question": "Which phrase best completes: Let us examine...",
+          "options": {
+            "A": "...the reproductive cycle.",
+            "B": "...the sexual intercourse process.",
+            "C": "...the methods to achieve reproductive health.",
+            "D": "...the signs of puberty."
+          },
+          "answer": "C"
+        }
+      ]
     },
     {
-      "question_number": 2,
-      "question": "What is the closely related topic discussed after the human reproductive system?",
-      "options": {
-        "A": "Endocrine system",
-        "B": "Nervous system",
-        "C": "Reproductive health",
-        "D": "Embryonic development"
-      },
-      "answer": "C"
+      "paragraph_word_count": 48,
+      "total_questions": 8,
+      "questions": [
+        {
+          "question_number": 22,
+          "question": "India was among the first countries in the world to initiate action plans for what purpose?",
+          "options": {
+            "A": "Industrial growth",
+            "B": "Genetic research",
+            "C": "Total reproductive health",
+            "D": "Space exploration"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 23,
+          "question": "Which of the following best describes India's approach to reproductive health?",
+          "options": {
+            "A": "Reactive and slow",
+            "B": "One of the first to act globally",
+            "C": "Started only in 2000s",
+            "D": "Ignored the issue until WHO intervened"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 24,
+          "question": "What was the nature of India's reproductive health initiative?",
+          "options": {
+            "A": "Village-level only",
+            "B": "International collaboration",
+            "C": "National level action plans and programmes",
+            "D": "Focused only on men"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 25,
+          "question": "What was the primary goal of these national programmes?",
+          "options": {
+            "A": "Promoting childbirth",
+            "B": "Creating jobs",
+            "C": "Reproductive health as a social goal",
+            "D": "Urban development"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 26,
+          "question": "What were these national reproductive health programmes called?",
+          "options": {
+            "A": "Pulse Polio",
+            "B": "Swachh Bharat",
+            "C": "Family planning",
+            "D": "Jan Dhan Yojana"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 27,
+          "question": "In which year was the family planning programme initiated in India?",
+          "options": {
+            "A": "1947",
+            "B": "1951",
+            "C": "1962",
+            "D": "1975"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 28,
+          "question": "How often have these family planning programmes been evaluated?",
+          "options": {
+            "A": "Only once",
+            "B": "Never",
+            "C": "Periodically over past decades",
+            "D": "Every month"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 29,
+          "question": "The 1951 family planning programme in India aimed to?",
+          "options": {
+            "A": "Increase population size",
+            "B": "Provide universal free healthcare",
+            "C": "Control population and improve reproductive health",
+            "D": "Ban contraceptives"
+          },
+          "answer": "C"
+        }
+      ]
     },
     {
-      "question_number": 3,
-      "question": "The term 'reproductive health' primarily refers to?",
-      "options": {
-        "A": "Ability to produce offspring",
-        "B": "Healthy reproductive organs with normal function",
-        "C": "Only emotional state during reproduction",
-        "D": "Nutrition for reproduction"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 4,
-      "question": "Reproductive health includes which of the following aspects?",
-      "options": {
-        "A": "Only physical aspects",
-        "B": "Only mental aspects",
-        "C": "Only hormonal aspects",
-        "D": "Emotional and social aspects"
-      },
-      "answer": "D"
-    },
-    {
-      "question_number": 5,
-      "question": "According to WHO, reproductive health means?",
-      "options": {
-        "A": "Mental peace during reproduction",
-        "B": "Proper hormonal functioning only",
-        "C": "Total well-being in all aspects of reproduction",
-        "D": "Absence of reproductive diseases only"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 6,
-      "question": "Which organization defined reproductive health as total well-being?",
-      "options": {
-        "A": "UNESCO",
-        "B": "WHO",
-        "C": "UNICEF",
-        "D": "NCERT"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 7,
-      "question": "Which of the following is NOT a component of reproductive health per WHO?",
-      "options": {
-        "A": "Physical",
-        "B": "Emotional",
-        "C": "Economic",
-        "D": "Behavioural"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 8,
-      "question": "Which statement correctly defines a reproductively healthy society?",
-      "options": {
-        "A": "Only physically healthy people",
-        "B": "People with normal sexual behavior and reproductive organs",
-        "C": "People without any children",
-        "D": "Population control is maintained"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 9,
-      "question": "A reproductively healthy society should have?",
-      "options": {
-        "A": "Only low birth rate",
-        "B": "Abstinence from sexual activity",
-        "C": "Normal reproductive functions and emotional interactions",
-        "D": "High economic growth"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 10,
-      "question": "Which interaction is essential in a reproductively healthy society?",
-      "options": {
-        "A": "Religious interaction",
-        "B": "Economic interaction",
-        "C": "Sex-related emotional and behavioral interaction",
-        "D": "Educational interaction"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 11,
-      "question": "What is the importance of reproductive health?",
-      "options": {
-        "A": "Increases lifespan",
-        "B": "Reduces body weight",
-        "C": "Ensures overall well-being in reproduction",
-        "D": "Boosts sports performance"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 12,
-      "question": "Which of these is a goal of reproductive health?",
-      "options": {
-        "A": "Uncontrolled population",
-        "B": "Ignorance about STDs",
-        "C": "Awareness and prevention of reproductive diseases",
-        "D": "Isolation of individuals"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 13,
-      "question": "Which is NOT a method to achieve reproductive health?",
-      "options": {
-        "A": "Medical intervention",
-        "B": "Awareness programs",
-        "C": "Social taboos",
-        "D": "Family planning"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 14,
-      "question": "Sex-related education in schools aims at?",
-      "options": {
-        "A": "Increasing early marriage",
-        "B": "Reducing awareness",
-        "C": "Promoting safe reproductive behavior",
-        "D": "Preventing physical activity"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 15,
-      "question": "Why is it significant to maintain reproductive health?",
-      "options": {
-        "A": "To reduce body temperature",
-        "B": "To ensure overall reproductive well-being",
-        "C": "To increase exam performance",
-        "D": "To avoid vaccination"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 16,
-      "question": "What does WHO stand for?",
-      "options": {
-        "A": "World Help Organisation",
-        "B": "World Human Order",
-        "C": "World Health Organisation",
-        "D": "World History Observatory"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 17,
-      "question": "Normal functioning of reproductive organs implies?",
-      "options": {
-        "A": "Ability to digest food",
-        "B": "Proper gamete production and hormonal balance",
-        "C": "Increased heartbeat",
-        "D": "Blood clotting"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 18,
-      "question": "Social aspect of reproduction includes?",
-      "options": {
-        "A": "Food sharing",
-        "B": "Economic planning",
-        "C": "Responsible sexual behavior",
-        "D": "Political discussions"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 19,
-      "question": "Which of these reflects behavioural aspect of reproduction?",
-      "options": {
-        "A": "Blood pressure maintenance",
-        "B": "Emotional bonding and responsibility",
-        "C": "Cell respiration",
-        "D": "Water absorption"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 20,
-      "question": "What kind of society is considered reproductively healthy?",
-      "options": {
-        "A": "Only male-dominant society",
-        "B": "Population explosion society",
-        "C": "Physically and emotionally reproductive society",
-        "D": "Society with high STDs"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 21,
-      "question": "Which phrase best completes: Let us examine...",
-      "options": {
-        "A": "...the reproductive cycle.",
-        "B": "...the sexual intercourse process.",
-        "C": "...the methods to achieve reproductive health.",
-        "D": "...the signs of puberty."
-      },
-      "answer": "C"
-    }
-  ]
-}
-
-
-
-{
-  "paragraph_word_count": 48,
-  "total_questions": 8,
-  "questions": [
-    {
-      "question_number": 1,
-      "question": "India was among the first countries in the world to initiate action plans for what purpose?",
-      "options": {
-        "A": "Industrial growth",
-        "B": "Genetic research",
-        "C": "Total reproductive health",
-        "D": "Space exploration"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 2,
-      "question": "Which of the following best describes India's approach to reproductive health?",
-      "options": {
-        "A": "Reactive and slow",
-        "B": "One of the first to act globally",
-        "C": "Started only in 2000s",
-        "D": "Ignored the issue until WHO intervened"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 3,
-      "question": "What was the nature of India's reproductive health initiative?",
-      "options": {
-        "A": "Village-level only",
-        "B": "International collaboration",
-        "C": "National level action plans and programmes",
-        "D": "Focused only on men"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 4,
-      "question": "What was the primary goal of these national programmes?",
-      "options": {
-        "A": "Promoting childbirth",
-        "B": "Creating jobs",
-        "C": "Reproductive health as a social goal",
-        "D": "Urban development"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 5,
-      "question": "What were these national reproductive health programmes called?",
-      "options": {
-        "A": "Pulse Polio",
-        "B": "Swachh Bharat",
-        "C": "Family planning",
-        "D": "Jan Dhan Yojana"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 6,
-      "question": "In which year was the family planning programme initiated in India?",
-      "options": {
-        "A": "1947",
-        "B": "1951",
-        "C": "1962",
-        "D": "1975"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 7,
-      "question": "How often have these family planning programmes been evaluated?",
-      "options": {
-        "A": "Only once",
-        "B": "Never",
-        "C": "Periodically over past decades",
-        "D": "Every month"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 8,
-      "question": "The 1951 family planning programme in India aimed to?",
-      "options": {
-        "A": "Increase population size",
-        "B": "Provide universal free healthcare",
-        "C": "Control population and improve reproductive health",
-        "D": "Ban contraceptives"
-      },
-      "answer": "C"
-    }
-  ]
-}
-
-{
-  "paragraph_word_count": 54,
-  "total_questions": 9,
-  "questions": [
-    {
-      "question_number": 1,
-      "question": "What is the current name of the improved reproductive health programme in India?",
-      "options": {
-        "A": "Family Planning Scheme",
-        "B": "Rural Health Mission",
-        "C": "Reproductive and Child Health Care (RCH)",
-        "D": "Women’s Safety Program"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 2,
-      "question": "Which area is now covered more widely under improved reproductive programmes?",
-      "options": {
-        "A": "Only male sterilization",
-        "B": "Only prenatal diagnosis",
-        "C": "Various reproduction-related areas",
-        "D": "Sports activities"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 3,
-      "question": "What is the main aim of RCH programmes?",
-      "options": {
-        "A": "Improving agricultural practices",
-        "B": "Creating awareness and providing facilities",
-        "C": "Promoting early marriage",
-        "D": "Only distributing contraceptives"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 4,
-      "question": "RCH stands for?",
-      "options": {
-        "A": "Reproductive and Cellular Health",
-        "B": "Reproductive and Child Health",
-        "C": "Rural Child Hygiene",
-        "D": "Radiological Child Healthcare"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 5,
-      "question": "Creating awareness among people is a major task under which programme?",
-      "options": {
-        "A": "Pulse Polio",
-        "B": "RCH programme",
-        "C": "MGNREGA",
-        "D": "Swachh Bharat"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 6,
-      "question": "Which of the following is NOT a goal of RCH programmes?",
-      "options": {
-        "A": "Providing reproductive health facilities",
-        "B": "Creating public awareness",
-        "C": "Promoting reproductive diseases",
-        "D": "Building a healthy society"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 7,
-      "question": "Which programmes are currently operating for reproductive health in India?",
-      "options": {
-        "A": "ICDS",
-        "B": "RCH programmes",
-        "C": "Ayushman Bharat only",
-        "D": "NPTEL"
-      },
-      "answer": "B"
-    },
-    {
-      "question_number": 8,
-      "question": "Facilities under RCH programmes aim to?",
-      "options": {
-        "A": "Promote competition",
-        "B": "Control climate change",
-        "C": "Build a reproductively healthy society",
-        "D": "Support higher education"
-      },
-      "answer": "C"
-    },
-    {
-      "question_number": 9,
-      "question": "Which of these is emphasized in RCH programmes?",
-      "options": {
-        "A": "Sexual silence in society",
-        "B": "Economic growth only",
-        "C": "Awareness of reproductive aspects",
-        "D": "Ban on reproductive education"
-      },
-      "answer": "C"
+      "paragraph_word_count": 54,
+      "total_questions": 9,
+      "questions": [
+        {
+          "question_number": 30,
+          "question": "What is the current name of the improved reproductive health programme in India?",
+          "options": {
+            "A": "Family Planning Scheme",
+            "B": "Rural Health Mission",
+            "C": "Reproductive and Child Health Care (RCH)",
+            "D": "Women’s Safety Program"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 31,
+          "question": "Which area is now covered more widely under improved reproductive programmes?",
+          "options": {
+            "A": "Only male sterilization",
+            "B": "Only prenatal diagnosis",
+            "C": "Various reproduction-related areas",
+            "D": "Sports activities"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 32,
+          "question": "What is the main aim of RCH programmes?",
+          "options": {
+            "A": "Improving agricultural practices",
+            "B": "Creating awareness and providing facilities",
+            "C": "Promoting early marriage",
+            "D": "Only distributing contraceptives"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 33,
+          "question": "RCH stands for?",
+          "options": {
+            "A": "Reproductive and Cellular Health",
+            "B": "Reproductive and Child Health",
+            "C": "Rural Child Hygiene",
+            "D": "Radiological Child Healthcare"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 34,
+          "question": "Creating awareness among people is a major task under which programme?",
+          "options": {
+            "A": "Pulse Polio",
+            "B": "RCH programme",
+            "C": "MGNREGA",
+            "D": "Swachh Bharat"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 35,
+          "question": "Which of the following is NOT a goal of RCH programmes?",
+          "options": {
+            "A": "Providing reproductive health facilities",
+            "B": "Creating public awareness",
+            "C": "Promoting reproductive diseases",
+            "D": "Building a healthy society"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 36,
+          "question": "Which programmes are currently operating for reproductive health in India?",
+          "options": {
+            "A": "ICDS",
+            "B": "RCH programmes",
+            "C": "Ayushman Bharat only",
+            "D": "NPTEL"
+          },
+          "answer": "B"
+        },
+        {
+          "question_number": 37,
+          "question": "Facilities under RCH programmes aim to?",
+          "options": {
+            "A": "Promote competition",
+            "B": "Control climate change",
+            "C": "Build a reproductively healthy society",
+            "D": "Support higher education"
+          },
+          "answer": "C"
+        },
+        {
+          "question_number": 38,
+          "question": "Which of these is emphasized in RCH programmes?",
+          "options": {
+            "A": "Sexual silence in society",
+            "B": "Economic growth only",
+            "C": "Awareness of reproductive aspects",
+            "D": "Ban on reproductive education"
+          },
+          "answer": "C"
+        }
+      ]
     }
   ]
 }
