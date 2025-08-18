@@ -1,0 +1,235 @@
+{
+  "total_words": 131,
+  "questions": [
+    {
+      "question": "Oral administration of small doses is used for?",
+      "options": ["Contraception", "Diabetes", "Thyroid control", "Hair growth"],
+      "answer": "Contraception"
+    },
+    {
+      "question": "Which hormone is used in oral contraceptives?",
+      "options": ["Insulin", "Thyroxine", "Progestogens", "Adrenaline"],
+      "answer": "Progestogens"
+    },
+    {
+      "question": "Oral contraceptives contain progestogen with?",
+      "options": ["FSH", "Estrogen", "Testosterone", "Oxytocin"],
+      "answer": "Estrogen"
+    },
+    {
+      "question": "These contraceptives are available in which form?",
+      "options": ["Injections", "Syrup", "Tablets", "Implants"],
+      "answer": "Tablets"
+    },
+    {
+      "question": "Contraceptive tablets are popularly known as?",
+      "options": ["Shots", "Patches", "Pills", "IUDs"],
+      "answer": "Pills"
+    },
+    {
+      "question": "Pills are taken daily for?",
+      "options": ["10 days", "21 days", "7 days", "30 days"],
+      "answer": "21 days"
+    },
+    {
+      "question": "Pills should start within how many days of menstrual cycle?",
+      "options": ["10 days", "First 5 days", "Last 5 days", "14th day"],
+      "answer": "First 5 days"
+    },
+    {
+      "question": "How many days are skipped after 21 pills?",
+      "options": ["3", "5", "7", "9"],
+      "answer": "7"
+    },
+    {
+      "question": "What usually occurs during the 7-day gap?",
+      "options": ["Ovulation", "Implantation", "Fertilization", "Menstruation"],
+      "answer": "Menstruation"
+    },
+    {
+      "question": "Pills are repeated in same pattern until?",
+      "options": ["Menopause", "Delivery", "Pregnancy", "Desire to prevent conception"],
+      "answer": "Desire to prevent conception"
+    },
+    {
+      "question": "Oral pills inhibit which two key processes?",
+      "options": ["Ovulation & implantation", "Fertilization & lactation", "Menstruation & puberty", "Placenta & ovulation"],
+      "answer": "Ovulation & implantation"
+    },
+    {
+      "question": "Cervical mucus quality is altered to?",
+      "options": ["Enhance sperm flow", "Stop menstruation", "Prevent sperm entry", "Help zygote form"],
+      "answer": "Prevent sperm entry"
+    },
+    {
+      "question": "Pills are well accepted due to?",
+      "options": ["More hormones", "Side effects", "Effectiveness", "Surgery"],
+      "answer": "Effectiveness"
+    },
+    {
+      "question": "Saheli is what type of contraceptive?",
+      "options": ["Implant", "Patch", "Oral pill", "Injection"],
+      "answer": "Oral pill"
+    },
+    {
+      "question": "Saheli contains which type of compound?",
+      "options": ["Steroidal", "Protein", "Non-steroidal", "Vitamin-based"],
+      "answer": "Non-steroidal"
+    },
+    {
+      "question": "How often is Saheli taken?",
+      "options": ["Daily", "Twice a week", "Once a week", "Monthly"],
+      "answer": "Once a week"
+    },
+    {
+      "question": "Which of the following has high contraceptive value?",
+      "options": ["IUD", "Copper-T", "Saheli", "None"],
+      "answer": "Saheli"
+    },
+    {
+      "question": "Pills are used mainly by?",
+      "options": ["Males", "Children", "Females", "Elderly"],
+      "answer": "Females"
+    },
+    {
+      "question": "Entry of sperm is prevented by?",
+      "options": ["Acid", "Cervical mucus change", "IUD", "Ovulation"],
+      "answer": "Cervical mucus change"
+    },
+    {
+      "question": "Pills are considered safe because?",
+      "options": ["Cheap", "No hormones", "Less side effects", "Injectable"],
+      "answer": "Less side effects"
+    },
+{
+  "total_words": 72,
+  "questions": [
+    {
+      "question": "Which of the following contraceptive methods can be administered under the skin?",
+      "options": ["Copper-T", "Saheli", "Implants", "Vasectomy"],
+      "answer": "Implants"
+    },
+    {
+      "question": "What hormones are used in female contraceptive implants?",
+      "options": ["Progestogens only", "Estrogens only", "Progestogens or progestogen-estrogen combinations", "FSH and LH"],
+      "answer": "Progestogens or progestogen-estrogen combinations"
+    },
+    {
+      "question": "Which statement is true about the mode of action of female contraceptive implants?",
+      "options": [
+        "It differs significantly from pills",
+        "It is similar to that of pills",
+        "It involves surgical removal of ovaries",
+        "It blocks fallopian tubes"
+      ],
+      "answer": "It is similar to that of pills"
+    },
+    {
+      "question": "Which contraceptive method has a longer effective period?",
+      "options": ["Pills", "Implants", "Condoms", "Cervical cap"],
+      "answer": "Implants"
+    },
+    {
+      "question": "Within how many hours of coitus should emergency contraceptives be used?",
+      "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
+      "answer": "72 hours"
+    },
+    {
+      "question": "Which of the following can act as emergency contraceptives?",
+      "options": ["IUDs", "Antibiotics", "Estrogen blockers", "Antihistamines"],
+      "answer": "IUDs"
+    },
+    {
+      "question": "Emergency contraceptives can help prevent pregnancy in which condition?",
+      "options": [
+        "Menopause",
+        "After vasectomy",
+        "After rape or unprotected sex",
+        "During menstruation"
+      ],
+      "answer": "After rape or unprotected sex"
+    },
+{
+  "total_words": 97,
+  "questions": [
+    {
+      "question": "What are surgical methods of contraception also called?",
+      "options": ["Abortion", "Barrier methods", "Sterilisation", "Intrauterine methods"],
+      "answer": "Sterilisation"
+    },
+    {
+      "question": "Surgical methods are generally advised as which type of method?",
+      "options": ["Temporary", "Hormonal", "Emergency", "Terminal"],
+      "answer": "Terminal"
+    },
+    {
+      "question": "What is the primary function of surgical contraceptive methods?",
+      "options": [
+        "Increase gamete production",
+        "Enhance fertilization",
+        "Block gamete transport",
+        "Stimulate ovulation"
+      ],
+      "answer": "Block gamete transport"
+    },
+    {
+      "question": "What is the name of the sterilisation procedure in males?",
+      "options": ["Tubectomy", "Hysterectomy", "Vasectomy", "Oophorectomy"],
+      "answer": "Vasectomy"
+    },
+    {
+      "question": "In vasectomy, which part is removed or tied?",
+      "options": ["Urethra", "Vas deferens", "Epididymis", "Testis"],
+      "answer": "Vas deferens"
+    },
+    {
+      "question": "How is vasectomy generally performed?",
+      "options": [
+        "Through oral pills",
+        "Via abdominal surgery",
+        "Through small incision on scrotum",
+        "By injecting hormones"
+      ],
+      "answer": "Through small incision on scrotum"
+    },
+    {
+      "question": "What is the sterilisation procedure in females called?",
+      "options": ["Hysterectomy", "Tubectomy", "Vasectomy", "Oophorectomy"],
+      "answer": "Tubectomy"
+    },
+    {
+      "question": "In tubectomy, which part is removed or tied?",
+      "options": ["Ovary", "Cervix", "Fallopian tube", "Uterus"],
+      "answer": "Fallopian tube"
+    },
+    {
+      "question": "Tubectomy can be performed through which routes?",
+      "options": [
+        "Only abdominal incision",
+        "Only vaginal incision",
+        "Either abdominal or vaginal incision",
+        "Oral medication"
+      ],
+      "answer": "Either abdominal or vaginal incision"
+    },
+    {
+      "question": "Which of the following is true about sterilisation techniques?",
+      "options": [
+        "They are easily reversible",
+        "They enhance fertility",
+        "They are highly effective",
+        "They require daily use"
+      ],
+      "answer": "They are highly effective"
+    },
+    {
+      "question": "What is the reversibility status of surgical sterilisation methods?",
+      "options": [
+        "Highly reversible",
+        "Completely reversible",
+        "Very poor reversibility",
+        "No impact on reversibility"
+      ],
+      "answer": "Very poor reversibility"
+    }
+  
