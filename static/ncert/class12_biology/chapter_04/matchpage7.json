@@ -1,0 +1,128 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Sexually transmitted infections (STI)",
+      "Venereal diseases (VD)",
+      "Reproductive tract infections (RTI)",
+      "HIV leading to AIDS"
+    ],
+    "columnB": [
+      "Also called venereal diseases (VD)",
+      "Also called reproductive tract infections (RTI)",
+      "Most dangerous infection",
+      "Also called sexually transmitted infections (STI)"
+    ],
+    "answer": {
+      "Sexually transmitted infections (STI)": "Also called venereal diseases (VD)",
+      "Venereal diseases (VD)": "Also called reproductive tract infections (RTI)",
+      "Reproductive tract infections (RTI)": "Also called sexually transmitted infections (STI)",
+      "HIV leading to AIDS": "Most dangerous infection"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Gonorrhoea",
+      "Syphilis",
+      "Genital herpes",
+      "Hepatitis-B"
+    ],
+    "columnB": [
+      "Common STI",
+      "Common STI",
+      "Common STI",
+      "Common STI"
+    ],
+    "answer": {
+      "Gonorrhoea": "Common STI",
+      "Syphilis": "Common STI",
+      "Genital herpes": "Common STI",
+      "Hepatitis-B": "Common STI"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Sharing of injection needles",
+      "Surgical instruments",
+      "Transfusion of blood",
+      "Infected mother to the foetus"
+    ],
+    "columnB": [
+      "Mode of transmission of hepatitis-B and HIV",
+      "Mode of transmission of hepatitis-B and HIV",
+      "Mode of transmission of hepatitis-B and HIV",
+      "Mode of transmission of hepatitis-B and HIV"
+    ],
+    "answer": {
+      "Sharing of injection needles": "Mode of transmission of hepatitis-B and HIV",
+      "Surgical instruments": "Mode of transmission of hepatitis-B and HIV",
+      "Transfusion of blood": "Mode of transmission of hepatitis-B and HIV",
+      "Infected mother to the foetus": "Mode of transmission of hepatitis-B and HIV"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Hepatitis-B",
+      "Genital herpes",
+      "HIV infections",
+      "Other diseases"
+    ],
+    "columnB": [
+      "Completely curable if detected early and treated properly",
+      "Not completely curable",
+      "Not completely curable",
+      "Not completely curable"
+    ],
+    "answer": {
+      "Hepatitis-B": "Not completely curable",
+      "Genital herpes": "Not completely curable",
+      "HIV infections": "Not completely curable",
+      "Other diseases": "Completely curable if detected early and treated properly"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Early symptoms of STIs",
+      "Females",
+      "Complications of untreated STIs",
+      "Age group 15-24 years"
+    ],
+    "columnB": [
+      "May often be asymptomatic and hence, may remain undetected for long",
+      "Include itching, fluid discharge, slight pain, swellings, etc., in the genital region",
+      "Pelvic inflammatory diseases (PID), abortions, still births, ectopic pregnancies, infertility or even cancer of the reproductive tract",
+      "Incidences reported to be very high"
+    ],
+    "answer": {
+      "Early symptoms of STIs": "Include itching, fluid discharge, slight pain, swellings, etc., in the genital region",
+      "Females": "May often be asymptomatic and hence, may remain undetected for long",
+      "Complications of untreated STIs": "Pelvic inflammatory diseases (PID), abortions, still births, ectopic pregnancies, infertility or even cancer of the reproductive tract",
+      "Age group 15-24 years": "Incidences reported to be very high"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Avoid sex with unknown partners/multiple partners",
+      "Always try to use condoms during coitus",
+      "Go to a qualified doctor for early detection",
+      "Get complete treatment if diagnosed with infection"
+    ],
+    "columnB": [
+      "Principle of prevention of STIs",
+      "Principle of prevention of STIs",
+      "Principle of prevention of STIs",
+      "Principle of prevention of STIs"
+    ],
+    "answer": {
+      "Avoid sex with unknown partners/multiple partners": "Principle of prevention of STIs",
+      "Always try to use condoms during coitus": "Principle of prevention of STIs",
+      "Go to a qualified doctor for early detection": "Principle of prevention of STIs",
+      "Get complete treatment if diagnosed with infection": "Principle of prevention of STIs"
+    }
+  }
+]
