@@ -1,0 +1,192 @@
+[
+  {
+    "question": "What is the full form of MTP?",
+    "options": [
+      "Medical Termination of Pregnancy",
+      "Medical Treatment Protocol",
+      "Maternal Termination Procedure",
+      "Medication for Tumor Prevention"
+    ],
+    "answer": "Medical Termination of Pregnancy"
+  },
+  {
+    "question": "What does induced abortion refer to in NCERT?",
+    "options": [
+      "Voluntary termination of pregnancy before full term",
+      "Termination of labor after delivery",
+      "Removal of uterus",
+      "Loss of pregnancy due to accident"
+    ],
+    "answer": "Voluntary termination of pregnancy before full term"
+  },
+  {
+    "question": "How many MTPs are performed worldwide per year?",
+    "options": [
+      "5–10 million",
+      "15–20 million",
+      "45–50 million",
+      "100 million"
+    ],
+    "answer": "45–50 million"
+  },
+  {
+    "question": "What fraction of total conceived pregnancies is terminated by MTP annually?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/5",
+      "1/10"
+    ],
+    "answer": "1/5"
+  },
+  {
+    "question": "Why is MTP debated in many countries?",
+    "options": [
+      "Because of cost",
+      "Due to lack of doctors",
+      "Due to emotional, ethical, religious and social issues",
+      "Due to population increase"
+    ],
+    "answer": "Due to emotional, ethical, religious and social issues"
+  },
+  {
+    "question": "Which year was MTP legalised in India?",
+    "options": [
+      "1961",
+      "1971",
+      "1981",
+      "1991"
+    ],
+    "answer": "1971"
+  },
+  {
+    "question": "Why did the Government of India impose strict conditions on MTP?",
+    "options": [
+      "To increase population",
+      "To allow gender selection",
+      "To avoid misuse of MTP",
+      "To promote traditional medicine"
+    ],
+    "answer": "To avoid misuse of MTP"
+  },
+  {
+    "question": "Which misuse is particularly targeted by MTP restrictions in India?",
+    "options": [
+      "Illegal surgeries",
+      "Gender selection clinics",
+      "Indiscriminate and illegal female foeticides",
+      "Religious conversions"
+    ],
+    "answer": "Indiscriminate and illegal female foeticides"
+  },
+  {
+    "question": "Why are MTP restrictions more important in India?",
+    "options": [
+      "Because of high literacy rates",
+      "Due to high reports of female foeticide",
+      "To encourage population growth",
+      "To regulate adoption laws"
+    ],
+    "answer": "Due to high reports of female foeticide"
+  },
+  {
+    "question": "MTP is also referred to as:",
+    "options": [
+      "Induced abortion",
+      "Spontaneous abortion",
+      "Normal delivery",
+      "Ectopic pregnancy"
+    ],
+    "answer": "Induced abortion"
+  },
+  {
+    "question": "What is the nature of MTP as per NCERT?",
+    "options": [
+      "Mandatory",
+      "Accidental",
+      "Voluntary",
+      "Illegal"
+    ],
+    "answer": "Voluntary"
+  },
+  {
+    "question": "MTP contributes to how much of the total pregnancies globally?",
+    "options": [
+      "One third",
+      "One fifth",
+      "One tenth",
+      "Half"
+    ],
+    "answer": "One fifth"
+  },
+{
+  "word_count": 81,
+  "question_count": 13,
+  "questions": [
+    {
+      "question": "During which trimester is MTP considered relatively safe?",
+      "options": ["First (up to 12 weeks)", "Second (after 12 weeks)", "Third (after 28 weeks)", "None of the above"],
+      "answer": "First (up to 12 weeks)"
+    },
+    {
+      "question": "Up to how many weeks is the first trimester?",
+      "options": ["8 weeks", "10 weeks", "12 weeks", "14 weeks"],
+      "answer": "12 weeks"
+    },
+    {
+      "question": "What is the risk level of second trimester abortions?",
+      "options": ["Safer than first", "Same as first", "Much more riskier", "Completely safe"],
+      "answer": "Much more riskier"
+    },
+    {
+      "question": "Who commonly performs illegal MTPs?",
+      "options": ["Qualified doctors", "Gynecologists", "Unqualified quacks", "Nurses"],
+      "answer": "Unqualified quacks"
+    },
+    {
+      "question": "Illegal MTPs performed by unqualified individuals are:",
+      "options": ["Safe", "Unsafe and potentially fatal", "Legal", "Government approved"],
+      "answer": "Unsafe and potentially fatal"
+    },
+    {
+      "question": "What medical technique is misused to determine the sex of the foetus?",
+      "options": ["Ultrasound", "MRI", "Amniocentesis", "X-ray"],
+      "answer": "Amniocentesis"
+    },
+    {
+      "question": "What frequently follows if the foetus is found to be female?",
+      "options": ["Celebration", "MTP", "Hospitalization", "Vaccination"],
+      "answer": "MTP"
+    },
+    {
+      "question": "Sex-selective MTP after amniocentesis is:",
+      "options": ["Legal", "Encouraged", "Totally illegal", "Approved in some states"],
+      "answer": "Totally illegal"
+    },
+    {
+      "question": "What is one dangerous trend related to MTP?",
+      "options": ["Performed by specialists", "Government-sponsored MTPs", "Sex-selective abortions", "All pregnancies aborted"],
+      "answer": "Sex-selective abortions"
+    },
+    {
+      "question": "Who are referred to as 'quacks' in the context of MTPs?",
+      "options": ["Trained doctors", "Unqualified practitioners", "Government agents", "Nurses"],
+      "answer": "Unqualified practitioners"
+    },
+    {
+      "question": "What can be a fatal consequence of unsafe MTPs?",
+      "options": ["Infertility", "Multiple pregnancies", "Mother's death", "Menstrual irregularity"],
+      "answer": "Mother's death"
+    },
+    {
+      "question": "Amniocentesis is primarily used to:",
+      "options": ["Treat infertility", "Vaccinate pregnant women", "Detect sex of foetus", "Relieve labor pain"],
+      "answer": "Detect sex of foetus"
+    },
+    {
+      "question": "Misuse of amniocentesis violates which of the following?",
+      "options": ["Cultural beliefs", "Parental rights", "Legal regulations", "Religious norms"],
+      "answer": "Legal regulations"
+    }
+  ]
+}
