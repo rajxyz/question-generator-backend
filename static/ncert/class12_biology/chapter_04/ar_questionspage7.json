@@ -1,1 +1,90 @@
-
+[
+  {
+    "assertion": "Infections or diseases transmitted through sexual intercourse are called sexually transmitted infections (STI) or venereal diseases (VD) or reproductive tract infections (RTI).",
+    "reason": "Gonorrhoea, syphilis, genital herpes, chlamydiasis, genital warts, trichomoniasis, hepatitis-B and HIV are some common STIs.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "HIV infection is the most dangerous among these STIs.",
+    "reason": "It is discussed in detail in Chapter 7.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Some STIs like hepatitis-B and HIV can also be transmitted by sharing injection needles, surgical instruments, transfusion of blood, or from an infected mother to the foetus.",
+    "reason": "Other STIs are completely curable if detected early and treated properly.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Early symptoms of most STIs are minor and include itching, fluid discharge, slight pain, swellings, etc., in the genital region.",
+    "reason": "Infected females may often be asymptomatic and remain undetected for long.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Absence or less significant symptoms and social stigma deter infected persons from timely detection and treatment.",
+    "reason": "This could lead to complications later, including PID, abortions, still births, ectopic pregnancies, infertility, or cancer of the reproductive tract.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Prevention or early detection and cure of STIs are given prime consideration under reproductive health-care programmes.",
+    "reason": "STIs are a major threat to a healthy society.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Though all persons are vulnerable to STIs, incidences are very high among persons aged 15-24 years.",
+    "reason": "Following simple principles can help one remain free of these infections.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "To prevent STIs, one should avoid sex with unknown or multiple partners.",
+    "reason": "Always try to use condoms during coitus and consult a qualified doctor if in doubt.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
