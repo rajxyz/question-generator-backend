@@ -1,0 +1,99 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Reproductive cycle in female primates",
+      "First menstruation called",
+      "Average interval of menstruation",
+      "Event during middle of menstrual cycle",
+      "Duration of menstrual flow"
+    ],
+    "columnB": [
+      "Menstrual cycle",
+      "Menarche",
+      "28/29 days",
+      "Ovulation",
+      "3-5 days"
+    ],
+    "answer": {
+      "Reproductive cycle in female primates": "Menstrual cycle",
+      "First menstruation called": "Menarche",
+      "Average interval of menstruation": "28/29 days",
+      "Event during middle of menstrual cycle": "Ovulation",
+      "Duration of menstrual flow": "3-5 days"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Menstrual flow results from",
+      "Menstruation occurs if",
+      "Lack of menstruation indicates",
+      "Follicular phase involves",
+      "Endometrium during follicular phase"
+    ],
+    "columnB": [
+      "Breakdown of endometrial lining and blood vessels",
+      "Released ovum is not fertilised",
+      "Pregnancy or stress, poor health",
+      "Primary follicles grow to Graafian follicle",
+      "Regenerates through proliferation"
+    ],
+    "answer": {
+      "Menstrual flow results from": "Breakdown of endometrial lining and blood vessels",
+      "Menstruation occurs if": "Released ovum is not fertilised",
+      "Lack of menstruation indicates": "Pregnancy or stress, poor health",
+      "Follicular phase involves": "Primary follicles grow to Graafian follicle",
+      "Endometrium during follicular phase": "Regenerates through proliferation"
+    }
+  },
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Gonadotropins during follicular phase",
+      "Peak level of LH and FSH",
+      "LH surge effect",
+      "Corpus luteum secretes",
+      "Endometrium maintenance hormone"
+    ],
+    "columnB": [
+      "Increase gradually and stimulate follicular development and estrogen secretion",
+      "Middle of cycle (about 14th day)",
+      "Induces rupture of Graafian follicle and ovulation",
+      "Progesterone",
+      "Progesterone"
+    ],
+    "answer": {
+      "Gonadotropins during follicular phase": "Increase gradually and stimulate follicular development and estrogen secretion",
+      "Peak level of LH and FSH": "Middle of cycle (about 14th day)",
+      "LH surge effect": "Induces rupture of Graafian follicle and ovulation",
+      "Corpus luteum secretes": "Progesterone",
+      "Endometrium maintenance hormone": "Progesterone"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Ovulation phase",
+      "Luteal phase involves",
+      "Progesterone function",
+      "Pregnancy effect on menstrual cycle",
+      "Menstrual cycle cessation"
+    ],
+    "columnB": [
+      "Release of ovum after LH surge",
+      "Transformation of remaining Graafian follicle to corpus luteum",
+      "Maintenance of endometrium for implantation",
+      "All events of menstrual cycle stop, no menstruation",
+      "Menopause around 50 years of age"
+    ],
+    "answer": {
+      "Ovulation phase": "Release of ovum after LH surge",
+      "Luteal phase involves": "Transformation of remaining Graafian follicle to corpus luteum",
+      "Progesterone function": "Maintenance of endometrium for implantation",
+      "Pregnancy effect on menstrual cycle": "All events of menstrual cycle stop, no menstruation",
+      "Menstrual cycle cessation": "Menopause around 50 years of age"
+    }
+  }
+]
