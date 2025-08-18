@@ -1,0 +1,274 @@
+{
+  "total_words": 45,
+  "total_questions": 7,
+  "questions": [
+    {
+      "question": "Why should dangerous practices like illegal MTPs be avoided?",
+      "options": [
+        "They are expensive",
+        "They delay delivery",
+        "They are risky for both mother and foetus",
+        "They increase fertility"
+      ],
+      "answer": "They are risky for both mother and foetus"
+    },
+    {
+      "question": "What is the primary risk of unprotected coitus in young females?",
+      "options": [
+        "Loss of appetite",
+        "Unwanted pregnancy and health complications",
+        "Weight gain",
+        "Menstrual cramps"
+      ],
+      "answer": "Unwanted pregnancy and health complications"
+    },
+    {
+      "question": "What can help reduce illegal abortions?",
+      "options": [
+        "More social media use",
+        "Effective counselling and healthcare access",
+        "More television ads",
+        "Increased school hours"
+      ],
+      "answer": "Effective counselling and healthcare access"
+    },
+    {
+      "question": "What should counselling mainly focus on?",
+      "options": [
+        "Encouraging marriage",
+        "Avoiding unprotected coitus and illegal abortions",
+        "Watching health-related shows",
+        "Visiting clinics daily"
+      ],
+      "answer": "Avoiding unprotected coitus and illegal abortions"
+    },
+    {
+      "question": "How can the unhealthy trend of unsafe abortions be reversed?",
+      "options": [
+        "Ignoring the issue",
+        "Banning hospitals",
+        "Providing counselling and health care",
+        "Shaming the victims"
+      ],
+      "answer": "Providing counselling and health care"
+    },
+    {
+      "question": "What is one health risk of illegal abortions?",
+      "options": [
+        "Better immunity",
+        "Increased energy",
+        "Serious complications or death",
+        "Increased fertility"
+      ],
+      "answer": "Serious complications or death"
+    },
+    {
+      "question": "What group is especially at risk from illegal abortion practices?",
+      "options": [
+        "Men",
+        "Young mothers and foetus",
+        "Senior citizens",
+        "Doctors"
+      ],
+      "answer": "Young mothers and foetus"
+    },
+{
+  "total_words": 60,
+  "total_questions": 10,
+  "questions": [
+    {
+      "question": "What are infections transmitted through sexual contact called?",
+      "options": [
+        "Airborne infections",
+        "Waterborne diseases",
+        "Sexually transmitted infections",
+        "Food poisoning"
+      ],
+      "answer": "Sexually transmitted infections"
+    },
+    {
+      "question": "Which term is NOT a synonym for STI?",
+      "options": [
+        "Venereal diseases",
+        "Reproductive tract infections",
+        "Digestive disorders",
+        "Sexually transmitted infections"
+      ],
+      "answer": "Digestive disorders"
+    },
+    {
+      "question": "Which of the following is a sexually transmitted disease?",
+      "options": [
+        "Tuberculosis",
+        "Chlamydiasis",
+        "Asthma",
+        "Malaria"
+      ],
+      "answer": "Chlamydiasis"
+    },
+    {
+      "question": "Which virus causes genital warts?",
+      "options": [
+        "Hepatitis B virus",
+        "Herpes simplex virus",
+        "HPV (Human papillomavirus)",
+        "HIV"
+      ],
+      "answer": "HPV (Human papillomavirus)"
+    },
+    {
+      "question": "Which of the following is NOT an STI?",
+      "options": [
+        "Syphilis",
+        "Genital herpes",
+        "Trichomoniasis",
+        "Typhoid"
+      ],
+      "answer": "Typhoid"
+    },
+    {
+      "question": "Which STI is caused by a virus and affects the liver?",
+      "options": [
+        "Gonorrhoea",
+        "Syphilis",
+        "Hepatitis B",
+        "Chlamydia"
+      ],
+      "answer": "Hepatitis B"
+    },
+    {
+      "question": "Which STI leads to AIDS?",
+      "options": [
+        "HIV",
+        "Syphilis",
+        "Chlamydiasis",
+        "Gonorrhoea"
+      ],
+      "answer": "HIV"
+    },
+    {
+      "question": "Which STI is discussed in detail in Chapter 7?",
+      "options": [
+        "Hepatitis-B",
+        "Chlamydiasis",
+        "HIV",
+        "Gonorrhoea"
+      ],
+      "answer": "HIV"
+    },
+    {
+      "question": "Which STI is considered most dangerous?",
+      "options": [
+        "Genital warts",
+        "Trichomoniasis",
+        "HIV infection",
+        "Syphilis"
+      ],
+      "answer": "HIV infection"
+    },
+    {
+      "question": "Which of the following STIs is caused by a protozoan?",
+      "options": [
+        "Trichomoniasis",
+        "Genital herpes",
+        "Hepatitis B",
+        "Syphilis"
+      ],
+      "answer": "Trichomoniasis"
+    },
+{
+  "word_count": 126,
+  "estimated_questions": 18,
+  "questions": [
+    {
+      "question": "Which infection can be transmitted by sharing surgical instruments with infected persons?",
+      "options": ["Hepatitis-B", "Trichomoniasis", "Gonorrhoea", "Syphilis"],
+      "answer": "Hepatitis-B"
+    },
+    {
+      "question": "HIV can be transmitted through which of the following?",
+      "options": ["Mosquito bites", "Blood transfusion", "Touching", "Sneezing"],
+      "answer": "Blood transfusion"
+    },
+    {
+      "question": "All of the following STIs are completely curable except:",
+      "options": ["Syphilis", "Gonorrhoea", "Hepatitis-B", "Trichomoniasis"],
+      "answer": "Hepatitis-B"
+    },
+    {
+      "question": "Which STI is not completely curable?",
+      "options": ["Genital herpes", "Chlamydiasis", "Gonorrhoea", "Trichomoniasis"],
+      "answer": "Genital herpes"
+    },
+    {
+      "question": "Which symptom is common in early stages of STIs?",
+      "options": ["Itching", "Vomiting", "High fever", "Hair loss"],
+      "answer": "Itching"
+    },
+    {
+      "question": "Early symptoms of STIs often appear in which body region?",
+      "options": ["Genital region", "Chest", "Head", "Legs"],
+      "answer": "Genital region"
+    },
+    {
+      "question": "Why do infected females often remain undetected for STIs?",
+      "options": ["They recover fast", "They are asymptomatic", "They don't visit doctors", "They have stronger immunity"],
+      "answer": "They are asymptomatic"
+    },
+    {
+      "question": "Which of these infections may show minor symptoms initially?",
+      "options": ["HIV", "Genital warts", "Chlamydiasis", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which social factor delays STI treatment?",
+      "options": ["Stigma", "Cost", "Distance", "Weather"],
+      "answer": "Stigma"
+    },
+    {
+      "question": "Which infections are discussed in detail in Chapter 7?",
+      "options": ["HIV", "Gonorrhoea", "Syphilis", "Hepatitis-A"],
+      "answer": "HIV"
+    },
+    {
+      "question": "What discourages timely STI treatment?",
+      "options": ["Mild symptoms", "Short incubation", "High cost", "Cold climate"],
+      "answer": "Mild symptoms"
+    },
+    {
+      "question": "How can a foetus contract HIV?",
+      "options": ["From infected mother", "From food", "From surgery", "From vaccinations"],
+      "answer": "From infected mother"
+    },
+    {
+      "question": "Which STI symptom is NOT usually observed?",
+      "options": ["Headache", "Itching", "Fluid discharge", "Swelling"],
+      "answer": "Headache"
+    },
+    {
+      "question": "Which STI is incurable and transmitted by blood transfusion?",
+      "options": ["HIV", "Syphilis", "Trichomoniasis", "Gonorrhoea"],
+      "answer": "HIV"
+    },
+    {
+      "question": "What do most early STI symptoms include?",
+      "options": ["Itching and pain", "Fever and chills", "Hair fall", "Cough"],
+      "answer": "Itching and pain"
+    },
+    {
+      "question": "What kind of instruments can spread hepatitis-B if shared?",
+      "options": ["Surgical instruments", "Kitchen utensils", "Gym equipment", "Shoes"],
+      "answer": "Surgical instruments"
+    },
+    {
+      "question": "Which infection is not fully curable even if detected early?",
+      "options": ["HIV", "Chlamydiasis", "Gonorrhoea", "Trichomoniasis"],
+      "answer": "HIV"
+    },
+    {
+      "question": "What is a key reason why STIs go untreated in females?",
+      "options": ["Asymptomatic nature", "Fear of injections", "Family pressure", "Lack of education"],
+      "answer": "Asymptomatic nature"
+    }
+  ]
+    }
