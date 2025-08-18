@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Infertile",
+      "Reasons for infertility",
+      "Female is blamed",
+      "Problem lies"
+    ],
+    "columnB": [
+      "Unable to produce children inspite of unprotected sexual co-habitation",
+      "Physical, congenital, diseases, drugs, immunological or even psychological",
+      "Often blamed in India for the couple being childless",
+      "More often than not, in the male partner"
+    ],
+    "answer": {
+      "Infertile": "Unable to produce children inspite of unprotected sexual co-habitation",
+      "Reasons for infertility": "Physical, congenital, diseases, drugs, immunological or even psychological",
+      "Female is blamed": "Often blamed in India for the couple being childless",
+      "Problem lies": "More often than not, in the male partner"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Infertility clinics",
+      "ART",
+      "IVF",
+      "Test tube baby programme"
+    ],
+    "columnB": [
+      "Specialised health care units for diagnosis and corrective treatment",
+      "Assisted reproductive technologies",
+      "In vitro fertilisation",
+      "IVF followed by embryo transfer"
+    ],
+    "answer": {
+      "Infertility clinics": "Specialised health care units for diagnosis and corrective treatment",
+      "ART": "Assisted reproductive technologies",
+      "IVF": "In vitro fertilisation",
+      "Test tube baby programme": "IVF followed by embryo transfer"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Zygote or early embryos with upto 8 blastomeres",
+      "Embryos with more than 8 blastomeres",
+      "ZIFT",
+      "IUT"
+    ],
+    "columnB": [
+      "Zygote intra fallopian transfer",
+      "Transferred into the fallopian tube",
+      "Transferred into the uterus",
+      "Intra uterine transfer"
+    ],
+    "answer": {
+      "Zygote or early embryos with upto 8 blastomeres": "Transferred into the fallopian tube",
+      "Embryos with more than 8 blastomeres": "Transferred into the uterus",
+      "ZIFT": "Zygote intra fallopian transfer",
+      "IUT": "Intra uterine transfer"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Embryos formed by in-vivo fertilisation",
+      "GIFT",
+      "ICSI",
+      "AI"
+    ],
+    "columnB": [
+      "Fusion of gametes within the female",
+      "Gamete intra fallopian transfer",
+      "Intra cytoplasmic sperm injection",
+      "Artificial insemination"
+    ],
+    "answer": {
+      "Embryos formed by in-vivo fertilisation": "Fusion of gametes within the female",
+      "GIFT": "Gamete intra fallopian transfer",
+      "ICSI": "Intra cytoplasmic sperm injection",
+      "AI": "Artificial insemination"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "AI technique",
+      "IUI",
+      "Facilities for ART",
+      "Legal adoption"
+    ],
+    "columnB": [
+      "Artificial introduction of semen collected from husband or healthy donor",
+      "Intra-uterine insemination",
+      "Available only in very few centres in the country",
+      "One of the best methods for couples looking for parenthood"
+    ],
+    "answer": {
+      "AI technique": "Artificial introduction of semen collected from husband or healthy donor",
+      "IUI": "Intra-uterine insemination",
+      "Facilities for ART": "Available only in very few centres in the country",
+      "Legal adoption": "One of the best methods for couples looking for parenthood"
+    }
+  }
+]
