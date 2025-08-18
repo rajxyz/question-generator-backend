@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "During copulation (coitus)",
+      "Sperms swim through",
+      "Fertilisation location",
+      "Requirement for fertilisation",
+      "Function of zona pellucida changes"
+    ],
+    "columnB": [
+      "Semen is released by the penis into the vagina (insemination)",
+      "Cervix → uterus → ampullary region of fallopian tube",
+      "Ampullary region of fallopian tube",
+      "Ovum and sperms must be transported simultaneously to the ampullary region",
+      "Blocks entry of additional sperms ensuring only one sperm fertilises the ovum"
+    ],
+    "answer": {
+      "During copulation (coitus)": "Semen is released by the penis into the vagina (insemination)",
+      "Sperms swim through": "Cervix → uterus → ampullary region of fallopian tube",
+      "Fertilisation location": "Ampullary region of fallopian tube",
+      "Requirement for fertilisation": "Ovum and sperms must be transported simultaneously to the ampullary region",
+      "Function of zona pellucida changes": "Blocks entry of additional sperms ensuring only one sperm fertilises the ovum"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Process of fusion of sperm with ovum",
+      "Acrosome secretions",
+      "Purpose of acrosome enzymes",
+      "Why not all copulations lead to pregnancy",
+      "Ovum transport"
+    ],
+    "columnB": [
+      "Fertilisation",
+      "Help sperm enter cytoplasm of ovum",
+      "Break zona pellucida and plasma membrane",
+      "Ovum and sperms may not reach ampullary region simultaneously",
+      "Ovum is transported to ampullary region"
+    ],
+    "answer": {
+      "Process of fusion of sperm with ovum": "Fertilisation",
+      "Acrosome secretions": "Help sperm enter cytoplasm of ovum",
+      "Purpose of acrosome enzymes": "Break zona pellucida and plasma membrane",
+      "Why not all copulations lead to pregnancy": "Ovum and sperms may not reach ampullary region simultaneously",
+      "Ovum transport": "Ovum is transported to ampullary region"
+    }
+  }
+]
