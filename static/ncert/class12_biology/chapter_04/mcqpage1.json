@@ -1,5 +1,3 @@
-Got it! You want a single paragraph JSON, where all 38 questions are in one flat array, and paragraph_word_count is the sum of all words, total_questions is 38. I can do that. Here’s the updated version:
-
 {
   "paragraph_word_count": 229,
   "total_questions": 38,
