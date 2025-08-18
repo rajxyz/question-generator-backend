@@ -1,0 +1,112 @@
+[
+  {
+    "assertion": "Reproductive health discussions are incomplete without mentioning infertility.",
+    "reason": "A large number of couples worldwide including India are infertile despite unprotected sexual co-habitation.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Infertility can be caused by physical, congenital, diseases, drugs, immunological, or psychological reasons.",
+    "reason": "In India, often the female is blamed for the couple being childless, but more often the problem lies in the male partner.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Specialised health care units like infertility clinics can help in diagnosis and corrective treatment of some infertility disorders.",
+    "reason": "Couples can be assisted to have children through certain techniques known as assisted reproductive technologies (ART).",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "In vitro fertilisation (IVF) followed by embryo transfer (ET) is a method of assisted reproductive technology.",
+    "reason": "In this method, ova from the wife/donor and sperms from the husband/donor are collected and induced to form zygote under simulated laboratory conditions.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Zygotes or early embryos with up to 8 blastomeres can be transferred into the fallopian tube (ZIFT).",
+    "reason": "Embryos with more than 8 blastomeres are transferred into the uterus (IUT) to complete further development.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Gamete intra fallopian transfer (GIFT) involves transfer of an ovum from a donor into the fallopian tube of another female.",
+    "reason": "This female cannot produce ovum but can provide a suitable environment for fertilisation and further development.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Intra cytoplasmic sperm injection (ICSI) is a specialised procedure where a sperm is directly injected into the ovum.",
+    "reason": "This forms an embryo in the laboratory for couples with infertility issues.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Artificial insemination (AI) technique is used for infertility cases due to inability of the male to inseminate or very low sperm counts.",
+    "reason": "Semen collected from the husband or healthy donor is introduced artificially into the vagina or uterus (IUI) of the female.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "All ART techniques require extremely high precision handling and expensive instrumentation.",
+    "reason": "These facilities are presently available only in very few centres in the country and benefits are affordable to a limited number of people.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Emotional, religious and social factors deter adoption of ART methods.",
+    "reason": "Legal adoption is one of the best methods for couples looking for parenthood in India.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  }
+]
