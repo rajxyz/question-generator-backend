@@ -1,0 +1,432 @@
+[
+  {
+    "question": "Which of the following correctly describes the principle behind Natural contraceptive methods?",
+    "options": [
+      "Avoidance of sperm and ovum meeting",
+      "Killing of sperm inside the vagina",
+      "Blocking ovulation permanently",
+      "Inducing hormonal infertility"
+    ],
+    "answer": "Avoidance of sperm and ovum meeting"
+  },
+  {
+    "question": "Which natural method involves avoiding coitus during fertile window?",
+    "options": [
+      "Periodic abstinence",
+      "Withdrawal method",
+      "Coitus interruptus",
+      "Barrier method"
+    ],
+    "answer": "Periodic abstinence"
+  },
+  {
+    "question": "In periodic abstinence, couples avoid coitus from day __ to __ of the menstrual cycle.",
+    "options": [
+      "10 to 17",
+      "7 to 14",
+      "5 to 12",
+      "15 to 22"
+    ],
+    "answer": "10 to 17"
+  },
+  {
+    "question": "Why is day 10 to 17 of the menstrual cycle avoided in periodic abstinence?",
+    "options": [
+      "It is the fertile period",
+      "It is menstruation period",
+      "It causes hormonal imbalance",
+      "It leads to irregular cycles"
+    ],
+    "answer": "It is the fertile period"
+  },
+  {
+    "question": "What is the term for the time during which chances of fertilisation are highest?",
+    "options": [
+      "Fertile period",
+      "Menstrual window",
+      "Secretory phase",
+      "Luteal window"
+    ],
+    "answer": "Fertile period"
+  },
+  {
+    "question": "Which of the following is NOT true about periodic abstinence?",
+    "options": [
+      "It involves avoiding coitus in fertile days",
+      "It is a type of natural method",
+      "It uses hormonal pills",
+      "It prevents sperm-ovum meeting"
+    ],
+    "answer": "It uses hormonal pills"
+  },
+  {
+    "question": "What is the primary goal of natural contraceptive methods?",
+    "options": [
+      "Prevent fertilisation",
+      "Kill sperm inside vagina",
+      "Inhibit menstruation",
+      "Induce ovulation"
+    ],
+    "answer": "Prevent fertilisation"
+  },
+  {
+    "question": "Natural methods of contraception include which of the following?",
+    "options": [
+      "Periodic abstinence",
+      "Copper-T usage",
+      "Oral contraceptive pills",
+      "Condoms"
+    ],
+    "answer": "Periodic abstinence"
+  },
+  {
+    "question": "Which day range is considered the fertile window in a standard 28-day menstrual cycle?",
+    "options": [
+      "10–17",
+      "1–5",
+      "18–28",
+      "5–9"
+    ],
+    "answer": "10–17"
+  },
+  {
+    "question": "Which method advises avoiding sexual intercourse during days of expected ovulation?",
+    "options": [
+      "Periodic abstinence",
+      "Surgical sterilisation",
+      "Intrauterine devices",
+      "Injectables"
+    ],
+    "answer": "Periodic abstinence"
+  },
+  {
+    "question": "During which phase of the menstrual cycle is fertilisation most likely to occur?",
+    "options": [
+      "Fertile period",
+      "Menstrual phase",
+      "Luteal phase",
+      "Follicular phase"
+    ],
+    "answer": "Fertile period"
+  },
+  {
+    "question": "What is the core concept of periodic abstinence?",
+    "options": [
+      "Avoiding sex during fertile days",
+      "Taking oral pills",
+      "Surgical blocking of tubes",
+      "Killing sperm with gels"
+    ],
+    "answer": "Avoiding sex during fertile days"
+  },
+  {
+    "question": "Which method requires awareness of menstrual cycle days to avoid pregnancy?",
+    "options": [
+      "Natural method",
+      "IUD method",
+      "Surgical method",
+      "Implant method"
+    ],
+    "answer": "Natural method"
+  },
+  {
+    "question": "Natural methods work on what principle?",
+    "options": ["Avoiding coitus", "Avoiding ovum and sperm meeting", "Killing sperms", "Blocking ovulation"],
+    "answer": "Avoiding ovum and sperm meeting"
+  },
+  {
+    "question": "Which natural method involves avoiding coitus from day 10 to 17?",
+    "options": ["Withdrawal method", "Barrier method", "Periodic abstinence", "Surgical method"],
+    "answer": "Periodic abstinence"
+  },
+  {
+    "question": "Why is day 10 to 17 called fertile period?",
+    "options": ["Ovulation is unlikely", "Fertilisation chances are high", "Menstruation occurs", "Implantation occurs"],
+    "answer": "Fertilisation chances are high"
+  },
+  {
+    "question": "What is the purpose of abstaining from coitus during fertile period?",
+    "options": ["To increase pregnancy chance", "To prevent conception", "To enhance libido", "To maintain hormones"],
+    "answer": "To prevent conception"
+  },
+  {
+    "question": "In withdrawal method, penis is withdrawn before what?",
+    "options": ["Coitus", "Erection", "Ejaculation", "Menstruation"],
+    "answer": "Ejaculation"
+  },
+  {
+    "question": "Withdrawal method avoids which process?",
+    "options": ["Ovulation", "Insemination", "Menstruation", "Implantation"],
+    "answer": "Insemination"
+  },
+  {
+    "question": "What does coitus interruptus prevent?",
+    "options": ["Ovulation", "Implantation", "Insemination", "Fertilisation"],
+    "answer": "Insemination"
+  },
+  {
+    "question": "Lactational amenorrhea is absence of what?",
+    "options": ["Ovulation", "Lactation", "Fertilisation", "Menstruation"],
+    "answer": "Menstruation"
+  },
+  {
+    "question": "What prevents ovulation in lactational amenorrhea?",
+    "options": ["Injection", "Medicine", "Full breastfeeding", "Surgery"],
+    "answer": "Full breastfeeding"
+  },
+  {
+    "question": "Lactational amenorrhea is effective during what period?",
+    "options": ["6 weeks", "3 months", "6 months", "1 year"],
+    "answer": "6 months"
+  },
+  {
+    "question": "Why does the cycle not occur in lactational amenorrhea?",
+    "options": ["Due to medicines", "Due to surgery", "Due to intense lactation", "Due to ovulation"],
+    "answer": "Due to intense lactation"
+  },
+  {
+    "question": "What is lactational amenorrhea based on?",
+    "options": ["Surgery", "Medicine use", "Absence of menstruation", "Ovulation boosting"],
+    "answer": "Absence of menstruation"
+  },
+  {
+    "question": "When is lactational amenorrhea naturally effective?",
+    "options": ["If child is formula-fed", "During parturition", "With partial breastfeeding", "With full breastfeeding"],
+    "answer": "With full breastfeeding"
+  },
+  {
+    "question": "Ovulation does not occur during what period?",
+    "options": ["Before puberty", "Intense lactation", "Old age", "After menopause"],
+    "answer": "Intense lactation"
+  },
+  {
+    "question": "Lactational amenorrhea prevents conception by preventing?",
+    "options": ["Menstruation", "Fertilisation", "Implantation", "Ovulation"],
+    "answer": "Ovulation"
+  },
+  {
+    "question": "Side effects of natural methods are?",
+    "options": ["Severe", "Moderate", "None", "Minimal"],
+    "answer": "None"
+  },
+  {
+    "question": "Why do natural methods have almost no side effects?",
+    "options": ["Due to hormones", "Due to surgery", "No medicines/devices used", "Doctor supervision"],
+    "answer": "No medicines/devices used"
+  },
+  {
+    "question": "Which method has high chances of failure?",
+    "options": ["Surgical method", "IUDs", "Lactational amenorrhea", "Barrier method"],
+    "answer": "Lactational amenorrhea"
+  },
+  {
+    "question": "What happens during coitus interruptus?",
+    "options": ["Ejaculation inside vagina", "No ejaculation", "Penis withdrawn before ejaculation", "No coitus"],
+    "answer": "Penis withdrawn before ejaculation"
+  },
+  {
+    "question": "Which period is called the fertile window?",
+    "options": ["Day 1-5", "Day 5-10", "Day 10-17", "Day 18-28"],
+    "answer": "Day 10-17"
+  },
+  {
+    "question": "What is prevented by withdrawal before ejaculation?",
+    "options": ["Ovulation", "Menstruation", "Implantation", "Insemination"],
+    "answer": "Insemination"
+  },
+  {
+    "question": "When does fertilisation mostly occur in menstrual cycle?",
+    "options": ["Menstrual phase", "Secretory phase", "Fertile period", "Follicular phase"],
+    "answer": "Fertile period"
+  },
+  {
+    "question": "Which method depends on post-parturition intense breastfeeding?",
+    "options": ["Periodic abstinence", "IUDs", "Lactational amenorrhea", "Barrier method"],
+    "answer": "Lactational amenorrhea"
+  },
+  {
+    "question": "Lactational amenorrhea is effective till how long?",
+    "options": ["1 month", "3 months", "6 months", "12 months"],
+    "answer": "6 months"
+  },
+  {
+    "question": "What is insemination?",
+    "options": ["Fusion of gametes", "Entry of sperm into ovum", "Ejaculation into vagina", "Fertilisation event"],
+    "answer": "Ejaculation into vagina"
+  },
+  {
+    "question": "Natural methods are free from?",
+    "options": ["Failure", "Side effects", "Pregnancy", "Ovulation"],
+    "answer": "Side effects"
+  },
+  {
+    "question": "What is absent during amenorrhea?",
+    "options": ["Ovulation", "Menstruation", "Fertilisation", "Implantation"],
+    "answer": "Menstruation"
+  },
+  {
+    "question": "Which method depends on menstrual cycle tracking?",
+    "options": ["IUD", "Implants", "Periodic abstinence", "Injectables"],
+    "answer": "Periodic abstinence"
+  },
+  {
+    "question": "Which method prevents ovum and sperm from physically meeting?",
+    "options": ["Natural methods", "Surgical methods", "Barrier methods", "Lactational amenorrhea"],
+    "answer": "Barrier methods"
+  },
+  {
+    "question": "What is used to block sperm entry in barrier methods?",
+    "options": ["Pills", "Condoms", "IUDs", "Injections"],
+    "answer": "Condoms"
+  },
+  {
+    "question": "Condoms are typically made from which material?",
+    "options": ["Cotton", "Plastic", "Rubber/latex sheath", "Gel"],
+    "answer": "Rubber/latex sheath"
+  },
+  {
+    "question": "Male condoms are used to cover which organ?",
+    "options": ["Penis", "Scrotum", "Testes", "Bladder"],
+    "answer": "Penis"
+  },
+  {
+    "question": "Female condoms are inserted into which part?",
+    "options": ["Uterus", "Fallopian tube", "Cervix and vagina", "Bladder"],
+    "answer": "Cervix and vagina"
+  },
+  {
+    "question": "What is the correct time to use condoms?",
+    "options": ["After coitus", "During menstruation", "Just before coitus", "After ejaculation"],
+    "answer": "Just before coitus"
+  },
+  {
+    "question": "What does condom use prevent besides conception?",
+    "options": ["Pregnancy only", "Hormonal imbalance", "STIs and AIDS", "Cervical cancer"],
+    "answer": "STIs and AIDS"
+  },
+  {
+    "question": "Which brand is a popular male condom in India?",
+    "options": ["SafeMate", "Nirodh", "SureStop", "ProtectX"],
+    "answer": "Nirodh"
+  },
+  {
+    "question": "What happens if condoms are not used properly?",
+    "options": ["Increased testosterone", "Infertility", "Conception may occur", "Improved immunity"],
+    "answer": "Conception may occur"
+  },
+  {
+    "question": "Why has condom use increased in recent years?",
+    "options": ["It enhances libido", "It's free of side effects", "It prevents STIs and gives privacy", "It increases fertility"],
+    "answer": "It prevents STIs and gives privacy"
+  },
+  {
+    "question": "What type of condoms exist for females?",
+    "options": ["Cervical caps", "Female condoms", "Diaphragms", "IUDs"],
+    "answer": "Female condoms"
+  },
+  {
+    "question": "Both male and female condoms are meant to be?",
+    "options": ["Reusable", "Permanent", "Surgically inserted", "Disposable"],
+    "answer": "Disposable"
+  },
+  {
+    "question": "Condoms can be inserted by the user. This feature gives?",
+    "options": ["Pleasure", "Privacy", "Protection only", "Control to partner"],
+    "answer": "Privacy"
+  },
+  {
+    "question": "What additional benefit do condoms provide?",
+    "options": ["Prevent anemia", "Help in ovulation", "Protection from STIs", "Increase estrogen"],
+    "answer": "Protection from STIs"
+  },
+  {
+    "question": "Use of condoms is part of which method?",
+    "options": ["Surgical", "Barrier", "Natural", "Hormonal"],
+    "answer": "Barrier"
+  },
+  {
+    "question": "Which part is not involved in inserting male condoms?",
+    "options": ["Penis", "Sheath", "Scrotum", "Latex"],
+    "answer": "Scrotum"
+  },
+  {
+    "question": "Which disease is specifically mentioned as prevented by condom use?",
+    "options": ["Hepatitis", "HIV/AIDS", "Malaria", "Dengue"],
+    "answer": "HIV/AIDS"
+  },
+  {
+    "question": "Which is NOT a barrier method?",
+    "options": ["Condom", "IUD", "Implant", "Diaphragm"],
+    "answer": "Implant"
+  },
+  {
+    "question": "What feature allows condom users to avoid clinical help?",
+    "options": ["Privacy", "Reversibility", "Cost-effectiveness", "Durability"],
+    "answer": "Privacy"
+  },
+  {
+    "question": "What must be done before coitus to ensure condom effectiveness?",
+    "options": ["Take pills", "Apply gel", "Insert condom", "Sterilization"],
+    "answer": "Insert condom"
+  },
+  {
+    "question": "The physical blocking of sperm by condoms is known as?",
+    "options": ["Mechanical prevention", "Hormonal inhibition", "Surgical block", "Withdrawal method"],
+    "answer": "Mechanical prevention"
+  },
+  {
+    "question": "What type of contraceptives are diaphragms, cervical caps, and vaults classified as?",
+    "options": ["Barrier methods", "Oral contraceptives", "IUDs", "Injectables"],
+    "answer": "Barrier methods"
+  },
+  {
+    "question": "What material are diaphragms and cervical caps commonly made of?",
+    "options": ["Metal", "Plastic", "Rubber", "Latex"],
+    "answer": "Rubber"
+  },
+  {
+    "question": "Where are cervical caps placed to prevent fertilisation?",
+    "options": ["Uterus", "Fallopian tube", "Cervix", "Vagina"],
+    "answer": "Cervix"
+  },
+  {
+    "question": "During which activity are vaults inserted into the reproductive tract?",
+    "options": ["Ovulation", "Coitus", "Menstruation", "Parturition"],
+    "answer": "Coitus"
+  },
+  {
+    "question": "What is the mechanism by which these barriers prevent conception?",
+    "options": ["Killing sperms", "Blocking sperm entry", "Inhibiting ovulation", "Inducing menstruation"],
+    "answer": "Blocking sperm entry"
+  },
+  {
+    "question": "Which part of the female reproductive system is blocked by these barriers?",
+    "options": ["Uterus", "Fallopian tube", "Cervix", "Vagina"],
+    "answer": "Cervix"
+  },
+  {
+    "question": "Are diaphragms, cervical caps, and vaults reusable?",
+    "options": ["Yes", "No", "Only once", "Only vaults are reusable"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What additional substances are used to enhance efficiency of these barriers?",
+    "options": ["Antibiotics", "Lubricants", "Spermicidal agents", "Hormonal pills"],
+    "answer": "Spermicidal agents"
+  },
+  {
+    "question": "Which of the following is a spermicidal agent?",
+    "options": ["Foams", "Condoms", "Vaults", "IUDs"],
+    "answer": "Foams"
+  },
+  {
+    "question": "Which of the following are used along with diaphragms for better contraception?",
+    "options": ["IUDs", "Spermicidal creams", "Hormonal tablets", "Condoms"],
+    "answer": "Spermicidal creams"
+  },
+  {
+    "question": "Which of the following methods does not require disposal after one use?",
+    "options": ["Condoms", "Cervical caps", "Implants", "Pills"],
+    "answer": "Cervical caps"
+  }
+    ]
