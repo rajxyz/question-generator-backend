@@ -430,6 +430,181 @@
         "D": "Less education"
       },
       "answer": "B"
-    }
-  ]
-    }
+    },
+  {
+    "question_number": 40,
+    "question": "Which media are mainly used for reproductive awareness?",
+    "options": {
+      "A": "Only newspapers",
+      "B": "Only radio",
+      "C": "Audio-visual and print media",
+      "D": "Social media only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 41,
+    "question": "Who helps in disseminating reproductive health information besides government agencies?",
+    "options": {
+      "A": "Only doctors",
+      "B": "NGOs, parents, teachers, and friends",
+      "C": "Businessmen",
+      "D": "Celebrities"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 42,
+    "question": "Purpose of sex education in schools is to:",
+    "options": {
+      "A": "Avoid discussing sexual health",
+      "B": "Promote myths and misconceptions",
+      "C": "Provide accurate knowledge and discourage misconceptions",
+      "D": "Reduce syllabus"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 43,
+    "question": "Sex education helps children to understand:",
+    "options": {
+      "A": "Cooking and agriculture",
+      "B": "Sex-related aspects correctly",
+      "C": "Political rights",
+      "D": "Religious beliefs"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 44,
+    "question": "Proper sex education discourages:",
+    "options": {
+      "A": "Eating habits",
+      "B": "Physical activity",
+      "C": "Myths and misconceptions",
+      "D": "Sports"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 45,
+    "question": "Adolescents need awareness about:",
+    "options": {
+      "A": "Farming and cooking",
+      "B": "Reproductive health",
+      "C": "History",
+      "D": "Economics"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 46,
+    "question": "STD stands for:",
+    "options": {
+      "A": "Standard Test Disease",
+      "B": "Sexually Transmitted Disease",
+      "C": "Student Test Data",
+      "D": "Surgical Trauma Diagnosis"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 47,
+    "question": "AIDS is an example of:",
+    "options": {
+      "A": "Nutritional disease",
+      "B": "Sexually Transmitted Disease",
+      "C": "Mental disorder",
+      "D": "Genetic disorder"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 48,
+    "question": "Education helps adolescents to:",
+    "options": {
+      "A": "Remain confused",
+      "B": "Misunderstand sexual health",
+      "C": "Live healthy lives",
+      "D": "Skip biology"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 49,
+    "question": "Which group needs birth control education?",
+    "options": {
+      "A": "Children",
+      "B": "Old people",
+      "C": "Fertile couples",
+      "D": "Babies"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 50,
+    "question": "Post-natal care refers to care of:",
+    "options": {
+      "A": "Father",
+      "B": "Doctor",
+      "C": "Mother and child",
+      "D": "Teacher"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 51,
+    "question": "What helps bring healthy families?",
+    "options": {
+      "A": "Cooking well",
+      "B": "Equal gender opportunity",
+      "C": "More children",
+      "D": "Less education"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 52,
+    "question": "Which programme covers wider reproductive areas currently?",
+    "options": {
+      "A": "WHO",
+      "B": "AIIMS Plan",
+      "C": "RCH Programmes",
+      "D": "Janani Suraksha"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 53,
+    "question": "Main aim of RCH programme is:",
+    "options": {
+      "A": "Eradicate malaria",
+      "B": "Eradicate cancer",
+      "C": "Build reproductively healthy society",
+      "D": "Eliminate poverty"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 54,
+    "question": "One goal of RCH is:",
+    "options": {
+      "A": "Economic equality",
+      "B": "Physical education",
+      "C": "Reproductive awareness",
+      "D": "Blood donation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 55,
+    "question": "India started national reproductive health programmes in:",
+    "options": {
+      "A": "1961",
+      "B": "1975",
+      "C": "1951",
+      "D": "1981"
+    },
+    "answer": "C"
+  }
+    ]
