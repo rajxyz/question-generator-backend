@@ -1,0 +1,42 @@
+[
+  {
+    "assertion": "The three germ layers formed after implantation give rise to all tissues and organs in adults.",
+    "reason": "Ectoderm, mesoderm, and endoderm differentiate from the inner cell mass after implantation.",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Stem cells of the inner cell mass have the potency to give rise to all tissues and organs.",
+    "reason": "Stem cells are totipotent in nature during the early embryonic stage.",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "In human pregnancy, the embryo’s heart is formed after one month.",
+    "reason": "The first sign of a growing foetus is detected by hearing the heart sound with a stethoscope.",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "By the end of the second month, the foetus develops limbs and digits.",
+    "reason": "Organogenesis in humans is completed by the second month of pregnancy.",
+    "answer": "Assertion is true, but Reason is false."
+  },
+  {
+    "assertion": "By the end of 12 weeks, the limbs and external genital organs are well-developed.",
+    "reason": "The first trimester in humans is characterised by completion of most major organ system formation.",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "The first movements of the foetus are usually observed in the second month of pregnancy.",
+    "reason": "Foetal hair growth starts from the fifth month of pregnancy.",
+    "answer": "Both Assertion and Reason are false."
+  },
+  {
+    "assertion": "By the end of about 24 weeks, the eyelids separate and eyelashes are formed.",
+    "reason": "End of the second trimester is marked by features like body hair, separated eyelids, and eyelashes.",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "By the end of nine months, the foetus is fully developed and ready for delivery.",
+    "reason": "Human pregnancy normally lasts for about 9 months.",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion."
+  }
+]
