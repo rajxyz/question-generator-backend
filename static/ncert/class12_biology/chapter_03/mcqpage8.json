@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does the secondary oocyte retain from the primary oocyte?",
+    "options": ["Bulk of nutrient rich cytoplasm", "All chromosomes", "Mitochondria only", "Nucleus only"],
+    "answer": "Bulk of nutrient rich cytoplasm"
+  },
+  {
+    "question": "What is currently uncertain about the first polar body born out of the first meiotic division?",
+    "options": ["Whether it divides further or degenerates", "Whether it fuses with sperm", "Whether it becomes an ovum", "Whether it forms zona pellucida"],
+    "answer": "Whether it divides further or degenerates"
+  },
+  {
+    "question": "Into what does the tertiary follicle further change?",
+    "options": ["Primary follicle", "Secondary follicle", "Mature follicle or Graafian follicle", "Corpus luteum"],
+    "answer": "Mature follicle or Graafian follicle"
+  },
+  {
+    "question": "What new membrane is formed surrounding the secondary oocyte?",
+    "options": ["Zona pellucida", "Theca externa", "Antrum", "Cell wall"],
+    "answer": "Zona pellucida"
+  },
+  {
+    "question": "What process releases the secondary oocyte from the ovary?",
+    "options": ["Ovulation", "Fertilisation", "Implantation", "Meiosis"],
+    "answer": "Ovulation"
+  },
+  {
+    "question": "What structure ruptures to release the secondary oocyte?",
+    "options": ["Graafian follicle", "Corpus luteum", "Primary follicle", "Tertiary follicle"],
+    "answer": "Graafian follicle"
+  }
+]
