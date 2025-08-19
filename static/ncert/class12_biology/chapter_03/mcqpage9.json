@@ -1,0 +1,102 @@
+[
+  {
+    "question": "The reproductive cycle in female primates is called?",
+    "options": ["Ovulation cycle", "Menstrual cycle", "Reproductive cycle", "Follicular cycle"],
+    "answer": "Menstrual cycle"
+  },
+  {
+    "question": "The first menstruation begins at puberty and is called?",
+    "options": ["Menopause", "Ovulation", "Menarche", "Luteal phase"],
+    "answer": "Menarche"
+  },
+  {
+    "question": "In human females, menstruation is repeated at an average interval of about how many days?",
+    "options": ["20/21 days", "28/29 days", "35/36 days", "14 days"],
+    "answer": "28/29 days"
+  },
+  {
+    "question": "The cycle of events starting from one menstruation till the next one is called?",
+    "options": ["Menopause", "Menstrual cycle", "Follicular phase", "Luteal phase"],
+    "answer": "Menstrual cycle"
+  },
+  {
+    "question": "One ovum is released during which part of the menstrual cycle?",
+    "options": ["Follicular phase", "Middle of cycle", "Luteal phase", "End of cycle"],
+    "answer": "Middle of cycle"
+  },
+  {
+    "question": "The levels of which gonadotropins increase gradually during the follicular phase?",
+    "options": ["LH and Progesterone", "FSH and Estrogen", "LH and FSH", "Progesterone and Estrogen"],
+    "answer": "LH and FSH"
+  },
+  {
+    "question": "What do LH and FSH stimulate during the follicular phase?",
+    "options": ["Progesterone production", "Follicular development and estrogen secretion", "Menstruation", "Corpus luteum formation"],
+    "answer": "Follicular development and estrogen secretion"
+  },
+  {
+    "question": "LH and FSH attain a peak level in the middle of the cycle around which day?",
+    "options": ["7th day", "21st day", "14th day", "28th day"],
+    "answer": "14th day"
+  },
+  {
+    "question": "Rapid secretion of LH during mid-cycle is called?",
+    "options": ["FSH surge", "Progesterone peak", "LH surge", "Estrogen surge"],
+    "answer": "LH surge"
+  },
+  {
+    "question": "What does the LH surge induce?",
+    "options": ["Menarche", "Ovulation", "Menopause", "Endometrium degeneration"],
+    "answer": "Ovulation"
+  },
+  {
+    "question": "Ovulation is followed by which phase?",
+    "options": ["Follicular phase", "Luteal phase", "Menstrual phase", "Growth phase"],
+    "answer": "Luteal phase"
+  },
+  {
+    "question": "During the luteal phase, the remaining parts of the Graafian follicle transform into?",
+    "options": ["Endometrium", "Corpus luteum", "Ovum", "Zona pellucida"],
+    "answer": "Corpus luteum"
+  },
+  {
+    "question": "The corpus luteum secretes large amounts of?",
+    "options": ["Estrogen", "FSH", "LH", "Progesterone"],
+    "answer": "Progesterone"
+  },
+  {
+    "question": "Progesterone is essential for maintenance of?",
+    "options": ["Ovum", "Follicle", "Endometrium", "Zona pellucida"],
+    "answer": "Endometrium"
+  },
+  {
+    "question": "The endometrium is necessary for?",
+    "options": ["Ovulation", "Implantation of fertilised ovum", "Menstruation", "LH surge"],
+    "answer": "Implantation of fertilised ovum"
+  },
+  {
+    "question": "During pregnancy, all events of the menstrual cycle?",
+    "options": ["Continue", "Stop", "Slow down", "Double"],
+    "answer": "Stop"
+  },
+  {
+    "question": "In the absence of fertilisation, the corpus luteum?",
+    "options": ["Develops further", "Degenerates", "Becomes ovum", "Produces LH"],
+    "answer": "Degenerates"
+  },
+  {
+    "question": "Degeneration of the corpus luteum causes disintegration of?",
+    "options": ["Ovum", "Follicle", "Endometrium", "Zona pellucida"],
+    "answer": "Endometrium"
+  },
+  {
+    "question": "Menstrual cycles cease around what age in human beings?",
+    "options": ["30 years", "40 years", "50 years", "60 years"],
+    "answer": "50 years"
+  },
+  {
+    "question": "Cyclic menstruation extends between which two phases of a woman's life?",
+    "options": ["Menarche and Menopause", "Follicular and Luteal phase", "Ovulation and Implantation", "Pregnancy and Menopause"],
+    "answer": "Menarche and Menopause"
+  }
+]
