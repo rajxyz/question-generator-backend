@@ -1,5 +1,73 @@
 [
   {
+    "question": "During copulation, semen is released by the penis into the?",
+    "options": ["Uterus", "Fallopian tube", "Vagina", "Cervix"],
+    "answer": "Vagina"
+  },
+  {
+    "question": "Motile sperms pass through which part before entering the uterus?",
+    "options": ["Ovary", "Cervix", "Ampullary region", "Vagina"],
+    "answer": "Cervix"
+  },
+  {
+    "question": "Where does fertilisation take place in the female reproductive tract?",
+    "options": ["Cervix", "Uterus", "Ampullary region of the fallopian tube", "Vagina"],
+    "answer": "Ampullary region of the fallopian tube"
+  },
+  {
+    "question": "Fertilisation can only occur if ovum and sperms are transported to the ampullary region how?",
+    "options": ["Separately", "Simultaneously", "After 24 hours", "Before ovulation"],
+    "answer": "Simultaneously"
+  },
+  {
+    "question": "The process of fusion of a sperm with an ovum is called?",
+    "options": ["Ovulation", "Fertilisation", "Spermiogenesis", "Implantation"],
+    "answer": "Fertilisation"
+  },
+  {
+    "question": "During fertilisation, a sperm contacts which layer of the ovum first?",
+    "options": ["Plasma membrane", "Cytoplasm", "Zona pellucida", "Nucleus"],
+    "answer": "Zona pellucida"
+  },
+  {
+    "question": "The changes induced in the ovum membrane during fertilisation ensure that?",
+    "options": ["Multiple sperms can enter", "Only one sperm fertilises the ovum", "Fertilisation does not occur", "Sperms die immediately"],
+    "answer": "Only one sperm fertilises the ovum"
+  },
+  {
+    "question": "Which part of the sperm helps it enter into the cytoplasm of the ovum?",
+    "options": ["Nucleus", "Middle piece", "Acrosome", "Tail"],
+    "answer": "Acrosome"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
     "question": "The reproductive cycle in female primates is called?",
     "options": ["Ovulation cycle", "Menstrual cycle", "Reproductive cycle", "Follicular cycle"],
     "answer": "Menstrual cycle"
