@@ -1,0 +1,22 @@
+[
+  {
+    "assertion": "Fertilisation can only occur if the ovum and sperms reach the ampullary region simultaneously.",
+    "reason": "This is because not all copulations lead to fertilisation and pregnancy.",
+    "answer": "A"
+  },
+  {
+    "assertion": "The zona pellucida layer of the ovum allows entry of multiple sperms during fertilisation.",
+    "reason": "Changes in the ovum membrane after first sperm contact block additional sperm entry.",
+    "answer": "D"
+  },
+  {
+    "assertion": "Secretions of the acrosome help the sperm enter the cytoplasm of the ovum.",
+    "reason": "They help the sperm penetrate the zona pellucida and plasma membrane.",
+    "answer": "A"
+  },
+  {
+    "assertion": "During copulation, semen is released into the uterus.",
+    "reason": "Semen is released into the vagina during copulation.",
+    "answer": "D"
+  }
+]
