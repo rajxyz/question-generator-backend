@@ -1,16 +1,3 @@
-Bhai, mai teri server.js ko update kar diya hai taaki:
-
-Page sequence ko strict follow na kare.
-
-Agar JSON ya image missing ho, crash na ho.
-
-Missing JSON → empty questions, missing image → placeholder image.
-
-Exact debug logs mile error track karne ke liye.
-
-
-Ye raha updated server.js:
-
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
