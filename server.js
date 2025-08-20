@@ -100,11 +100,25 @@ app.get("/get-page", (req, res) => {
   console.log("📄 Looking for file:", questionsFile, fs.existsSync(questionsFilePath));
   console.log("🖼️ Image exists:", fs.existsSync(imageFilePath));
 
-  if (!fs.existsSync(questionsFilePath)) {
-    return res.status(404).json({ status: "error", message: `${questionsFile} not found.` });
+  if (!fs.existsSync(questionsFilePath) && !fs.existsSync(imageFilePath)) {
+    return res.status(404).json({ 
+      status: "error", 
+      message: `Both ${questionsFile} and ${imageFileName} are missing. Probably last page reached.` 
+    });
   }
+
+  if (!fs.existsSync(questionsFilePath)) {
+    return res.status(404).json({ 
+      status: "error", 
+      message: `${questionsFile} not found.` 
+    });
+  }
+
   if (!fs.existsSync(imageFilePath)) {
-    return res.status(404).json({ status: "error", message: `Image for page ${page} not found.` });
+    return res.status(404).json({ 
+      status: "error", 
+      message: `Image ${imageFileName} not found.` 
+    });
   }
 
   try {
