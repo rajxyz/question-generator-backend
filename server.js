@@ -1,3 +1,16 @@
+Bhai, mai teri server.js ko update kar diya hai taaki:
+
+Page sequence ko strict follow na kare.
+
+Agar JSON ya image missing ho, crash na ho.
+
+Missing JSON → empty questions, missing image → placeholder image.
+
+Exact debug logs mile error track karne ke liye.
+
+
+Ye raha updated server.js:
+
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
@@ -42,7 +55,6 @@ function sanitizeQuestions(questions, type) {
     }
 
     if (type === "match") {
-      // Convert matches like ["A–1"] into objects
       if (Array.isArray(q.matches) && q.matches.every(m => typeof m === "string")) {
         q.matches = q.matches.map(matchStr => {
           const [leftCode, rightCode] = matchStr.split("–");
@@ -62,7 +74,6 @@ function sanitizeQuestions(questions, type) {
         });
       }
 
-      // If matches are already objects, make sure keys exist
       if (Array.isArray(q.matches) && q.matches.every(m => typeof m === "object")) {
         q.matches = q.matches.map(pair => ({
           left: pair.left || "",
@@ -97,51 +108,42 @@ app.get("/get-page", (req, res) => {
   const imageFilePath = path.join(basePath, imageFileName);
 
   console.log("📁 Base path:", basePath);
-  console.log("📄 Looking for file:", questionsFile, fs.existsSync(questionsFilePath));
+  console.log("📄 JSON file exists:", fs.existsSync(questionsFilePath));
   console.log("🖼️ Image exists:", fs.existsSync(imageFilePath));
 
-  if (!fs.existsSync(questionsFilePath) && !fs.existsSync(imageFilePath)) {
-    return res.status(404).json({ 
-      status: "error", 
-      message: `Both ${questionsFile} and ${imageFileName} are missing. Probably last page reached.` 
-    });
+  // Load JSON
+  let pageQuestions = [];
+  if (fs.existsSync(questionsFilePath)) {
+    try {
+      const raw = fs.readFileSync(questionsFilePath, "utf-8");
+      const questionsJson = JSON.parse(raw);
+      pageQuestions = extractAllQuestions(questionsJson, type.toLowerCase());
+      pageQuestions = sanitizeQuestions(pageQuestions, type.toLowerCase());
+    } catch (err) {
+      console.error("⚠️ JSON parse error:", err.message);
+    }
+  } else {
+    console.warn(`⚠️ JSON file ${questionsFile} not found, returning empty questions`);
   }
 
-  if (!fs.existsSync(questionsFilePath)) {
-    return res.status(404).json({ 
-      status: "error", 
-      message: `${questionsFile} not found.` 
-    });
+  // Load Image
+  let imageUrl;
+  if (fs.existsSync(imageFilePath)) {
+    imageUrl = `${req.protocol}://${req.get("host")}/static/${book}/${className}/${chapter}/${imageFileName}`;
+  } else {
+    console.warn(`⚠️ Image file ${imageFileName} not found, using placeholder`);
+    imageUrl = `${req.protocol}://${req.get("host")}/static/placeholder.jpg`; // make sure placeholder exists
   }
 
-  if (!fs.existsSync(imageFilePath)) {
-    return res.status(404).json({ 
-      status: "error", 
-      message: `Image ${imageFileName} not found.` 
-    });
-  }
-
-  try {
-    const raw = fs.readFileSync(questionsFilePath, "utf-8");
-    const questionsJson = JSON.parse(raw);
-    let pageQuestions = extractAllQuestions(questionsJson, type.toLowerCase());
-    pageQuestions = sanitizeQuestions(pageQuestions, type.toLowerCase());
-
-    return res.json({
-      status: "success",
-      data: {
-        image_url: `${req.protocol}://${req.get("host")}/static/${book}/${className}/${chapter}/${imageFileName}`,
-        questions: pageQuestions,
-        page: parseInt(page),
-        type,
-      },
-    });
-  } catch (err) {
-    return res.status(500).json({
-      status: "error",
-      message: `Invalid JSON format or file error in ${questionsFile}: ${err.message}`,
-    });
-  }
+  res.json({
+    status: "success",
+    data: {
+      image_url: imageUrl,
+      questions: pageQuestions,
+      page: parseInt(page),
+      type,
+    },
+  });
 });
 
 /**
@@ -172,3 +174,24 @@ app.get("/debug-questions", (req, res) => {
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
