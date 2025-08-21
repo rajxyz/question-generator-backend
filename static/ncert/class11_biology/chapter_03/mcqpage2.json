@@ -68,10 +68,7 @@
     "question": "Which methods are used by taxonomists these days besides phylogenetic systems?",
     "options": ["Artificial and ecological taxonomy", "Cytotaxonomy and chemotaxonomy", "Habitual and floral taxonomy", "Numerical and fossil taxonomy"],
     "answer": "Cytotaxonomy and chemotaxonomy"
-  }
-]
-
-[
+  },
   {
     "question": "Algae are primarily:",
     "options": ["Heterotrophic organisms", "Chlorophyll-bearing, autotrophic organisms", "Parasitic fungi", "Prokaryotic organisms"],
