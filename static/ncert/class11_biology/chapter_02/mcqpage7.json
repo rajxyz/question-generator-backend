@@ -1,0 +1,232 @@
+[
+  {
+    "question": "Fungi belong to which type of organisms?",
+    "options": [
+      "Autotrophic",
+      "Heterotrophic",
+      "Photosynthetic",
+      "Parasitic only"
+    ],
+    "answer": "Heterotrophic"
+  },
+  {
+    "question": "Fungi show great diversity in:",
+    "options": [
+      "Nutrition only",
+      "Reproduction only",
+      "Morphology and habitat",
+      "Chromosome number"
+    ],
+    "answer": "Morphology and habitat"
+  },
+  {
+    "question": "Where might you commonly see fungi growing?",
+    "options": [
+      "Dry bread",
+      "Moist bread and rotten fruits",
+      "Frozen fruits",
+      "Hot iron surfaces"
+    ],
+    "answer": "Moist bread and rotten fruits"
+  },
+  {
+    "question": "Which of the following are fungi?",
+    "options": [
+      "Mushroom and toadstools",
+      "Cactus and mushroom",
+      "Yeast and bacteria",
+      "Toadstools and algae"
+    ],
+    "answer": "Mushroom and toadstools"
+  },
+  {
+    "question": "White spots seen on mustard leaves are caused by:",
+    "options": [
+      "Bacteria",
+      "Algae",
+      "A parasitic fungus",
+      "Insects"
+    ],
+    "answer": "A parasitic fungus"
+  },
+  {
+    "question": "Which unicellular fungus is used to make bread and beer?",
+    "options": [
+      "Mucor",
+      "Rhizopus",
+      "Yeast",
+      "Aspergillus"
+    ],
+    "answer": "Yeast"
+  },
+  {
+    "question": "Which fungus causes wheat rust?",
+    "options": [
+      "Penicillium",
+      "Aspergillus",
+      "Puccinia",
+      "Mucor"
+    ],
+    "answer": "Puccinia"
+  },
+  {
+    "question": "Which fungus is a source of antibiotics?",
+    "options": [
+      "Rhizopus",
+      "Puccinia",
+      "Penicillium",
+      "Yeast"
+    ],
+    "answer": "Penicillium"
+  },
+  {
+    "question": "Fungi are ______ in distribution.",
+    "options": [
+      "Rare",
+      "Endemic",
+      "Cosmopolitan",
+      "Marine only"
+    ],
+    "answer": "Cosmopolitan"
+  },
+  {
+    "question": "Where do fungi occur?",
+    "options": [
+      "Only in water",
+      "Only in air and soil",
+      "In air, water, soil and on animals and plants",
+      "Only in humid places"
+    ],
+    "answer": "In air, water, soil and on animals and plants"
+  },
+  {
+    "question": "Fungi prefer to grow in:",
+    "options": [
+      "Dry and cold places",
+      "Humid and warm places",
+      "Hot and dry places",
+      "Salty environments"
+    ],
+    "answer": "Humid and warm places"
+  },
+  {
+    "question": "Why do we keep food in the refrigerator?",
+    "options": [
+      "To make it tastier",
+      "To freeze it completely",
+      "To prevent bacterial or fungal infections",
+      "To cook it"
+    ],
+    "answer": "To prevent bacterial or fungal infections"
+  },
+  {
+    "question": "Which fungi are unicellular?",
+    "options": [
+      "Penicillium",
+      "Rhizopus",
+      "Yeasts",
+      "Mushrooms"
+    ],
+    "answer": "Yeasts"
+  },
+  {
+    "question": "Most fungi are:",
+    "options": [
+      "Unicellular",
+      "Filamentous",
+      "Amoeboid",
+      "Ciliated"
+    ],
+    "answer": "Filamentous"
+  },
+  {
+    "question": "The thread-like structures in fungi are called:",
+    "options": [
+      "Mycelia",
+      "Hyphae",
+      "Pellicles",
+      "Cilia"
+    ],
+    "answer": "Hyphae"
+  },
+  {
+    "question": "A network of hyphae is known as:",
+    "options": [
+      "Plasmodium",
+      "Mycelium",
+      "Pellicle",
+      "Cytosol"
+    ],
+    "answer": "Mycelium"
+  },
+  {
+    "question": "Coenocytic hyphae are filled with:",
+    "options": [
+      "Water",
+      "Mononucleated cytoplasm",
+      "Multinucleated cytoplasm",
+      "Pigments"
+    ],
+    "answer": "Multinucleated cytoplasm"
+  },
+  {
+    "question": "Some fungal hyphae have cross walls called:",
+    "options": [
+      "Filaments",
+      "Pellicles",
+      "Septae",
+      "Cilia"
+    ],
+    "answer": "Septae"
+  },
+  {
+    "question": "Fungal cell walls are composed of:",
+    "options": [
+      "Cellulose",
+      "Peptidoglycan",
+      "Chitin and polysaccharides",
+      "Lignin and starch"
+    ],
+    "answer": "Chitin and polysaccharides"
+  },
+  {
+    "question": "Fungi that absorb organic matter from dead substrates are called:",
+    "options": [
+      "Parasites",
+      "Autotrophs",
+      "Saprophytes",
+      "Symbionts"
+    ],
+    "answer": "Saprophytes"
+  },
+  {
+    "question": "Fungi that depend on living plants and animals are called:",
+    "options": [
+      "Symbionts",
+      "Saprophytes",
+      "Parasites",
+      "Commensals"
+    ],
+    "answer": "Parasites"
+  },
+  {
+    "question": "Fungi living in association with algae are called:",
+    "options": [
+      "Mycorrhiza",
+      "Lichens",
+      "Rhizoids",
+      "Endophytes"
+    ],
+    "answer": "Lichens"
+  },
+  {
+    "question": "Fungi that associate with roots of higher plants are called:",
+    "options": [
+      "Lichens",
+      "Mycorrhiza",
+      "Parasites",
+      "Cyanobacteria"
+    ],
+    "answer": "Mycorrhiza"
+  }
+]
