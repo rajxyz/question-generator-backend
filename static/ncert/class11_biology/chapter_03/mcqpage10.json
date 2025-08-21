@@ -1,0 +1,62 @@
+[
+  {
+    "question": "In angiosperms, pollen grains and ovules develop in:",
+    "options": {
+      "A": "Cones",
+      "B": "Flowers",
+      "C": "Naked ovules",
+      "D": "Leaves"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Unlike gymnosperms, the seeds of angiosperms are:",
+    "options": {
+      "A": "Naked",
+      "B": "Enclosed in fruits",
+      "C": "Not formed",
+      "D": "Always winged"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is the smallest angiosperm mentioned in NCERT?",
+    "options": {
+      "A": "Pinus",
+      "B": "Cycas",
+      "C": "Wolffia",
+      "D": "Selaginella"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The tallest angiosperm example mentioned is:",
+    "options": {
+      "A": "Polytrichum",
+      "B": "Funaria",
+      "C": "Eucalyptus (over 100 metres)",
+      "D": "Equisetum"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a use of angiosperms according to NCERT?",
+    "options": {
+      "A": "Food",
+      "B": "Fodder",
+      "C": "Fuel",
+      "D": "Electricity"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Angiosperms are divided into:",
+    "options": {
+      "A": "Bryophytes and Pteridophytes",
+      "B": "Dicotyledons and Monocotyledons",
+      "C": "Thallophytes and Cryptogams",
+      "D": "Gymnosperms and Angiosperms"
+    },
+    "answer": "B"
+  }
+]
