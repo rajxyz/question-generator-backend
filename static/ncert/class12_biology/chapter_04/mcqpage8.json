@@ -1,0 +1,148 @@
+[
+  {
+    "total_words": 55,
+    "total_questions": 14,
+    "questions": [
+      {
+        "question": "What is infertility?",
+        "options": [
+          "Ability to produce many children",
+          "Inability to produce children despite unprotected sexual co-habitation",
+          "Preference for delayed childbirth",
+          "Pregnancy with complications"
+        ],
+        "answer": "Inability to produce children despite unprotected sexual co-habitation"
+      },
+      {
+        "question": "Who is often blamed for childlessness in India?",
+        "options": [
+          "Male partner",
+          "Female partner",
+          "Both equally",
+          "Doctors"
+        ],
+        "answer": "Female partner"
+      },
+      {
+        "question": "Where does the problem usually lie more often?",
+        "options": [
+          "Female partner",
+          "Male partner",
+          "Both equally",
+          "Infertility clinics"
+        ],
+        "answer": "Male partner"
+      },
+      {
+        "question": "What type of healthcare units can help diagnose infertility?",
+        "options": [
+          "General hospitals",
+          "Specialised infertility clinics",
+          "Pharmacies",
+          "Community centres"
+        ],
+        "answer": "Specialised infertility clinics"
+      },
+      {
+        "question": "What is the purpose of assisted reproductive technologies (ART)?",
+        "options": [
+          "To diagnose infertility",
+          "To assist couples to have children when corrections are not possible",
+          "To prevent diseases",
+          "To provide contraception"
+        ],
+        "answer": "To assist couples to have children when corrections are not possible"
+      },
+      {
+        "question": "What is IVF?",
+        "options": [
+          "In vivo fertilisation",
+          "In vitro fertilisation outside the body",
+          "Gamete transfer",
+          "Artificial insemination"
+        ],
+        "answer": "In vitro fertilisation outside the body"
+      },
+      {
+        "question": "What is ZIFT?",
+        "options": [
+          "Zygote intra fallopian transfer",
+          "Zygote intra uterine transfer",
+          "Intra-uterine insemination",
+          "Gamete transfer"
+        ],
+        "answer": "Zygote intra fallopian transfer"
+      },
+      {
+        "question": "Where are embryos with more than 8 blastomeres transferred?",
+        "options": [
+          "Fallopian tube",
+          "Uterus",
+          "Ovary",
+          "Vagina"
+        ],
+        "answer": "Uterus"
+      },
+      {
+        "question": "What is GIFT?",
+        "options": [
+          "Gamete intra fallopian transfer",
+          "Zygote intra uterine transfer",
+          "Intra-uterine insemination",
+          "Test tube baby method"
+        ],
+        "answer": "Gamete intra fallopian transfer"
+      },
+      {
+        "question": "What is ICSI?",
+        "options": [
+          "Intracytoplasmic sperm injection",
+          "In vitro fertilisation",
+          "Intra-uterine transfer",
+          "Gamete transfer"
+        ],
+        "answer": "Intracytoplasmic sperm injection"
+      },
+      {
+        "question": "What does artificial insemination (AI) involve?",
+        "options": [
+          "Direct fertilisation in laboratory",
+          "Semen introduced artificially into female reproductive tract",
+          "Sperm injection into ovum",
+          "Embryo transfer into uterus"
+        ],
+        "answer": "Semen introduced artificially into female reproductive tract"
+      },
+      {
+        "question": "What is IUI?",
+        "options": [
+          "Intra-uterine insemination",
+          "In vitro fertilisation",
+          "Zygote transfer",
+          "Gamete transfer"
+        ],
+        "answer": "Intra-uterine insemination"
+      },
+      {
+        "question": "Why are ART techniques limited in India?",
+        "options": [
+          "High precision and expensive instrumentation",
+          "Lack of interest",
+          "Easy availability everywhere",
+          "Government restriction only"
+        ],
+        "answer": "High precision and expensive instrumentation"
+      },
+      {
+        "question": "What is considered one of the best methods for couples looking for parenthood in India?",
+        "options": [
+          "ART only",
+          "Legal adoption",
+          "Unprotected co-habitation",
+          "IVF exclusively"
+        ],
+        "answer": "Legal adoption"
+      }
+    ]
+  }
+]
