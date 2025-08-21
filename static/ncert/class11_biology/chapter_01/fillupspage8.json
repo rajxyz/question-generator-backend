@@ -1,1 +1,162 @@
-
+[
+  {
+    "question": "All animals belonging to various phyla are assigned to the highest category called ______.",
+    "answer": "Kingdom Animalia"
+  },
+  {
+    "question": "Kingdom Animalia is the highest category in classification of ______.",
+    "answer": "animals"
+  },
+  {
+    "question": "The Kingdom Plantae comprises all ______.",
+    "answer": "plants"
+  },
+  {
+    "question": "Kingdom Plantae is distinct from Kingdom ______.",
+    "answer": "Animalia"
+  },
+  {
+    "question": "Kingdom Plantae includes plants from various ______.",
+    "answer": "divisions"
+  },
+  {
+    "question": "Animal and plant kingdoms are the two major groups in ______.",
+    "answer": "classification"
+  },
+  {
+    "question": "Taxonomic categories are arranged from species to ______.",
+    "answer": "kingdom"
+  },
+  {
+    "question": "Taxonomic categories from species to kingdom are shown in ______ order.",
+    "answer": "ascending"
+  },
+  {
+    "question": "Species is the lowest category in taxonomic ______.",
+    "answer": "hierarchy"
+  },
+  {
+    "question": "Kingdom is the ______ taxonomic category.",
+    "answer": "highest"
+  },
+  {
+    "question": "Taxonomists developed ______ to facilitate scientific placement of taxa.",
+    "answer": "sub-categories"
+  },
+  {
+    "question": "Sub-categories in taxonomy help in more ______ placement.",
+    "answer": "scientific"
+  },
+  {
+    "question": "The hierarchy in Figure 1.1 shows arrangement from species to ______.",
+    "answer": "kingdom"
+  },
+  {
+    "question": "As we go higher from species to kingdom, common characteristics ______.",
+    "answer": "decrease"
+  },
+  {
+    "question": "Lower the taxa, more are the ______ shared by members.",
+    "answer": "characteristics"
+  },
+  {
+    "question": "Higher the category, greater is the difficulty in determining ______.",
+    "answer": "relationships"
+  },
+  {
+    "question": "Lower categories like species share more common ______.",
+    "answer": "characteristics"
+  },
+  {
+    "question": "Higher categories like kingdom have fewer ______.",
+    "answer": "common characters"
+  },
+  {
+    "question": "The problem of ______ becomes complex at higher levels.",
+    "answer": "classification"
+  },
+  {
+    "question": "Species is a ______ taxonomic category.",
+    "answer": "basic"
+  },
+  {
+    "question": "Kingdom is a ______ taxonomic category.",
+    "answer": "broadest"
+  },
+  {
+    "question": "Taxonomic hierarchy arranges taxa in an ______ sequence.",
+    "answer": "ascending"
+  },
+  {
+    "question": "Members of a species share maximum number of ______.",
+    "answer": "characters"
+  },
+  {
+    "question": "Members of a kingdom share minimum number of ______.",
+    "answer": "characters"
+  },
+  {
+    "question": "Lower taxa represent groups with more ______ similarities.",
+    "answer": "morphological"
+  },
+  {
+    "question": "Higher taxa represent groups with fewer ______.",
+    "answer": "similarities"
+  },
+  {
+    "question": "Animal kingdom includes all ______.",
+    "answer": "animals"
+  },
+  {
+    "question": "Plant kingdom includes all ______.",
+    "answer": "plants"
+  },
+  {
+    "question": "Taxonomic sub-categories make classification more ______.",
+    "answer": "sound"
+  },
+  {
+    "question": "Relationship between taxa becomes harder to establish at ______ levels.",
+    "answer": "higher"
+  },
+  {
+    "question": "Kingdom Animalia and Kingdom Plantae are the two distinct ______.",
+    "answer": "kingdoms"
+  },
+  {
+    "question": "The term 'taxon' represents a unit of ______.",
+    "answer": "classification"
+  },
+  {
+    "question": "Classification becomes more ______ at higher taxonomic categories.",
+    "answer": "complex"
+  },
+  {
+    "question": "Species is at the ______ of taxonomic hierarchy.",
+    "answer": "bottom"
+  },
+  {
+    "question": "Kingdom is at the ______ of taxonomic hierarchy.",
+    "answer": "top"
+  },
+  {
+    "question": "At higher taxonomic ranks, fewer ______ are shared.",
+    "answer": "characters"
+  },
+  {
+    "question": "At lower taxonomic ranks, more ______ are shared.",
+    "answer": "characters"
+  },
+  {
+    "question": "Animals are classified under Kingdom ______.",
+    "answer": "Animalia"
+  },
+  {
+    "question": "Plants are classified under Kingdom ______.",
+    "answer": "Plantae"
+  },
+  {
+    "question": "The complexity of classification increases as we move from species to ______.",
+    "answer": "kingdom"
+  }
+]
