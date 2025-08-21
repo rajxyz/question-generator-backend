@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which of the following statements about gymnosperms is correct?",
+    "options": {
+      "A": "They produce haploid microspores and megaspores within sporangia borne on sporophylls.",
+      "B": "They produce diploid microspores and megaspores within strobili.",
+      "C": "They produce haploid microspores and megaspores within gametangia borne on sporophylls.",
+      "D": "They produce haploid gametes within sporangia borne on strobili."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In gymnosperms, microspores develop into:",
+    "options": {
+      "A": "Free-living male gametophytes",
+      "B": "Highly reduced male gametophytes called pollen grains",
+      "C": "Motile male gametes",
+      "D": "Multicellular male gametophytes outside microsporangia"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which structure in gymnosperms is described as macrosporangiate strobili?",
+    "options": {
+      "A": "Male cones bearing microsporophylls",
+      "B": "Female cones bearing megasporophylls with ovules",
+      "C": "Male gametophyte-bearing cones",
+      "D": "Cones with both microspores and megaspores"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In Cycas, male cones and megasporophylls are:",
+    "options": {
+      "A": "Borne on the same tree",
+      "B": "Borne on different trees",
+      "C": "Absent",
+      "D": "Borne in the same cone"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The ovule in gymnosperms is formed of:",
+    "options": {
+      "A": "Nucellus protected by envelopes",
+      "B": "Megaspore mother cell protected by seed coat",
+      "C": "Microsporangium enclosed by integuments",
+      "D": "Nucellus and endosperm surrounded by seed coat"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The megaspore mother cell divides meiotically to form:",
+    "options": {
+      "A": "Two megaspores",
+      "B": "Four megaspores",
+      "C": "Eight megaspores",
+      "D": "Sixteen megaspores"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is true for the female gametophyte in gymnosperms?",
+    "options": {
+      "A": "It develops outside the megasporangium",
+      "B": "It is retained within the megasporangium",
+      "C": "It is free-living and photosynthetic",
+      "D": "It develops from microspores"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In gymnosperms, pollen grains are released from microsporangium and:",
+    "options": {
+      "A": "Are carried by water currents",
+      "B": "Are carried by air currents to the ovule opening",
+      "C": "Directly fertilise the egg without pollen tube",
+      "D": "Germinate into free-living male gametophytes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Following fertilisation in gymnosperms, the ovules develop into:",
+    "options": {
+      "A": "Covered seeds",
+      "B": "Uncovered seeds",
+      "C": "Fruits",
+      "D": "Embryo sacs"
+    },
+    "answer": "B"
+  }
+]
