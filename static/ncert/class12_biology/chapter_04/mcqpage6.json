@@ -119,74 +119,71 @@
     ],
     "answer": "One fifth"
   },
-{
-  "word_count": 81,
-  "question_count": 13,
-  "questions": [
-    {
-      "question": "During which trimester is MTP considered relatively safe?",
+  {
+     "question": "During which trimester is MTP considered relatively safe?",
       "options": ["First (up to 12 weeks)", "Second (after 12 weeks)", "Third (after 28 weeks)", "None of the above"],
       "answer": "First (up to 12 weeks)"
-    },
-    {
-      "question": "Up to how many weeks is the first trimester?",
-      "options": ["8 weeks", "10 weeks", "12 weeks", "14 weeks"],
-      "answer": "12 weeks"
-    },
-    {
-      "question": "What is the risk level of second trimester abortions?",
-      "options": ["Safer than first", "Same as first", "Much more riskier", "Completely safe"],
-      "answer": "Much more riskier"
-    },
-    {
-      "question": "Who commonly performs illegal MTPs?",
-      "options": ["Qualified doctors", "Gynecologists", "Unqualified quacks", "Nurses"],
-      "answer": "Unqualified quacks"
-    },
-    {
-      "question": "Illegal MTPs performed by unqualified individuals are:",
-      "options": ["Safe", "Unsafe and potentially fatal", "Legal", "Government approved"],
-      "answer": "Unsafe and potentially fatal"
-    },
-    {
-      "question": "What medical technique is misused to determine the sex of the foetus?",
-      "options": ["Ultrasound", "MRI", "Amniocentesis", "X-ray"],
-      "answer": "Amniocentesis"
-    },
-    {
-      "question": "What frequently follows if the foetus is found to be female?",
-      "options": ["Celebration", "MTP", "Hospitalization", "Vaccination"],
-      "answer": "MTP"
-    },
-    {
-      "question": "Sex-selective MTP after amniocentesis is:",
-      "options": ["Legal", "Encouraged", "Totally illegal", "Approved in some states"],
-      "answer": "Totally illegal"
-    },
-    {
-      "question": "What is one dangerous trend related to MTP?",
-      "options": ["Performed by specialists", "Government-sponsored MTPs", "Sex-selective abortions", "All pregnancies aborted"],
-      "answer": "Sex-selective abortions"
-    },
-    {
-      "question": "Who are referred to as 'quacks' in the context of MTPs?",
-      "options": ["Trained doctors", "Unqualified practitioners", "Government agents", "Nurses"],
-      "answer": "Unqualified practitioners"
-    },
-    {
-      "question": "What can be a fatal consequence of unsafe MTPs?",
-      "options": ["Infertility", "Multiple pregnancies", "Mother's death", "Menstrual irregularity"],
-      "answer": "Mother's death"
-    },
-    {
-      "question": "Amniocentesis is primarily used to:",
-      "options": ["Treat infertility", "Vaccinate pregnant women", "Detect sex of foetus", "Relieve labor pain"],
-      "answer": "Detect sex of foetus"
-    },
-    {
-      "question": "Misuse of amniocentesis violates which of the following?",
-      "options": ["Cultural beliefs", "Parental rights", "Legal regulations", "Religious norms"],
-      "answer": "Legal regulations"
-    }
-  ]
-}
+      },
+      {
+        "question": "Up to how many weeks is the first trimester?",
+        "options": ["8 weeks", "10 weeks", "12 weeks", "14 weeks"],
+        "answer": "12 weeks"
+      },
+      {
+        "question": "What is the risk level of second trimester abortions?",
+        "options": ["Safer than first", "Same as first", "Much more riskier", "Completely safe"],
+        "answer": "Much more riskier"
+      },
+      {
+        "question": "Who commonly performs illegal MTPs?",
+        "options": ["Qualified doctors", "Gynecologists", "Unqualified quacks", "Nurses"],
+        "answer": "Unqualified quacks"
+      },
+      {
+        "question": "Illegal MTPs performed by unqualified individuals are:",
+        "options": ["Safe", "Unsafe and potentially fatal", "Legal", "Government approved"],
+        "answer": "Unsafe and potentially fatal"
+      },
+      {
+        "question": "What medical technique is misused to determine the sex of the foetus?",
+        "options": ["Ultrasound", "MRI", "Amniocentesis", "X-ray"],
+        "answer": "Amniocentesis"
+      },
+      {
+        "question": "What frequently follows if the foetus is found to be female?",
+        "options": ["Celebration", "MTP", "Hospitalization", "Vaccination"],
+        "answer": "MTP"
+      },
+      {
+        "question": "Sex-selective MTP after amniocentesis is:",
+        "options": ["Legal", "Encouraged", "Totally illegal", "Approved in some states"],
+        "answer": "Totally illegal"
+      },
+      {
+        "question": "What is one dangerous trend related to MTP?",
+        "options": ["Performed by specialists", "Government-sponsored MTPs", "Sex-selective abortions", "All pregnancies aborted"],
+        "answer": "Sex-selective abortions"
+      },
+      {
+        "question": "Who are referred to as 'quacks' in the context of MTPs?",
+        "options": ["Trained doctors", "Unqualified practitioners", "Government agents", "Nurses"],
+        "answer": "Unqualified practitioners"
+      },
+      {
+        "question": "What can be a fatal consequence of unsafe MTPs?",
+        "options": ["Infertility", "Multiple pregnancies", "Mother's death", "Menstrual irregularity"],
+        "answer": "Mother's death"
+      },
+      {
+        "question": "Amniocentesis is primarily used to:",
+        "options": ["Treat infertility", "Vaccinate pregnant women", "Detect sex of foetus", "Relieve labor pain"],
+        "answer": "Detect sex of foetus"
+      },
+      {
+        "question": "Misuse of amniocentesis violates which of the following?",
+        "options": ["Cultural beliefs", "Parental rights", "Legal regulations", "Religious norms"],
+        "answer": "Legal regulations"
+      }
+    ]
+  }
+]
