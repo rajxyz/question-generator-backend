@@ -1,1 +1,107 @@
-
+[
+  {
+    "question": "In the last century, what significantly improved the quality of life of people?",
+    "options": ["All-round development in various fields", "Decline in population", "Reduction in health facilities", "Decrease in living conditions"],
+    "answer": "All-round development in various fields"
+  },
+  {
+    "question": "What had an explosive impact on the growth of population?",
+    "options": ["Increased health facilities and better living conditions", "Decrease in fertility rate", "Economic slowdown", "Natural disasters"],
+    "answer": "Increased health facilities and better living conditions"
+  },
+  {
+    "question": "What was the approximate world population in 1900?",
+    "options": ["2 billion", "6 billion", "7.2 billion", "1 billion"],
+    "answer": "2 billion"
+  },
+  {
+    "question": "What was the world population by the year 2000?",
+    "options": ["2 billion", "6 billion", "7.2 billion", "3 billion"],
+    "answer": "6 billion"
+  },
+  {
+    "question": "According to the paragraph, what was the world population in 2011?",
+    "options": ["6 billion", "7.2 billion", "8 billion", "5 billion"],
+    "answer": "7.2 billion"
+  },
+  {
+    "question": "What was the approximate population of India at the time of independence?",
+    "options": ["350 million", "1 billion", "500 million", "250 million"],
+    "answer": "350 million"
+  },
+  {
+    "question": "What was India's population by the year 2000?",
+    "options": ["Close to 1 billion", "350 million", "1.2 billion", "500 million"],
+    "answer": "Close to 1 billion"
+  },
+  {
+    "question": "What was India's population in May 2011?",
+    "options": ["1 billion", "1.2 billion", "1.5 billion", "1.1 billion"],
+    "answer": "1.2 billion"
+  },
+  {
+    "question": "Which factors are probable reasons for rapid population growth in India?",
+    "options": ["Decline in death rate, maternal mortality rate, infant mortality rate and increase in people of reproducible age", "Increase in death rate", "Famine and drought", "Urban migration"],
+    "answer": "Decline in death rate, maternal mortality rate, infant mortality rate and increase in people of reproducible age"
+  },
+  {
+    "question": "Which program helped India marginally reduce population growth rate?",
+    "options": ["Reproductive Child Health (RCH) programme", "National Health Mission", "Janani Suraksha Yojana", "Ayushman Bharat"],
+    "answer": "Reproductive Child Health (RCH) programme"
+  },
+  {
+    "question": "What was the population growth rate according to the 2011 census?",
+    "options": ["Less than 2 per cent", "More than 5 per cent", "Exactly 2 per cent", "3 per cent"],
+    "answer": "Less than 2 per cent"
+  },
+  {
+    "question": "What could an alarming growth rate lead to?",
+    "options": ["Absolute scarcity of food, shelter and clothing", "Surplus of resources", "Decrease in population", "Improved living conditions"],
+    "answer": "Absolute scarcity of food, shelter and clothing"
+  },
+  {
+    "question": "What is the most important step to overcome rapid population growth?",
+    "options": ["Motivate smaller families by using contraceptive methods", "Increase birth rate", "Reduce health facilities", "Encourage early marriage"],
+    "answer": "Motivate smaller families by using contraceptive methods"
+  },
+  {
+    "question": "Which slogan is used in media campaigns to motivate smaller families?",
+    "options": ["Hum Do Hamare Do", "Beti Bachao Beti Padhao", "Swachh Bharat", "Digital India"],
+    "answer": "Hum Do Hamare Do"
+  },
+  {
+    "question": "What trend have many young, urban, working couples adopted regarding children?",
+    "options": ["One child norm", "No children", "Three child norm", "Four child norm"],
+    "answer": "One child norm"
+  },
+  {
+    "question": "What is the statutory marriageable age for females in India?",
+    "options": ["18 years", "21 years", "16 years", "20 years"],
+    "answer": "18 years"
+  },
+  {
+    "question": "What is the statutory marriageable age for males in India?",
+    "options": ["18 years", "21 years", "20 years", "25 years"],
+    "answer": "21 years"
+  },
+  {
+    "question": "Which measure is given as incentive to couples with small families?",
+    "options": ["Various government incentives", "Extra land", "Tax exemption only for large families", "Scholarship for children"],
+    "answer": "Various government incentives"
+  },
+  {
+    "question": "What characteristics should an ideal contraceptive have?",
+    "options": ["User-friendly, easily available, effective, reversible, least side-effects", "Expensive, permanent, hard to use", "Unsafe, risky, complicated", "Only natural methods"],
+    "answer": "User-friendly, easily available, effective, reversible, least side-effects"
+  },
+  {
+    "question": "Which of the following should an ideal contraceptive NOT interfere with?",
+    "options": ["Sexual drive and sexual act", "Cooking skills", "Education", "Daily work routine"],
+    "answer": "Sexual drive and sexual act"
+  },
+  {
+    "question": "Into which broad categories can contraceptive methods be grouped?",
+    "options": ["Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants, Surgical methods", "Vaccines only", "Traditional medicines only", "Herbal methods only"],
+    "answer": "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants, Surgical methods"
+  }
+]
