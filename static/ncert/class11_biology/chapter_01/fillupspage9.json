@@ -1,1 +1,94 @@
-
+[
+  {
+    "question": "The living world is rich in ______.",
+    "answer": "variety"
+  },
+  {
+    "question": "Millions of ______ and animals have been identified and described.",
+    "answer": "plants"
+  },
+  {
+    "question": "Millions of plants and ______ have been identified and described.",
+    "answer": "animals"
+  },
+  {
+    "question": "A large number of plants and animals still remains ______.",
+    "answer": "unknown"
+  },
+  {
+    "question": "The very range of organisms in terms of size, colour, habitat, physiological and ______ features make us seek the defining characteristics of living organisms.",
+    "answer": "morphological"
+  },
+  {
+    "question": "The very range of organisms in terms of size, colour, ______, physiological and morphological features make us seek the defining characteristics of living organisms.",
+    "answer": "habitat"
+  },
+  {
+    "question": "Biologists have evolved certain rules and principles for identification, ______ and classification of organisms.",
+    "answer": "nomenclature"
+  },
+  {
+    "question": "The branch of knowledge dealing with identification, nomenclature and classification of organisms is referred to as ______.",
+    "answer": "taxonomy"
+  },
+  {
+    "question": "The taxonomic studies of various species of plants and animals are useful in agriculture, ______, industry and in general for knowing our bio-resources and their diversity.",
+    "answer": "forestry"
+  },
+  {
+    "question": "The taxonomic studies of various species of plants and animals are useful in agriculture, forestry, ______ and in general for knowing our bio-resources and their diversity.",
+    "answer": "industry"
+  },
+  {
+    "question": "The taxonomic studies of various species of plants and animals are useful in agriculture, forestry, industry and in general for knowing our ______ and their diversity.",
+    "answer": "bio-resources"
+  },
+  {
+    "question": "The basics of taxonomy like identification, naming and classification of organisms are universally evolved under international ______.",
+    "answer": "codes"
+  },
+  {
+    "question": "Based on the resemblances and distinct differences, each organism is identified and assigned a correct ______/biological name.",
+    "answer": "scientific"
+  },
+  {
+    "question": "A correct scientific/biological name comprises ______ words as per the binomial system of nomenclature.",
+    "answer": "two"
+  },
+  {
+    "question": "An organism represents/occupies a place or ______ in the system of classification.",
+    "answer": "position"
+  },
+  {
+    "question": "There are many categories/ranks which are generally referred to as taxonomic ______ or taxa.",
+    "answer": "categories"
+  },
+  {
+    "question": "All the categories constitute a taxonomic ______.",
+    "answer": "hierarchy"
+  },
+  {
+    "question": "The very range of organisms in terms of size, ______, habitat, physiological and morphological features make us seek the defining characteristics of living organisms.",
+    "answer": "colour"
+  },
+  {
+    "question": "Biologists have evolved certain ______ and principles for identification, nomenclature and classification of organisms.",
+    "answer": "rules"
+  },
+  {
+    "question": "Based on the resemblances and distinct ______, each organism is identified and assigned a correct scientific/biological name.",
+    "answer": "differences"
+  },
+  {
+    "question": "Each organism is identified and assigned a correct scientific/biological name as per the ______ system of nomenclature.",
+    "answer": "binomial"
+  },
+  {
+    "question": "Taxonomic studies of various species of plants and animals are useful in agriculture, forestry, industry and in general for knowing our bio-resources and their ______.",
+    "answer": "diversity"
+  },
+  {
+    "question": "There are many categories/ranks which are generally referred to as taxonomic categories or ______.",
+    "answer": "taxa"
+  }
+]
