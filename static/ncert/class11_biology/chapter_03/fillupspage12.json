@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Plant kingdom includes algae, _______, pteridophytes, gymnosperms and angiosperms.",
+    "answer": "bryophytes"
+  },
+  {
+    "question": "Plant kingdom includes algae, bryophytes, _______, gymnosperms and angiosperms.",
+    "answer": "pteridophytes"
+  },
+  {
+    "question": "Plant kingdom includes algae, bryophytes, pteridophytes, _______ and angiosperms.",
+    "answer": "gymnosperms"
+  },
+  {
+    "question": "Algae are chlorophyll-bearing simple, thalloid, autotrophic and largely _______ organisms.",
+    "answer": "aquatic"
+  },
+  {
+    "question": "Depending on the type of pigment possessed and the type of stored food, algae are classified into three classes, namely _______, Phaeophyceae and Rhodophyceae.",
+    "answer": "Chlorophyceae"
+  },
+  {
+    "question": "Depending on the type of pigment possessed and the type of stored food, algae are classified into three classes, namely Chlorophyceae, _______ and Rhodophyceae.",
+    "answer": "Phaeophyceae"
+  },
+  {
+    "question": "Depending on the type of pigment possessed and the type of stored food, algae are classified into three classes, namely Chlorophyceae, Phaeophyceae and _______.",
+    "answer": "Rhodophyceae"
+  },
+  {
+    "question": "Algae usually reproduce vegetatively by _______.",
+    "answer": "fragmentation"
+  },
+  {
+    "question": "Algae usually reproduce asexually by formation of different types of _______.",
+    "answer": "spores"
+  },
+  {
+    "question": "Algae usually reproduce sexually by formation of _______.",
+    "answer": "gametes"
+  },
+  {
+    "question": "Gametes in algae may show isogamy, anisogamy or _______.",
+    "answer": "oogamy"
+  },
+  {
+    "question": "Bryophytes are plants which can live in soil but are dependent on _______ for sexual reproduction.",
+    "answer": "water"
+  },
+  {
+    "question": "The bryophyte plant body is more differentiated than that of _______.",
+    "answer": "algae"
+  },
+  {
+    "question": "The plant body of bryophytes is thallus-like and _______ or erect.",
+    "answer": "prostrate"
+  },
+  {
+    "question": "The plant body of bryophytes is attached to the substratum by _______.",
+    "answer": "rhizoids"
+  },
+  {
+    "question": "Bryophytes possess root-like, _______-like and stem-like structures.",
+    "answer": "leaf"
+  },
+  {
+    "question": "The bryophytes are divided into liverworts and _______.",
+    "answer": "mosses"
+  },
+  {
+    "question": "The plant body of liverworts is thalloid and _______.",
+    "answer": "dorsiventral"
+  },
+  {
+    "question": "Mosses have upright, slender axes bearing spirally arranged _______.",
+    "answer": "leaves"
+  },
+  {
+    "question": "The main plant body of a bryophyte is gamete-producing and is called a _______.",
+    "answer": "gametophyte"
+  },
+  {
+    "question": "The male sex organs of bryophytes are called _______.",
+    "answer": "antheridia"
+  },
+  {
+    "question": "The female sex organs of bryophytes are called _______.",
+    "answer": "archegonia"
+  },
+  {
+    "question": "The male and female gametes produced fuse to form _______.",
+    "answer": "zygote"
+  },
+  {
+    "question": "The zygote in bryophytes produces a multicellular body called a _______.",
+    "answer": "sporophyte"
+  },
+  {
+    "question": "The sporophyte produces haploid _______.",
+    "answer": "spores"
+  },
+  {
+    "question": "The spores of bryophytes germinate to form _______.",
+    "answer": "gametophytes"
+  },
+  {
+    "question": "In pteridophytes, the main plant is a _______.",
+    "answer": "sporophyte"
+  },
+  {
+    "question": "The pteridophyte sporophyte is differentiated into true root, _______ and leaves.",
+    "answer": "stem"
+  },
+  {
+    "question": "The organs of pteridophytes possess well-differentiated _______ tissues.",
+    "answer": "vascular"
+  },
+  {
+    "question": "The sporophytes of pteridophytes bear sporangia which produce _______.",
+    "answer": "spores"
+  },
+  {
+    "question": "The spores of pteridophytes germinate to form _______.",
+    "answer": "gametophytes"
+  },
+  {
+    "question": "Pteridophyte gametophytes require _______, damp places to grow.",
+    "answer": "cool"
+  },
+  {
+    "question": "The gametophytes of pteridophytes bear male sex organs called _______.",
+    "answer": "antheridia"
+  },
+  {
+    "question": "The gametophytes of pteridophytes bear female sex organs called _______.",
+    "answer": "archegonia"
+  },
+  {
+    "question": "In pteridophytes, water is required for transfer of male gametes to _______.",
+    "answer": "archegonium"
+  },
+  {
+    "question": "In pteridophytes, after fertilisation the zygote produces a _______.",
+    "answer": "sporophyte"
+  },
+  {
+    "question": "The gymnosperms are the plants in which _______ are not enclosed by any ovary wall.",
+    "answer": "ovules"
+  },
+  {
+    "question": "After fertilisation the seeds of gymnosperms remain exposed and therefore these plants are called _______-seeded plants.",
+    "answer": "naked"
+  },
+  {
+    "question": "Gymnosperms produce _______ and megaspores.",
+    "answer": "microspores"
+  },
+  {
+    "question": "Microspores and megaspores are produced in microsporangia and _______.",
+    "answer": "megasporangia"
+  },
+  {
+    "question": "Microsporangia and megasporangia are borne on the _______.",
+    "answer": "sporophylls"
+  },
+  {
+    "question": "The sporophylls – microsporophylls and megasporophylls – are arranged spirally on axis to form male and female _______ respectively.",
+    "answer": "cones"
+  },
+  {
+    "question": "The pollen grain germinates and pollen tube releases the male gamete into the _______.",
+    "answer": "ovule"
+  },
+  {
+    "question": "In gymnosperms, the male gamete fuses with the egg cell in _______.",
+    "answer": "archegonia"
+  },
+  {
+    "question": "Following fertilisation in gymnosperms, the zygote develops into _______.",
+    "answer": "embryo"
+  },
+  {
+    "question": "Following fertilisation in gymnosperms, the ovules develop into _______.",
+    "answer": "seeds"
+  },
+  {
+    "question": "The angiosperms are divided into two classes – the dicotyledons and the _______.",
+    "answer": "monocotyledons"
+  },
+  {
+    "question": "The angiosperms are divided into two classes – the _______ and the monocotyledons.",
+    "answer": "dicotyledons"
+  }
+]
