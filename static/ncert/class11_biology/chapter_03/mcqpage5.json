@@ -1,1 +1,32 @@
-
+[
+  {
+    "question": "Bryophytes include which of the following plants?",
+    "options": ["Ferns and algae", "Mosses and liverworts", "Gymnosperms and ferns", "Algae and fungi"],
+    "answer": "Mosses and liverworts"
+  },
+  {
+    "question": "Bryophytes are commonly found growing in:",
+    "options": ["Dry and open fields", "Moist shaded areas in the hills", "Deserts", "High salinity regions"],
+    "answer": "Moist shaded areas in the hills"
+  },
+  {
+    "question": "Bryophytes are also called:",
+    "options": ["Desert plants", "Aquatic plants", "Amphibians of the plant kingdom", "Epiphytes of the forest"],
+    "answer": "Amphibians of the plant kingdom"
+  },
+  {
+    "question": "Why are bryophytes called amphibians of the plant kingdom?",
+    "options": ["They live only in water", "They live in trees and water", "They can live in soil but need water for sexual reproduction", "They reproduce only asexually in water"],
+    "answer": "They can live in soil but need water for sexual reproduction"
+  },
+  {
+    "question": "Bryophytes usually occur in:",
+    "options": ["Dry and sunny areas", "Damp, humid and shaded localities", "Snow-covered regions", "Highly saline environments"],
+    "answer": "Damp, humid and shaded localities"
+  },
+  {
+    "question": "Bryophytes play an important role in:",
+    "options": ["Nitrogen fixation", "Pollination", "Plant succession on bare rocks/soil", "Seed dispersal"],
+    "answer": "Plant succession on bare rocks/soil"
+  }
+]
