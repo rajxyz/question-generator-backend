@@ -158,5 +158,102 @@
   {
     "question": "The complexity of classification increases as we move from species to ______.",
     "answer": "kingdom"
+  },
+  {
+      "question": "The biological name of Man is ____.",
+      "answer": "Homo sapiens"
+    },
+    {
+      "question": "Man belongs to the genus ____.",
+      "answer": "Homo"
+    },
+    {
+      "question": "The family of Man is ____.",
+      "answer": "Hominidae"
+    },
+    {
+      "question": "The order of Man is ____.",
+      "answer": "Primata"
+    },
+    {
+      "question": "Man belongs to the class ____.",
+      "answer": "Mammalia"
+    },
+    {
+      "question": "The phylum of Man is ____.",
+      "answer": "Chordata"
+    },
+    {
+      "question": "The biological name of Housefly is ____.",
+      "answer": "Musca domestica"
+    },
+    {
+      "question": "Housefly belongs to the genus ____.",
+      "answer": "Musca"
+    },
+    {
+      "question": "The family of Housefly is ____.",
+      "answer": "Muscidae"
+    },
+    {
+      "question": "The order of Housefly is ____.",
+      "answer": "Diptera"
+    },
+    {
+      "question": "Housefly belongs to the class ____.",
+      "answer": "Insecta"
+    },
+    {
+      "question": "The phylum of Housefly is ____.",
+      "answer": "Arthropoda"
+    },
+    {
+      "question": "The biological name of Mango is ____.",
+      "answer": "Mangifera indica"
+    },
+    {
+      "question": "Mango belongs to the genus ____.",
+      "answer": "Mangifera"
+    },
+    {
+      "question": "The family of Mango is ____.",
+      "answer": "Anacardiaceae"
+    },
+    {
+      "question": "The order of Mango is ____.",
+      "answer": "Sapindales"
+    },
+    {
+      "question": "Mango belongs to the class ____.",
+      "answer": "Dicotyledonae"
+    },
+    {
+      "question": "The division of Mango is ____.",
+      "answer": "Angiospermae"
+    },
+    {
+      "question": "The biological name of Wheat is ____.",
+      "answer": "Triticum aestivum"
+    },
+    {
+      "question": "Wheat belongs to the genus ____.",
+      "answer": "Triticum"
+    },
+    {
+      "question": "The family of Wheat is ____.",
+      "answer": "Poaceae"
+    },
+    {
+      "question": "The order of Wheat is ____.",
+      "answer": "Poales"
+    },
+    {
+      "question": "Wheat belongs to the class ____.",
+      "answer": "Monocotyledonae"
+    },
+    {
+      "question": "The division of Wheat is ____.",
+      "answer": "Angiospermae"
+    }
+  ]
   }
-]
