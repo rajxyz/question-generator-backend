@@ -585,6 +585,27 @@
       },
       "answer": "C"
     },
-    {
+   {
       "question_number": 54,
-      "question":
+      "question": "One goal of RCH is:",
+      "options": {
+        "A": "Economic equality",
+        "B": "Physical education",
+        "C": "Reproductive awareness",
+        "D": "Blood donation"
+      },
+      "answer": "C"
+    },
+    {
+      "question_number": 55,
+      "question": "India started national reproductive health programmes in:",
+      "options": {
+        "A": "1961",
+        "B": "1975",
+        "C": "1951",
+        "D": "1981"
+      },
+      "answer": "C"
+    }
+  ]
+}
