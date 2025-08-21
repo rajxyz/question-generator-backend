@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Gametophytes of pteridophytes require which conditions to grow?",
+    "options": ["Hot and dry", "Cool, damp, shady", "Sunny and moist", "Cold and snowy"],
+    "answer": "Cool, damp, shady"
+  },
+  {
+    "question": "Due to their specific requirements, living pteridophytes are restricted to:",
+    "options": ["Mountains only", "Aquatic environments", "Narrow geographical regions", "All types of habitats"],
+    "answer": "Narrow geographical regions"
+  },
+  {
+    "question": "The male and female sex organs in pteridophytes are called:",
+    "options": ["Sporangia and gametangia", "Antherozoids and eggs", "Antheridia and archegonia", "Stamens and pistils"],
+    "answer": "Antheridia and archegonia"
+  },
+  {
+    "question": "Water is required in pteridophytes for the transfer of:",
+    "options": ["Spores", "Nutrients", "Antherozoids", "Chlorophyll"],
+    "answer": "Antherozoids"
+  },
+  {
+    "question": "Fusion of male gamete and egg in pteridophytes results in the formation of:",
+    "options": ["Spore", "Prothallus", "Zygote", "Gametophyte"],
+    "answer": "Zygote"
+  },
+  {
+    "question": "The zygote in pteridophytes produces a:",
+    "options": ["Simple gametophyte", "Filamentous protonema", "Multicellular well-differentiated sporophyte", "Spore mother cell"],
+    "answer": "Multicellular well-differentiated sporophyte"
+  },
+  {
+    "question": "The dominant phase of pteridophytes is the:",
+    "options": ["Gametophyte", "Zygote", "Sporophyte", "Prothallus"],
+    "answer": "Sporophyte"
+  },
+  {
+    "question": "Plants in which all spores are of similar kinds are called:",
+    "options": ["Isosporous", "Heterosporous", "Homosporous", "Megasporous"],
+    "answer": "Homosporous"
+  },
+  {
+    "question": "Selaginella and Salvinia are examples of:",
+    "options": ["Homosporous plants", "Heterosporous plants", "Non-vascular plants", "Non-spore-bearing plants"],
+    "answer": "Heterosporous plants"
+  },
+  {
+    "question": "Heterosporous plants produce which types of spores?",
+    "options": ["Single type", "Micro and macro", "Protonema and prothallus", "Unicellular and multicellular"],
+    "answer": "Micro and macro"
+  },
+  {
+    "question": "Megaspores and microspores germinate into:",
+    "options": ["Leaves and roots", "Female and male gametophytes", "Foot and capsule", "Spore mother cells"],
+    "answer": "Female and male gametophytes"
+  },
+  {
+    "question": "In heterosporous pteridophytes, the female gametophytes are:",
+    "options": ["Released into soil", "Stored in cones", "Retained on the parent sporophyte", "Destroyed after fertilisation"],
+    "answer": "Retained on the parent sporophyte"
+  },
+  {
+    "question": "Development of the zygote into young embryo takes place within:",
+    "options": ["Capsule", "Antheridium", "Female gametophyte", "Spore"],
+    "answer": "Female gametophyte"
+  },
+  {
+    "question": "The event of embryo development within the female gametophyte is a precursor to:",
+    "options": ["Meiosis", "Seed habit", "Spore formation", "Sporangium development"],
+    "answer": "Seed habit"
+  },
+  {
+    "question": "Psilopsida includes which of the following genera?",
+    "options": ["Equisetum", "Selaginella", "Psilotum", "Dryopteris"],
+    "answer": "Psilotum"
+  },
+  {
+    "question": "Lycopsida includes:",
+    "options": ["Psilotum and Adiantum", "Selaginella and Lycopodium", "Cycas and Pinus", "Funaria and Marchantia"],
+    "answer": "Selaginella and Lycopodium"
+  },
+  {
+    "question": "Sphenopsida includes:",
+    "options": ["Pteris", "Equisetum", "Lycopodium", "Psilotum"],
+    "answer": "Equisetum"
+  },
+  {
+    "question": "Pteropsida includes which of the following?",
+    "options": ["Marchantia, Riccia", "Dryopteris, Pteris, Adiantum", "Cycas, Pinus", "Selaginella, Equisetum"],
+    "answer": "Dryopteris, Pteris, Adiantum"
+  },
+  {
+    "question": "In gymnosperms, ovules remain:",
+    "options": ["Enclosed in fruits", "Covered by ovary wall", "Exposed before and after fertilisation", "Buried in the stem"],
+    "answer": "Exposed before and after fertilisation"
+  },
+  {
+    "question": "Seeds in gymnosperms are:",
+    "options": ["Covered by fruits", "Naked", "Formed in cones", "Enclosed in pods"],
+    "answer": "Naked"
+  },
+  {
+    "question": "Which of the following is one of the tallest tree species among gymnosperms?",
+    "options": ["Pinus", "Cycas", "Sequoia", "Cedrus"],
+    "answer": "Sequoia"
+  },
+  {
+    "question": "The roots in gymnosperms are generally:",
+    "options": ["Fibrous", "Adventitious", "Tap roots", "Tuberous"],
+    "answer": "Tap roots"
+  },
+  {
+    "question": "In Pinus, roots show fungal association called:",
+    "options": ["Lichen", "Endophyte", "Mycorrhiza", "Rhizobium"],
+    "answer": "Mycorrhiza"
+  },
+  {
+    "question": "Cycas roots have specialised structures called:",
+    "options": ["Tubers", "Coralloid roots", "Prop roots", "Nodules"],
+    "answer": "Coralloid roots"
+  },
+  {
+    "question": "Coralloid roots in Cycas are associated with:",
+    "options": ["Fungi", "Cyanobacteria", "Algae", "Protozoa"],
+    "answer": "Cyanobacteria"
+  },
+  {
+    "question": "The stem of Cycas is:",
+    "options": ["Creeping", "Climbing", "Unbranched", "Profusely branched"],
+    "answer": "Unbranched"
+  },
+  {
+    "question": "Pinus and Cedrus have:",
+    "options": ["Unbranched stems", "Branched stems", "Herbaceous stems", "Thalloid stems"],
+    "answer": "Branched stems"
+  },
+  {
+    "question": "The leaves of gymnosperms may be:",
+    "options": ["Always compound", "Simple or compound", "Only simple", "Only needle-like"],
+    "answer": "Simple or compound"
+  },
+  {
+    "question": "In Cycas, the pinnate leaves:",
+    "options": ["Fall off each year", "Persist for a few years", "Are needle-like", "Are compound but short-lived"],
+    "answer": "Persist for a few years"
+  },
+  {
+    "question": "Gymnosperm leaves are adapted to withstand:",
+    "options": ["Heavy shade", "Floods", "Extremes of temperature, humidity and wind", "Fire damage"],
+    "answer": "Extremes of temperature, humidity and wind"
+  },
+  {
+    "question": "In conifers, needle-like leaves help to:",
+    "options": ["Increase photosynthesis", "Reduce surface area", "Increase transpiration", "Trap insects"],
+    "answer": "Reduce surface area"
+  },
+  {
+    "question": "In gymnosperms, thick cuticle and sunken stomata help to:",
+    "options": ["Enhance gas exchange", "Attract pollinators", "Reduce water loss", "Increase nutrient uptake"],
+    "answer": "Reduce water loss"
+  }
+]
