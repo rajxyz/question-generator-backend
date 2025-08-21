@@ -1,1 +1,202 @@
-
+[
+  {
+    "question": "Compared to algae, the plant body of bryophytes is:",
+    "options": ["Less differentiated", "More differentiated", "Unicellular", "Non-photosynthetic"],
+    "answer": "More differentiated"
+  },
+  {
+    "question": "The plant body of bryophytes is usually:",
+    "options": ["Woody and upright", "Thallus-like and prostrate or erect", "Floating and filamentous", "Vascular and upright"],
+    "answer": "Thallus-like and prostrate or erect"
+  },
+  {
+    "question": "Bryophytes attach to the substratum by:",
+    "options": ["True roots", "Stem-like organs", "Unicellular or multicellular rhizoids", "Root hairs"],
+    "answer": "Unicellular or multicellular rhizoids"
+  },
+  {
+    "question": "Bryophytes lack true:",
+    "options": ["Spores", "Pigments", "Roots, stem or leaves", "Reproductive organs"],
+    "answer": "Roots, stem or leaves"
+  },
+  {
+    "question": "Bryophytes may possess structures that are:",
+    "options": ["Only root-like", "Only stem-like", "Only leaf-like", "Root-like, leaf-like or stem-like"],
+    "answer": "Root-like, leaf-like or stem-like"
+  },
+  {
+    "question": "The main plant body of bryophytes is:",
+    "options": ["Diploid", "Triploid", "Haploid", "Polyploid"],
+    "answer": "Haploid"
+  },
+  {
+    "question": "The main plant body of bryophytes is called a:",
+    "options": ["Sporophyte", "Gametophyte", "Prothallus", "Zygote"],
+    "answer": "Gametophyte"
+  },
+  {
+    "question": "The sex organs in bryophytes are:",
+    "options": ["Unicellular", "Non-functional", "Multicellular", "Absent"],
+    "answer": "Multicellular"
+  },
+  {
+    "question": "The male sex organ in bryophytes is called:",
+    "options": ["Archegonium", "Antheridium", "Anther", "Sporangium"],
+    "answer": "Antheridium"
+  },
+  {
+    "question": "Antheridia produce:",
+    "options": ["Non-motile gametes", "Biflagellate antherozoids", "Egg cells", "Spores"],
+    "answer": "Biflagellate antherozoids"
+  },
+  {
+    "question": "The female sex organ in bryophytes is called:",
+    "options": ["Antheridium", "Gynoecium", "Oogonium", "Archegonium"],
+    "answer": "Archegonium"
+  },
+  {
+    "question": "Archegonium produces:",
+    "options": ["Multiple eggs", "A single egg", "Many spores", "Zoospores"],
+    "answer": "A single egg"
+  },
+  {
+    "question": "Fertilization in bryophytes occurs when antherozoids come in contact with archegonium in:",
+    "options": ["Air", "Soil", "Water", "Sporangium"],
+    "answer": "Water"
+  },
+  {
+    "question": "Fusion of antherozoid and egg in bryophytes results in:",
+    "options": ["Sporangium", "Spore", "Zygote", "Gemma"],
+    "answer": "Zygote"
+  },
+  {
+    "question": "Zygotes in bryophytes do not immediately undergo:",
+    "options": ["Germination", "Meiosis", "Reduction division", "Binary fission"],
+    "answer": "Reduction division"
+  },
+  {
+    "question": "The zygote in bryophytes develops into a:",
+    "options": ["Gametophyte", "Spore", "Sporophyte", "Rhizoid"],
+    "answer": "Sporophyte"
+  },
+  {
+    "question": "The sporophyte in bryophytes is:",
+    "options": ["Free-living", "Photosynthetic and independent", "Not free-living", "Floating"],
+    "answer": "Not free-living"
+  },
+  {
+    "question": "The sporophyte derives nourishment from the:",
+    "options": ["Antheridium", "Egg", "Spore", "Photosynthetic gametophyte"],
+    "answer": "Photosynthetic gametophyte"
+  },
+  {
+    "question": "In bryophytes, meiosis in some cells of the sporophyte produces:",
+    "options": ["Diploid gametes", "Zygotes", "Haploid spores", "Rhizoids"],
+    "answer": "Haploid spores"
+  },
+  {
+    "question": "The haploid spores germinate to form:",
+    "options": ["Sporophyte", "Zygote", "Gametophyte", "Egg"],
+    "answer": "Gametophyte"
+  },
+  {
+    "question": "Mosses can provide food to:",
+    "options": ["Fish only", "Herbaceous mammals, birds and other animals", "Reptiles only", "Fungi"],
+    "answer": "Herbaceous mammals, birds and other animals"
+  },
+  {
+    "question": "Which moss provides peat used as fuel and packing material?",
+    "options": ["Riccia", "Marchantia", "Funaria", "Sphagnum"],
+    "answer": "Sphagnum"
+  },
+  {
+    "question": "Peat is useful in packing because of its capacity to:",
+    "options": ["Repel insects", "Kill bacteria", "Hold water", "Release oxygen"],
+    "answer": "Hold water"
+  },
+  {
+    "question": "Mosses and lichens are the first organisms to:",
+    "options": ["Produce flowers", "Grow on aquatic surfaces", "Colonise rocks", "Cause disease"],
+    "answer": "Colonise rocks"
+  },
+  {
+    "question": "Mosses help decompose rocks and make the substrate suitable for:",
+    "options": ["Algae", "Fungi", "Higher plants", "Bryophytes only"],
+    "answer": "Higher plants"
+  },
+  {
+    "question": "Mosses form dense mats that help prevent:",
+    "options": ["Plant growth", "Spore formation", "Rainwater absorption", "Soil erosion"],
+    "answer": "Soil erosion"
+  },
+  {
+    "question": "Bryophytes are divided into:",
+    "options": ["Algae and fungi", "Liverworts and mosses", "Mosses and ferns", "Liverworts and pteridophytes"],
+    "answer": "Liverworts and mosses"
+  },
+  {
+    "question": "Liverworts usually grow in:",
+    "options": ["Dry rocks", "Moist, shady habitats", "Open sunny fields", "Cold snowy areas"],
+    "answer": "Moist, shady habitats"
+  },
+  {
+    "question": "Which of the following is a typical liverwort with a thalloid plant body?",
+    "options": ["Funaria", "Riccia", "Sphagnum", "Marchantia"],
+    "answer": "Marchantia"
+  },
+  {
+    "question": "The thallus of liverworts is usually:",
+    "options": ["Erect and radial", "Dorsiventral and closely appressed to the substrate", "Floating in water", "Fibrous and loose"],
+    "answer": "Dorsiventral and closely appressed to the substrate"
+  },
+  {
+    "question": "Leafy liverworts have tiny leaf-like appendages arranged in:",
+    "options": ["Spirals", "Whorls", "Two rows", "Random clusters"],
+    "answer": "Two rows"
+  },
+  {
+    "question": "Asexual reproduction in liverworts occurs by fragmentation or by:",
+    "options": ["Fission", "Gemmae", "Spores", "Roots"],
+    "answer": "Gemmae"
+  },
+  {
+    "question": "Gemmae are:",
+    "options": ["Motile spores", "Green, multicellular asexual buds", "Unicellular propagules", "Modified roots"],
+    "answer": "Green, multicellular asexual buds"
+  },
+  {
+    "question": "Gemmae develop in:",
+    "options": ["Rhizoids", "Capsules", "Gemma cups", "Sporangia"],
+    "answer": "Gemma cups"
+  },
+  {
+    "question": "Gemma cups are located on the:",
+    "options": ["Rhizoids", "Leaves", "Thalli", "Seta"],
+    "answer": "Thalli"
+  },
+  {
+    "question": "Detached gemmae germinate to form:",
+    "options": ["Spores", "Sporophytes", "New individuals", "Seta"],
+    "answer": "New individuals"
+  },
+  {
+    "question": "During sexual reproduction in liverworts, sex organs are produced:",
+    "options": ["Only on male thalli", "Only on female thalli", "Either on same or different thalli", "Only inside the capsule"],
+    "answer": "Either on same or different thalli"
+  },
+  {
+    "question": "The liverwort sporophyte is differentiated into:",
+    "options": ["Leaf, stem and root", "Capsule, seta and foot", "Thallus and rhizoid", "Spore, antheridium and archegonium"],
+    "answer": "Foot, seta and capsule"
+  },
+  {
+    "question": "After meiosis, spores are produced in the:",
+    "options": ["Gemma cup", "Foot", "Capsule", "Seta"],
+    "answer": "Capsule"
+  },
+  {
+    "question": "Spores in liverworts germinate to form:",
+    "options": ["New sporophytes", "Zygotes", "Free-living gametophytes", "Capsules"],
+    "answer": "Free-living gametophytes"
+  }
+]
