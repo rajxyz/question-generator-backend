@@ -1,1 +1,198 @@
-
+[
+  {
+    "question": "Classification is not a single step process but involves ______ of steps.",
+    "answer": "hierarchy"
+  },
+  {
+    "question": "Each step in the classification hierarchy represents a rank or ______.",
+    "answer": "category"
+  },
+  {
+    "question": "The category is a part of overall ______ arrangement.",
+    "answer": "taxonomic"
+  },
+  {
+    "question": "All categories together constitute the taxonomic ______.",
+    "answer": "hierarchy"
+  },
+  {
+    "question": "Each category in taxonomy is referred to as a unit of ______.",
+    "answer": "classification"
+  },
+  {
+    "question": "Each rank is commonly termed as ______.",
+    "answer": "taxon"
+  },
+  {
+    "question": "Insects share common features like three pairs of ______ legs.",
+    "answer": "jointed"
+  },
+  {
+    "question": "Insects represent a group of organisms sharing common ______.",
+    "answer": "features"
+  },
+  {
+    "question": "Groups represent ______ in taxonomy.",
+    "answer": "category"
+  },
+  {
+    "question": "Category further denotes a ______ in taxonomy.",
+    "answer": "rank"
+  },
+  {
+    "question": "Taxonomic groups or categories are distinct ______ entities.",
+    "answer": "biological"
+  },
+  {
+    "question": "Taxonomical studies of organisms led to development of common ______.",
+    "answer": "categories"
+  },
+  {
+    "question": "Taxonomic categories include kingdom, phylum, class, order, family, genus and ______.",
+    "answer": "species"
+  },
+  {
+    "question": "In plants, the term ‘division’ is used instead of ______.",
+    "answer": "phylum"
+  },
+  {
+    "question": "All organisms have ______ as the lowest category.",
+    "answer": "species"
+  },
+  {
+    "question": "To place an organism in categories, knowledge of ______ is required.",
+    "answer": "characters"
+  },
+  {
+    "question": "Identifying similarities and dissimilarities among organisms helps in ______.",
+    "answer": "classification"
+  },
+  {
+    "question": "Taxonomic studies consider a group of individual organisms with fundamental ______ as a species.",
+    "answer": "similarities"
+  },
+  {
+    "question": "Species can be distinguished based on distinct ______ differences.",
+    "answer": "morphological"
+  },
+  {
+    "question": "In Mangifera indica, the word ‘indica’ represents the ______ epithet.",
+    "answer": "specific"
+  },
+  {
+    "question": "In Solanum tuberosum, the word ‘Solanum’ is the ______.",
+    "answer": "genus"
+  },
+  {
+    "question": "In Panthera leo, ‘leo’ is the specific ______.",
+    "answer": "epithet"
+  },
+  {
+    "question": "Each genus may have more than one specific ______.",
+    "answer": "epithet"
+  },
+  {
+    "question": "The genus Panthera includes the species ______.",
+    "answer": "tigris"
+  },
+  {
+    "question": "The genus Solanum includes species like nigrum and ______.",
+    "answer": "melongena"
+  },
+  {
+    "question": "Human beings belong to the species ______.",
+    "answer": "sapiens"
+  },
+  {
+    "question": "The genus of human beings is ______.",
+    "answer": "Homo"
+  },
+  {
+    "question": "The scientific name of human being is ______.",
+    "answer": "Homo sapiens"
+  },
+  {
+    "question": "In handwritten biological names, both words are separately ______.",
+    "answer": "underlined"
+  },
+  {
+    "question": "Each taxon represents a unit of ______.",
+    "answer": "classification"
+  },
+  {
+    "question": "Morphological similarities are used to group species under one ______.",
+    "answer": "genus"
+  },
+  {
+    "question": "Taxonomic studies are based on observable ______.",
+    "answer": "characters"
+  },
+  {
+    "question": "A taxon is a distinct biological ______.",
+    "answer": "entity"
+  },
+  {
+    "question": "Taxa can be at very different ______.",
+    "answer": "levels"
+  },
+  {
+    "question": "Solanum tuberosum is the scientific name of ______.",
+    "answer": "potato"
+  },
+  {
+    "question": "Panthera leo is the scientific name of ______.",
+    "answer": "lion"
+  },
+  {
+    "question": "Taxonomy includes characterisation, identification, classification, and ______.",
+    "answer": "nomenclature"
+  },
+  {
+    "question": "Each rank or category is commonly referred to as a ______.",
+    "answer": "taxon"
+  },
+  {
+    "question": "All taxonomic categories form the taxonomic ______.",
+    "answer": "hierarchy"
+  },
+  {
+    "question": "Biological categories like ‘family’, ‘genus’ and ‘species’ are part of the ______ system.",
+    "answer": "taxonomic"
+  },
+  {
+    "question": "The scientific name of mango is ______.",
+    "answer": "Mangifera indica"
+  },
+  {
+    "question": "The lowest category in taxonomic hierarchy is ______.",
+    "answer": "species"
+  },
+  {
+    "question": "Characters of individuals help to identify ______ among organisms.",
+    "answer": "similarities"
+  },
+  {
+    "question": "Characters of individuals also help to identify ______ among organisms.",
+    "answer": "dissimilarities"
+  },
+  {
+    "question": "Each genus can include multiple ______ with similar morphology.",
+    "answer": "species"
+  },
+  {
+    "question": "‘Indica’, ‘tuberosum’, and ‘leo’ are all examples of ______ epithets.",
+    "answer": "specific"
+  },
+  {
+    "question": "Taxonomic studies aim to classify organisms based on ______ differences.",
+    "answer": "morphological"
+  },
+  {
+    "question": "Panthera and Solanum are examples of biological ______.",
+    "answer": "genera"
+  },
+  {
+    "question": "The genus Panthera includes both leo and ______.",
+    "answer": "tigris"
+  }
+]
