@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Ovules in gymnosperms",
+      "Ovules in angiosperms",
+      "Pollen grain and ovule development site",
+      "Seeds in angiosperms",
+      "Specialised structures in flowering plants"
+    ],
+    "columnB": [
+      "Naked",
+      "Enclosed in fruits",
+      "Flowers",
+      "Enclosed",
+      "Flowers"
+    ],
+    "answer": {
+      "Ovules in gymnosperms": "Naked",
+      "Ovules in angiosperms": "Enclosed in fruits",
+      "Pollen grain and ovule development site": "Flowers",
+      "Seeds in angiosperms": "Enclosed",
+      "Specialised structures in flowering plants": "Flowers"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Range of habitats",
+      "Smallest angiosperm",
+      "Tallest angiosperm",
+      "Height of Eucalyptus",
+      "Plant group providing food, fodder, fuel, medicines"
+    ],
+    "columnB": [
+      "Wide range of habitats",
+      "Wolffia",
+      "Eucalyptus",
+      "Over 100 metres",
+      "Angiosperms"
+    ],
+    "answer": {
+      "Range of habitats": "Wide range of habitats",
+      "Smallest angiosperm": "Wolffia",
+      "Tallest angiosperm": "Eucalyptus",
+      "Height of Eucalyptus": "Over 100 metres",
+      "Plant group providing food, fodder, fuel, medicines": "Angiosperms"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Dicotyledons",
+      "Monocotyledons",
+      "Commercially important plant group",
+      "Group name for flowering plants",
+      "General classification of angiosperms"
+    ],
+    "columnB": [
+      "One class of angiosperms",
+      "Other class of angiosperms",
+      "Provide several products",
+      "Angiosperms",
+      "Dicotyledons and monocotyledons"
+    ],
+    "answer": {
+      "Dicotyledons": "One class of angiosperms",
+      "Monocotyledons": "Other class of angiosperms",
+      "Commercially important plant group": "Provide several products",
+      "Group name for flowering plants": "Angiosperms",
+      "General classification of angiosperms": "Dicotyledons and monocotyledons"
+    }
+  }
+]
