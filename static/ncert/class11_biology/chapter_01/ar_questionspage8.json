@@ -1,1 +1,57 @@
-
+[
+  {
+    "assertion": "All animals belonging to various phyla are assigned to the highest category called Kingdom Animalia in the classification system of animals.",
+    "reason": "The Kingdom Plantae, on the other hand, is distinct, and comprises all plants from various divisions.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "The taxonomic categories from species to kingdom have been shown in ascending order starting with species in Figure 1.1.",
+    "reason": "These are broad categories.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Taxonomists have also developed sub-categories in this hierarchy to facilitate more sound and scientific placement of various taxa.",
+    "reason": "The taxonomic categories from species to kingdom are broad categories.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "As we go higher from species to kingdom, the number of common characteristics goes on decreasing.",
+    "reason": "Lower the taxa, more are the characteristics that the members within the taxon share.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Higher the category, greater is the difficulty of determining the relationship to other taxa at the same level.",
+    "reason": "Hence, the problem of classification becomes more complex.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  }
+]
