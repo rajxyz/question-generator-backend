@@ -1,1 +1,218 @@
-
+[
+  {
+    "question": "Genus comprises a group of related ______.",
+    "answer": "species"
+  },
+  {
+    "question": "Genera are aggregates of closely related ______.",
+    "answer": "species"
+  },
+  {
+    "question": "Potato and brinjal belong to the genus ______.",
+    "answer": "Solanum"
+  },
+  {
+    "question": "Lion, leopard and tiger belong to the genus ______.",
+    "answer": "Panthera"
+  },
+  {
+    "question": "Panthera differs from another genus called ______.",
+    "answer": "Felis"
+  },
+  {
+    "question": "Felis includes domestic ______.",
+    "answer": "cats"
+  },
+  {
+    "question": "Family includes a group of related ______.",
+    "answer": "genera"
+  },
+  {
+    "question": "Plant families are characterised by vegetative and ______ features.",
+    "answer": "reproductive"
+  },
+  {
+    "question": "Solanum, Petunia and Datura belong to family ______.",
+    "answer": "Solanaceae"
+  },
+  {
+    "question": "Panthera and Felis belong to family ______.",
+    "answer": "Felidae"
+  },
+  {
+    "question": "Cat and dog belong to families Felidae and ______ respectively.",
+    "answer": "Canidae"
+  },
+  {
+    "question": "Order is a higher category than ______.",
+    "answer": "family"
+  },
+  {
+    "question": "Order is an assemblage of related ______.",
+    "answer": "families"
+  },
+  {
+    "question": "Families in an order show ______ similar characters.",
+    "answer": "few"
+  },
+  {
+    "question": "Convolvulaceae and Solanaceae are plant families in the order ______.",
+    "answer": "Polymoniales"
+  },
+  {
+    "question": "Polymoniales order is mainly based on ______ characters.",
+    "answer": "floral"
+  },
+  {
+    "question": "Animal order Carnivora includes Felidae and ______ families.",
+    "answer": "Canidae"
+  },
+  {
+    "question": "Class includes a group of related ______.",
+    "answer": "orders"
+  },
+  {
+    "question": "Order Primata includes monkey, gorilla and ______.",
+    "answer": "gibbon"
+  },
+  {
+    "question": "Primata and Carnivora belong to class ______.",
+    "answer": "Mammalia"
+  },
+  {
+    "question": "Class Mammalia includes tiger, cat, dog, monkey and ______.",
+    "answer": "gorilla"
+  },
+  {
+    "question": "Classes like mammals and birds belong to the higher category called ______.",
+    "answer": "Phylum"
+  },
+  {
+    "question": "Chordata includes animals with a ______.",
+    "answer": "notochord"
+  },
+  {
+    "question": "Chordates have a dorsal hollow ______ system.",
+    "answer": "neural"
+  },
+  {
+    "question": "Fishes, amphibians and reptiles belong to phylum ______.",
+    "answer": "Chordata"
+  },
+  {
+    "question": "Birds and mammals are grouped under phylum ______.",
+    "answer": "Chordata"
+  },
+  {
+    "question": "In plants, the higher taxonomic category is called ______.",
+    "answer": "Division"
+  },
+  {
+    "question": "Phylum in animals corresponds to ______ in plants.",
+    "answer": "Division"
+  },
+  {
+    "question": "Similar characters in classes help group them into a ______.",
+    "answer": "Phylum"
+  },
+  {
+    "question": "Panthera pardus is the scientific name of ______.",
+    "answer": "leopard"
+  },
+  {
+    "question": "Panthera tigris is the scientific name of ______.",
+    "answer": "tiger"
+  },
+  {
+    "question": "Panthera leo is the scientific name of ______.",
+    "answer": "lion"
+  },
+  {
+    "question": "Plant families like Solanaceae are grouped into the order ______.",
+    "answer": "Polymoniales"
+  },
+  {
+    "question": "Dog belongs to the family ______.",
+    "answer": "Canidae"
+  },
+  {
+    "question": "Cat belongs to the family ______.",
+    "answer": "Felidae"
+  },
+  {
+    "question": "Order Carnivora includes families Felidae and ______.",
+    "answer": "Canidae"
+  },
+  {
+    "question": "Genus Panthera includes species leo, tigris and ______.",
+    "answer": "pardus"
+  },
+  {
+    "question": "Genus Solanum includes potato and ______.",
+    "answer": "brinjal"
+  },
+  {
+    "question": "The floral characters help classify plant ______.",
+    "answer": "orders"
+  },
+  {
+    "question": "Monkey is included in order ______.",
+    "answer": "Primata"
+  },
+  {
+    "question": "Tiger is included in order ______.",
+    "answer": "Carnivora"
+  },
+  {
+    "question": "Classes with notochord are placed in phylum ______.",
+    "answer": "Chordata"
+  },
+  {
+    "question": "Phylum Chordata includes animals with dorsal ______.",
+    "answer": "neural tube"
+  },
+  {
+    "question": "Division in plants corresponds to ______ in animals.",
+    "answer": "Phylum"
+  },
+  {
+    "question": "Gorilla and gibbon belong to class ______.",
+    "answer": "Mammalia"
+  },
+  {
+    "question": "Reptiles and birds share the same ______ Chordata.",
+    "answer": "phylum"
+  },
+  {
+    "question": "Felidae is a family that includes cats and ______.",
+    "answer": "big cats"
+  },
+  {
+    "question": "Canidae includes domestic dog and other ______.",
+    "answer": "canines"
+  },
+  {
+    "question": "Solanaceae is a family that includes Datura and ______.",
+    "answer": "Petunia"
+  },
+  {
+    "question": "Order is a taxonomic rank higher than ______.",
+    "answer": "family"
+  },
+  {
+    "question": "Family is a taxonomic rank higher than ______.",
+    "answer": "genus"
+  },
+  {
+    "question": "Phylum is a rank that includes several ______.",
+    "answer": "classes"
+  },
+  {
+    "question": "Fishes and amphibians both belong to phylum ______.",
+    "answer": "Chordata"
+  },
+  {
+    "question": "Mammals and reptiles share the same ______ Chordata.",
+    "answer": "phylum"
+  }
+]
