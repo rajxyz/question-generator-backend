@@ -1,0 +1,157 @@
+[
+  {
+    "question": "The predominant stage of the life cycle of a moss is:",
+    "options": ["Sporophyte", "Prothallus", "Gametophyte", "Zygote"],
+    "answer": "Gametophyte"
+  },
+  {
+    "question": "The gametophyte of moss consists of how many stages?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "question": "The protonema stage in mosses develops directly from a:",
+    "options": ["Zygote", "Gemma", "Spore", "Sporangium"],
+    "answer": "Spore"
+  },
+  {
+    "question": "The protonema stage of mosses is described as:",
+    "options": ["Upright and leafy", "Creeping, green, branched and filamentous", "Thick and woody", "Floating and round"],
+    "answer": "Creeping, green, branched and filamentous"
+  },
+  {
+    "question": "The leafy stage in mosses develops from:",
+    "options": ["Primary protonema", "Capsule", "Secondary protonema", "Spore mother cell"],
+    "answer": "Secondary protonema"
+  },
+  {
+    "question": "The leafy stage in mosses bears:",
+    "options": ["Gemmae", "Capsules only", "Sporangia", "Sex organs"],
+    "answer": "Sex organs"
+  },
+  {
+    "question": "The leafy stage in mosses has axes bearing leaves arranged:",
+    "options": ["In pairs", "Oppositely", "Randomly", "Spirally"],
+    "answer": "Spirally"
+  },
+  {
+    "question": "Mosses are attached to the soil by:",
+    "options": ["Unicellular rhizoids", "Fibrous roots", "Multicellular and branched rhizoids", "Root hairs"],
+    "answer": "Multicellular and branched rhizoids"
+  },
+  {
+    "question": "Vegetative reproduction in mosses occurs by:",
+    "options": ["Fragmentation and budding in the protonema", "Spores only", "Gemmae", "Cuttings"],
+    "answer": "Fragmentation and budding in the secondary protonema"
+  },
+  {
+    "question": "Sex organs in mosses are produced at the apex of:",
+    "options": ["Rhizoids", "Protonema", "Leafy shoots", "Capsules"],
+    "answer": "Leafy shoots"
+  },
+  {
+    "question": "After fertilization in mosses, the zygote develops into a:",
+    "options": ["Protonema", "Gametophyte", "Sporophyte", "Leafy shoot"],
+    "answer": "Sporophyte"
+  },
+  {
+    "question": "The moss sporophyte consists of:",
+    "options": ["Only capsule", "Leaf and stem", "Foot, seta and capsule", "Rhizoids and thallus"],
+    "answer": "Foot, seta and capsule"
+  },
+  {
+    "question": "Compared to liverworts, the moss sporophyte is:",
+    "options": ["Less elaborate", "Equally elaborate", "More elaborate", "Non-functional"],
+    "answer": "More elaborate"
+  },
+  {
+    "question": "Spores in mosses are formed after:",
+    "options": ["Mitosis", "Meiosis", "Fertilisation", "Fragmentation"],
+    "answer": "Meiosis"
+  },
+  {
+    "question": "Which of the following is a common example of moss?",
+    "options": ["Riccia", "Marchantia", "Funaria", "Selaginella"],
+    "answer": "Funaria"
+  },
+  {
+    "question": "Which among the following are pteridophytes?",
+    "options": ["Mosses and liverworts", "Ferns and horsetails", "Algae and lichens", "Gymnosperms and angiosperms"],
+    "answer": "Ferns and horsetails"
+  },
+  {
+    "question": "Pteridophytes are used for all of the following EXCEPT:",
+    "options": ["Medicinal purposes", "Soil-binding", "Fuel production", "Ornamentals"],
+    "answer": "Fuel production"
+  },
+  {
+    "question": "Pteridophytes are the first terrestrial plants to have:",
+    "options": ["Seeds", "Fruits", "Vascular tissues", "Flowers"],
+    "answer": "Vascular tissues"
+  },
+  {
+    "question": "Pteridophytes are usually found in:",
+    "options": ["Dry and open fields", "Cool, damp, shady places", "Aquatic habitats", "Hot deserts"],
+    "answer": "Cool, damp, shady places"
+  },
+  {
+    "question": "Some pteridophytes also flourish in:",
+    "options": ["High altitudes", "Acidic water", "Sandy-soil conditions", "Frozen lakes"],
+    "answer": "Sandy-soil conditions"
+  },
+  {
+    "question": "In pteridophytes, the main plant body is a:",
+    "options": ["Gametophyte", "Zygote", "Protonema", "Sporophyte"],
+    "answer": "Sporophyte"
+  },
+  {
+    "question": "The sporophyte in pteridophytes is differentiated into:",
+    "options": ["Thallus and rhizoids", "Foot and seta", "True root, stem and leaves", "Fronds and sporangia"],
+    "answer": "True root, stem and leaves"
+  },
+  {
+    "question": "Leaves in pteridophytes may be small (microphylls) as in:",
+    "options": ["Ferns", "Funaria", "Selaginella", "Equisetum"],
+    "answer": "Selaginella"
+  },
+  {
+    "question": "Leaves in pteridophytes may be large (macrophylls) as in:",
+    "options": ["Liverworts", "Ferns", "Riccia", "Polytrichum"],
+    "answer": "Ferns"
+  },
+  {
+    "question": "Sporangia in pteridophytes are borne on:",
+    "options": ["Gemma cups", "Seta", "Sporophylls", "Rhizoids"],
+    "answer": "Sporophylls"
+  },
+  {
+    "question": "In some pteridophytes, sporophylls form compact structures called:",
+    "options": ["Gemmae", "Sporangia", "Strobili or cones", "Thalli"],
+    "answer": "Strobili or cones"
+  },
+  {
+    "question": "Which of the following pteridophytes have strobili or cones?",
+    "options": ["Funaria and Polytrichum", "Selaginella and Equisetum", "Ferns and mosses", "Riccia and Marchantia"],
+    "answer": "Selaginella and Equisetum"
+  },
+  {
+    "question": "Spores in pteridophytes are produced by:",
+    "options": ["Mitosis", "Meiosis in spore mother cells", "Fertilisation", "Germination"],
+    "answer": "Meiosis in spore mother cells"
+  },
+  {
+    "question": "Spores in pteridophytes germinate into:",
+    "options": ["Zygotes", "Sporophytes", "Prothallus", "Embryos"],
+    "answer": "Prothallus"
+  },
+  {
+    "question": "The gametophyte in pteridophytes is called:",
+    "options": ["Thallus", "Protonema", "Gemma", "Prothallus"],
+    "answer": "Prothallus"
+  },
+  {
+    "question": "The prothallus is best described as:",
+    "options": ["Single-celled and non-photosynthetic", "Multicellular, free-living and mostly photosynthetic", "Part of the sporophyte", "Non-functional in reproduction"],
+    "answer": "Multicellular, free-living and mostly photosynthetic"
+  }
+]
