@@ -1,1 +1,79 @@
-
+[
+  {
+    "assertion": "Whittaker in 1969 proposed the Five Kingdom classification.",
+    "reason": "The Five Kingdoms proposed by Whittaker are Monera, Protista, Fungi, Animalia and Plantae.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Fungi, and members of Monera and Protista having cell walls have now been excluded from Plantae.",
+    "reason": "Earlier classifications placed Fungi, and members of Monera and Protista having cell walls in the same kingdom as Plantae.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Cyanobacteria are not considered algae anymore.",
+    "reason": "Cyanobacteria are also referred to as blue green algae.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "The earliest systems of classification used only gross superficial morphological characters.",
+    "reason": "They were based mainly on vegetative characters or on the androecium structure.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Artificial systems of classification gave equal weightage to vegetative and sexual characteristics.",
+    "reason": "Vegetative characters are more easily affected by environment.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "Natural classification systems are based on natural affinities among organisms.",
+    "reason": "They consider not only external features but also internal features like ultra-structure, anatomy, embryology and phytochemistry.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "George Bentham and Joseph Dalton Hooker gave a natural classification for flowering plants.",
+    "reason": "Natural classification considers only vegetative characters and not sexual characters.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C. Assertion is true but Reason is false."
+  }
+]
