@@ -1,0 +1,426 @@
+[
+  {
+    "question": "In sexual reproduction of fungi, two haploid ______ of compatible mating types come together and fuse.",
+    "answer": "hyphae"
+  },
+  {
+    "question": "Fusion of two haploid cells in some fungi results immediately in ______ cells.",
+    "answer": "diploid"
+  },
+  {
+    "question": "In ascomycetes and basidiomycetes, a ______ stage occurs before diploid formation.",
+    "answer": "dikaryotic"
+  },
+  {
+    "question": "A dikaryotic condition (n + n) is called a ______.",
+    "answer": "dikaryon"
+  },
+  {
+    "question": "The phase involving two nuclei per cell in fungi is called ______.",
+    "answer": "dikaryophase"
+  },
+  {
+    "question": "The parental nuclei fuse and the cells become ______.",
+    "answer": "diploid"
+  },
+  {
+    "question": "Fungi form ______ bodies where reduction division occurs.",
+    "answer": "fruiting"
+  },
+  {
+    "question": "Reduction division in fungi leads to formation of ______ spores.",
+    "answer": "haploid"
+  },
+  {
+    "question": "The morphology of mycelium and mode of ______ form the basis of fungal classification.",
+    "answer": "spore formation"
+  },
+  {
+    "question": "Fungal classification is based on mycelium, spores, and ______ bodies.",
+    "answer": "fruiting"
+  },
+  {
+    "question": "Phycomycetes are found in aquatic habitats and on decaying wood in ______ places.",
+    "answer": "moist"
+  },
+  {
+    "question": "The mycelium of phycomycetes is aseptate and ______.",
+    "answer": "coenocytic"
+  },
+  {
+    "question": "Asexual reproduction in phycomycetes occurs via ______ or aplanospores.",
+    "answer": "zoospores"
+  },
+  {
+    "question": "Zoospores are ______, while aplanospores are non-motile.",
+    "answer": "motile"
+  },
+  {
+    "question": "These spores are produced endogenously in ______.",
+    "answer": "sporangium"
+  },
+  {
+    "question": "A zygospore in phycomycetes is formed by fusion of two ______.",
+    "answer": "gametes"
+  },
+  {
+    "question": "Morphologically similar gametes are called ______.",
+    "answer": "isogamous"
+  },
+  {
+    "question": "Morphologically dissimilar gametes are ______ or oogamous.",
+    "answer": "anisogamous"
+  },
+  {
+    "question": "A common parasitic fungus on mustard is ______.",
+    "answer": "Albugo"
+  },
+  {
+    "question": "Rhizopus is commonly known as ______ mould.",
+    "answer": "bread"
+  },
+  {
+    "question": "Common examples of phycomycetes include Mucor, ______ and Albugo.",
+    "answer": "Rhizopus"
+  },
+  {
+    "question": "Ascomycetes are commonly known as ______ fungi.",
+    "answer": "sac"
+  },
+  {
+    "question": "Penicillium is a ______ ascomycete.",
+    "answer": "multicellular"
+  },
+  {
+    "question": "Yeast or Saccharomyces is a ______ ascomycete.",
+    "answer": "unicellular"
+  },
+  {
+    "question": "Ascomycetes may be saprophytic, decomposers, parasitic or ______.",
+    "answer": "coprophilous"
+  },
+  {
+    "question": "Coprophilous fungi grow on ______.",
+    "answer": "dung"
+  },
+  {
+    "question": "Mycelium in ascomycetes is branched and ______.",
+    "answer": "septate"
+  },
+  {
+    "question": "Asexual spores of ascomycetes are called ______.",
+    "answer": "conidia"
+  },
+  {
+    "question": "Conidia are produced exogenously on special mycelium called ______.",
+    "answer": "conidiophores"
+  },
+  {
+    "question": "Conidia germinate to produce ______.",
+    "answer": "mycelium"
+  },
+  {
+    "question": "Sexual spores in ascomycetes are called ______.",
+    "answer": "ascospores"
+  },
+  {
+    "question": "Ascospores are produced endogenously in sac-like structures called ______.",
+    "answer": "asci"
+  },
+  {
+    "question": "The singular form of asci is ______.",
+    "answer": "ascus"
+  },
+  {
+    "question": "Asci are arranged in fruiting bodies called ______.",
+    "answer": "ascocarps"
+  },
+  {
+    "question": "Claviceps and ______ are examples of ascomycetes.",
+    "answer": "Aspergillus"
+  },
+  {
+    "question": "Neurospora is widely used in ______ and genetic work.",
+    "answer": "biochemical"
+  },
+  {
+    "question": "Edible ascomycetes include morels and ______.",
+    "answer": "truffles"
+  },
+  {
+    "question": "Morels and truffles are considered edible ______.",
+    "answer": "delicacies"
+  },
+  {
+    "question": "Yeast is an example of a ______ ascomycete.",
+    "answer": "unicellular"
+  },
+  {
+    "question": "Saccharomyces is another name for ______.",
+    "answer": "yeast"
+  },
+  {
+    "question": "The bread mould Rhizopus belongs to the class ______.",
+    "answer": "phycomycetes"
+  },
+  {
+    "question": "Zygospores are formed by ______ of gametes.",
+    "answer": "fusion"
+  },
+  {
+    "question": "Gametangial fusion leads to formation of a ______.",
+    "answer": "zygospore"
+  },
+  {
+    "question": "Albugo is a ______ fungus that grows on mustard.",
+    "answer": "parasitic"
+  },
+  {
+    "question": "Asci are ______ in sac-fungi.",
+    "answer": "endogenous"
+  },
+  {
+    "question": "The sac-like structure producing ascospores is called an ______.",
+    "answer": "ascus"
+  },
+  {
+    "question": "The conidia are produced ______ on conidiophores.",
+    "answer": "exogenously"
+  },
+  {
+    "question": "Reduction division in fungi produces ______ spores.",
+    "answer": "haploid"
+  },
+  {
+    "question": "Multinucleate hyphae in fungi are described as ______.",
+    "answer": "coenocytic"
+  },
+  {
+    "question": "Fungi show both asexual and ______ modes of reproduction.",
+    "answer": "sexual"
+  },
+  {
+    "question": "The phase involving fusion of two nuclei is known as ______.",
+    "answer": "karyogamy"
+  },
+  {
+    "question": "Penicillium belongs to the class ______.",
+    "answer": "ascomycetes"
+  },
+  {
+    "question": "The dikaryotic condition is represented as ______.",
+    "answer": "n + n"
+  },
+  {
+    "question": "Truffles and ______ are edible fungi in ascomycetes.",
+    "answer": "morels"
+  },
+  {
+    "question": "Sac-fungi get their name from the sac-like ______.",
+    "answer": "ascus"
+  },
+  {
+    "question": "Sporangium in phycomycetes produces spores ______.",
+    "answer": "endogenously"
+  },
+  {
+    "question": "Coprophilous fungi thrive on animal ______.",
+    "answer": "dung"
+  },
+  {
+    "question": "Rhizopus is also known as ______ mould.",
+    "answer": "bread"
+  },
+  {
+    "question": "Conidiophores produce ______ spores in ascomycetes.",
+    "answer": "asexual"
+  },
+  {
+    "question": "Basidiomycetes are commonly known as mushrooms, ______ fungi or puffballs.",
+    "answer": "bracket"
+  },
+  {
+    "question": "Basidiomycetes may grow on soil, logs, stumps, or as ______.",
+    "answer": "parasites"
+  },
+  {
+    "question": "The mycelium of basidiomycetes is branched and ______.",
+    "answer": "septate"
+  },
+  {
+    "question": "Asexual spores are generally not found in ______.",
+    "answer": "basidiomycetes"
+  },
+  {
+    "question": "Vegetative reproduction in basidiomycetes occurs by ______.",
+    "answer": "fragmentation"
+  },
+  {
+    "question": "Sex organs are ______ in basidiomycetes.",
+    "answer": "absent"
+  },
+  {
+    "question": "Plasmogamy is brought about by fusion of two ______ cells.",
+    "answer": "somatic"
+  },
+  {
+    "question": "Fusion in basidiomycetes occurs between different strains or ______.",
+    "answer": "genotypes"
+  },
+  {
+    "question": "The dikaryotic structure gives rise to a ______.",
+    "answer": "basidium"
+  },
+  {
+    "question": "Karyogamy and meiosis occur in the ______.",
+    "answer": "basidium"
+  },
+  {
+    "question": "The basidium produces four ______.",
+    "answer": "basidiospores"
+  },
+  {
+    "question": "Basidiospores are produced ______ on the basidium.",
+    "answer": "exogenously"
+  },
+  {
+    "question": "Basidia are arranged in fruiting bodies called ______.",
+    "answer": "basidiocarps"
+  },
+  {
+    "question": "Agaricus is a common example of a ______.",
+    "answer": "mushroom"
+  },
+  {
+    "question": "Ustilago is an example of a ______ fungus.",
+    "answer": "smut"
+  },
+  {
+    "question": "Puccinia is commonly known as the ______ fungus.",
+    "answer": "rust"
+  },
+  {
+    "question": "Deuteromycetes are commonly called ______ fungi.",
+    "answer": "imperfect"
+  },
+  {
+    "question": "Only the ______ or vegetative phases are known in deuteromycetes.",
+    "answer": "asexual"
+  },
+  {
+    "question": "When sexual forms are discovered, fungi are moved to the class they ______.",
+    "answer": "belong"
+  },
+  {
+    "question": "Asexual and vegetative stages may be given one name under ______.",
+    "answer": "deuteromycetes"
+  },
+  {
+    "question": "Once perfect (sexual) stages are known, fungi are moved to ______ or basidiomycetes.",
+    "answer": "ascomycetes"
+  },
+  {
+    "question": "Deuteromycetes reproduce only by asexual spores known as ______.",
+    "answer": "conidia"
+  },
+  {
+    "question": "The mycelium of deuteromycetes is septate and ______.",
+    "answer": "branched"
+  },
+  {
+    "question": "Some deuteromycetes members are saprophytes or ______.",
+    "answer": "parasites"
+  },
+  {
+    "question": "Many deuteromycetes help in ______ cycling.",
+    "answer": "mineral"
+  },
+  {
+    "question": "Alternaria is an example of ______.",
+    "answer": "deuteromycetes"
+  },
+  {
+    "question": "Colletotrichum is a member of ______.",
+    "answer": "deuteromycetes"
+  },
+  {
+    "question": "Trichoderma is classified under ______ fungi.",
+    "answer": "imperfect"
+  },
+  {
+    "question": "Basidium is the site of ______ and meiosis.",
+    "answer": "karyogamy"
+  },
+  {
+    "question": "Conidia are asexual spores of ______.",
+    "answer": "deuteromycetes"
+  },
+  {
+    "question": "Basidiocarps are fruiting bodies that contain ______.",
+    "answer": "basidia"
+  },
+  {
+    "question": "Basidiospores are produced on the ______ of basidiomycetes.",
+    "answer": "basidium"
+  },
+  {
+    "question": "Fusion of somatic cells brings about ______ in basidiomycetes.",
+    "answer": "plasmogamy"
+  },
+  {
+    "question": "Deuteromycetes were moved out once ______ stages were discovered.",
+    "answer": "sexual"
+  },
+  {
+    "question": "Bracket fungi are examples of ______.",
+    "answer": "basidiomycetes"
+  },
+  {
+    "question": "Puffballs are classified under ______.",
+    "answer": "basidiomycetes"
+  },
+  {
+    "question": "In deuteromycetes, sexual and asexual stages may be given ______ names.",
+    "answer": "separate"
+  },
+  {
+    "question": "Basidiomycetes reproduce sexually without distinct ______ organs.",
+    "answer": "sex"
+  },
+  {
+    "question": "Mycelium in both basidiomycetes and deuteromycetes is ______.",
+    "answer": "septate"
+  },
+  {
+    "question": "Ustilago is an example of a ______ basidiomycete.",
+    "answer": "parasitic"
+  },
+  {
+    "question": "Rust and smut fungi grow as parasites on ______.",
+    "answer": "plants"
+  },
+  {
+    "question": "Deuteromycetes include fungi involved in ______ of litter.",
+    "answer": "decomposition"
+  },
+  {
+    "question": "Plasmogamy leads to formation of a ______ structure in fungi.",
+    "answer": "dikaryotic"
+  },
+  {
+    "question": "Fungi like Colletotrichum are placed under ______ fungi.",
+    "answer": "imperfect"
+  },
+  {
+    "question": "Puccinia is classified as a ______ fungus.",
+    "answer": "rust"
+  },
+  {
+    "question": "Some fungi may be named twice — once for sexual, once for ______ stage.",
+    "answer": "asexual"
+  },
+  {
+    "question": "Deuteromycetes reproduce using asexual spores called ______.",
+    "answer": "conidia"
+  }
+]
