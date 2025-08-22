@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Kingdom Plantae includes all eukaryotic ______-containing organisms commonly called plants.",
+    "options": ["chlorophyll", "glycogen", "keratin", "hemoglobin"],
+    "answer": "chlorophyll"
+  },
+  {
+    "question": "Which of the following are partially heterotrophic members of Kingdom Plantae?",
+    "options": ["Insectivorous plants", "Algae", "Bryophytes", "Pteridophytes"],
+    "answer": "Insectivorous plants"
+  },
+  {
+    "question": "Bladderwort and Venus fly trap are examples of ______ plants.",
+    "options": ["insectivorous", "parasitic", "saprophytic", "autotrophic"],
+    "answer": "insectivorous"
+  },
+  {
+    "question": "Cuscuta is an example of a ______.",
+    "options": ["parasite", "insectivorous plant", "bryophyte", "alga"],
+    "answer": "parasite"
+  },
+  {
+    "question": "The plant cells have an eukaryotic structure with prominent ______ and a cell wall mainly made of cellulose.",
+    "options": ["chloroplasts", "mitochondria", "nucleus", "ribosomes"],
+    "answer": "chloroplasts"
+  },
+  {
+    "question": "The cell wall of plant cells is mainly made of ______.",
+    "options": ["cellulose", "chitin", "peptidoglycan", "glycogen"],
+    "answer": "cellulose"
+  },
+  {
+    "question": "Plantae includes algae, bryophytes, pteridophytes, ______, and angiosperms.",
+    "options": ["gymnosperms", "monerans", "fungi", "protists"],
+    "answer": "gymnosperms"
+  },
+  {
+    "question": "Life cycle of plants has two distinct phases – the diploid ______ and the haploid gametophytic.",
+    "options": ["sporophytic", "zygophytic", "monophytic", "trophophytic"],
+    "answer": "sporophytic"
+  },
+  {
+    "question": "The haploid and diploid phases in plants ______ with each other.",
+    "options": ["alternate", "merge", "compete", "eliminate"],
+    "answer": "alternate"
+  },
+  {
+    "question": "The phenomenon of alternation between haploid and diploid phases in plants is called ______.",
+    "options": ["alternation of generations", "binary fission", "double fertilisation", "mitosis"],
+    "answer": "alternation of generations"
+  },
+  {
+    "question": "Kingdom Animalia is characterised by ______ eukaryotic organisms that are multicellular.",
+    "options": ["heterotrophic", "autotrophic", "saprophytic", "mixotrophic"],
+    "answer": "heterotrophic"
+  },
+  {
+    "question": "Cells of Kingdom Animalia lack ______.",
+    "options": ["cell walls", "nucleus", "cytoplasm", "mitochondria"],
+    "answer": "cell walls"
+  },
+  {
+    "question": "Animals store food reserves as ______ or fat.",
+    "options": ["glycogen", "cellulose", "chitin", "starch"],
+    "answer": "glycogen"
+  },
+  {
+    "question": "The mode of nutrition in Kingdom Animalia is ______.",
+    "options": ["holozoic", "saprophytic", "parasitic", "photosynthetic"],
+    "answer": "holozoic"
+  },
+  {
+    "question": "Higher forms in Kingdom Animalia show elaborate ______ and neuromotor mechanism.",
+    "options": ["sensory", "digestive", "excretory", "circulatory"],
+    "answer": "sensory"
+  },
+  {
+    "question": "In animals, sexual reproduction is by copulation of male and female followed by ______ development.",
+    "options": ["embryological", "larval", "sporophytic", "zygophytic"],
+    "answer": "embryological"
+  },
+  {
+    "question": "Viruses are not considered truly living because they lack a ______ structure.",
+    "options": ["cell", "protein", "nucleus", "membrane"],
+    "answer": "cell"
+  },
+  {
+    "question": "Viruses are ______ organisms characterised by an inert crystalline structure outside the living cell.",
+    "options": ["non-cellular", "unicellular", "multicellular", "prokaryotic"],
+    "answer": "non-cellular"
+  }
+]
