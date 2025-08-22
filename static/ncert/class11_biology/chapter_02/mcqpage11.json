@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Once viruses infect a cell, what do they do?",
+    "options": ["They form cell walls", "They take over host machinery to replicate", "They produce chlorophyll", "They form spores"],
+    "answer": "They take over host machinery to replicate"
+  },
+  {
+    "question": "What is the meaning of the word 'virus'?",
+    "options": ["Poisonous fluid", "Living cell", "Tiny bacteria", "Protein particle"],
+    "answer": "Poisonous fluid"
+  },
+  {
+    "question": "Who recognised microbes as the causal organism of mosaic disease of tobacco?",
+    "options": ["M.W. Beijerinck", "W.M. Stanley", "Dmitri Ivanowsky", "Louis Pasteur"],
+    "answer": "Dmitri Ivanowsky"
+  },
+  {
+    "question": "Viruses were found to be smaller than bacteria because:",
+    "options": ["They lack DNA", "They passed through bacteria-proof filters", "They are autotrophic", "They form crystals"],
+    "answer": "They passed through bacteria-proof filters"
+  },
+  {
+    "question": "Who demonstrated that extract of infected tobacco plants could cause infection in healthy plants?",
+    "options": ["W.M. Stanley", "Robert Koch", "Dmitri Ivanowsky", "M.W. Beijerinck"],
+    "answer": "M.W. Beijerinck"
+  },
+  {
+    "question": "M.W. Beijerinck named the pathogen 'virus' and called the fluid:",
+    "options": ["Contagium mortum fluidum", "Contagium vivum fluidum", "Infectious protein fluid", "Cell-free fluid"],
+    "answer": "Contagium vivum fluidum"
+  },
+  {
+    "question": "Who showed that viruses could be crystallised?",
+    "options": ["M.W. Beijerinck", "W.M. Stanley", "Dmitri Ivanowsky", "Louis Pasteur"],
+    "answer": "W.M. Stanley"
+  },
+  {
+    "question": "Crystals of viruses consist largely of:",
+    "options": ["Carbohydrates", "Lipids", "Proteins", "RNA"],
+    "answer": "Proteins"
+  },
+  {
+    "question": "Outside their specific host cell, viruses are:",
+    "options": ["Inert", "Active", "Motile", "Autotrophic"],
+    "answer": "Inert"
+  },
+  {
+    "question": "Viruses are obligate:",
+    "options": ["Autotrophs", "Parasites", "Producers", "Symbionts"],
+    "answer": "Parasites"
+  },
+  {
+    "question": "Viruses contain genetic material that can be:",
+    "options": ["Both RNA and DNA", "Only RNA", "Either RNA or DNA", "Neither RNA nor DNA"],
+    "answer": "Either RNA or DNA"
+  },
+  {
+    "question": "No virus contains:",
+    "options": ["DNA only", "RNA only", "Both RNA and DNA", "Genetic material"],
+    "answer": "Both RNA and DNA"
+  },
+  {
+    "question": "A virus is a:",
+    "options": ["Protein-lipid complex", "Nucleoprotein", "Carbohydrate-protein complex", "Lipid particle"],
+    "answer": "Nucleoprotein"
+  },
+  {
+    "question": "Viruses infecting plants generally have:",
+    "options": ["Double stranded RNA", "Single stranded RNA", "Double stranded DNA", "Both RNA and DNA"],
+    "answer": "Single stranded RNA"
+  },
+  {
+    "question": "Viruses infecting animals may have:",
+    "options": ["Single or double stranded RNA or double stranded DNA", "Only DNA", "Only single stranded DNA", "Both RNA and DNA"],
+    "answer": "Single or double stranded RNA or double stranded DNA"
+  },
+  {
+    "question": "Bacterial viruses (bacteriophages) are usually:",
+    "options": ["Single stranded RNA viruses", "Single stranded DNA viruses", "Double stranded DNA viruses", "Double stranded RNA viruses"],
+    "answer": "Double stranded DNA viruses"
+  },
+  {
+    "question": "The protein coat of viruses is called:",
+    "options": ["Capsid", "Envelope", "Spore wall", "Cell wall"],
+    "answer": "Capsid"
+  },
+  {
+    "question": "Capsid is made of small subunits called:",
+    "options": ["Nucleotides", "Capsomeres", "Proteosomes", "Ribosomes"],
+    "answer": "Capsomeres"
+  },
+  {
+    "question": "Capsomeres are arranged in:",
+    "options": ["Helical or polyhedral geometric forms", "Cylindrical forms only", "Random clusters", "Spherical vesicles"],
+    "answer": "Helical or polyhedral geometric forms"
+  },
+  {
+    "question": "Viruses cause diseases such as:",
+    "options": ["Tuberculosis, malaria", "Mumps, small pox, herpes, influenza", "Diphtheria, tetanus", "Scurvy, rickets"],
+    "answer": "Mumps, small pox, herpes, influenza"
+  },
+  {
+    "question": "AIDS in humans is caused by a:",
+    "options": ["Bacterium", "Virus", "Fungus", "Protozoan"],
+    "answer": "Virus"
+  },
+  {
+    "question": "Plant viral symptoms include:",
+    "options": ["Mosaic formation, leaf rolling, yellowing, dwarfing", "Necrosis, gall formation, tumour", "Chlorosis, wilting, root knots", "Thickening, bark splitting, blight"],
+    "answer": "Mosaic formation, leaf rolling, yellowing, dwarfing"
+  }
+]
