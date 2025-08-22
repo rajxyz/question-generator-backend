@@ -1,0 +1,21 @@
+[
+  {
+    "assertion": "Assertion: Members of phycomycetes are found in aquatic habitats and on decaying wood in moist and damp places.",
+    "reason": "Reason: The mycelium of phycomycetes is septate and dikaryotic.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: Asexual reproduction in phycomycetes takes place by zoospores or aplanospores.",
+    "reason": "Reason: Zoospores and aplanospores are endogenously produced in sporangium.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
