@@ -1,1 +1,234 @@
-
+[
+  {
+    "question": "Heterotrophic bacteria are most ______ in nature.",
+    "answer": "abundant"
+  },
+  {
+    "question": "The majority of heterotrophic bacteria are important ______.",
+    "answer": "decomposers"
+  },
+  {
+    "question": "Heterotrophic bacteria have a significant impact on ______ affairs.",
+    "answer": "human"
+  },
+  {
+    "question": "Some bacteria help in making ______ from milk.",
+    "answer": "curd"
+  },
+  {
+    "question": "Bacteria are helpful in production of ______.",
+    "answer": "antibiotics"
+  },
+  {
+    "question": "Some bacteria help in fixing nitrogen in ______ roots.",
+    "answer": "legume"
+  },
+  {
+    "question": "Some bacteria are ______ causing damage to humans and animals.",
+    "answer": "pathogens"
+  },
+  {
+    "question": "Cholera, typhoid, tetanus, citrus canker are ______ caused by bacteria.",
+    "answer": "diseases"
+  },
+  {
+    "question": "Bacteria reproduce mainly by ______.",
+    "answer": "fission"
+  },
+  {
+    "question": "Under unfavourable conditions, bacteria produce ______.",
+    "answer": "spores"
+  },
+  {
+    "question": "Bacteria also reproduce by a primitive type of ______ transfer.",
+    "answer": "DNA"
+  },
+  {
+    "question": "Sexual reproduction in bacteria involves DNA transfer from one ______ to another.",
+    "answer": "bacterium"
+  },
+  {
+    "question": "Mycoplasma are organisms that completely lack a ______.",
+    "answer": "cell wall"
+  },
+  {
+    "question": "Mycoplasma are the ______ living cells known.",
+    "answer": "smallest"
+  },
+  {
+    "question": "Mycoplasma can survive without ______.",
+    "answer": "oxygen"
+  },
+  {
+    "question": "Many mycoplasma are ______ in animals and plants.",
+    "answer": "pathogenic"
+  },
+  {
+    "question": "Some bacteria cause damage to ______ animals and pets.",
+    "answer": "farm"
+  },
+  {
+    "question": "Bacteria reproduce by fission and also form ______ during stress.",
+    "answer": "spores"
+  },
+  {
+    "question": "Typhoid and tetanus are ______ caused by bacteria.",
+    "answer": "diseases"
+  },
+  {
+    "question": "Bacteria help fix nitrogen in ______ plants.",
+    "answer": "legume"
+  },
+  {
+    "question": "Mycoplasma lack cell wall and can live without ______.",
+    "answer": "oxygen"
+  },
+  {
+    "question": "All single-celled eukaryotes are placed under ______.",
+    "answer": "Protista"
+  },
+  {
+    "question": "The boundaries of Kingdom Protista are not well ______.",
+    "answer": "defined"
+  },
+  {
+    "question": "A photosynthetic protistan may be considered a ______ by another biologist.",
+    "answer": "plant"
+  },
+  {
+    "question": "Chrysophytes, Dinoflagellates, Euglenoids, Slime moulds and Protozoans are included under ______.",
+    "answer": "Protista"
+  },
+  {
+    "question": "Members of Protista are primarily ______.",
+    "answer": "aquatic"
+  },
+  {
+    "question": "Protista forms a link with kingdoms dealing with plants, animals, and ______.",
+    "answer": "fungi"
+  },
+  {
+    "question": "The protistan cell body contains a well-defined ______.",
+    "answer": "nucleus"
+  },
+  {
+    "question": "Protists have membrane-bound ______.",
+    "answer": "organelles"
+  },
+  {
+    "question": "Some protists have flagella or ______.",
+    "answer": "cilia"
+  },
+  {
+    "question": "Protists reproduce asexually and ______.",
+    "answer": "sexually"
+  },
+  {
+    "question": "Sexual reproduction in protists involves cell fusion and ______ formation.",
+    "answer": "zygote"
+  },
+  {
+    "question": "Chrysophytes include diatoms and golden algae, also called ______.",
+    "answer": "desmids"
+  },
+  {
+    "question": "Chrysophytes are found in freshwater and ______ environments.",
+    "answer": "marine"
+  },
+  {
+    "question": "Chrysophytes float passively in water currents and are known as ______.",
+    "answer": "plankton"
+  },
+  {
+    "question": "Most chrysophytes are ______.",
+    "answer": "photosynthetic"
+  },
+  {
+    "question": "In diatoms, the cell walls form two thin overlapping ______.",
+    "answer": "shells"
+  },
+  {
+    "question": "The diatom shells fit together like a ______ box.",
+    "answer": "soap"
+  },
+  {
+    "question": "Diatom walls are embedded with ______.",
+    "answer": "silica"
+  },
+  {
+    "question": "Diatom walls are ______.",
+    "answer": "indestructible"
+  },
+  {
+    "question": "Diatoms leave behind large amounts of ______ deposits.",
+    "answer": "cell wall"
+  },
+  {
+    "question": "This accumulation of diatom deposits is called ______ earth.",
+    "answer": "diatomaceous"
+  },
+  {
+    "question": "Diatomaceous earth is used in polishing and ______ of oils.",
+    "answer": "filtration"
+  },
+  {
+    "question": "Diatomaceous earth is also used in filtration of ______.",
+    "answer": "syrups"
+  },
+  {
+    "question": "Diatoms are the chief producers in the ______.",
+    "answer": "oceans"
+  },
+  {
+    "question": "Desmids are a type of golden ______.",
+    "answer": "algae"
+  },
+  {
+    "question": "Diatomaceous earth is ______ and used in polishing.",
+    "answer": "gritty"
+  },
+  {
+    "question": "Golden algae belong to the group called ______.",
+    "answer": "Chrysophytes"
+  },
+  {
+    "question": "Cell walls of diatoms are made up of ______.",
+    "answer": "silica"
+  },
+  {
+    "question": "Diatoms float in water currents and are classified as ______.",
+    "answer": "plankton"
+  },
+  {
+    "question": "The cell wall of a diatom fits like a soap ______.",
+    "answer": "box"
+  },
+  {
+    "question": "Protists link the kingdoms of plants, animals, and ______.",
+    "answer": "fungi"
+  },
+  {
+    "question": "The nucleus of protists is well ______.",
+    "answer": "defined"
+  },
+  {
+    "question": "A zygote is formed during ______ reproduction in protists.",
+    "answer": "sexual"
+  },
+  {
+    "question": "Diatoms are the chief ______ in oceans.",
+    "answer": "producers"
+  },
+  {
+    "question": "Protists have flagella or ______ for movement.",
+    "answer": "cilia"
+  },
+  {
+    "question": "Cell fusion and zygote formation occur during ______ reproduction.",
+    "answer": "sexual"
+  },
+  {
+    "question": "Diatoms have left behind large amounts of ______ in their habitats.",
+    "answer": "deposits"
+  }
+]
