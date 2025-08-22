@@ -1,7 +1,40 @@
 [
   {
     "assertion": "Assertion: Members of phycomycetes are found in aquatic habitats and on decaying wood in moist and damp places.",
-    "reason": "Reason: The mycelium of phycomycetes is septate and dikaryotic.",
+    "reason": "Reason: The mycelium of phycomycetes is aseptate and coenocytic.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: A zygospore is formed in phycomycetes by the fusion of two gametes.",
+    "reason": "Reason: These gametes may be similar in morphology (isogamous) or dissimilar (anisogamous or oogamous).",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Ascomycetes are commonly known as sac-fungi.",
+    "reason": "Reason: Sexual spores called ascospores are produced endogenously in sac-like asci.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: The mycelium of ascomycetes is branched and septate.",
+    "reason": "Reason: The asexual spores are conidia produced endogenously in asci.",
     "options": [
       "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
       "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
@@ -11,11 +44,95 @@
     "answer": "C"
   },
   {
-    "assertion": "Assertion: Asexual reproduction in phycomycetes takes place by zoospores or aplanospores.",
-    "reason": "Reason: Zoospores and aplanospores are endogenously produced in sporangium.",
+    "assertion": "Assertion: Neurospora is used extensively in biochemical and genetic work.",
+    "reason": "Reason: Neurospora is a member of basidiomycetes.",
     "options": [
       "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
       "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
       "C. Assertion is true but Reason is false.",
       "D. Assertion is false but Reason is true."
     ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: Basidiomycetes commonly include mushrooms, bracket fungi and puffballs.",
+    "reason": "Reason: The basidiospores in basidiomycetes are produced exogenously on the basidium.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Asexual spores are generally not found in basidiomycetes.",
+    "reason": "Reason: Vegetative reproduction in basidiomycetes occurs by fragmentation.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Assertion: In basidiomycetes, plasmogamy is brought about by fusion of two vegetative or somatic cells of different strains.",
+    "reason": "Reason: The resultant dikaryotic structure ultimately gives rise to basidium.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Deuteromycetes are commonly called imperfect fungi.",
+    "reason": "Reason: Only the asexual or vegetative phases of these fungi are known.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Once perfect (sexual) stages of deuteromycetes are discovered, they are often moved to ascomycetes or basidiomycetes.",
+    "reason": "Reason: Deuteromycetes reproduce only by sexual spores known as conidia.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: The mycelium of deuteromycetes is septate and branched.",
+    "reason": "Reason: Some members of deuteromycetes are decomposers and help in mineral cycling.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
