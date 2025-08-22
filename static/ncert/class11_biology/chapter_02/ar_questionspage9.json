@@ -1,0 +1,79 @@
+[
+  {
+    "assertion": "Assertion: Kingdom Plantae includes all eukaryotic chlorophyll-containing organisms commonly called plants.",
+    "reason": "Reason: Plant cells have prominent chloroplasts and cell walls mainly made of cellulose.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Cuscuta is an example of a partially heterotrophic plant.",
+    "reason": "Reason: Cuscuta is a parasitic plant.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Alternation of generations refers to the phenomenon of having diploid and haploid phases in the life cycle.",
+    "reason": "Reason: The lengths of the diploid and haploid phases are constant among all plant groups.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Assertion: Animals digest their food in an internal cavity and store food reserves as glycogen or fat.",
+    "reason": "Reason: Animals have heterotrophic holozoic mode of nutrition.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Animal cells are multicellular and have cell walls made of glycogen.",
+    "reason": "Reason: Animals are heterotrophic eukaryotic organisms.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "D"
+  },
+  {
+    "assertion": "Assertion: Viruses are not considered truly living.",
+    "reason": "Reason: Viruses do not have a cellular structure.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Assertion: Viruses were not included in Whittaker’s five kingdom classification.",
+    "reason": "Reason: Viruses are acellular organisms with crystalline structure outside the living cell.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
