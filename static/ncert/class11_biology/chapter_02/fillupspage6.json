@@ -1,1 +1,150 @@
-
+[
+  {
+    "question": "These organisms are mostly ______ and photosynthetic.",
+    "answer": "marine"
+  },
+  {
+    "question": "They appear yellow, green, brown, blue or red depending on the main ______ present.",
+    "answer": "pigments"
+  },
+  {
+    "question": "The cell wall has stiff ______ plates on the outer surface.",
+    "answer": "cellulose"
+  },
+  {
+    "question": "Most of them have ______ flagella.",
+    "answer": "two"
+  },
+  {
+    "question": "One flagellum lies longitudinally and the other ______.",
+    "answer": "transversely"
+  },
+  {
+    "question": "The transverse flagellum lies in a ______ between the wall plates.",
+    "answer": "furrow"
+  },
+  {
+    "question": "Red dinoflagellates like Gonyaulax cause ______ tides.",
+    "answer": "red"
+  },
+  {
+    "question": "Toxins released by dinoflagellates may kill other marine animals such as ______.",
+    "answer": "fishes"
+  },
+  {
+    "question": "Majority of euglenoids are ______ water organisms.",
+    "answer": "fresh"
+  },
+  {
+    "question": "Euglenoids are found in ______ water.",
+    "answer": "stagnant"
+  },
+  {
+    "question": "Instead of a cell wall, euglenoids have a protein-rich layer called ______.",
+    "answer": "pellicle"
+  },
+  {
+    "question": "Pellicle makes the euglenoid body ______.",
+    "answer": "flexible"
+  },
+  {
+    "question": "Euglenoids have two flagella, a short and a ______ one.",
+    "answer": "long"
+  },
+  {
+    "question": "Euglenoids are photosynthetic in the presence of ______.",
+    "answer": "sunlight"
+  },
+  {
+    "question": "In absence of sunlight, euglenoids behave like ______.",
+    "answer": "heterotrophs"
+  },
+  {
+    "question": "Heterotrophic euglenoids predate on other smaller ______.",
+    "answer": "organisms"
+  },
+  {
+    "question": "The pigments of euglenoids are identical to those in ______ plants.",
+    "answer": "higher"
+  },
+  {
+    "question": "An example of a euglenoid is ______.",
+    "answer": "Euglena"
+  },
+  {
+    "question": "Slime moulds are ______ protists.",
+    "answer": "saprophytic"
+  },
+  {
+    "question": "The body of slime moulds moves along decaying twigs and ______.",
+    "answer": "leaves"
+  },
+  {
+    "question": "Slime moulds engulf ______ material.",
+    "answer": "organic"
+  },
+  {
+    "question": "Under suitable conditions, slime moulds form an aggregation called ______.",
+    "answer": "plasmodium"
+  },
+  {
+    "question": "Plasmodium may grow and spread over several ______.",
+    "answer": "feet"
+  },
+  {
+    "question": "During unfavourable conditions, plasmodium forms ______ bodies.",
+    "answer": "fruiting"
+  },
+  {
+    "question": "Fruiting bodies of slime moulds bear ______ at their tips.",
+    "answer": "spores"
+  },
+  {
+    "question": "The spores possess true ______.",
+    "answer": "walls"
+  },
+  {
+    "question": "Slime mould spores are extremely ______.",
+    "answer": "resistant"
+  },
+  {
+    "question": "These spores can survive for many ______.",
+    "answer": "years"
+  },
+  {
+    "question": "Spores of slime moulds survive under ______ conditions.",
+    "answer": "adverse"
+  },
+  {
+    "question": "The spores of slime moulds are dispersed by ______ currents.",
+    "answer": "air"
+  },
+  {
+    "question": "Red tides are caused by ______ dinoflagellates.",
+    "answer": "red"
+  },
+  {
+    "question": "Flagella in dinoflagellates are located in a furrow between ______ plates.",
+    "answer": "wall"
+  },
+  {
+    "question": "In dinoflagellates, one flagellum lies ______.",
+    "answer": "longitudinally"
+  },
+  {
+    "question": "Dinoflagellates have a cell wall made of stiff ______ plates.",
+    "answer": "cellulose"
+  },
+  {
+    "question": "Euglenoids do not have a ______ wall.",
+    "answer": "cell"
+  },
+  {
+    "question": "Pellicle in euglenoids is a ______-rich layer.",
+    "answer": "protein"
+  },
+  {
+    "question": "Fruiting bodies are formed by ______ during unfavourable conditions.",
+    "answer": "plasmodium"
+  }
+]
