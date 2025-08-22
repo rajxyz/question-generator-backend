@@ -1,0 +1,147 @@
+[
+  {
+    "question": "In ascomycetes, the asexual spores are called:",
+    "options": ["Conidia", "Ascospores", "Zoospores", "Basidiospores"],
+    "answer": "Conidia"
+  },
+  {
+    "question": "Conidia in ascomycetes are produced:",
+    "options": ["Endogenously", "Exogenously", "By fragmentation", "By budding"],
+    "answer": "Exogenously"
+  },
+  {
+    "question": "Conidia are produced on special mycelium called:",
+    "options": ["Ascocarps", "Basidiocarps", "Conidiophores", "Zoosporangia"],
+    "answer": "Conidiophores"
+  },
+  {
+    "question": "Sexual spores in ascomycetes are called:",
+    "options": ["Conidia", "Ascospores", "Zoospores", "Basidiospores"],
+    "answer": "Ascospores"
+  },
+  {
+    "question": "Ascospores are produced:",
+    "options": ["Exogenously", "Endogenously", "By budding", "By fragmentation"],
+    "answer": "Endogenously"
+  },
+  {
+    "question": "Ascospores are produced in sac-like structures called:",
+    "options": ["Basidia", "Conidiophores", "Asci", "Zoosporangia"],
+    "answer": "Asci"
+  },
+  {
+    "question": "The plural form of ascus is:",
+    "options": ["Ascuses", "Asci", "Ascora", "Ascums"],
+    "answer": "Asci"
+  },
+  {
+    "question": "Asci are arranged in fruiting bodies called:",
+    "options": ["Ascocarps", "Basidiocarps", "Conidiocarps", "Zoosporocarps"],
+    "answer": "Ascocarps"
+  },
+  {
+    "question": "Neurospora is extensively used in:",
+    "options": ["Biochemical and genetic work", "Food industry", "Antibiotic production", "Alcohol fermentation"],
+    "answer": "Biochemical and genetic work"
+  },
+  {
+    "question": "Morels and truffles are:",
+    "options": ["Medicinal fungi", "Edible delicacies", "Pathogenic fungi", "Fermenting agents"],
+    "answer": "Edible delicacies"
+  },
+  {
+    "question": "Commonly known forms of basidiomycetes include:",
+    "options": ["Mushrooms, bracket fungi, puffballs", "Yeast, Mucor, Albugo", "Morels, truffles, Aspergillus", "Alternaria, Trichoderma, Colletotrichum"],
+    "answer": "Mushrooms, bracket fungi, puffballs"
+  },
+  {
+    "question": "Basidiomycetes grow in soil, on logs, tree stumps and in living plant bodies as:",
+    "options": ["Saprophytes", "Parasites", "Symbionts", "Autotrophs"],
+    "answer": "Parasites"
+  },
+  {
+    "question": "The mycelium of basidiomycetes is:",
+    "options": ["Aseptate", "Coenocytic", "Branched and septate", "Unicellular"],
+    "answer": "Branched and septate"
+  },
+  {
+    "question": "Asexual spores in basidiomycetes are:",
+    "options": ["Absent", "Conidia", "Zoospores", "Ascospores"],
+    "answer": "Absent"
+  },
+  {
+    "question": "Vegetative reproduction in basidiomycetes commonly occurs by:",
+    "options": ["Budding", "Fragmentation", "Binary fission", "Spore germination"],
+    "answer": "Fragmentation"
+  },
+  {
+    "question": "Sex organs in basidiomycetes are:",
+    "options": ["Present", "Absent", "Highly reduced", "Unicellular"],
+    "answer": "Absent"
+  },
+  {
+    "question": "Plasmogamy in basidiomycetes occurs by fusion of:",
+    "options": ["Zoospores", "Vegetative or somatic cells of different strains", "Gametes", "Hyphal fragments of the same strain"],
+    "answer": "Vegetative or somatic cells of different strains"
+  },
+  {
+    "question": "The dikaryotic structure in basidiomycetes ultimately gives rise to:",
+    "options": ["Basidiospore", "Ascospore", "Basidium", "Conidium"],
+    "answer": "Basidium"
+  },
+  {
+    "question": "Karyogamy and meiosis in basidiomycetes take place in:",
+    "options": ["Ascus", "Basidium", "Conidiophore", "Zoosporangium"],
+    "answer": "Basidium"
+  },
+  {
+    "question": "Number of basidiospores produced per basidium is:",
+    "options": ["Two", "Four", "Eight", "Sixteen"],
+    "answer": "Four"
+  },
+  {
+    "question": "Basidiospores are produced:",
+    "options": ["Endogenously", "Exogenously", "By budding", "By fission"],
+    "answer": "Exogenously"
+  },
+  {
+    "question": "Basidia are arranged in fruiting bodies called:",
+    "options": ["Basidiocarps", "Ascocarps", "Zoosporocarps", "Conidiocarps"],
+    "answer": "Basidiocarps"
+  },
+  {
+    "question": "Common members of basidiomycetes include:",
+    "options": ["Agaricus, Ustilago, Puccinia", "Neurospora, Aspergillus, Claviceps", "Mucor, Rhizopus, Albugo", "Alternaria, Trichoderma, Colletotrichum"],
+    "answer": "Agaricus, Ustilago, Puccinia"
+  },
+  {
+    "question": "Deuteromycetes are commonly known as:",
+    "options": ["Perfect fungi", "Imperfect fungi", "Sac fungi", "Club fungi"],
+    "answer": "Imperfect fungi"
+  },
+  {
+    "question": "In deuteromycetes, only the ______ phases are known.",
+    "options": ["Sexual or vegetative", "Asexual or vegetative", "Sexual or asexual", "Vegetative or dormant"],
+    "answer": "Asexual or vegetative"
+  },
+  {
+    "question": "Asexual spores in deuteromycetes are called:",
+    "options": ["Conidia", "Basidiospores", "Zoospores", "Ascospores"],
+    "answer": "Conidia"
+  },
+  {
+    "question": "The mycelium in deuteromycetes is:",
+    "options": ["Aseptate", "Coenocytic", "Septate and branched", "Unicellular"],
+    "answer": "Septate and branched"
+  },
+  {
+    "question": "Many members of deuteromycetes help in:",
+    "options": ["Mineral cycling", "Nitrogen fixation", "Antibiotic production", "Photosynthesis"],
+    "answer": "Mineral cycling"
+  },
+  {
+    "question": "Examples of deuteromycetes include:",
+    "options": ["Alternaria, Colletotrichum, Trichoderma", "Agaricus, Ustilago, Puccinia", "Mucor, Rhizopus, Albugo", "Aspergillus, Claviceps, Neurospora"],
+    "answer": "Alternaria, Colletotrichum, Trichoderma"
+  }
+]
