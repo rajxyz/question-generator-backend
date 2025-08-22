@@ -1,0 +1,287 @@
+[
+  {
+    "question": "Which of the following is a vegetative method of reproduction in fungi?",
+    "options": [
+      "Fragmentation",
+      "Oospore formation",
+      "Ascospore formation",
+      "Karyogamy"
+    ],
+    "answer": "Fragmentation"
+  },
+  {
+    "question": "Which of the following is NOT a vegetative method of fungal reproduction?",
+    "options": [
+      "Fission",
+      "Budding",
+      "Conidia formation",
+      "Fragmentation"
+    ],
+    "answer": "Conidia formation"
+  },
+  {
+    "question": "Which of the following is an asexual spore in fungi?",
+    "options": [
+      "Ascospore",
+      "Basidiospore",
+      "Zoospore",
+      "Oospore"
+    ],
+    "answer": "Zoospore"
+  },
+  {
+    "question": "Conidia, sporangiospores and zoospores are examples of:",
+    "options": [
+      "Sexual spores",
+      "Vegetative structures",
+      "Asexual spores",
+      "Fruiting bodies"
+    ],
+    "answer": "Asexual spores"
+  },
+  {
+    "question": "Which of the following is a sexual spore in fungi?",
+    "options": [
+      "Zoospore",
+      "Sporangiospore",
+      "Oospore",
+      "Conidia"
+    ],
+    "answer": "Oospore"
+  },
+  {
+    "question": "Where are fungal spores produced?",
+    "options": [
+      "Mycelium",
+      "Fruiting bodies",
+      "Cell walls",
+      "Hyphal tips"
+    ],
+    "answer": "Fruiting bodies"
+  },
+  {
+    "question": "Fusion of protoplasm between two gametes is called:",
+    "options": [
+      "Meiosis",
+      "Karyogamy",
+      "Plasmogamy",
+      "Sporulation"
+    ],
+    "answer": "Plasmogamy"
+  },
+  {
+    "question": "Fusion of two nuclei in fungi is called:",
+    "options": [
+      "Plasmogamy",
+      "Budding",
+      "Karyogamy",
+      "Fission"
+    ],
+    "answer": "Karyogamy"
+  },
+  {
+    "question": "Meiosis in the zygote of fungi results in:",
+    "options": [
+      "Diploid spores",
+      "Haploid spores",
+      "Triploid spores",
+      "Fruiting bodies"
+    ],
+    "answer": "Haploid spores"
+  },
+  {
+    "question": "Sexual reproduction in fungi begins with fusion of:",
+    "options": [
+      "Diploid hyphae",
+      "Haploid hyphae of compatible mating types",
+      "Zoospores",
+      "Ascus cells"
+    ],
+    "answer": "Haploid hyphae of compatible mating types"
+  },
+  {
+    "question": "In some fungi, fusion of haploid cells immediately results in:",
+    "options": [
+      "Haploid spores",
+      "Diploid cells (2n)",
+      "Dikaryotic cells",
+      "Fruiting bodies"
+    ],
+    "answer": "Diploid cells (2n)"
+  },
+  {
+    "question": "In which fungi does a dikaryotic stage (n + n) occur?",
+    "options": [
+      "Ascomycetes and basidiomycetes",
+      "Zygomycetes and oomycetes",
+      "Yeast and mucor",
+      "Penicillium and rhizopus"
+    ],
+    "answer": "Ascomycetes and basidiomycetes"
+  },
+  {
+    "question": "A cell having two nuclei per cell is referred to as a:",
+    "options": [
+      "Diploid",
+      "Haploid",
+      "Dikaryon",
+      "Tetranucleate"
+    ],
+    "answer": "Dikaryon"
+  },
+  {
+    "question": "What is the name of the phase with two nuclei per cell in fungi?",
+    "options": [
+      "Dikaryophase",
+      "Meiotic phase",
+      "Spore phase",
+      "Karyophase"
+    ],
+    "answer": "Dikaryophase"
+  },
+  {
+    "question": "What happens after the dikaryophase in fungi?",
+    "options": [
+      "Formation of zoospores",
+      "Fusion of parental nuclei to form diploid cells",
+      "Fragmentation of mycelium",
+      "Spore germination"
+    ],
+    "answer": "Fusion of parental nuclei to form diploid cells"
+  },
+  {
+    "question": "Where does reduction division occur in fungi?",
+    "options": [
+      "Mycelium",
+      "Fruiting bodies",
+      "Hyphal tips",
+      "Cell wall"
+    ],
+    "answer": "Fruiting bodies"
+  },
+  {
+    "question": "What is formed after reduction division in fungi?",
+    "options": [
+      "Diploid spores",
+      "Haploid spores",
+      "Multinucleate cells",
+      "Vegetative cells"
+    ],
+    "answer": "Haploid spores"
+  },
+  {
+    "question": "What forms the basis for the classification of fungi into various classes?",
+    "options": [
+      "Pigments and nutrition",
+      "Habitat and locomotion",
+      "Morphology of mycelium, mode of spore formation and fruiting bodies",
+      "Size and shape of spores"
+    ],
+    "answer": "Morphology of mycelium, mode of spore formation and fruiting bodies"
+  },
+  {
+    "question": "Members of phycomycetes are found in which of the following habitats?",
+    "options": ["Deserts", "Aquatic habitats", "Dry forests", "Snowy mountains"],
+    "answer": "Aquatic habitats"
+  },
+  {
+    "question": "Members of phycomycetes can be found on decaying wood in which type of places?",
+    "options": ["Hot and dry places", "Moist and damp places", "Cold and icy places", "Sunny open fields"],
+    "answer": "Moist and damp places"
+  },
+  {
+    "question": "Members of phycomycetes can also occur as:",
+    "options": ["Obligate parasites on plants", "Free-living bacteria", "Photosynthetic algae", "Saprophytic protists"],
+    "answer": "Obligate parasites on plants"
+  },
+  {
+    "question": "The mycelium of phycomycetes is:",
+    "options": ["Septate and coenocytic", "Aseptate and coenocytic", "Septate and branched", "Aseptate and branched"],
+    "answer": "Aseptate and coenocytic"
+  },
+  {
+    "question": "Asexual reproduction in phycomycetes takes place by which of the following?",
+    "options": ["Conidia only", "Zoospores or aplanospores", "Basidiospores", "Ascospores"],
+    "answer": "Zoospores or aplanospores"
+  },
+  {
+    "question": "Zoospores are:",
+    "options": ["Motile", "Non-motile", "Sessile", "Aerial"],
+    "answer": "Motile"
+  },
+  {
+    "question": "Aplanospores are:",
+    "options": ["Motile", "Non-motile", "Sessile", "Aerial"],
+    "answer": "Non-motile"
+  },
+  {
+    "question": "Zoospores and aplanospores in phycomycetes are produced:",
+    "options": ["Exogenously", "Endogenously", "By budding", "By fragmentation"],
+    "answer": "Endogenously"
+  },
+  {
+    "question": "The structure in which zoospores or aplanospores are produced is called:",
+    "options": ["Conidiophore", "Sporangium", "Basidium", "Ascus"],
+    "answer": "Sporangium"
+  },
+  {
+    "question": "In phycomycetes, a zygospore is formed by fusion of:",
+    "options": ["Two gametes", "Two spores", "Two nuclei", "Two hyphae"],
+    "answer": "Two gametes"
+  },
+  {
+    "question": "When the gametes are similar in morphology, the condition is called:",
+    "options": ["Isogamous", "Anisogamous", "Oogamous", "Polygamous"],
+    "answer": "Isogamous"
+  },
+  {
+    "question": "Gametes that are dissimilar in morphology may be:",
+    "options": ["Isogamous or oogamous", "Anisogamous or oogamous", "Homogamous or anisogamous", "Isogamous or anisogamous"],
+    "answer": "Anisogamous or oogamous"
+  },
+  {
+    "question": "Which of the following is a common example of phycomycetes?",
+    "options": ["Penicillium", "Mucor", "Yeast", "Neurospora"],
+    "answer": "Mucor"
+  },
+  {
+    "question": "Rhizopus, mentioned as bread mould earlier, belongs to:",
+    "options": ["Ascomycetes", "Phycomycetes", "Basidiomycetes", "Deuteromycetes"],
+    "answer": "Phycomycetes"
+  },
+  {
+    "question": "Albugo is a parasitic fungus found on:",
+    "options": ["Wheat", "Mustard", "Rice", "Maize"],
+    "answer": "Mustard"
+  },
+  {
+    "question": "Ascomycetes are commonly known as:",
+    "options": ["Club fungi", "Sac-fungi", "Bread moulds", "Water moulds"],
+    "answer": "Sac-fungi"
+  },
+  {
+    "question": "Most ascomycetes are:",
+    "options": ["Multicellular", "Unicellular", "Coenocytic", "Aseptate"],
+    "answer": "Multicellular"
+  },
+  {
+    "question": "Which of the following is a rare unicellular ascomycete?",
+    "options": ["Penicillium", "Yeast (Saccharomyces)", "Mucor", "Neurospora"],
+    "answer": "Yeast (Saccharomyces)"
+  },
+  {
+    "question": "Ascomycetes may be saprophytic, decomposers, parasitic or:",
+    "options": ["Coprophilous", "Symbiotic", "Mycorrhizal", "Autotrophic"],
+    "answer": "Coprophilous"
+  },
+  {
+    "question": "Coprophilous fungi grow on:",
+    "options": ["Dead wood", "Dung", "Aquatic plants", "Leaves"],
+    "answer": "Dung"
+  },
+  {
+    "question": "Mycelium of ascomycetes is:",
+    "options": ["Aseptate and branched", "Branched and septate", "Unbranched and septate", "Aseptate and unbranched"],
+    "answer": "Branched and septate"
+  }
+]
