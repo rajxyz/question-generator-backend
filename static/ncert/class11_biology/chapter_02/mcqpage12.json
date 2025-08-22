@@ -1,0 +1,217 @@
+[
+  {
+    "question": "Who discovered viroids in 1971?",
+    "options": ["M.W. Beijerinck", "W.M. Stanley", "T.O. Diener", "Dmitri Ivanowsky"],
+    "answer": "T.O. Diener"
+  },
+  {
+    "question": "Which disease is caused by viroids?",
+    "options": ["Mosaic disease of tobacco", "Potato spindle tuber disease", "Mad cow disease", "Creutzfeldt–Jacob disease"],
+    "answer": "Potato spindle tuber disease"
+  },
+  {
+    "question": "Viroids were found to be:",
+    "options": ["Free RNA", "Protein coat", "DNA viruses", "Capsid enclosed"],
+    "answer": "Free RNA"
+  },
+  {
+    "question": "What do viroids lack that is found in viruses?",
+    "options": ["Nucleic acid", "Protein coat", "RNA", "Enzyme"],
+    "answer": "Protein coat"
+  },
+  {
+    "question": "The RNA of viroids is of:",
+    "options": ["High molecular weight", "Low molecular weight", "Double stranded DNA", "Protein nature"],
+    "answer": "Low molecular weight"
+  },
+  {
+    "question": "Prions are agents consisting of:",
+    "options": ["Free RNA", "Abnormally folded protein", "DNA", "Capsomeres"],
+    "answer": "Abnormally folded protein"
+  },
+  {
+    "question": "The size of prions is similar to:",
+    "options": ["Bacteria", "Viruses", "Viroids", "Fungi"],
+    "answer": "Viruses"
+  },
+  {
+    "question": "Which disease is caused by prions in cattle?",
+    "options": ["Potato spindle tuber disease", "Mosaic disease of tobacco", "Bovine spongiform encephalopathy", "Creutzfeldt–Jacob disease"],
+    "answer": "Bovine spongiform encephalopathy"
+  },
+  {
+    "question": "Creutzfeldt–Jacob disease (CJD) is caused by prions in:",
+    "options": ["Cattle", "Humans", "Plants", "Algae"],
+    "answer": "Humans"
+  },
+  {
+    "question": "Bovine spongiform encephalopathy is commonly called:",
+    "options": ["Mad cow disease", "Mosaic disease", "Tobacco disease", "Potato disease"],
+    "answer": "Mad cow disease"
+  },
+  {
+    "question": "Lichens are symbiotic associations between:",
+    "options": ["Algae and bacteria", "Algae and fungi", "Fungi and viruses", "Fungi and protozoa"],
+    "answer": "Algae and fungi"
+  },
+  {
+    "question": "The algal component of lichens is called:",
+    "options": ["Mycobiont", "Phycobiont", "Viroid", "Prion"],
+    "answer": "Phycobiont"
+  },
+  {
+    "question": "The fungal component of lichens is called:",
+    "options": ["Mycobiont", "Phycobiont", "Viroid", "Prion"],
+    "answer": "Mycobiont"
+  },
+  {
+    "question": "The algal component of lichens is:",
+    "options": ["Autotrophic", "Heterotrophic", "Parasitic", "Saprophytic"],
+    "answer": "Autotrophic"
+  },
+  {
+    "question": "The fungal component of lichens is:",
+    "options": ["Autotrophic", "Heterotrophic", "Parasitic", "Saprophytic"],
+    "answer": "Heterotrophic"
+  },
+  {
+    "question": "In lichens, algae prepare food for:",
+    "options": ["Fungi", "Viruses", "Bacteria", "Viroids"],
+    "answer": "Fungi"
+  },
+  {
+    "question": "In lichens, fungi provide:",
+    "options": ["Food", "Shelter and absorb mineral nutrients and water", "DNA", "Protein coat"],
+    "answer": "Shelter and absorb mineral nutrients and water"
+  },
+  {
+    "question": "Lichens are very good indicators of:",
+    "options": ["Air pressure", "Temperature", "Pollution", "Light"],
+    "answer": "Pollution"
+  },
+  {
+    "question": "Lichens do not grow in:",
+    "options": ["Polluted areas", "Clean areas", "Moist areas", "Damp areas"],
+    "answer": "Polluted areas"
+  },
+  {
+    "question": "Who first proposed biological classification of plants and animals?",
+    "options": ["Aristotle", "Linnaeus", "Whittaker", "Diener"],
+    "answer": "Aristotle"
+  },
+  {
+    "question": "On what basis did Aristotle classify plants and animals?",
+    "options": ["Cell structure", "Simple morphological characters", "Mode of nutrition", "Reproduction"],
+    "answer": "Simple morphological characters"
+  },
+  {
+    "question": "Who classified organisms into two kingdoms – Plantae and Animalia?",
+    "options": ["Whittaker", "Aristotle", "Linnaeus", "Stanley"],
+    "answer": "Linnaeus"
+  },
+  {
+    "question": "Which kingdoms were included in Linnaeus’ classification?",
+    "options": ["Monera and Protista", "Fungi and Plantae", "Plantae and Animalia", "Protista and Fungi"],
+    "answer": "Plantae and Animalia"
+  },
+  {
+    "question": "Who proposed the five kingdom classification?",
+    "options": ["Linnaeus", "Whittaker", "Aristotle", "Diener"],
+    "answer": "Whittaker"
+  },
+  {
+    "question": "Which of the following kingdoms are part of Whittaker’s five kingdom classification?",
+    "options": ["Monera, Protista, Fungi, Plantae, Animalia", "Plantae, Animalia, Viruses, Protista, Bacteria", "Monera, Protista, Fungi, Plantae, Viruses", "Fungi, Plantae, Animalia, Viruses, Protozoa"],
+    "answer": "Monera, Protista, Fungi, Plantae, Animalia"
+  },
+  {
+    "question": "What were the main criteria of Whittaker’s five kingdom classification?",
+    "options": ["Habitat and symmetry", "Cell structure, body organisation, mode of nutrition, reproduction, phylogenetic relationships", "DNA and RNA composition", "Presence of chlorophyll"],
+    "answer": "Cell structure, body organisation, mode of nutrition, reproduction, phylogenetic relationships"
+  },
+  {
+    "question": "In the five kingdom classification, bacteria are included in:",
+    "options": ["Protista", "Monera", "Fungi", "Plantae"],
+    "answer": "Monera"
+  },
+  {
+    "question": "Bacteria are distributed:",
+    "options": ["In specific regions", "Cosmopolitan in distribution", "Only in soil", "Only in water"],
+    "answer": "Cosmopolitan in distribution"
+  },
+  {
+    "question": "Which organisms show the most extensive metabolic diversity?",
+    "options": ["Protists", "Fungi", "Plants", "Bacteria"],
+    "answer": "Bacteria"
+  },
+  {
+    "question": "Bacteria may be:",
+    "options": ["Only autotrophic", "Only heterotrophic", "Autotrophic or heterotrophic", "Parasitic only"],
+    "answer": "Autotrophic or heterotrophic"
+  },
+  {
+    "question": "Kingdom Protista includes:",
+    "options": ["All single-celled eukaryotes", "All prokaryotes", "All fungi", "All plants"],
+    "answer": "All single-celled eukaryotes"
+  },
+  {
+    "question": "Examples of Protists are:",
+    "options": ["Bacteria, Cyanobacteria, Mycoplasma", "Chrysophytes, Dinoflagellates, Euglenoids, Slime-moulds, Protozoans", "Algae, Bryophytes, Pteridophytes", "Basidiomycetes, Ascomycetes, Deuteromycetes"],
+    "answer": "Chrysophytes, Dinoflagellates, Euglenoids, Slime-moulds, Protozoans"
+  },
+  {
+    "question": "Protists have:",
+    "options": ["No nucleus", "Defined nucleus and other membrane bound organelles", "Peptidoglycan cell wall", "Single-stranded DNA"],
+    "answer": "Defined nucleus and other membrane bound organelles"
+  },
+  {
+    "question": "Protists reproduce:",
+    "options": ["Only sexually", "Only asexually", "Both asexually and sexually", "By binary fission only"],
+    "answer": "Both asexually and sexually"
+  },
+  {
+    "question": "Members of Kingdom Fungi show great diversity in:",
+    "options": ["Structure and habitat", "Mode of nutrition only", "Reproduction only", "Cell wall composition"],
+    "answer": "Structure and habitat"
+  },
+  {
+    "question": "Most fungi are:",
+    "options": ["Autotrophic", "Saprophytic", "Parasitic", "Photosynthetic"],
+    "answer": "Saprophytic"
+  },
+  {
+    "question": "Fungi show:",
+    "options": ["Only asexual reproduction", "Only sexual reproduction", "Asexual and sexual reproduction", "Vegetative reproduction only"],
+    "answer": "Asexual and sexual reproduction"
+  },
+  {
+    "question": "The four classes under Kingdom Fungi are:",
+    "options": ["Cyanobacteria, Euglenoids, Protozoa, Dinoflagellates", "Phycomycetes, Ascomycetes, Basidiomycetes, Deuteromycetes", "Bryophytes, Pteridophytes, Gymnosperms, Angiosperms", "Bacteria, Archaea, Protista, Plantae"],
+    "answer": "Phycomycetes, Ascomycetes, Basidiomycetes, Deuteromycetes"
+  },
+  {
+    "question": "The Kingdom Plantae includes all:",
+    "options": ["Prokaryotic organisms", "Eukaryotic chlorophyll-containing organisms", "Single-celled fungi", "Protozoans"],
+    "answer": "Eukaryotic chlorophyll-containing organisms"
+  },
+  {
+    "question": "Which groups are included under Plantae?",
+    "options": ["Algae, Bryophytes, Pteridophytes, Gymnosperms, Angiosperms", "Bacteria, Protists, Fungi, Animals", "Phycomycetes, Ascomycetes, Basidiomycetes, Deuteromycetes", "Slime-moulds, Dinoflagellates, Euglenoids"],
+    "answer": "Algae, Bryophytes, Pteridophytes, Gymnosperms, Angiosperms"
+  },
+  {
+    "question": "The plant life cycle exhibits:",
+    "options": ["Only gametophytic generation", "Alternation of generations", "Only sporophytic generation", "Binary fission"],
+    "answer": "Alternation of generations"
+  },
+  {
+    "question": "Alternation of generations in plants is between:",
+    "options": ["Gametes and spores", "Gametophytic and sporophytic generations", "Zygote and embryo", "Pollen and ovule"],
+    "answer": "Gametophytic and sporophytic generations"
+  },
+  {
+    "question": "The Kingdom Animalia includes:",
+    "options": ["Heterotrophic eukaryotic multicellular organisms lacking a cell wall", "Autotrophic prokaryotes", "Unicellular protists", "Chlorophyll-containing organisms"],
+    "answer": "Heterotrophic eukaryotic multicellular organisms lacking a cell wall"
+  }
+]
