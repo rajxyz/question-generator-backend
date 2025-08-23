@@ -1,1 +1,147 @@
-
+[
+  {
+    "question": "The cells of endosperm tissue are filled with:",
+    "options": ["Chlorophyll", "Reserve food materials", "Hormones", "Water"],
+    "answer": "Reserve food materials"
+  },
+  {
+    "question": "The reserve food materials in endosperm tissue are used for the nutrition of:",
+    "options": ["Seed coat", "Developing embryo", "Fruit wall", "Cotyledons"],
+    "answer": "Developing embryo"
+  },
+  {
+    "question": "In the most common type of endosperm development, the PEN undergoes:",
+    "options": ["Meiosis", "Successive nuclear divisions", "Cell wall formation first", "Dormancy"],
+    "answer": "Successive nuclear divisions"
+  },
+  {
+    "question": "Successive nuclear divisions of PEN give rise to:",
+    "options": ["Cell walls", "Free nuclei", "Endocarp", "Seed coat"],
+    "answer": "Free nuclei"
+  },
+  {
+    "question": "The stage of endosperm development with free nuclei is called:",
+    "options": ["Cellular endosperm", "Free-nuclear endosperm", "Primary endosperm", "Mature endosperm"],
+    "answer": "Free-nuclear endosperm"
+  },
+  {
+    "question": "Subsequent to free-nuclear stage, the endosperm becomes:",
+    "options": ["Spongy", "Cellular", "Dormant", "Non-functional"],
+    "answer": "Cellular"
+  },
+  {
+    "question": "The number of free nuclei before cellularisation:",
+    "options": ["Is always fixed", "Varies greatly", "Remains one", "Is always two"],
+    "answer": "Varies greatly"
+  },
+  {
+    "question": "The coconut water from tender coconut represents:",
+    "options": ["Cellular endosperm", "Free-nuclear endosperm", "Seed coat", "Perisperm"],
+    "answer": "Free-nuclear endosperm"
+  },
+  {
+    "question": "The free-nuclear endosperm in coconut water is made up of:",
+    "options": ["One nucleus", "Two nuclei", "Hundreds of nuclei", "Thousands of nuclei"],
+    "answer": "Thousands of nuclei"
+  },
+  {
+    "question": "The surrounding white kernel of coconut is:",
+    "options": ["Free-nuclear endosperm", "Cellular endosperm", "Seed coat", "Endocarp"],
+    "answer": "Cellular endosperm"
+  },
+  {
+    "question": "Endosperm may either be completely consumed by the developing embryo before:",
+    "options": ["Fertilisation", "Pollination", "Seed maturation", "Germination"],
+    "answer": "Seed maturation"
+  },
+  {
+    "question": "Examples of plants where endosperm is completely consumed before seed maturation include:",
+    "options": ["Castor and coconut", "Pea, groundnut, beans", "Rice, wheat, maize", "Mango and apple"],
+    "answer": "Pea, groundnut, beans"
+  },
+  {
+    "question": "In some plants, endosperm persists in the mature seed and is used during:",
+    "options": ["Fertilisation", "Seed germination", "Pollination", "Seed maturation"],
+    "answer": "Seed germination"
+  },
+  {
+    "question": "Examples of plants where endosperm persists in the mature seed include:",
+    "options": ["Pea and beans", "Groundnut and wheat", "Castor and coconut", "Rice and maize"],
+    "answer": "Castor and coconut"
+  },
+  {
+    "question": "Embryo develops at the micropylar end of the embryo sac where:",
+    "options": ["Antipodals are situated", "Zygote is situated", "Synergids are situated", "Polar nuclei are situated"],
+    "answer": "Zygote is situated"
+  },
+  {
+    "question": "Most zygotes divide only after certain amount of:",
+    "options": ["Cotyledons are formed", "Seed coat is developed", "Endosperm is formed", "Fruit develops"],
+    "answer": "Endosperm is formed"
+  },
+  {
+    "question": "The delayed division of zygote until endosperm formation is an adaptation to provide:",
+    "options": ["Protection", "Assured nutrition", "Seed coat formation", "Dormancy"],
+    "answer": "Assured nutrition"
+  },
+  {
+    "question": "The early stages of embryo development are similar in:",
+    "options": ["Dicots only", "Monocots only", "Both monocotyledons and dicotyledons", "Gymnosperms only"],
+    "answer": "Both monocotyledons and dicotyledons"
+  },
+  {
+    "question": "The zygote gives rise to the:",
+    "options": ["Seed coat", "Endosperm", "Proembryo", "Cotyledons"],
+    "answer": "Proembryo"
+  },
+  {
+    "question": "The stages of embryogeny in a dicot embryo are:",
+    "options": ["Globular, radial, mature", "Globular, heart-shaped, mature", "Cellular, globular, mature", "Heart-shaped, tubular, mature"],
+    "answer": "Globular, heart-shaped, mature"
+  },
+  {
+    "question": "A typical dicotyledonous embryo consists of:",
+    "options": ["Embryonal axis only", "One cotyledon only", "Embryonal axis and two cotyledons", "Epicotyl only"],
+    "answer": "Embryonal axis and two cotyledons"
+  },
+  {
+    "question": "The portion of embryonal axis above cotyledons is:",
+    "options": ["Hypocotyl", "Radicle", "Epicotyl", "Root cap"],
+    "answer": "Epicotyl"
+  },
+  {
+    "question": "Epicotyl terminates with:",
+    "options": ["Radicle", "Plumule or stem tip", "Root cap", "Hypocotyl"],
+    "answer": "Plumule or stem tip"
+  },
+  {
+    "question": "The cylindrical portion of embryonal axis below cotyledons is:",
+    "options": ["Epicotyl", "Plumule", "Hypocotyl", "Scutellum"],
+    "answer": "Hypocotyl"
+  },
+  {
+    "question": "The hypocotyl terminates at its lower end in:",
+    "options": ["Plumule", "Radicle or root tip", "Cotyledon", "Scutellum"],
+    "answer": "Radicle or root tip"
+  },
+  {
+    "question": "The root tip of dicot embryo is covered with:",
+    "options": ["Plumule", "Seed coat", "Root cap", "Endosperm"],
+    "answer": "Root cap"
+  },
+  {
+    "question": "Embryos of monocotyledons possess:",
+    "options": ["Two cotyledons", "No cotyledons", "One cotyledon", "Three cotyledons"],
+    "answer": "One cotyledon"
+  },
+  {
+    "question": "In the grass family, the cotyledon is called:",
+    "options": ["Radicle", "Scutellum", "Plumule", "Epicotyl"],
+    "answer": "Scutellum"
+  },
+  {
+    "question": "The scutellum in monocots is situated towards:",
+    "options": ["Radicle", "One side (lateral) of embryonal axis", "Root cap", "Hypocotyl tip"],
+    "answer": "One side (lateral) of embryonal axis"
+  }
+]
