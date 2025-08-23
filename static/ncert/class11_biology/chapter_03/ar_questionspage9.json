@@ -1,0 +1,90 @@
+[
+  {
+    "assertion": "Gymnosperms are heterosporous and produce haploid microspores and megaspores.",
+    "reason": "The two kinds of spores are produced within sporangia that are borne on sporophylls arranged spirally along an axis to form lax or compact strobili or cones.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The reduced male gametophyte in gymnosperms is called a pollen grain.",
+    "reason": "The development of pollen grains takes place within the microsporangia.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In Cycas, male cones and megasporophylls are borne on different trees.",
+    "reason": "In Pinus, male and female cones or strobili may be borne on the same tree.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The megaspore mother cell divides meiotically to form four megaspores.",
+    "reason": "One of the megaspores enclosed within the megasporangium develops into a multicellular female gametophyte that bears two or more archegonia.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In gymnosperms, the male and female gametophytes remain within the sporangia retained on the sporophytes.",
+    "reason": "Unlike bryophytes and pteridophytes, in gymnosperms, the male and female gametophytes do not have an independent free-living existence.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Pollen grains in gymnosperms are released from the microsporangium and carried in air currents.",
+    "reason": "They come in contact with the opening of ovules borne on megasporophylls.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The pollen tube in gymnosperms discharges its contents near the mouth of the archegonia in the ovules.",
+    "reason": "Following fertilisation, the zygote develops into an embryo and the ovules into seeds.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The seeds of gymnosperms are not covered.",
+    "reason": "The ovules of gymnosperms are borne on megasporophylls and lack ovary wall.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
