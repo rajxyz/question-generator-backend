@@ -1,0 +1,112 @@
+[
+  {
+    "assertion": "In gymnosperms, the ovules are naked.",
+    "reason": "In angiosperms, the pollen grains and ovules are developed in specialised structures called flowers.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "In angiosperms, the seeds are enclosed in fruits.",
+    "reason": "The ovules in angiosperms develop inside flowers.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Angiosperms occur in a wide range of habitats and show great diversity in size.",
+    "reason": "They range in size from the smallest Wolffia to tall Eucalyptus trees over 100 metres.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Angiosperms are economically important plants.",
+    "reason": "They provide food, fodder, fuel, medicines and many commercially important products.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "All angiosperms belong to a single class.",
+    "reason": "They are divided into two classes: dicotyledons and monocotyledons.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "D"
+  },
+  {
+    "assertion": "Algae are chlorophyll-bearing simple, thalloid, autotrophic and largely aquatic organisms.",
+    "reason": "Algae are classified into three classes: Chlorophyceae, Phaeophyceae and Rhodophyceae.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Bryophytes are called amphibians of the plant kingdom because they can live in soil but depend on water for sexual reproduction.",
+    "reason": "The main plant body of bryophytes is gametophyte which bears antheridia and archegonia.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "In pteridophytes, the main plant is sporophyte differentiated into true root, stem and leaves with vascular tissues.",
+    "reason": "The gametophytes of pteridophytes grow in dry places without water requirement.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "Gymnosperms are called naked-seeded plants.",
+    "reason": "Their ovules are not enclosed by any ovary wall and after fertilisation the seeds remain exposed.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "In angiosperms, seeds are not enclosed in any fruit.",
+    "reason": "Angiosperms are divided into dicotyledons and monocotyledons.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "D"
+  }
+]
