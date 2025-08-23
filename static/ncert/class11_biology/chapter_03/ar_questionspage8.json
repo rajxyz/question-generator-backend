@@ -1,0 +1,68 @@
+[
+  {
+    "assertion": "The gametophytes of pteridophytes require cool, damp, shady places to grow.",
+    "reason": "The spread of living pteridophytes is limited to narrow geographical regions because of their specific restricted requirement and the need for water for fertilisation.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Water is required for transfer of antherozoids to the mouth of archegonium.",
+    "reason": "Antherozoids are male gametes released from the archegonia.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "C"
+  },
+  {
+    "assertion": "In majority of the pteridophytes all the spores are of similar kinds and such plants are called homosporous.",
+    "reason": "Selaginella and Salvinia produce two kinds of spores, macro and micro spores.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The development of the zygotes into young embryos takes place within the female gametophytes in heterosporous pteridophytes.",
+    "reason": "This event is a precursor to the seed habit considered an important step in evolution.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "Roots in some gymnosperm genera have fungal association in the form of mycorrhiza.",
+    "reason": "In Cycas, small specialised roots called coralloid roots are associated with N₂-fixing cyanobacteria.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "The needle-like leaves in conifers reduce the surface area.",
+    "reason": "Their thick cuticle and sunken stomata help to reduce water loss.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  }
+]
