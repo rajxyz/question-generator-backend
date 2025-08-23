@@ -1,1 +1,87 @@
-
+[
+  {
+    "question": "After entering one of the synergids, the pollen tube releases:",
+    "options": ["One male gamete", "Two male gametes", "Three male gametes", "Four male gametes"],
+    "answer": "Two male gametes"
+  },
+  {
+    "question": "The two male gametes are released into the cytoplasm of:",
+    "options": ["Egg cell", "Synergid", "Polar nuclei", "Antipodals"],
+    "answer": "Synergid"
+  },
+  {
+    "question": "One male gamete fuses with the nucleus of:",
+    "options": ["Antipodal", "Polar nuclei", "Synergid", "Egg cell"],
+    "answer": "Egg cell"
+  },
+  {
+    "question": "Fusion of one male gamete with the egg cell nucleus completes:",
+    "options": ["Triple fusion", "Syngamy", "Fertilisation", "Double fertilisation"],
+    "answer": "Syngamy"
+  },
+  {
+    "question": "Syngamy results in the formation of a:",
+    "options": ["Haploid gamete", "Diploid zygote", "Triploid endosperm", "Primary endosperm cell"],
+    "answer": "Diploid zygote"
+  },
+  {
+    "question": "The other male gamete fuses with:",
+    "options": ["Egg cell", "Two synergids", "Two polar nuclei", "Zygote"],
+    "answer": "Two polar nuclei"
+  },
+  {
+    "question": "Fusion of one male gamete with two polar nuclei produces:",
+    "options": ["Zygote", "Diploid cell", "Triploid primary endosperm nucleus", "Haploid gamete"],
+    "answer": "Triploid primary endosperm nucleus"
+  },
+  {
+    "question": "The triploid primary endosperm nucleus is abbreviated as:",
+    "options": ["PEC", "PEN", "ZYG", "TEC"],
+    "answer": "PEN"
+  },
+  {
+    "question": "Fusion of three haploid nuclei is termed:",
+    "options": ["Syngamy", "Double fertilisation", "Triple fusion", "Endosperm formation"],
+    "answer": "Triple fusion"
+  },
+  {
+    "question": "The fusion of syngamy and triple fusion in an embryo sac is called:",
+    "options": ["Fertilisation", "Double fertilisation", "Post-fertilisation", "Endosperm development"],
+    "answer": "Double fertilisation"
+  },
+  {
+    "question": "Double fertilisation is an event unique to:",
+    "options": ["Gymnosperms", "Bryophytes", "Pteridophytes", "Flowering plants"],
+    "answer": "Flowering plants"
+  },
+  {
+    "question": "The central cell after triple fusion becomes the:",
+    "options": ["Zygote", "Embryo", "Primary endosperm cell", "Antipodal cell"],
+    "answer": "Primary endosperm cell"
+  },
+  {
+    "question": "The primary endosperm cell develops into:",
+    "options": ["Embryo", "Seed", "Endosperm", "Fruit"],
+    "answer": "Endosperm"
+  },
+  {
+    "question": "The zygote develops into a:",
+    "options": ["Seed", "Endosperm", "Fruit", "Embryo"],
+    "answer": "Embryo"
+  },
+  {
+    "question": "Post-fertilisation events include development of:",
+    "options": ["Endosperm and embryo", "Seed only", "Fruit only", "Synergids"],
+    "answer": "Endosperm and embryo"
+  },
+  {
+    "question": "Maturation of ovule(s) into seed(s) and ovary into fruit are part of:",
+    "options": ["Fertilisation events", "Double fertilisation", "Post-fertilisation events", "Triple fusion"],
+    "answer": "Post-fertilisation events"
+  },
+  {
+    "question": "Endosperm development precedes:",
+    "options": ["Ovule development", "Embryo development", "Fruit development", "Seed maturation"],
+    "answer": "Embryo development"
+  }
+    ]
