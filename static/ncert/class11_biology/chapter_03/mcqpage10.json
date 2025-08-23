@@ -1,62 +1,62 @@
 [
   {
     "question": "In angiosperms, pollen grains and ovules develop in:",
-    "options": {
-      "A": "Cones",
-      "B": "Flowers",
-      "C": "Naked ovules",
-      "D": "Leaves"
-    },
-    "answer": "B"
+    "options": ["Cones", "Flowers", "Naked ovules", "Leaves"],
+    "answer": "Flowers"
   },
   {
     "question": "Unlike gymnosperms, the seeds of angiosperms are:",
-    "options": {
-      "A": "Naked",
-      "B": "Enclosed in fruits",
-      "C": "Not formed",
-      "D": "Always winged"
-    },
-    "answer": "B"
+    "options": ["Naked", "Enclosed in fruits", "Not formed", "Always winged"],
+    "answer": "Enclosed in fruits"
   },
   {
     "question": "Which of the following is the smallest angiosperm mentioned in NCERT?",
-    "options": {
-      "A": "Pinus",
-      "B": "Cycas",
-      "C": "Wolffia",
-      "D": "Selaginella"
-    },
-    "answer": "C"
+    "options": ["Pinus", "Cycas", "Wolffia", "Selaginella"],
+    "answer": "Wolffia"
   },
   {
     "question": "The tallest angiosperm example mentioned is:",
-    "options": {
-      "A": "Polytrichum",
-      "B": "Funaria",
-      "C": "Eucalyptus (over 100 metres)",
-      "D": "Equisetum"
-    },
-    "answer": "C"
+    "options": ["Polytrichum", "Funaria", "Eucalyptus (over 100 metres)", "Equisetum"],
+    "answer": "Eucalyptus (over 100 metres)"
   },
   {
     "question": "Which of the following is NOT a use of angiosperms according to NCERT?",
-    "options": {
-      "A": "Food",
-      "B": "Fodder",
-      "C": "Fuel",
-      "D": "Electricity"
-    },
-    "answer": "D"
+    "options": ["Food", "Fodder", "Fuel", "Electricity"],
+    "answer": "Electricity"
   },
   {
     "question": "Angiosperms are divided into:",
-    "options": {
-      "A": "Bryophytes and Pteridophytes",
-      "B": "Dicotyledons and Monocotyledons",
-      "C": "Thallophytes and Cryptogams",
-      "D": "Gymnosperms and Angiosperms"
-    },
-    "answer": "B"
+    "options": ["Bryophytes and Pteridophytes", "Dicotyledons and Monocotyledons", "Thallophytes and Cryptogams", "Gymnosperms and Angiosperms"],
+    "answer": "Dicotyledons and Monocotyledons"
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
