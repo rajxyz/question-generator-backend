@@ -1,1 +1,112 @@
-
+[
+  {
+    "question": "At its lower end the embryonal axis has radicle and root cap enclosed in which sheath?",
+    "options": ["Coleoptile", "Perisperm", "Coleorrhiza", "Endosperm"],
+    "answer": "Coleorrhiza"
+  },
+  {
+    "question": "The portion of the embryonal axis above the level of attachment of scutellum is called:",
+    "options": ["Hypocotyl", "Epicotyl", "Radicle", "Pericarp"],
+    "answer": "Epicotyl"
+  },
+  {
+    "question": "Epicotyl has a shoot apex and a few leaf primordia enclosed in:",
+    "options": ["Coleorrhiza", "Coleoptile", "Perisperm", "Seed coat"],
+    "answer": "Coleoptile"
+  },
+  {
+    "question": "In angiosperms, the seed is the final product of:",
+    "options": ["Pollination", "Vegetative growth", "Sexual reproduction", "Apomixis"],
+    "answer": "Sexual reproduction"
+  },
+  {
+    "question": "A seed is often described as a:",
+    "options": ["Fruit wall", "Fertilized ovule", "Persistent nucellus", "False fruit"],
+    "answer": "Fertilized ovule"
+  },
+  {
+    "question": "Seeds are formed inside:",
+    "options": ["Ovules", "Roots", "Fruits", "Cotyledons"],
+    "answer": "Fruits"
+  },
+  {
+    "question": "A seed typically consists of seed coat(s), cotyledon(s) and:",
+    "options": ["Pericarp", "Epicotyl", "Embryo axis", "Scutellum"],
+    "answer": "Embryo axis"
+  },
+  {
+    "question": "The cotyledons of the embryo are generally thick and swollen due to:",
+    "options": ["Water absorption", "Food reserves", "Nucellus persistence", "Endosperm formation"],
+    "answer": "Food reserves"
+  },
+  {
+    "question": "Non-albuminous seeds have no residual endosperm because:",
+    "options": ["It persists", "It is partially consumed", "It is completely consumed during embryo development", "It is replaced by perisperm"],
+    "answer": "It is completely consumed during embryo development"
+  },
+  {
+    "question": "Which of the following are examples of non-albuminous seeds?",
+    "options": ["Pea and groundnut", "Wheat and maize", "Barley and castor", "Black pepper and beet"],
+    "answer": "Pea and groundnut"
+  },
+  {
+    "question": "Albuminous seeds retain a part of endosperm because:",
+    "options": ["It is completely consumed", "It is not completely used up during embryo development", "It becomes perisperm", "It hardens into seed coat"],
+    "answer": "It is not completely used up during embryo development"
+  },
+  {
+    "question": "Which of the following are examples of albuminous seeds?",
+    "options": ["Pea and groundnut", "Wheat and maize", "Beans and chickpeas", "Mustard and guava"],
+    "answer": "Wheat and maize"
+  },
+  {
+    "question": "Remnants of nucellus persistent in some seeds are called:",
+    "options": ["Perisperm", "Pericarp", "Endosperm", "Cotyledon"],
+    "answer": "Perisperm"
+  },
+  {
+    "question": "Integuments of ovules harden as:",
+    "options": ["Perisperm", "Seed coats", "Pericarp", "Endosperm"],
+    "answer": "Seed coats"
+  },
+  {
+    "question": "Micropyle remains as a small pore in the seed coat to facilitate:",
+    "options": ["Entry of nutrients", "Entry of oxygen and water", "Entry of pollen grains", "Entry of cotyledons"],
+    "answer": "Entry of oxygen and water"
+  },
+  {
+    "question": "As the seed matures, its water content is reduced to:",
+    "options": ["1–2 per cent", "5–7 per cent", "10–15 per cent", "20–25 per cent"],
+    "answer": "10–15 per cent"
+  },
+  {
+    "question": "The embryo may enter a state of inactivity called:",
+    "options": ["Fertilisation", "Germination", "Dormancy", "Cellularisation"],
+    "answer": "Dormancy"
+  },
+  {
+    "question": "The wall of the ovary develops into the wall of fruit called:",
+    "options": ["Pericarp", "Seed coat", "Perisperm", "Epicotyl"],
+    "answer": "Pericarp"
+  },
+  {
+    "question": "Fruits may be fleshy as in guava, orange and:",
+    "options": ["Castor", "Mango", "Mustard", "Groundnut"],
+    "answer": "Mango"
+  },
+  {
+    "question": "Fruits may be dry as in groundnut and:",
+    "options": ["Mustard", "Mango", "Guava", "Apple"],
+    "answer": "Mustard"
+  },
+  {
+    "question": "In apple, strawberry and cashew, the thalamus also contributes to fruit formation. Such fruits are called:",
+    "options": ["Albuminous fruits", "True fruits", "Non-albuminous fruits", "False fruits"],
+    "answer": "False fruits"
+  },
+  {
+    "question": "Fruits that develop only from the ovary are called:",
+    "options": ["False fruits", "True fruits", "Dry fruits", "Albuminous fruits"],
+    "answer": "True fruits"
+  }
+]
