@@ -1,1 +1,57 @@
-
+[
+  {
+    "question": "In many citrus and mango varieties, which cells surrounding the embryo sac start dividing and develop into embryos?",
+    "options": ["Synergids", "Nucellar cells", "Antipodals", "Polar nuclei"],
+    "answer": "Nucellar cells"
+  },
+  {
+    "question": "In citrus and mango, each ovule contains:",
+    "options": ["One embryo", "No embryo", "Many embryos", "Only one zygote"],
+    "answer": "Many embryos"
+  },
+  {
+    "question": "Occurrence of more than one embryo in a seed is referred to as:",
+    "options": ["Polyploidy", "Polyembryony", "Polymorphism", "Polycotyledony"],
+    "answer": "Polyembryony"
+  },
+  {
+    "question": "What would be the genetic nature of apomictic embryos?",
+    "options": ["Clones", "Hybrids", "Diploids", "Mutants"],
+    "answer": "Clones"
+  },
+  {
+    "question": "Cultivation of hybrid varieties has tremendously increased:",
+    "options": ["Germination rate", "Productivity", "Seed size", "Dormancy"],
+    "answer": "Productivity"
+  },
+  {
+    "question": "One problem of hybrids is that hybrid seeds have to be produced:",
+    "options": ["Every year", "Once in a decade", "Every two years", "Only once"],
+    "answer": "Every year"
+  },
+  {
+    "question": "If seeds collected from hybrids are sown, the plants in the progeny:",
+    "options": ["Maintain hybrid characters", "Segregate", "Become sterile", "Do not germinate"],
+    "answer": "Segregate"
+  },
+  {
+    "question": "Production of hybrid seeds is:",
+    "options": ["Cheap", "Costly", "Impossible", "Spontaneous"],
+    "answer": "Costly"
+  },
+  {
+    "question": "If hybrids are made into apomicts, there is no:",
+    "options": ["Segregation of characters", "Embryo formation", "Seed formation", "Growth of embryos"],
+    "answer": "Segregation of characters"
+  },
+  {
+    "question": "Apomictic hybrids allow farmers to:",
+    "options": ["Buy hybrid seeds every year", "Use hybrid seeds year after year", "Avoid seed formation", "Increase segregation"],
+    "answer": "Use hybrid seeds year after year"
+  },
+  {
+    "question": "Active research on apomixis aims to transfer:",
+    "options": ["Apomictic genes into hybrid varieties", "Hybrid genes into apomicts", "Sterility genes into hybrids", "Dormancy genes into hybrids"],
+    "answer": "Apomictic genes into hybrid varieties"
+  }
+]
