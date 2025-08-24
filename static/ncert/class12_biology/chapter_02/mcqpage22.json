@@ -1,1 +1,72 @@
-
+[
+  {
+    "question": "Seeds help species to?",
+    "options": ["Colonise in other areas", "Undergo parthenocarpy", "Form false fruits", "Remain non-viable"],
+    "answer": "Colonise in other areas"
+  },
+  {
+    "question": "Young seedlings are nourished by?",
+    "options": ["Seed coat", "Sufficient food reserves", "Photosynthesis", "Parthenocarpy"],
+    "answer": "Sufficient food reserves"
+  },
+  {
+    "question": "The hard seed coat provides?",
+    "options": ["Dormancy", "Protection to embryo", "Food reserve", "Genetic variation"],
+    "answer": "Protection to embryo"
+  },
+  {
+    "question": "Seeds generate new genetic combinations because they are?",
+    "options": ["Parthenocarpic", "Products of sexual reproduction", "Products of apomixis", "Seedless"],
+    "answer": "Products of sexual reproduction"
+  },
+  {
+    "question": "Dehydration and dormancy of mature seeds are crucial for?",
+    "options": ["Seed dispersal", "Storage of seeds", "Parthenocarpy", "Reduction division"],
+    "answer": "Storage of seeds"
+  },
+  {
+    "question": "Seeds losing viability within a few months is seen in?",
+    "options": ["All seeds", "Few species", "All grasses", "All legumes"],
+    "answer": "Few species"
+  },
+  {
+    "question": "The oldest viable seed belongs to?",
+    "options": ["Phoenix dactylifera", "Ficus", "Orobanche", "Lupinus arcticus"],
+    "answer": "Lupinus arcticus"
+  },
+  {
+    "question": "A 2000-year-old viable seed of date palm was found at?",
+    "options": ["Arctic Tundra", "Dead Sea", "Himalayas", "Amazon forest"],
+    "answer": "Dead Sea"
+  },
+  {
+    "question": "Orchid fruits may contain?",
+    "options": ["One seed", "Thousands of tiny seeds", "No seed", "Single embryo"],
+    "answer": "Thousands of tiny seeds"
+  },
+  {
+    "question": "Which parasitic species produce thousands of tiny seeds?",
+    "options": ["Ficus and Lupinus", "Orobanche and Striga", "Orchid and Date palm", "Banana and Maize"],
+    "answer": "Orobanche and Striga"
+  },
+  {
+    "question": "Which tiny seed grows into a huge tree?",
+    "options": ["Orchid", "Ficus", "Lupinus", "Phoenix"],
+    "answer": "Ficus"
+  },
+  {
+    "question": "Seeds without fertilisation in Asteraceae and grasses are produced by?",
+    "options": ["Parthenocarpy", "Apomixis", "Dormancy", "Dispersal"],
+    "answer": "Apomixis"
+  },
+  {
+    "question": "Apomixis is a form of?",
+    "options": ["Sexual reproduction", "Asexual reproduction", "Double fertilisation", "Pollination"],
+    "answer": "Asexual reproduction"
+  },
+  {
+    "question": "In some species, diploid egg cell develops into embryo without?",
+    "options": ["Dispersal", "Fertilisation", "Dormancy", "Seed coat formation"],
+    "answer": "Fertilisation"
+  }
+]
