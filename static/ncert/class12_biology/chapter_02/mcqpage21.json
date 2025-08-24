@@ -1,1 +1,42 @@
-
+[
+  {
+    "question": "Fruits that develop without fertilisation are called?",
+    "options": ["True fruits", "False fruits", "Parthenocarpic fruits", "Albuminous fruits"],
+    "answer": "Parthenocarpic fruits"
+  },
+  {
+    "question": "Banana is an example of which type of fruit?",
+    "options": ["False fruit", "Parthenocarpic fruit", "True fruit", "Albuminous fruit"],
+    "answer": "Parthenocarpic fruit"
+  },
+  {
+    "question": "Parthenocarpy can be induced through the application of?",
+    "options": ["Water", "Fertilisers", "Growth hormones", "Nutrients"],
+    "answer": "Growth hormones"
+  },
+  {
+    "question": "Fruits produced by parthenocarpy are?",
+    "options": ["Seedless", "Albuminous", "Non-albuminous", "Fleshy"],
+    "answer": "Seedless"
+  },
+  {
+    "question": "Which reproductive processes are independent of water in angiosperms?",
+    "options": ["Pollination and fertilisation", "Parthenocarpy and germination", "Syngamy and dormancy", "Seed dispersal and perisperm formation"],
+    "answer": "Pollination and fertilisation"
+  },
+  {
+    "question": "Seed formation is more dependable because?",
+    "options": ["It requires water", "It is independent of water", "It occurs without fertilisation", "It requires dormancy"],
+    "answer": "It is independent of water"
+  },
+  {
+    "question": "Seeds have better adaptive strategies for?",
+    "options": ["Germination", "Seed coat formation", "Dispersal to new habitats", "Parthenocarpy"],
+    "answer": "Dispersal to new habitats"
+  },
+  {
+    "question": "Seeds help the species to?",
+    "options": ["Enter dormancy", "Colonise in other areas", "Produce perisperm", "Form false fruits"],
+    "answer": "Colonise in other areas"
+  }
+]
