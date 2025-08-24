@@ -1,0 +1,217 @@
+[
+  {
+    "question": "Flowers are the seat of ______ reproduction in angiosperms.",
+    "options": ["Asexual", "Vegetative", "Sexual", "Apomictic"],
+    "answer": "Sexual"
+  },
+  {
+    "question": "In a flower, androecium consisting of stamens represents the ______ reproductive organs.",
+    "options": ["Male", "Female", "Bisexual", "Vegetative"],
+    "answer": "Male"
+  },
+  {
+    "question": "In a flower, gynoecium consisting of pistils represents the ______ reproductive organs.",
+    "options": ["Male", "Female", "Bisexual", "Vegetative"],
+    "answer": "Female"
+  },
+  {
+    "question": "A typical anther is ______.",
+    "options": ["Unilobed", "Bilobed", "Trilobed", "Tetralobed"],
+    "answer": "Bilobed"
+  },
+  {
+    "question": "Anther is ______ and tetrasporangiate.",
+    "options": ["Monothecous", "Dithecous", "Polythecous", "Unisporangiate"],
+    "answer": "Dithecous"
+  },
+  {
+    "question": "Pollen grains develop inside the ______.",
+    "options": ["Ovules", "Embryo sac", "Microsporangia", "Nucellus"],
+    "answer": "Microsporangia"
+  },
+  {
+    "question": "Four wall layers surrounding the microsporangium include epidermis, endothecium, middle layers and ______.",
+    "options": ["Nucellus", "Tapetum", "Funicle", "Exine"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "Cells of the sporogenous tissue undergo ______ to form tetrads of microspores.",
+    "options": ["Mitosis", "Meiosis", "Syngamy", "Triple fusion"],
+    "answer": "Meiosis"
+  },
+  {
+    "question": "Individual microspores mature into ______.",
+    "options": ["Ovules", "Zygotes", "Pollen grains", "Embryo sac"],
+    "answer": "Pollen grains"
+  },
+  {
+    "question": "Pollen grains represent the ______ generation.",
+    "options": ["Male gametophytic", "Female gametophytic", "Sporophytic", "Diploid"],
+    "answer": "Male gametophytic"
+  },
+  {
+    "question": "The pollen grain wall has two layers: the outer ______ and inner intine.",
+    "options": ["Exine", "Tapetum", "Nucellus", "Epidermis"],
+    "answer": "Exine"
+  },
+  {
+    "question": "Exine is made up of ______.",
+    "options": ["Cutin", "Cellulose", "Sporopollenin", "Pectin"],
+    "answer": "Sporopollenin"
+  },
+  {
+    "question": "Exine has openings called ______.",
+    "options": ["Plasmodesmata", "Micropyle", "Germ pores", "Stomata"],
+    "answer": "Germ pores"
+  },
+  {
+    "question": "At the time of shedding, pollen grains may have ______.",
+    "options": ["Two or three cells", "One or two cells", "Three or four cells", "Only one cell"],
+    "answer": "Two or three cells"
+  },
+  {
+    "question": "The pistil has three parts – stigma, style and ______.",
+    "options": ["Ovule", "Funicle", "Ovary", "Nucellus"],
+    "answer": "Ovary"
+  },
+  {
+    "question": "Ovules are present in the ______.",
+    "options": ["Style", "Stigma", "Ovary", "Exine"],
+    "answer": "Ovary"
+  },
+  {
+    "question": "The stalk of an ovule is called ______.",
+    "options": ["Integument", "Funicle", "Micropyle", "Nucellus"],
+    "answer": "Funicle"
+  },
+  {
+    "question": "Ovules have protective covering called ______.",
+    "options": ["Integuments", "Exine", "Endothecium", "Sporopollenin"],
+    "answer": "Integuments"
+  },
+  {
+    "question": "The opening of an ovule is called ______.",
+    "options": ["Funicle", "Germ pore", "Micropyle", "Nucellus"],
+    "answer": "Micropyle"
+  },
+  {
+    "question": "The central tissue of an ovule is the ______.",
+    "options": ["Tapetum", "Funicle", "Nucellus", "Exine"],
+    "answer": "Nucellus"
+  },
+  {
+    "question": "The archesporium differentiates in the ______.",
+    "options": ["Style", "Embryo sac", "Nucellus", "Endosperm"],
+    "answer": "Nucellus"
+  },
+  {
+    "question": "The megaspore mother cell divides ______ to form megaspores.",
+    "options": ["Mitotically", "Meiotically", "By syngamy", "By triple fusion"],
+    "answer": "Meiotically"
+  },
+  {
+    "question": "One of the megaspores forms the ______.",
+    "options": ["Pollen grain", "Zygote", "Embryo sac", "Endosperm"],
+    "answer": "Embryo sac"
+  },
+  {
+    "question": "The mature embryo sac is ______-celled and ______-nucleate.",
+    "options": ["8, 7", "7, 8", "6, 12", "9, 8"],
+    "answer": "7, 8"
+  },
+  {
+    "question": "At the micropylar end, the egg apparatus consists of two ______ and an egg cell.",
+    "options": ["Antipodals", "Polar nuclei", "Synergids", "Zygotes"],
+    "answer": "Synergids"
+  },
+  {
+    "question": "At the chalazal end of the embryo sac are three ______.",
+    "options": ["Egg cells", "Polar nuclei", "Antipodals", "Synergids"],
+    "answer": "Antipodals"
+  },
+  {
+    "question": "At the centre of the embryo sac is a large central cell with two ______.",
+    "options": ["Zygotes", "Synergids", "Polar nuclei", "Antipodals"],
+    "answer": "Polar nuclei"
+  },
+  {
+    "question": "Pollination transfers pollen grains from ______ to stigma.",
+    "options": ["Stigma", "Ovary", "Anther", "Style"],
+    "answer": "Anther"
+  },
+  {
+    "question": "Abiotic pollinating agents include ______.",
+    "options": ["Bees and birds", "Wind and water", "Moths and bats", "Butterflies and ants"],
+    "answer": "Wind and water"
+  },
+  {
+    "question": "Biotic pollinating agents are ______.",
+    "options": ["Animals", "Air", "Water", "Fungi"],
+    "answer": "Animals"
+  },
+  {
+    "question": "Pollen-pistil interaction ends when pollen tube enters the ______.",
+    "options": ["Style", "Ovary", "Embryo sac", "Micropyle"],
+    "answer": "Embryo sac"
+  },
+  {
+    "question": "In compatible pollination, pollen tube discharges two male gametes in one of the ______.",
+    "options": ["Egg cells", "Synergids", "Polar nuclei", "Antipodals"],
+    "answer": "Synergids"
+  },
+  {
+    "question": "Angiosperms exhibit double fertilisation because ______ fusion events occur in each embryo sac.",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "question": "The products of double fertilisation are ______ and triploid primary endosperm nucleus.",
+    "options": ["Diploid zygote", "Egg cell", "Embryo sac", "Antipodals"],
+    "answer": "Diploid zygote"
+  },
+  {
+    "question": "Formation of ______ always precedes development of the embryo.",
+    "options": ["Endosperm", "Synergids", "Zygote", "Embryo sac"],
+    "answer": "Endosperm"
+  },
+  {
+    "question": "The developing embryo passes through stages such as proembryo, ______ and heart-shaped.",
+    "options": ["Globular", "Torpedo", "Syngamy", "Triploid"],
+    "answer": "Globular"
+  },
+  {
+    "question": "Mature dicotyledonous embryo has ______ cotyledons.",
+    "options": ["One", "Two", "Three", "Many"],
+    "answer": "Two"
+  },
+  {
+    "question": "Mature monocotyledonous embryo has ______ cotyledon.",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "One"
+  },
+  {
+    "question": "After fertilisation, ovary develops into ______.",
+    "options": ["Ovules", "Fruit", "Seed", "Embryo sac"],
+    "answer": "Fruit"
+  },
+  {
+    "question": "After fertilisation, ovules develop into ______.",
+    "options": ["Fruit", "Seeds", "Embryo sac", "Endosperm"],
+    "answer": "Seeds"
+  },
+  {
+    "question": "Formation of seeds without fertilisation is called ______.",
+    "options": ["Syngamy", "Apomixis", "Parthenocarpy", "Polyembryony"],
+    "answer": "Apomixis"
+  },
+  {
+    "question": "Apomixis is particularly found in ______.",
+    "options": ["Legumes", "Grasses", "Dicots", "Gymnosperms"],
+    "answer": "Grasses"
+  },
+  {
+    "question": "Some angiosperms produce more than one embryo in their seed. This phenomenon is called ______.",
+    "options": ["Apomixis", "Syngamy", "Polyembryony", "Triple fusion"],
+    "answer": "Polyembryony"
+  }
+]
