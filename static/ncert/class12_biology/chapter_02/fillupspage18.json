@@ -1,1 +1,46 @@
-
+[
+  {
+    "question": "After entering one of the ______, the pollen tube releases the two male gametes.",
+    "answer": "synergids"
+  },
+  {
+    "question": "One male gamete fuses with the ______ cell nucleus completing syngamy.",
+    "answer": "egg"
+  },
+  {
+    "question": "Fusion of male gamete and egg nucleus forms a diploid ______.",
+    "answer": "zygote"
+  },
+  {
+    "question": "The other male gamete fuses with two ______ nuclei in the central cell.",
+    "answer": "polar"
+  },
+  {
+    "question": "Fusion of one male gamete with two polar nuclei produces a triploid ______.",
+    "answer": "primary endosperm nucleus (PEN)"
+  },
+  {
+    "question": "The fusion of three haploid nuclei is termed ______.",
+    "answer": "triple fusion"
+  },
+  {
+    "question": "Since syngamy and triple fusion both occur, the phenomenon is called ______.",
+    "answer": "double fertilisation"
+  },
+  {
+    "question": "Double fertilisation is an event unique to ______ plants.",
+    "answer": "flowering"
+  },
+  {
+    "question": "The central cell after triple fusion becomes the primary endosperm cell ______.",
+    "answer": "PEC"
+  },
+  {
+    "question": "The primary endosperm cell develops into the ______.",
+    "answer": "endosperm"
+  },
+  {
+    "question": "The zygote develops into an ______.",
+    "answer": "embryo"
+  }
+]
