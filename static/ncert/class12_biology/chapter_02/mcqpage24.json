@@ -1,1 +1,132 @@
-
+[
+  {
+    "question": "Flowers are the seat of ______ in angiosperms.",
+    "options": ["Vegetative growth", "Sexual reproduction", "Asexual reproduction", "Pollination"],
+    "answer": "Sexual reproduction"
+  },
+  {
+    "question": "Androecium consisting of stamens represents the ______ reproductive organs.",
+    "options": ["Male", "Female", "Both", "Sterile"],
+    "answer": "Male"
+  },
+  {
+    "question": "Gynoecium consisting of pistils represents the ______ reproductive organs.",
+    "options": ["Male", "Female", "Both", "Sterile"],
+    "answer": "Female"
+  },
+  {
+    "question": "A typical anther is ______.",
+    "options": ["Trilobed", "Bilobed", "Monolobed", "Tetralobed"],
+    "answer": "Bilobed"
+  },
+  {
+    "question": "A typical anther is bilobed, ______ and tetrasporangiate.",
+    "options": ["Monothecous", "Dithecous", "Polythecous", "Athecous"],
+    "answer": "Dithecous"
+  },
+  {
+    "question": "A typical anther is bilobed, dithecous and ______.",
+    "options": ["Monosporangiate", "Disporangiate", "Tetrasporangiate", "Polyspermic"],
+    "answer": "Tetrasporangiate"
+  },
+  {
+    "question": "Pollen grains develop inside the ______.",
+    "options": ["Ovules", "Microsporangia", "Megasporangia", "Stigma"],
+    "answer": "Microsporangia"
+  },
+  {
+    "question": "How many wall layers surround the microsporangium?",
+    "options": ["Three", "Four", "Five", "Two"],
+    "answer": "Four"
+  },
+  {
+    "question": "Which is the innermost wall layer surrounding the microsporangium?",
+    "options": ["Endothecium", "Tapetum", "Epidermis", "Middle layers"],
+    "answer": "Tapetum"
+  },
+  {
+    "question": "Cells of the sporogenous tissue undergo ______ to form tetrads of microspores.",
+    "options": ["Mitosis", "Meiosis", "Binary fission", "Endomitosis"],
+    "answer": "Meiosis"
+  },
+  {
+    "question": "Meiotic division of sporogenous tissue is called ______.",
+    "options": ["Microsporogenesis", "Megasporogenesis", "Gametogenesis", "Fertilisation"],
+    "answer": "Microsporogenesis"
+  },
+  {
+    "question": "Individual microspores mature into ______.",
+    "options": ["Ovules", "Embryo sacs", "Pollen grains", "Synergids"],
+    "answer": "Pollen grains"
+  },
+  {
+    "question": "Pollen grains represent the ______ generation.",
+    "options": ["Male gametophytic", "Female gametophytic", "Sporophytic", "Triploid"],
+    "answer": "Male gametophytic"
+  },
+  {
+    "question": "The pollen grains have a two-layered wall: the outer ______ and inner intine.",
+    "options": ["Endosperm", "Exine", "Nucellus", "Cuticle"],
+    "answer": "Exine"
+  },
+  {
+    "question": "The exine of pollen grain is made up of ______.",
+    "options": ["Cellulose", "Sporopollenin", "Lignin", "Cutin"],
+    "answer": "Sporopollenin"
+  },
+  {
+    "question": "Exine has openings called ______.",
+    "options": ["Micropyles", "Plasmodesmata", "Germ pores", "Stomata"],
+    "answer": "Germ pores"
+  },
+  {
+    "question": "At the time of shedding, pollen grains may have two cells: a vegetative cell and ______.",
+    "options": ["Polar nucleus", "Generative cell", "Synergid", "Egg cell"],
+    "answer": "Generative cell"
+  },
+  {
+    "question": "At the time of shedding, pollen grains may have three cells: a vegetative cell and ______.",
+    "options": ["Two male gametes", "Two synergids", "Two antipodals", "Two polar nuclei"],
+    "answer": "Two male gametes"
+  },
+  {
+    "question": "The pistil has three parts: stigma, style and ______.",
+    "options": ["Anther", "Ovary", "Ovule", "Nucellus"],
+    "answer": "Ovary"
+  },
+  {
+    "question": "Ovules are present in the ______.",
+    "options": ["Stigma", "Ovary", "Style", "Androecium"],
+    "answer": "Ovary"
+  },
+  {
+    "question": "The stalk of an ovule is called ______.",
+    "options": ["Nucellus", "Funicle", "Integument", "Chalaza"],
+    "answer": "Funicle"
+  },
+  {
+    "question": "The ovule has an opening called ______.",
+    "options": ["Stomata", "Micropyle", "Plasmodesmata", "Hilum"],
+    "answer": "Micropyle"
+  },
+  {
+    "question": "The central tissue of ovule is the ______.",
+    "options": ["Integument", "Nucellus", "Funicle", "Endosperm"],
+    "answer": "Nucellus"
+  },
+  {
+    "question": "A cell of the archesporium divides meiotically to form ______.",
+    "options": ["Microspores", "Megaspores", "Embryos", "Synergids"],
+    "answer": "Megaspores"
+  },
+  {
+    "question": "One of the megaspores forms the ______.",
+    "options": ["Pollen grain", "Embryo sac", "Antipodals", "Funicle"],
+    "answer": "Embryo sac"
+  },
+  {
+    "question": "The mature embryo sac is ______.",
+    "options": ["7-celled and 7-nucleate", "7-celled and 8-nucleate", "8-celled and 7-nucleate", "6-celled and 8-nucleate"],
+    "answer": "7-celled and 8-nucleate"
+  }
+]
