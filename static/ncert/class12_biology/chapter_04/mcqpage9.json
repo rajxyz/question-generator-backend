@@ -1,1 +1,97 @@
-
+[
+  {
+    "question": "Reproductive health refers to total well-being in which aspects of reproduction?",
+    "options": ["Physical, emotional, behavioural and social", "Only physical", "Only emotional and behavioural", "Physical and social only"],
+    "answer": "Physical, emotional, behavioural and social"
+  },
+  {
+    "question": "Which nation was the first in the world to initiate national level action plans towards a reproductively healthy society?",
+    "options": ["USA", "India", "China", "Japan"],
+    "answer": "India"
+  },
+  {
+    "question": "What is the primary step towards reproductive health?",
+    "options": ["Contraceptive use", "Counselling and creating awareness", "Medical termination of pregnancy", "Surgical methods"],
+    "answer": "Counselling and creating awareness"
+  },
+  {
+    "question": "Counselling and awareness should include which of the following topics?",
+    "options": ["Reproductive organs, adolescence changes, safe sexual practices, STIs including AIDS", "Only contraceptives", "Only menstrual irregularities", "Only pregnancy and delivery"],
+    "answer": "Reproductive organs, adolescence changes, safe sexual practices, STIs including AIDS"
+  },
+  {
+    "question": "Providing medical facilities for problems like menstrual irregularities, pregnancy aspects, delivery, MTP, STIs, birth control and infertility is part of which programme?",
+    "options": ["Janani Suraksha Yojana", "Reproductive and Child Health Care programmes", "National Health Mission", "Ayushman Bharat"],
+    "answer": "Reproductive and Child Health Care programmes"
+  },
+  {
+    "question": "Which of the following indicates overall improvement in reproductive health in India?",
+    "options": ["Increased birth rate", "Reduced maternal and infant mortality rates", "Decline in contraceptive use", "Increase in casual relationships"],
+    "answer": "Reduced maternal and infant mortality rates"
+  },
+  {
+    "question": "Improved health facilities and better living conditions in India promoted what?",
+    "options": ["Decline in birth rate", "Explosive growth of population", "Decline in population", "Increased STIs"],
+    "answer": "Explosive growth of population"
+  },
+  {
+    "question": "Explosive growth of population necessitated intense propagation of what?",
+    "options": ["Medical termination of pregnancy", "Contraceptive methods", "Awareness programmes", "Infertility treatments"],
+    "answer": "Contraceptive methods"
+  },
+  {
+    "question": "Which of the following is NOT listed as a contraceptive option in the passage?",
+    "options": ["Barrier methods", "IUDs", "Hormone replacement therapy", "Surgical methods"],
+    "answer": "Hormone replacement therapy"
+  },
+  {
+    "question": "Contraceptives are not regular requirements for reproductive health but are used to:",
+    "options": ["Avoid pregnancy", "Delay pregnancy", "Space pregnancy", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Medical termination of pregnancy (MTP) is:",
+    "options": ["Banned in India", "Legalised in India", "Only allowed in USA", "Not a part of reproductive health"],
+    "answer": "Legalised in India"
+  },
+  {
+    "question": "MTP is generally performed in cases of:",
+    "options": ["Infertility", "Unwanted pregnancy due to rape or casual relationship", "Menstrual irregularities", "Pelvic inflammatory disease"],
+    "answer": "Unwanted pregnancy due to rape or casual relationship"
+  },
+  {
+    "question": "MTP is also performed when continuation of pregnancy could be:",
+    "options": ["Harmful or fatal to mother or foetus", "Unwanted by family", "Economically difficult", "Due to contraceptive failure"],
+    "answer": "Harmful or fatal to mother or foetus"
+  },
+  {
+    "question": "Infections or diseases transmitted through sexual intercourse are called:",
+    "options": ["Infertility disorders", "Sexually Transmitted Diseases (STIs)", "Pelvic diseases", "Casual infections"],
+    "answer": "Sexually Transmitted Diseases (STIs)"
+  },
+  {
+    "question": "Which of the following are complications of STIs?",
+    "options": ["Pelvic Inflammatory Diseases, still birth, infertility", "Menstrual irregularities, obesity, infertility", "Cancer, ageing, still birth", "Diabetes, hypertension, infertility"],
+    "answer": "Pelvic Inflammatory Diseases, still birth, infertility"
+  },
+  {
+    "question": "Early detection of STIs facilitates:",
+    "options": ["Better cure", "Better prevention", "No effect", "Decline in fertility"],
+    "answer": "Better cure"
+  },
+  {
+    "question": "Which is a simple precaution to avoid contracting STIs?",
+    "options": ["Avoiding sexual intercourse with unknown/multiple partners", "Use of condoms during coitus", "Both A and B", "Frequent medical check-ups"],
+    "answer": "Both A and B"
+  },
+  {
+    "question": "Inability to conceive even after 2 years of unprotected sexual cohabitation is called:",
+    "options": ["Sterility", "Infertility", "PID", "STI"],
+    "answer": "Infertility"
+  },
+  {
+    "question": "In vitro fertilisation followed by transfer of embryo into female genital tract is known as:",
+    "options": ["Artificial insemination", "Test Tube Baby Programme", "Intra-uterine insemination", "Zygote intra fallopian transfer"],
+    "answer": "Test Tube Baby Programme"
+  }
+]
