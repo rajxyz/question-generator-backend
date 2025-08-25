@@ -357,7 +357,7 @@
   {
     "question": {
       "assertion": "Assertion (A): Infertility is a reproductive health problem.",
-      "reason": "Reason (R): Infertility only occurs due to menstrual disorders.",
+      "reason": "Reason (R): Infertility only occurs due to menstrual disorders."
     },
     "options": [
       "A and R are true, and R is the correct explanation of A",
@@ -370,7 +370,7 @@
   {
     "question": {
       "assertion": "Assertion (A): Reproductive health includes care for abortions.",
-      "reason": "Reason (R): Abortions are never part of healthcare systems.",
+      "reason": "Reason (R): Abortions are never part of healthcare systems."
     },
     "options": [
       "A and R are true, and R is the correct explanation of A",
