@@ -1,1 +1,82 @@
-
+[
+  {
+    "question": "A sperm is a microscopic structure composed of?",
+    "options": ["Head, neck, middle piece and tail", "Head and tail only", "Nucleus and cytoplasm only", "Acrosome and mitochondria only"],
+    "answer": "Head, neck, middle piece and tail"
+  },
+  {
+    "question": "The whole body of sperm is enveloped by?",
+    "options": ["Zona pellucida", "Plasma membrane", "Nuclear membrane", "Acrosome"],
+    "answer": "Plasma membrane"
+  },
+  {
+    "question": "The sperm head contains an elongated?",
+    "options": ["Diploid nucleus", "Haploid nucleus", "Cytoplasm", "Mitochondria"],
+    "answer": "Haploid nucleus"
+  },
+  {
+    "question": "The anterior portion of sperm head is covered by?",
+    "options": ["Mitochondria", "Plasma membrane", "Acrosome", "Cytoplasm"],
+    "answer": "Acrosome"
+  },
+  {
+    "question": "The acrosome is filled with?",
+    "options": ["Nutrients", "Mitochondria", "Enzymes", "Proteins"],
+    "answer": "Enzymes"
+  },
+  {
+    "question": "Enzymes present in the acrosome help in?",
+    "options": ["Spermatogenesis", "Motility", "Fertilisation of the ovum", "Secretion of hormones"],
+    "answer": "Fertilisation of the ovum"
+  },
+  {
+    "question": "The middle piece of sperm possesses numerous?",
+    "options": ["Acrosomes", "Nuclei", "Mitochondria", "Enzymes"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "The function of mitochondria in sperm is to?",
+    "options": ["Form nucleus", "Produce energy for tail movement", "Produce enzymes", "Form acrosome"],
+    "answer": "Produce energy for tail movement"
+  },
+  {
+    "question": "Tail movement in sperm facilitates?",
+    "options": ["Motility essential for fertilisation", "Spermatogenesis", "Formation of polar bodies", "Hormone secretion"],
+    "answer": "Motility essential for fertilisation"
+  },
+  {
+    "question": "A human male ejaculates about how many sperms during a coitus?",
+    "options": ["20–30 million", "200–300 million", "2–3 million", "20–30 billion"],
+    "answer": "200–300 million"
+  },
+  {
+    "question": "For normal fertility, at least what percentage of sperms must have normal shape and size?",
+    "options": ["20%", "40%", "60%", "80%"],
+    "answer": "60%"
+  },
+  {
+    "question": "For normal fertility, at least what percentage of sperms must show vigorous motility?",
+    "options": ["20%", "30%", "40%", "60%"],
+    "answer": "40%"
+  },
+  {
+    "question": "Sperms released from the seminiferous tubules are transported by?",
+    "options": ["Accessory ducts", "Vasa efferentia", "Epididymis only", "Seminal vesicle only"],
+    "answer": "Accessory ducts"
+  },
+  {
+    "question": "Secretions of which structures are essential for maturation and motility of sperms?",
+    "options": ["Epididymis, vas deferens, seminal vesicle and prostate", "Seminiferous tubules and testes only", "Urethra and bladder only", "Seminal vesicle and ovary"],
+    "answer": "Epididymis, vas deferens, seminal vesicle and prostate"
+  },
+  {
+    "question": "The seminal plasma along with the sperms constitute?",
+    "options": ["Urine", "Semen", "Prostatic fluid", "Follicular fluid"],
+    "answer": "Semen"
+  },
+  {
+    "question": "The functions of male sex accessory ducts and glands are maintained by?",
+    "options": ["Estrogens", "Progestogens", "Androgens", "LH"],
+    "answer": "Androgens"
+  }
+]
