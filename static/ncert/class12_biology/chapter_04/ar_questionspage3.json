@@ -357,7 +357,7 @@
   {
     "question": {
       "assertion": "Assertion (A): Infertility is a reproductive health problem.",
-      "reason": "Reason (R): Infertility only occurs due to menstrual disorders.",
+      "reason": "Reason (R): Infertility only occurs due to menstrual disorders."
     },
     "options": [
       "A and R are true, and R is the correct explanation of A",
@@ -370,7 +370,7 @@
   {
     "question": {
       "assertion": "Assertion (A): Reproductive health includes care for abortions.",
-      "reason": "Reason (R): Abortions are never part of healthcare systems.",
+      "reason": "Reason (R): Abortions are never part of healthcare systems."
     },
     "options": [
       "A and R are true, and R is the correct explanation of A",
@@ -383,42 +383,42 @@
   {
     "question_number": 1,
     "assertion": "Government and non-government agencies support research in reproduction-related areas.",
-    "reason": "The aim is to develop or enhance reproductive health methods.",
+    "reason": "The aim is to develop or enhance reproductive health methods."
     "answer": "A",
     "explanation": "Both A and R are true and R is the correct explanation of A."
   },
   {
     "question_number": 2,
     "assertion": "'Saheli' is an oral contraceptive developed in the USA.",
-    "reason": "It was developed to promote male contraception.",
+    "reason": "It was developed to promote male contraception."
     "answer": "D",
     "explanation": "A is false but R is true. (Saheli is Indian & female contraceptive – developed at CDRI, Lucknow)"
   },
   {
     "question_number": 3,
     "assertion": "‘Saheli’ was developed by scientists at CDRI, Lucknow.",
-    "reason": "CDRI is known for research in pharmaceutical and reproductive health sciences.",
+    "reason": "CDRI is known for research in pharmaceutical and reproductive health sciences."
     "answer": "A",
     "explanation": "Both A and R are true and R is the correct explanation of A."
   },
   {
     "question_number": 4,
     "assertion": "Increased awareness about sex-related matters leads to improved reproductive health.",
-    "reason": "Awareness helps prevent misconceptions and encourages safe practices.",
+    "reason": "Awareness helps prevent misconceptions and encourages safe practices."
     "answer": "A",
     "explanation": "Both A and R are true and R is the correct explanation of A."
   },
   {
     "question_number": 5,
     "assertion": "More medically assisted deliveries help reduce maternal mortality.",
-    "reason": "Medical assistance ensures early detection of complications.",
+    "reason": "Medical assistance ensures early detection of complications."
     "answer": "A",
     "explanation": "Both A and R are true and R is the correct explanation of A."
   },
   {
     "question_number": 6,
     "assertion": "Post-natal care is only beneficial for the child.",
-    "reason": "The mother has no need for care after delivery.",
+    "reason": "The mother has no need for care after delivery."
     "answer": "D",
     "explanation": "A is false but R is true. (Post-natal care is crucial for both mother and child)"
   },
@@ -432,14 +432,14 @@
   {
     "question_number": 8,
     "assertion": "A rise in couples choosing small families is a sign of better reproductive health.",
-    "reason": "Smaller families reflect awareness and access to contraception.",
+    "reason": "Smaller families reflect awareness and access to contraception."
     "answer": "A",
     "explanation": "Both A and R are true and R is the correct explanation of A."
   },
   {
     "question_number": 9,
     "assertion": "Overall increased medical facilities do not influence reproductive health.",
-    "reason": "Social factors are more important than medical care.",
+    "reason": "Social factors are more important than medical care."
     "answer": "C",
     "explanation": "A is false but R is true. (Medical facilities do influence reproductive health)"
   }
