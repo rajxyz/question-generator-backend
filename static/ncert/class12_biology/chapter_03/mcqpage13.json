@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Humans are sexually reproducing and _______.",
+    "options": ["Oviparous", "Viviparous", "Hermaphroditic", "Asexual"],
+    "answer": "Viviparous"
+  },
+  {
+    "question": "The male reproductive system is composed of:",
+    "options": ["Testes and ovaries", "Testes, accessory ducts, accessory glands and external genitalia", "Seminiferous tubules only", "Penis and scrotum only"],
+    "answer": "Testes, accessory ducts, accessory glands and external genitalia"
+  },
+  {
+    "question": "Each testis has about how many compartments?",
+    "options": ["150", "200", "250", "300"],
+    "answer": "250"
+  },
+  {
+    "question": "Each testicular lobule contains how many seminiferous tubules?",
+    "options": ["One to three", "Four to five", "Ten to twelve", "Twenty to thirty"],
+    "answer": "One to three"
+  },
+  {
+    "question": "Each seminiferous tubule is lined inside by:",
+    "options": ["Leydig cells and Sertoli cells", "Spermatogonia and Sertoli cells", "Oogonia and granulosa cells", "Zygotes and trophoblasts"],
+    "answer": "Spermatogonia and Sertoli cells"
+  },
+  {
+    "question": "Spermatogonia undergo ______ leading to sperm formation.",
+    "options": ["Mitosis", "Meiotic divisions", "Binary fission", "Endomitosis"],
+    "answer": "Meiotic divisions"
+  },
+  {
+    "question": "Sertoli cells provide:",
+    "options": ["Hormones", "Nutrition to the dividing germ cells", "Gametes", "Energy for motility"],
+    "answer": "Nutrition to the dividing germ cells"
+  },
+  {
+    "question": "Leydig cells are located:",
+    "options": ["Inside seminiferous tubules", "Outside seminiferous tubules", "In ovaries", "In uterus"],
+    "answer": "Outside seminiferous tubules"
+  },
+  {
+    "question": "Leydig cells synthesise and secrete:",
+    "options": ["Progesterone", "Oestrogen", "Androgens", "Oxytocin"],
+    "answer": "Androgens"
+  },
+  {
+    "question": "The male external genitalia is called:",
+    "options": ["Scrotum", "Penis", "Testis", "Prostate"],
+    "answer": "Penis"
+  },
+  {
+    "question": "The female reproductive system consists of:",
+    "options": ["Ovaries, uterus and penis", "Ovaries, oviducts, uterus, vagina, external genitalia and mammary glands", "Ovaries, seminiferous tubules, vas deferens", "Only ovaries and uterus"],
+    "answer": "Ovaries, oviducts, uterus, vagina, external genitalia and mammary glands"
+  },
+  {
+    "question": "The ovaries produce:",
+    "options": ["Sperms", "Female gamete (ovum) and some steroid hormones", "Only progesterone", "Only androgens"],
+    "answer": "Female gamete (ovum) and some steroid hormones"
+  },
+  {
+    "question": "Ovarian follicles are embedded in the:",
+    "options": ["Endometrium", "Myometrium", "Stroma", "Perimetrium"],
+    "answer": "Stroma"
+  },
+  {
+    "question": "The female accessory ducts are:",
+    "options": ["Uterus and ovary", "Oviducts, uterus and vagina", "Clitoris and hymen", "Mammary glands"],
+    "answer": "Oviducts, uterus and vagina"
+  },
+  {
+    "question": "The uterus has how many layers?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Three"
+  },
+  {
+    "question": "The three layers of uterus are:",
+    "options": ["Pericardium, endocardium, myocardium", "Perimetrium, myometrium, endometrium", "Mesoderm, ectoderm, endoderm", "Cortex, medulla, stroma"],
+    "answer": "Perimetrium, myometrium, endometrium"
+  },
+  {
+    "question": "The female external genitalia includes:",
+    "options": ["Vagina and uterus", "Mons pubis, labia majora, labia minora, hymen and clitoris", "Ovary and oviducts", "Mammary glands only"],
+    "answer": "Mons pubis, labia majora, labia minora, hymen and clitoris"
+  },
+  {
+    "question": "The mammary glands are one of the female:",
+    "options": ["Primary sexual characteristics", "Secondary sexual characteristics", "Gametes", "Ovarian follicles"],
+    "answer": "Secondary sexual characteristics"
+  },
+  {
+    "question": "Spermatogenesis results in the formation of:",
+    "options": ["Ovum", "Embryo", "Sperms", "Zygote"],
+    "answer": "Sperms"
+  },
+  {
+    "question": "A normal human sperm is composed of:",
+    "options": ["Head and body only", "Head, neck, middle piece and tail", "Head and tail only", "Nucleus and mitochondria only"],
+    "answer": "Head, neck, middle piece and tail"
+  },
+  {
+    "question": "The process of formation of mature female gametes is called:",
+    "options": ["Spermatogenesis", "Oogenesis", "Fertilisation", "Implantation"],
+    "answer": "Oogenesis"
+  },
+  {
+    "question": "The reproductive cycle of female primates is called:",
+    "options": ["Gestation cycle", "Menstrual cycle", "Oestrus cycle", "Lactation cycle"],
+    "answer": "Menstrual cycle"
+  },
+  {
+    "question": "Menstrual cycle starts only after attaining:",
+    "options": ["Birth", "Gestation", "Puberty", "Parturition"],
+    "answer": "Puberty"
+  },
+  {
+    "question": "During ovulation only how many ova are released per menstrual cycle?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "One"
+  },
+  {
+    "question": "The cyclical changes in the ovary and uterus during menstrual cycle are induced by changes in the levels of:",
+    "options": ["Adrenal and thyroid hormones", "Pituitary and ovarian hormones", "Placental and uterine hormones", "Testicular and ovarian hormones"],
+    "answer": "Pituitary and ovarian hormones"
+  },
+  {
+    "question": "After coitus, sperms are transported to:",
+    "options": ["Cervix", "Ampulla", "Endometrium", "Myometrium"],
+    "answer": "Ampulla"
+  },
+  {
+    "question": "The sperm fertilises the ovum leading to formation of:",
+    "options": ["Morula", "Blastula", "Diploid zygote", "Embryo sac"],
+    "answer": "Diploid zygote"
+  },
+  {
+    "question": "The presence of which chromosome in sperm determines the sex of the embryo?",
+    "options": ["X or Y", "Only X", "Only Y", "Z or W"],
+    "answer": "X or Y"
+  },
+  {
+    "question": "The zygote undergoes repeated mitotic division to form:",
+    "options": ["Morula", "Blastocyst", "Foetus", "Ovum"],
+    "answer": "Blastocyst"
+  },
+  {
+    "question": "Implantation of the blastocyst in uterus results in:",
+    "options": ["Ovulation", "Menstruation", "Pregnancy", "Parturition"],
+    "answer": "Pregnancy"
+  },
+  {
+    "question": "The process of childbirth is called:",
+    "options": ["Gestation", "Parturition", "Ovulation", "Implantation"],
+    "answer": "Parturition"
+  },
+  {
+    "question": "Parturition is induced by a complex neuroendocrine mechanism involving:",
+    "options": ["Progesterone, LH, FSH", "Cortisol, estrogens and oxytocin", "Testosterone, GnRH, TSH", "Oxytocin, insulin, thyroxine"],
+    "answer": "Cortisol, estrogens and oxytocin"
+  },
+  {
+    "question": "Mammary glands differentiate during:",
+    "options": ["Lactation", "Pregnancy", "Parturition", "Implantation"],
+    "answer": "Pregnancy"
+  },
+  {
+    "question": "After child-birth, mammary glands secrete:",
+    "options": ["Amniotic fluid", "Colostrum", "Milk", "Ovum"],
+    "answer": "Milk"
+  },
+  {
+    "question": "The new-born baby is fed milk by the mother during:",
+    "options": ["Gestation", "Implantation", "Lactation", "Ovulation"],
+    "answer": "Lactation"
+  },
+  {
+    "question": "A ball of blastomeres is called:",
+    "options": ["Zygote", "Morula", "Blastocyst", "Trophoblast"],
+    "answer": "Morula"
+  },
+  {
+    "question": "The morula continues to divide and transforms into:",
+    "options": ["Zygote", "Blastocyst", "Embryo", "Endometrium"],
+    "answer": "Blastocyst"
+  },
+  {
+    "question": "The blastomeres in the blastocyst are arranged into an outer layer called:",
+    "options": ["Embryo", "Endometrium", "Trophoblast", "Stroma"],
+    "answer": "Trophoblast"
+  },
+  {
+    "question": "The inner group of cells attached to trophoblast is called:",
+    "options": ["Zygote", "Morula", "Inner cell mass", "Myometrium"],
+    "answer": "Inner cell mass"
+  },
+  {
+    "question": "The trophoblast layer gets attached to:",
+    "options": ["Myometrium", "Ovary", "Endometrium", "Stroma"],
+    "answer": "Endometrium"
+  },
+  {
+    "question": "After attachment, uterine cells divide rapidly and cover the:",
+    "options": ["Zygote", "Morula", "Blastocyst", "Embryo sac"],
+    "answer": "Blastocyst"
+  },
+  {
+    "question": "The blastocyst becomes embedded in the endometrium of the uterus. This process is called:",
+    "options": ["Ovulation", "Fertilisation", "Implantation", "Parturition"],
+    "answer": "Implantation"
+  }
+]
