@@ -1,0 +1,102 @@
+[
+  {
+    "question": "The average duration of human pregnancy is about how many months?",
+    "options": ["7 months", "8 months", "9 months", "10 months"],
+    "answer": "9 months"
+  },
+  {
+    "question": "What is the average duration of human pregnancy called?",
+    "options": ["Implantation period", "Gestation period", "Parturition period", "Foetal period"],
+    "answer": "Gestation period"
+  },
+  {
+    "question": "Vigorous contraction of the uterus at the end of pregnancy causes what?",
+    "options": ["Ovulation", "Implantation", "Delivery of the foetus", "Placenta formation"],
+    "answer": "Delivery of the foetus"
+  },
+  {
+    "question": "The process of delivery of the foetus (childbirth) is called:",
+    "options": ["Ovulation", "Lactation", "Parturition", "Implantation"],
+    "answer": "Parturition"
+  },
+  {
+    "question": "Parturition is induced by which mechanism?",
+    "options": ["Simple reflex", "Complex neuroendocrine mechanism", "Passive mechanism", "Muscular mechanism"],
+    "answer": "Complex neuroendocrine mechanism"
+  },
+  {
+    "question": "The signals for parturition originate from:",
+    "options": ["Mother’s ovary", "Amniotic fluid", "Foetus and placenta", "Maternal pituitary"],
+    "answer": "Foetus and placenta"
+  },
+  {
+    "question": "Mild uterine contractions induced by foetus and placenta are called:",
+    "options": ["Labour pain", "Foetal ejection reflex", "Parturition reflex", "Gestation reflex"],
+    "answer": "Foetal ejection reflex"
+  },
+  {
+    "question": "The foetal ejection reflex triggers release of which hormone?",
+    "options": ["Progesterone", "Estrogen", "Oxytocin", "Relaxin"],
+    "answer": "Oxytocin"
+  },
+  {
+    "question": "Oxytocin is released from:",
+    "options": ["Foetal pituitary", "Maternal pituitary", "Placenta", "Ovary"],
+    "answer": "Maternal pituitary"
+  },
+  {
+    "question": "Oxytocin acts on which organ?",
+    "options": ["Placenta", "Ovary", "Uterine muscle", "Mammary gland"],
+    "answer": "Uterine muscle"
+  },
+  {
+    "question": "What does oxytocin cause in the uterus?",
+    "options": ["Relaxation", "Implantation", "Stronger contractions", "Foetal development"],
+    "answer": "Stronger contractions"
+  },
+  {
+    "question": "The stimulatory reflex between uterine contraction and oxytocin secretion results in:",
+    "options": ["Weaker contractions", "Stronger and stronger contractions", "Cessation of contractions", "Placenta development"],
+    "answer": "Stronger and stronger contractions"
+  },
+  {
+    "question": "Expulsion of the baby out of the uterus through the birth canal is known as:",
+    "options": ["Lactation", "Ovulation", "Parturition", "Gestation"],
+    "answer": "Parturition"
+  },
+  {
+    "question": "Soon after the infant is delivered, which structure is expelled?",
+    "options": ["Amniotic sac", "Ovary", "Placenta", "Umbilical cord"],
+    "answer": "Placenta"
+  },
+  {
+    "question": "During pregnancy, which gland undergoes differentiation?",
+    "options": ["Thyroid gland", "Mammary gland", "Pituitary gland", "Adrenal gland"],
+    "answer": "Mammary gland"
+  },
+  {
+    "question": "Mammary glands start producing milk towards the end of pregnancy by which process?",
+    "options": ["Parturition", "Ovulation", "Lactation", "Implantation"],
+    "answer": "Lactation"
+  },
+  {
+    "question": "The milk produced during the initial few days of lactation is called:",
+    "options": ["Amniotic fluid", "Colostrum", "Placental fluid", "Mature milk"],
+    "answer": "Colostrum"
+  },
+  {
+    "question": "Colostrum contains several:",
+    "options": ["Hormones", "Antibodies", "Nutrients", "Enzymes"],
+    "answer": "Antibodies"
+  },
+  {
+    "question": "Colostrum is absolutely essential to develop resistance for:",
+    "options": ["Mother", "New-born babies", "Placenta", "Foetus"],
+    "answer": "New-born babies"
+  },
+  {
+    "question": "Breast-feeding during the initial period of infant growth is recommended by doctors for:",
+    "options": ["Rapid gestation", "Healthy baby", "Shorter pregnancy", "Placental development"],
+    "answer": "Healthy baby"
+  }
+]
