@@ -1,1 +1,182 @@
-ok
+[
+  {
+    "question": "Why do local names vary?",
+    "options": [
+      "Because of regional linguistic differences",
+      "Because of soil types",
+      "Because of climate variations",
+      "Because of species differences"
+    ],
+    "answer": "Because of regional linguistic differences"
+  },
+  {
+    "question": "Why standardise naming of organisms?",
+    "options": [
+      "So name is same worldwide",
+      "To classify edible plants",
+      "To create new species",
+      "To differentiate habitats"
+    ],
+    "answer": "So name is same worldwide"
+  },
+  {
+    "question": "What is naming organisms called?",
+    "options": [
+      "Identification",
+      "Classification",
+      "Nomenclature",
+      "Observation"
+    ],
+    "answer": "Nomenclature"
+  },
+  {
+    "question": "What is identification in nomenclature?",
+    "options": [
+      "Describing organism correctly",
+      "Assigning Latin name",
+      "Collecting organism samples",
+      "Classifying into kingdoms"
+    ],
+    "answer": "Describing organism correctly"
+  },
+  {
+    "question": "Which code names plants?",
+    "options": [
+      "ICBN",
+      "ICZN",
+      "IUCN",
+      "CITES"
+    ],
+    "answer": "ICBN"
+  },
+  {
+    "question": "Which code names animals?",
+    "options": [
+      "ICBN",
+      "ICZN",
+      "FAO Code",
+      "IUCN"
+    ],
+    "answer": "ICZN"
+  },
+  {
+    "question": "Scientific names ensure what?",
+    "options": [
+      "Each organism has one name",
+      "Organism is edible",
+      "Organism is rare",
+      "Organism is classified"
+    ],
+    "answer": "Each organism has one name"
+  },
+  {
+    "question": "How many components in a name?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "Who proposed binomial nomenclature?",
+    "options": [
+      "Carolus Linnaeus",
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Aristotle"
+    ],
+    "answer": "Carolus Linnaeus"
+  },
+  {
+    "question": "Mangifera indica: 'Mangifera' is?",
+    "options": [
+      "Species",
+      "Genus",
+      "Family",
+      "Order"
+    ],
+    "answer": "Genus"
+  },
+  {
+    "question": "Mangifera indica: 'indica' is?",
+    "options": [
+      "Genus",
+      "Species",
+      "Family",
+      "Order"
+    ],
+    "answer": "Species"
+  },
+  {
+    "question": "Biological names are generally in?",
+    "options": [
+      "English",
+      "Sanskrit",
+      "Greek",
+      "Latin"
+    ],
+    "answer": "Latin"
+  },
+  {
+    "question": "How are biological names printed?",
+    "options": [
+      "Bold",
+      "Italics",
+      "Underlined",
+      "All caps"
+    ],
+    "answer": "Italics"
+  },
+  {
+    "question": "Which word denotes genus?",
+    "options": [
+      "First word",
+      "Second word",
+      "Third word",
+      "Both words"
+    ],
+    "answer": "First word"
+  },
+  {
+    "question": "Which word denotes specific epithet?",
+    "options": [
+      "First word",
+      "Second word",
+      "Third word",
+      "Both words"
+    ],
+    "answer": "Second word"
+  },
+  {
+    "question": "Handwritten genus and species are?",
+    "options": [
+      "Bolded",
+      "Underlined separately",
+      "Italic only",
+      "Capital only"
+    ],
+    "answer": "Underlined separately"
+  },
+  {
+    "question": "Genus starts with which letter?",
+    "options": [
+      "Capital letter",
+      "Small letter",
+      "Italic letter",
+      "Bold letter"
+    ],
+    "answer": "Capital letter"
+  },
+  {
+    "question": "Specific epithet starts with?",
+    "options": [
+      "Capital letter",
+      "Small letter",
+      "Bold letter",
+      "Italic letter"
+    ],
+    "answer": "Small letter"
+  }
+]
