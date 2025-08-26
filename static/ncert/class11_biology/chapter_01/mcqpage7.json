@@ -59,29 +59,20 @@
 "question": "Order Carnivora includes families:",
 "options": ["Solanaceae and Convolvulaceae", "Felis and Canis", "Felidae and Canidae", "Solanum and Datura"],
 "answer": "Felidae and Canidae"
-}
-]
-
-
-
-
-
-
-
-[
-  {
-    "question": "Class includes related:",
-    "options": ["Species", "Orders", "Genera", "Phyla"],
-    "answer": "Orders"
-  },
-    "question": "Order Primata is placed in class:",
-    "options": ["Reptilia", "Carnivora", "Aves", "Mammalia"],
-    "answer": "Mammalia"
-  },
-  {
-    "question": "Order Carnivora is placed in class Mammalia along with:",
-    "options": ["Primata", "Pisces", "Amphibia", "Aves"],
-    "answer": "Primata"
+},
+{
+  "question": "Class includes related:",
+  "options": ["Species", "Orders", "Genera", "Phyla"],
+   "answer": "Orders"
+},
+  "question": "Order Primata is placed in class:",
+  "options": ["Reptilia", "Carnivora", "Aves", "Mammalia"],
+  "answer": "Mammalia"
+},
+{
+  "question": "Order Carnivora is placed in class Mammalia along with:",
+  "options": ["Primata", "Pisces", "Amphibia", "Aves"],
+  "answer": "Primata"
   },
   {
     "question": "Class Mammalia includes orders like:",
