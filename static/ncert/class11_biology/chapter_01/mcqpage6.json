@@ -1,4 +1,113 @@
 [
+  {
+    "question": "Is classification a single-step process?",
+    "options": ["Yes", "No", "Sometimes", "Depends on organism"],
+    "answer": "No"
+  },
+  {
+    "question": "What does each classification step represent?",
+    "options": ["Rank or category", "Species only", "Genus only", "Family only"],
+    "answer": "Rank or category"
+  },
+  {
+    "question": "All taxonomic categories together form?",
+    "options": ["Species", "Genus", "Taxonomic hierarchy", "Morphology"],
+    "answer": "Taxonomic hierarchy"
+  },
+  {
+    "question": "Unit of classification is called?",
+    "options": ["Rank", "Taxon", "Category", "Order"],
+    "answer": "Taxon"
+  },
+  {
+    "question": "Plural of taxon is?",
+    "options": ["Taxa", "Taxons", "Taxenes", "Taxii"],
+    "answer": "Taxa"
+  },
+  {
+    "question": "Example of taxonomic group with jointed legs?",
+    "options": ["Mammals", "Birds", "Insects", "Reptiles"],
+    "answer": "Insects"
+  },
+  {
+    "question": "Groups represent what in taxonomy?",
+    "options": ["Category", "Species", "Family", "Order"],
+    "answer": "Category"
+  },
+  {
+    "question": "Category further denotes?",
+    "options": ["Morphology", "Rank", "Habitat", "Behavior"],
+    "answer": "Rank"
+  },
+  {
+    "question": "Taxonomic groups are?",
+    "options": ["Morphological aggregates", "Distinct biological entities", "Habit-based groups", "Random collections"],
+    "answer": "Distinct biological entities"
+  },
+  {
+    "question": "Common taxonomic categories include?",
+    "options": ["Kingdom, phylum, class", "Order, family, genus", "Species", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Lowest taxonomic category is?",
+    "options": ["Kingdom", "Genus", "Species", "Family"],
+    "answer": "Species"
+  },
+  {
+    "question": "Placing an organism in categories requires?",
+    "options": ["Knowledge of characters", "Size measurement", "Color only", "Habitat observation"],
+    "answer": "Knowledge of characters"
+  },
+  {
+    "question": "Species are distinguished by?",
+    "options": ["Morphological differences", "Habitat", "Diet", "Color only"],
+    "answer": "Morphological differences"
+  },
+  {
+    "question": "In Mangifera indica, 'indica' is?",
+    "options": ["Genus", "Specific epithet", "Family", "Order"],
+    "answer": "Specific epithet"
+  },
+  {
+    "question": "In Solanum tuberosum, 'Solanum' is?",
+    "options": ["Genus", "Species", "Family", "Order"],
+    "answer": "Genus"
+  },
+  {
+    "question": "Each genus may have?",
+    "options": ["One or more species", "One family only", "One order only", "No species"],
+    "answer": "One or more species"
+  },
+  {
+    "question": "Panthera genus includes which species?",
+    "options": ["leo, tigris", "sapiens, tigris", "nigrum, melongena", "indica, tuberosum"],
+    "answer": "leo, tigris"
+  },
+  {
+    "question": "Solanum genus includes which species?",
+    "options": ["nigrum, melongena", "leo, tigris", "sapiens, tigris", "indica, tuberosum"],
+    "answer": "nigrum, melongena"
+  },
+  {
+    "question": "Human species is?",
+    "options": ["Homo sapiens", "Panthera leo", "Solanum nigrum", "Mangifera indica"],
+    "answer": "Homo sapiens"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+[
 {
 "question": "Genus comprises a group of:",
 "options": ["Unrelated species", "Similar families", "Related species", "Different phyla"],
