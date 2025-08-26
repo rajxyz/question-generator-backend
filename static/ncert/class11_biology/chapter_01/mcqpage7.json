@@ -1,1 +1,102 @@
-om
+[
+  {
+    "question": "Genus comprises a group of:",
+    "options": ["Unrelated species", "Similar families", "Related species", "Different phyla"],
+    "answer": "Related species"
+  },
+  {
+    "question": "Potato and brinjal belong to genus:",
+    "options": ["Panthera", "Felis", "Solanum", "Datura"],
+    "answer": "Solanum"
+  },
+  {
+    "question": "Lion, leopard and tiger are genus:",
+    "options": ["Felis", "Canis", "Solanum", "Panthera"],
+    "answer": "Panthera"
+  },
+  {
+    "question": "Panthera genus differs from genus:",
+    "options": ["Datura", "Felis", "Solanum", "Petunia"],
+    "answer": "Felis"
+  },
+  {
+    "question": "Family is a group of related:",
+    "options": ["Species", "Orders", "Genera", "Classes"],
+    "answer": "Genera"
+  },
+  {
+    "question": "Families are characterised by:",
+    "options": ["Molecular studies", "Fossil records", "Vegetative and reproductive features", "Geographic distribution"],
+    "answer": "Vegetative and reproductive features"
+  },
+  {
+    "question": "Solanum, Petunia and Datura belong to family:",
+    "options": ["Convolvulaceae", "Felidae", "Solanaceae", "Canidae"],
+    "answer": "Solanaceae"
+  },
+  {
+    "question": "Genus Panthera and Felis are in family:",
+    "options": ["Canidae", "Solanaceae", "Carnivora", "Felidae"],
+    "answer": "Felidae"
+  },
+  {
+    "question": "Cats and dogs are in families:",
+    "options": ["Felidae and Carnivora", "Felis and Panthera", "Felidae and Canidae", "Canidae and Solanaceae"],
+    "answer": "Felidae and Canidae"
+  },
+  {
+    "question": "Order is assemblage of:",
+    "options": ["Classes", "Genera", "Species", "Families"],
+    "answer": "Families"
+  },
+  {
+    "question": "Plant families Convolvulaceae and Solanaceae are in order:",
+    "options": ["Carnivora", "Felidae", "Polymoniales", "Canidae"],
+    "answer": "Polymoniales"
+  },
+  {
+    "question": "Order Carnivora includes families:",
+    "options": ["Solanaceae and Convolvulaceae", "Felis and Canis", "Felidae and Canidae", "Solanum and Datura"],
+    "answer": "Felidae and Canidae"
+  },
+  {
+    "question": "Class includes related:",
+    "options": ["Species", "Orders", "Genera", "Phyla"],
+    "answer": "Orders"
+  },
+  {
+    "question": "Order Primata belongs to class:",
+    "options": ["Reptilia", "Carnivora", "Aves", "Mammalia"],
+    "answer": "Mammalia"
+  },
+  {
+    "question": "Order Carnivora is with:",
+    "options": ["Primata", "Pisces", "Amphibia", "Aves"],
+    "answer": "Primata"
+  },
+  {
+    "question": "Class Mammalia includes orders:",
+    "options": ["Primata and Reptilia", "Primata and Aves", "Primata and Carnivora", "Reptilia and Carnivora"],
+    "answer": "Primata and Carnivora"
+  },
+  {
+    "question": "Classes like fishes, amphibians, reptiles, birds, mammals form:",
+    "options": ["Class Mammalia", "Order Carnivora", "Category Division", "Phylum"],
+    "answer": "Phylum"
+  },
+  {
+    "question": "Animals fishes, amphibians, reptiles, birds, mammals belong to phylum:",
+    "options": ["Arthropoda", "Mollusca", "Chordata", "Echinodermata"],
+    "answer": "Chordata"
+  },
+  {
+    "question": "Phylum Chordata includes organisms with:",
+    "options": ["Bilateral symmetry", "Exoskeleton", "Notochord and dorsal hollow neural system", "Triploblastic body"],
+    "answer": "Notochord and dorsal hollow neural system"
+  },
+  {
+    "question": "In plants, classes with similar characters form:",
+    "options": ["Phylum", "Order", "Division", "Family"],
+    "answer": "Division"
+  }
+    ]
