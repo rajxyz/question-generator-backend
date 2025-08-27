@@ -1,158 +1,126 @@
 [
   {
     "question": "Match the following:",
-    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
-    "columnB": ["Prokaryotic", "Eukaryotic", "Eukaryotic", "Eukaryotic", "Eukaryotic"],
-    "answer": {
-      "Monera": "Prokaryotic",
-      "Protista": "Eukaryotic",
-      "Fungi": "Eukaryotic",
-      "Plantae": "Eukaryotic",
-      "Animalia": "Eukaryotic"
-    }
+    "column_I": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
+    "column_II": ["Prokaryotic", "Eukaryotic", "Eukaryotic", "Eukaryotic", "Eukaryotic"],
+    "matches": ["Monera–Prokaryotic", "Protista–Eukaryotic", "Fungi–Eukaryotic", "Plantae–Eukaryotic", "Animalia–Eukaryotic"],
+    "answer": "Monera–Prokaryotic, Protista–Eukaryotic, Fungi–Eukaryotic, Plantae–Eukaryotic, Animalia–Eukaryotic"
   },
   {
     "question": "Match the following:",
-    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
-    "columnB": [
+    "column_I": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
+    "column_II": [
       "Noncellulosic (Polysaccharide + amino acid)",
       "Present in some",
       "Present with chitin",
       "Present (cellulose)",
       "Absent"
     ],
-    "answer": {
-      "Monera": "Noncellulosic (Polysaccharide + amino acid)",
-      "Protista": "Present in some",
-      "Fungi": "Present with chitin",
-      "Plantae": "Present (cellulose)",
-      "Animalia": "Absent"
-    }
+    "matches": [
+      "Monera–Noncellulosic (Polysaccharide + amino acid)",
+      "Protista–Present in some",
+      "Fungi–Present with chitin",
+      "Plantae–Present (cellulose)",
+      "Animalia–Absent"
+    ],
+    "answer": "Monera–Noncellulosic (Polysaccharide + amino acid), Protista–Present in some, Fungi–Present with chitin, Plantae–Present (cellulose), Animalia–Absent"
   },
   {
     "question": "Match the following:",
-    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
-    "columnB": ["Absent", "Present", "Present", "Present", "Present"],
-    "answer": {
-      "Monera": "Absent",
-      "Protista": "Present",
-      "Fungi": "Present",
-      "Plantae": "Present",
-      "Animalia": "Present"
-    }
+    "column_I": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
+    "column_II": ["Absent", "Present", "Present", "Present", "Present"],
+    "matches": ["Monera–Absent", "Protista–Present", "Fungi–Present", "Plantae–Present", "Animalia–Present"],
+    "answer": "Monera–Absent, Protista–Present, Fungi–Present, Plantae–Present, Animalia–Present"
   },
   {
     "question": "Match the following:",
-    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
-    "columnB": ["Cellular", "Cellular", "Multiceullar/loose tissue", "Tissue/organ", "Tissue/organ/organ system"],
-    "answer": {
-      "Monera": "Cellular",
-      "Protista": "Cellular",
-      "Fungi": "Multiceullar/loose tissue",
-      "Plantae": "Tissue/organ",
-      "Animalia": "Tissue/organ/organ system"
-    }
+    "column_I": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
+    "column_II": ["Cellular", "Cellular", "Multiceullar/loose tissue", "Tissue/organ", "Tissue/organ/organ system"],
+    "matches": ["Monera–Cellular", "Protista–Cellular", "Fungi–Multiceullar/loose tissue", "Plantae–Tissue/organ", "Animalia–Tissue/organ/organ system"],
+    "answer": "Monera–Cellular, Protista–Cellular, Fungi–Multiceullar/loose tissue, Plantae–Tissue/organ, Animalia–Tissue/organ/organ system"
   },
   {
     "question": "Match the following:",
-    "columnA": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
-    "columnB": [
+    "column_I": ["Monera", "Protista", "Fungi", "Plantae", "Animalia"],
+    "column_II": [
       "Autotrophic (chemosynthetic and photosynthetic) and Heterotrophic (saprophytic/parasitic)",
       "Autotrophic (Photosynthetic) and Heterotrophic",
       "Heterotrophic (Saprophytic/Parasitic)",
       "Autotrophic (Photosynthetic)",
       "Heterotrophic (Holozoic/Saprophytic etc.)"
     ],
-    "answer": {
-      "Monera": "Autotrophic (chemosynthetic and photosynthetic) and Heterotrophic (saprophytic/parasitic)",
-      "Protista": "Autotrophic (Photosynthetic) and Heterotrophic",
-      "Fungi": "Heterotrophic (Saprophytic/Parasitic)",
-      "Plantae": "Autotrophic (Photosynthetic)",
-      "Animalia": "Heterotrophic (Holozoic/Saprophytic etc.)"
-    }
+    "matches": [
+      "Monera–Autotrophic (chemosynthetic and photosynthetic) and Heterotrophic (saprophytic/parasitic)",
+      "Protista–Autotrophic (Photosynthetic) and Heterotrophic",
+      "Fungi–Heterotrophic (Saprophytic/Parasitic)",
+      "Plantae–Autotrophic (Photosynthetic)",
+      "Animalia–Heterotrophic (Holozoic/Saprophytic etc.)"
+    ],
+    "answer": "Monera–Autotrophic (chemosynthetic and photosynthetic) and Heterotrophic (saprophytic/parasitic), Protista–Autotrophic (Photosynthetic) and Heterotrophic, Fungi–Heterotrophic (Saprophytic/Parasitic), Plantae–Autotrophic (Photosynthetic), Animalia–Heterotrophic (Holozoic/Saprophytic etc.)"
   },
   {
     "question": "Match the following:",
-    "columnA": [
-      "R.H. Whittaker (1969)",
-      "Five Kingdoms defined by Whittaker",
-      "Main criteria for classification",
-      "Three-domain system"
-    ],
-    "columnB": [
-      "Divides Kingdom Monera into two domains",
-      "Monera, Protista, Fungi, Plantae and Animalia",
+    "column_I": ["R.H. Whittaker (1969)", "Five Kingdoms defined by Whittaker", "Main criteria for classification", "Three-domain system"],
+    "column_II": [
       "Proposed a Five Kingdom Classification",
-      "Cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships"
+      "Monera, Protista, Fungi, Plantae and Animalia",
+      "Cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships",
+      "Divides Kingdom Monera into two domains"
     ],
-    "answer": {
-      "R.H. Whittaker (1969)": "Proposed a Five Kingdom Classification",
-      "Five Kingdoms defined by Whittaker": "Monera, Protista, Fungi, Plantae and Animalia",
-      "Main criteria for classification": "Cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships",
-      "Three-domain system": "Divides Kingdom Monera into two domains"
-    }
+    "matches": [
+      "R.H. Whittaker (1969)–Proposed a Five Kingdom Classification",
+      "Five Kingdoms defined by Whittaker–Monera, Protista, Fungi, Plantae and Animalia",
+      "Main criteria for classification–Cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships",
+      "Three-domain system–Divides Kingdom Monera into two domains"
+    ],
+    "answer": "R.H. Whittaker (1969)–Proposed a Five Kingdom Classification, Five Kingdoms defined by Whittaker–Monera, Protista, Fungi, Plantae and Animalia, Main criteria for classification–Cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships, Three-domain system–Divides Kingdom Monera into two domains"
   },
   {
     "question": "Match the following:",
-    "columnA": [
-      "Earlier classification systems included",
-      "Character that unified the whole kingdom ‘Plants’",
-      "Prokaryotic organisms placed under ‘Plants’",
-      "Eukaryotic organisms placed under ‘Plants’"
-    ],
-    "columnB": [
+    "column_I": ["Earlier classification systems included", "Character that unified the whole kingdom ‘Plants’", "Prokaryotic organisms placed under ‘Plants’", "Eukaryotic organisms placed under ‘Plants’"],
+    "column_II": [
+      "Bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and angiosperms",
       "Cell wall in their cells",
       "Bacteria and blue green algae (cyanobacteria)",
-      "Fungi, mosses, ferns, gymnosperms and angiosperms",
-      "Bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and angiosperms"
+      "Fungi, mosses, ferns, gymnosperms and angiosperms"
     ],
-    "answer": {
-      "Earlier classification systems included": "Bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and angiosperms",
-      "Character that unified the whole kingdom ‘Plants’": "Cell wall in their cells",
-      "Prokaryotic organisms placed under ‘Plants’": "Bacteria and blue green algae (cyanobacteria)",
-      "Eukaryotic organisms placed under ‘Plants’": "Fungi, mosses, ferns, gymnosperms and angiosperms"
-    }
+    "matches": [
+      "Earlier classification systems included–Bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and angiosperms",
+      "Character that unified the whole kingdom ‘Plants’–Cell wall in their cells",
+      "Prokaryotic organisms placed under ‘Plants’–Bacteria and blue green algae (cyanobacteria)",
+      "Eukaryotic organisms placed under ‘Plants’–Fungi, mosses, ferns, gymnosperms and angiosperms"
+    ],
+    "answer": "Earlier classification systems included–Bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and angiosperms, Character that unified the whole kingdom ‘Plants’–Cell wall in their cells, Prokaryotic organisms placed under ‘Plants’–Bacteria and blue green algae (cyanobacteria), Eukaryotic organisms placed under ‘Plants’–Fungi, mosses, ferns, gymnosperms and angiosperms"
   },
   {
     "question": "Match the following:",
-    "columnA": [
-      "Unicellular organism placed under algae",
-      "Multicellular organism placed under algae",
-      "Group not differentiated from autotrophic green plants in earlier classification",
-      "Wall composition of fungi"
+    "column_I": ["Unicellular organism placed under algae", "Multicellular organism placed under algae", "Group not differentiated from autotrophic green plants in earlier classification", "Wall composition of fungi"],
+    "column_II": ["Chlamydomonas", "Spirogyra", "Heterotrophic group – fungi", "Chitin"],
+    "matches": [
+      "Unicellular organism placed under algae–Chlamydomonas",
+      "Multicellular organism placed under algae–Spirogyra",
+      "Group not differentiated from autotrophic green plants in earlier classification–Heterotrophic group – fungi",
+      "Wall composition of fungi–Chitin"
     ],
-    "columnB": [
-      "Spirogyra",
-      "Chlamydomonas",
-      "Heterotrophic group – fungi",
-      "Chitin"
-    ],
-    "answer": {
-      "Unicellular organism placed under algae": "Chlamydomonas",
-      "Multicellular organism placed under algae": "Spirogyra",
-      "Group not differentiated from autotrophic green plants in earlier classification": "Heterotrophic group – fungi",
-      "Wall composition of fungi": "Chitin"
-    }
+    "answer": "Unicellular organism placed under algae–Chlamydomonas, Multicellular organism placed under algae–Spirogyra, Group not differentiated from autotrophic green plants in earlier classification–Heterotrophic group – fungi, Wall composition of fungi–Chitin"
   },
   {
     "question": "Match the following:",
-    "columnA": [
-      "Wall composition of green plants",
-      "Change in classification when wall composition considered",
-      "Kingdom to which fungi were placed when separated",
-      "Blue green algae"
+    "column_I": ["Wall composition of green plants", "Change in classification when wall composition considered", "Kingdom to which fungi were placed when separated", "Blue green algae"],
+    "column_II": ["Cellulosic cell wall", "Fungi placed in a separate kingdom", "Kingdom Fungi", "Cyanobacteria"],
+    "matches": [
+      "Wall composition of green plants–Cellulosic cell wall",
+      "Change in classification when wall composition considered–Fungi placed in a separate kingdom",
+      "Kingdom to which fungi were placed when separated–Kingdom Fungi",
+      "Blue green algae–Cyanobacteria"
     ],
-    "columnB": [
-      "Cellulosic cell wall",
-      "Fungi placed in a separate kingdom",
-      "Kingdom Fungi",
-      "Cyanobacteria"
-    ],
-    "answer": {
-      "Wall composition of green plants": "Cellulosic cell wall",
-      "Change in classification when wall composition considered": "Fungi placed in a separate kingdom",
-      "Kingdom to which fungi were placed when separated": "Kingdom Fungi",
-      "Blue green algae": "Cyanobacteria"
-    }
+    "answer": "Wall composition of green plants–Cellulosic cell wall, Change in classification when wall composition considered–Fungi placed in a separate kingdom, Kingdom to which fungi were placed when separated–Kingdom Fungi, Blue green algae–Cyanobacteria"
   }
 ]
+
+
+
+
+
+
+
