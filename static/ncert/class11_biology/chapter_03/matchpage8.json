@@ -1,1 +1,146 @@
-ok
+[
+  {
+    "question": "Match the following (Bryophytes structure & reproduction):",
+    "column_I": [
+      "Differentiation level in bryophytes compared to algae",
+      "Attachment of bryophyte plant body",
+      "Bryophyte root-like structures",
+      "Main plant body of bryophyte",
+      "Sex organs in bryophytes"
+    ],
+    "column_II": [
+      "Unicellular or multicellular rhizoids",
+      "Haploid",
+      "Thallus-like and prostrate or erect",
+      "More differentiated",
+      "Multicellular"
+    ],
+    "matches": [
+      "A–4",
+      "B–1",
+      "C–3",
+      "D–2",
+      "E–5"
+    ]
+  },
+  {
+    "question": "Match the following (Bryophyte gametangia & fertilisation):",
+    "column_I": [
+      "Male sex organ in bryophytes",
+      "Female sex organ in bryophytes",
+      "Structure of archegonium",
+      "Fertilisation in bryophytes",
+      "Product of fertilisation"
+    ],
+    "column_II": [
+      "Antheridium",
+      "An antherozoid fuses with the egg to produce the zygote",
+      "Zygote",
+      "Archegonium",
+      "Flask-shaped"
+    ],
+    "matches": [
+      "A–1",
+      "B–4",
+      "C–5",
+      "D–2",
+      "E–3"
+    ]
+  },
+  {
+    "question": "Match the following (Bryophyte sporophyte & spores):",
+    "column_I": [
+      "Zygote development",
+      "Sporophyte dependence",
+      "Spore production process",
+      "Fate of haploid spores",
+      "Function of sporophyte"
+    ],
+    "column_II": [
+      "Attached to the photosynthetic gametophyte and derives nourishment from it",
+      "Do not undergo reduction division immediately",
+      "Produce haploid spores",
+      "Meiosis",
+      "Germinate to produce gametophyte"
+    ],
+    "matches": [
+      "A–2",
+      "B–1",
+      "C–4",
+      "D–5",
+      "E–3"
+    ]
+  },
+  {
+    "question": "Match the following (Bryophyte ecology):",
+    "column_I": [
+      "Sphagnum",
+      "Mosses and lichens",
+      "Ecological role of mosses",
+      "Soil protection by mosses",
+      "Bryophyte groups"
+    ],
+    "column_II": [
+      "Reduce the impact of falling rain and prevent soil erosion",
+      "Used as fuel and packing material due to water-holding capacity",
+      "Colonise rocks",
+      "Liverworts and mosses",
+      "Decompose rocks making the substrate suitable for growth of higher plants"
+    ],
+    "matches": [
+      "A–2",
+      "B–3",
+      "C–5",
+      "D–1",
+      "E–4"
+    ]
+  },
+  {
+    "question": "Match the following (Liverwort structure & reproduction):",
+    "column_I": [
+      "Liverwort habitat",
+      "Structure of liverwort thallus",
+      "Gemmae development site",
+      "Gemmae type",
+      "Sex organ location in liverworts"
+    ],
+    "column_II": [
+      "Dorsiventral and closely appressed to the substrate",
+      "Moist, shady habitats such as banks of streams, marshy ground, damp soil, bark of trees and deep in the woods",
+      "Gemma cups located on the thalli",
+      "Green, multicellular, asexual buds",
+      "Produced either on the same or on different thalli"
+    ],
+    "matches": [
+      "A–2",
+      "B–1",
+      "C–3",
+      "D–4",
+      "E–5"
+    ]
+  },
+  {
+    "question": "Match the following (Marchantia & leafy liverworts):",
+    "column_I": [
+      "Marchantia",
+      "Leafy liverworts",
+      "Sporophyte parts in liverworts",
+      "Spore production in liverworts",
+      "Gametophyte formation"
+    ],
+    "column_II": [
+      "Foot, seta and capsule",
+      "Spores are produced within the capsule",
+      "Free-living gametophytes",
+      "Tiny leaf-like appendages in two rows on the stem-like structures",
+      "Thalloid plant body"
+    ],
+    "matches": [
+      "A–5",
+      "B–4",
+      "C–1",
+      "D–2",
+      "E–3"
+    ]
+  }
+]
