@@ -1,1 +1,26 @@
-ok
+[
+  {
+    "question": "Match the following (Bryophytes basics):",
+    "column_I": [
+      "Common habitat of mosses and liverworts",
+      "Another name for bryophytes",
+      "Dependency of bryophytes for sexual reproduction",
+      "Habitats where bryophytes usually occur",
+      "Role of bryophytes in nature"
+    ],
+    "column_II": [
+      "Amphibians of the plant kingdom",
+      "Damp, humid and shaded localities",
+      "Moist shaded areas in the hills",
+      "Water",
+      "Plant succession on bare rocks/soil"
+    ],
+    "matches": [
+      "A–3",
+      "B–1",
+      "C–4",
+      "D–2",
+      "E–5"
+    ]
+  }
+]
