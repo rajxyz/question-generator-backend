@@ -1,1 +1,70 @@
-ok
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Oral administration of small doses of progestogens or progestogen–estrogen combinations",
+      "Tablets used by females to prevent conception",
+      "Pills have to be taken daily for a period of",
+      "Pills inhibit",
+      "They alter the quality of"
+    ],
+    "columnB": [
+      "A-4",
+      "B-5",
+      "C-1",
+      "D-2",
+      "E-3"
+    ]
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Pills are very effective",
+      "Pills have",
+      "Pills are well accepted",
+      "Saheli – the new oral contraceptive for the females",
+      "Saheli is a"
+    ],
+    "columnB": [
+      "A-2",
+      "B-4",
+      "C-3",
+      "D-1",
+      "E-5"
+    ]
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Progestogens or progestogen–estrogen combinations can be used as",
+      "Injections or implants under the skin are used by females for",
+      "Emergency contraceptives are effective when used within",
+      "Emergency contraceptives are used to",
+      "Sterilisation procedure in the male is called"
+    ],
+    "columnB": [
+      "A-2",
+      "B-5",
+      "C-4",
+      "D-3",
+      "E-1"
+    ]
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Surgical methods are",
+      "Vasectomy involves",
+      "Tubectomy involves",
+      "In tubectomy, a part of fallopian tube is removed or tied through",
+      "These techniques are highly effective but"
+    ],
+    "columnB": [
+      "A-2",
+      "B-4",
+      "C-1",
+      "D-3",
+      "E-5"
+    ]
+  }
+]
