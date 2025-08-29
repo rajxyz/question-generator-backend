@@ -1,1 +1,149 @@
-ok
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "World population in 1900",
+      "World population in 2000",
+      "World population in 2011",
+      "India's population at the time of independence"
+    ],
+    "columnB": [
+      "7.2 billion",
+      "350 million",
+      "2 billion (2000 million)",
+      "6 billion"
+    ],
+    "answer": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "India's population by 2000",
+      "India's population in May 2011",
+      "Probable reasons for population explosion",
+      "RCH programme"
+    ],
+    "columnB": [
+      "Crossed 1.2 billion",
+      "Rapid decline in death rate, maternal mortality rate (MMR) and infant mortality rate (IMR) as well as an increase in number of people in reproducible age",
+      "Reached close to the billion mark",
+      "Could bring down the population growth rate only marginally"
+    ],
+    "answer": {
+      "A": "3",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "All-round development in various fields",
+      "Increased health facilities and better living conditions",
+      "2011 census report",
+      "Population growth rate in 2011"
+    ],
+    "columnB": [
+      "Had an explosive impact on the growth of population",
+      "Significantly improved the quality of life of the people",
+      "Less than 2 per cent, i.e., 20/1000/year",
+      "According to the 2011 census report"
+    ],
+    "answer": {
+      "A": "2",
+      "B": "1",
+      "C": "4",
+      "D": "3"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Alarming population growth rate",
+      "Scarcity of basic requirements",
+      "Basic requirements",
+      "Government action"
+    ],
+    "columnB": [
+      "Food, shelter and clothing",
+      "Forced the government to take up serious measures to check this population growth rate",
+      "Could lead to an absolute scarcity of even the basic requirements",
+      "A rate at which our population could increase rapidly"
+    ],
+    "answer": {
+      "A": "4",
+      "B": "3",
+      "C": "1",
+      "D": "2"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Most important step to overcome population problem",
+      "Advertisements in the media and posters/bills",
+      "Statutory raising of marriageable age for females",
+      "Statutory raising of marriageable age for males"
+    ],
+    "columnB": [
+      "Show a happy couple with two children with a slogan Hum Do Hamare Do (we two, our two)",
+      "To motivate smaller families by using various contraceptive methods",
+      "18 years",
+      "21 years"
+    ],
+    "answer": {
+      "A": "2",
+      "B": "1",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Ideal contraceptive",
+      "Contraceptive categories",
+      "Natural methods",
+      "Periodic abstinence"
+    ],
+    "columnB": [
+      "User-friendly, easily available, effective and reversible with no or least side-effects and should not interfere with the sexual drive, desire and/or the sexual act of the user",
+      "Natural/Traditional, Barrier, IUDs, Oral contraceptives, Injectables, Implants and Surgical methods",
+      "Work on the principle of avoiding chances of ovum and sperms meeting",
+      "Couples avoid or abstain from coitus from day 10 to 17 of the menstrual cycle when ovulation could be expected"
+    ],
+    "answer": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Fertile period",
+      "One child norm",
+      "Incentives given to couples",
+      "Young, urban, working couples"
+    ],
+    "columnB": [
+      "Adopted by many couples",
+      "To tackle the population problem",
+      "Day 10 to 17 of the menstrual cycle when ovulation could be expected",
+      "As chances of fertilisation are very high during this period"
+    ],
+    "answer": {
+      "A": "3",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    }
+  }
+]
