@@ -1,1 +1,104 @@
-om
+[
+  {
+    "question": "Match the following (Algae):",
+    "columnA": [
+      "Chlorophyll-bearing simple, thalloid, autotrophic organisms",
+      "Aquatic organisms with pigments and stored food",
+      "Three classes of algae",
+      "Modes of reproduction in algae",
+      "Gametes showing isogamy, anisogamy or oogamy"
+    ],
+    "columnB": [
+      "Algae",
+      "Algae",
+      "Chlorophyceae, Phaeophyceae and Rhodophyceae",
+      "Vegetative, asexual, sexual",
+      "Sexual reproduction in algae"
+    ]
+  },
+  {
+    "question": "Match the following (Bryophytes):",
+    "columnA": [
+      "Plants that live in soil but depend on water for sexual reproduction",
+      "Attachment structure in bryophytes",
+      "Division of bryophytes",
+      "Plant body of liverworts",
+      "Plant body of mosses"
+    ],
+    "columnB": [
+      "Bryophytes",
+      "Rhizoids",
+      "Liverworts and mosses",
+      "Thalloid and dorsiventral",
+      "Upright, slender axes with spirally arranged leaves"
+    ]
+  },
+  {
+    "question": "Match the following (Bryophytes - gametophyte & sporophyte):",
+    "columnA": [
+      "Main plant body in bryophytes",
+      "Male sex organ in bryophytes",
+      "Female sex organ in bryophytes",
+      "Fusion of gametes in bryophytes forms",
+      "Sporophyte produces"
+    ],
+    "columnB": [
+      "Gametophyte",
+      "Antheridia",
+      "Archegonia",
+      "Zygote",
+      "Haploid spores"
+    ]
+  },
+  {
+    "question": "Match the following (Pteridophytes):",
+    "columnA": [
+      "Main plant body in pteridophytes",
+      "Sporophyte differentiated into",
+      "Organs with vascular tissues",
+      "Gametophytes of pteridophytes",
+      "Requirement for male gamete transfer"
+    ],
+    "columnB": [
+      "Sporophyte",
+      "Root, stem and leaves",
+      "True root, stem and leaves",
+      "Bear antheridia and archegonia",
+      "Water"
+    ]
+  },
+  {
+    "question": "Match the following (Gymnosperms - general features):",
+    "columnA": [
+      "Plants with naked ovules",
+      "Seeds after fertilisation remain",
+      "Called naked-seeded plants",
+      "Sporophylls arranged spirally on axis",
+      "Cones bearing microsporophylls and megasporophylls"
+    ],
+    "columnB": [
+      "Gymnosperms",
+      "Exposed",
+      "Gymnosperms",
+      "Male and female cones",
+      "Microsporophylls and megasporophylls"
+    ]
+  },
+  {
+    "question": "Match the following (Gymnosperms - fertilisation & seed):",
+    "columnA": [
+      "Pollen tube in gymnosperms releases",
+      "Fertilisation site",
+      "After fertilisation, ovules develop into",
+      "After fertilisation, zygote develops into",
+      "Classes of angiosperms"
+    ],
+    "columnB": [
+      "Male gamete",
+      "Egg cell in archegonia",
+      "Seeds",
+      "Embryo",
+      "Dicotyledons and monocotyledons"
+    ]
+  }
+]
