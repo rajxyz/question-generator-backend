@@ -1,1 +1,127 @@
- ok
+[
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "R.H. Whittaker (1969)",
+      "Five Kingdom Classification",
+      "Criteria used by Whittaker",
+      "Six kingdom classification",
+      "Three-domain system"
+    ],
+    "column_II": [
+      "Proposed a Five Kingdom Classification",
+      "Monera, Protista, Fungi, Plantae and Animalia",
+      "Cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships",
+      "You will learn about this system in detail in higher classes",
+      "Divides the Kingdom Monera into two domains"
+    ],
+    "matches": [
+      "A–1",
+      "B–2",
+      "C–3",
+      "D–4",
+      "E–5"
+    ],
+    "answer": "A–1, B–2, C–3, D–4, E–5"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Earlier classification systems",
+      "Character unifying the ‘Plants’",
+      "Bacteria and blue green algae",
+      "Chlamydomonas and Spirogyra",
+      "Green plants cell wall"
+    ],
+    "column_II": [
+      "Included bacteria, blue green algae, fungi, mosses, ferns, gymnosperms and angiosperms under ‘Plants’",
+      "Had a cell wall in their cells",
+      "Prokaryotic",
+      "Grouped unicellular and multicellular under algae",
+      "Cellulosic"
+    ],
+    "matches": [
+      "A–1",
+      "B–2",
+      "C–3",
+      "D–4",
+      "E–5"
+    ],
+    "answer": "A–1, B–2, C–3, D–4, E–5"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Fungi cell wall",
+      "Green plants cell wall",
+      "Kingdom Fungi",
+      "Kingdom Monera",
+      "Kingdom Protista"
+    ],
+    "column_II": [
+      "Chitin",
+      "Cellulosic",
+      "Fungi placed in a separate kingdom",
+      "All prokaryotic organisms",
+      "Unicellular eukaryotic organisms"
+    ],
+    "matches": [
+      "A–1",
+      "B–2",
+      "C–3",
+      "D–4",
+      "E–5"
+    ],
+    "answer": "A–1, B–2, C–3, D–4, E–5"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Kingdom Protista includes",
+      "Chlamydomonas and Chlorella",
+      "Paramoecium and Amoeba",
+      "Earlier classification of Paramoecium and Amoeba",
+      "Change in classification criteria"
+    ],
+    "column_II": [
+      "Put together organisms which were earlier placed in different kingdoms",
+      "Earlier placed in Algae within Plants and both having cell walls",
+      "Earlier placed in the animal kingdom which lack cell wall",
+      "Earlier placed in the animal kingdom which lack cell wall",
+      "Changed classification"
+    ],
+    "matches": [
+      "A–1",
+      "B–2",
+      "C–3",
+      "D–4",
+      "E–5"
+    ],
+    "answer": "A–1, B–2, C–3, D–4, E–5"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Future changes in classification",
+      "Improved understanding of characteristics",
+      "Modern classification system",
+      "Reflects phylogenetic relationships",
+      "Kingdoms studied in this chapter"
+    ],
+    "column_II": [
+      "Will occur depending on improvement in understanding",
+      "Improvement in our understanding of characteristics and evolutionary relationships",
+      "Morphological, physiological and reproductive similarities and evolutionary relationships",
+      "Is based on evolutionary relationships",
+      "Monera, Protista and Fungi"
+    ],
+    "matches": [
+      "A–1",
+      "B–2",
+      "C–3",
+      "D–4",
+      "E–5"
+    ],
+    "answer": "A–1, B–2, C–3, D–4, E–5"
+  }
+]
