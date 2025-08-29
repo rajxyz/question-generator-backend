@@ -1,6 +1,99 @@
-
-ok
-
+[
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Bacteria",
+      "Kingdom Monera",
+      "Bacteria occur",
+      "Bacteria live in extreme habitats",
+      "Many bacteria"
+    ],
+    "column_II": [
+      "Are the most abundant micro-organisms",
+      "Are the sole members of the Kingdom Monera",
+      "Almost everywhere",
+      "Such as hot springs, deserts, snow and deep oceans",
+      "Live in or on other organisms as parasites"
+    ],
+    "matches": [
+      "A–1",
+      "B–2",
+      "C–3",
+      "D–4",
+      "E–5"
+    ],
+    "answer": "A–1, B–2, C–3, D–4, E–5"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Coccus (pl.: cocci)",
+      "Bacillus (pl.: bacilli)",
+      "Vibrium (pl.: vibrio)",
+      "Spirillum (pl.: spirilla)"
+    ],
+    "column_II": [
+      "Spherical",
+      "Rod-shaped",
+      "Comma-shaped",
+      "Spiral"
+    ],
+    "matches": [
+      "A–1",
+      "B–2",
+      "C–3",
+      "D–4"
+    ],
+    "answer": "A–1, B–2, C–3, D–4"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Bacterial structure",
+      "Bacterial behaviour",
+      "Metabolic diversity",
+      "Autotrophic bacteria",
+      "Heterotrophic bacteria"
+    ],
+    "column_II": [
+      "Very simple",
+      "Very complex in behaviour",
+      "Show the most extensive metabolic diversity",
+      "Synthesise their own food from inorganic substrates",
+      "Depend on other organisms or on dead organic matter for food"
+    ],
+    "matches": [
+      "A–1",
+      "B–2",
+      "C–3",
+      "D–4",
+      "E–5"
+    ],
+    "answer": "A–1, B–2, C–3, D–4, E–5"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Photosynthetic autotrophic bacteria",
+      "Chemosynthetic autotrophic bacteria",
+      "Autotrophic bacteria",
+      "Heterotrophs"
+    ],
+    "column_II": [
+      "Type of autotrophic bacteria",
+      "Type of autotrophic bacteria",
+      "They may be photosynthetic autotrophic or chemosynthetic autotrophic",
+      "Depend on other organisms or on dead organic matter for food"
+    ],
+    "matches": [
+      "A–1",
+      "B–2",
+      "C–3",
+      "D–4"
+    ],
+    "answer": "A–1, B–2, C–3, D–4"
+  }
+]
 
 
 
