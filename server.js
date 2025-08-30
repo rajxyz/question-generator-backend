@@ -42,25 +42,28 @@ function sanitizeQuestions(questions, type) {
     }
 
     if (type === "match") {
+      // Case 1: matches given as ["A–1", "B–2", ...]
       if (Array.isArray(q.matches) && q.matches.every(m => typeof m === "string")) {
         q.matches = q.matches.map(matchStr => {
-          const [leftCode, rightCode] = matchStr.split("–");
-          let leftText = "";
-          let rightText = "";
+          const [leftCode, rightCode] = matchStr.split("–").map(s => s.trim());
 
-          if (Array.isArray(q.column_I)) {
-            const idx = q.column_I.findIndex(item => item.startsWith(leftCode));
-            if (idx !== -1) leftText = q.column_I[idx];
-          }
-          if (Array.isArray(q.column_II)) {
-            const idx = q.column_II.findIndex(item => item.startsWith(rightCode));
-            if (idx !== -1) rightText = q.column_II[idx];
-          }
+          // Convert "A"->0, "B"->1 ... and "1"->0, "2"->1 ...
+          const leftIndex = leftCode ? leftCode.charCodeAt(0) - 65 : -1; 
+          const rightIndex = rightCode ? parseInt(rightCode, 10) - 1 : -1;
+
+          const leftText = Array.isArray(q.column_I) && leftIndex >= 0 && leftIndex < q.column_I.length
+            ? q.column_I[leftIndex]
+            : "";
+
+          const rightText = Array.isArray(q.column_II) && rightIndex >= 0 && rightIndex < q.column_II.length
+            ? q.column_II[rightIndex]
+            : "";
 
           return { left: leftText, right: rightText };
         });
       }
 
+      // Case 2: matches already in object form
       if (Array.isArray(q.matches) && q.matches.every(m => typeof m === "object")) {
         q.matches = q.matches.map(pair => ({
           left: pair.left || "",
@@ -161,6 +164,19 @@ app.get("/debug-questions", (req, res) => {
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
