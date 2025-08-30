@@ -15,13 +15,13 @@
       "Uses the chemical constituents of the plant to resolve confusions",
       "Based on all observable characteristics"
     ],
-    "matches": [
-      "A–2",
-      "B–3",
-      "C–5",
-      "D–1",
-      "E–4"
-    ]
+    "answer": {
+      "Phylogenetic classification systems": "Based on evolutionary relationships between the various organisms",
+      "Organisms belonging to the same taxa": "Have a common ancestor",
+      "Numerical Taxonomy": "Based on all observable characteristics",
+      "Cytotaxonomy": "Based on cytological information like chromosome number, structure, behaviour",
+      "Chemotaxonomy": "Uses the chemical constituents of the plant to resolve confusions"
+    }
   },
   {
     "question": "Match the following:",
@@ -39,13 +39,13 @@
       "Equal importance",
       "Used to help resolve difficulties in classification"
     ],
-    "matches": [
-      "A–2",
-      "B–4",
-      "C–1",
-      "D–5",
-      "E–3"
-    ]
+    "answer": {
+      "Numerical Taxonomy is easily carried out using": "Computers",
+      "Each character is given": "Equal importance",
+      "Hundreds of characters can be": "Processed",
+      "Information from many other sources": "Used to help resolve difficulties in classification",
+      "When there is no supporting fossil evidence": "More important"
+    }
   },
   {
     "question": "Match the following:",
@@ -63,13 +63,13 @@
       "On sloth bear",
       "Form massive plant bodies"
     ],
-    "matches": [
-      "A–2",
-      "B–1",
-      "C–3",
-      "D–4",
-      "E–5"
-    ]
+    "answer": {
+      "Algae are": "Largely aquatic (both fresh water and marine) organisms",
+      "Algae occur in": "Moist stones, soils and wood",
+      "Some algae also occur in association with fungi": "Lichen",
+      "Some algae occur in association with animals": "On sloth bear",
+      "Marine forms such as kelps": "Form massive plant bodies"
+    }
   },
   {
     "question": "Match the following:",
@@ -87,13 +87,13 @@
       "By the production of different types of spores",
       "Ulothrix and Spirogyra"
     ],
-    "matches": [
-      "A–1",
-      "B–5",
-      "C–2",
-      "D–4",
-      "E–3"
-    ]
+    "answer": {
+      "Colonial forms of algae": "Volvox",
+      "Filamentous forms of algae": "Ulothrix and Spirogyra",
+      "Vegetative reproduction in algae": "By fragmentation",
+      "Asexual reproduction in algae": "By the production of different types of spores",
+      "Zoospores": "Flagellated (motile) and on germination gives rise to new plants"
+    }
   },
   {
     "question": "Match the following:",
@@ -111,15 +111,34 @@
       "Non-flagellated (non-motile) but similar in size",
       "Fusion of two gametes similar in size"
     ],
-    "matches": [
-      "A–5",
-      "B–1",
-      "C–2",
-      "D–3",
-      "E–4"
-    ]
+    "answer": {
+      "Isogamous reproduction": "Fusion of two gametes similar in size",
+      "Anisogamous reproduction": "Fusion of two gametes dissimilar in size",
+      "Oogamous reproduction": "Fusion between one large, non-motile female gamete and a smaller, motile male gamete",
+      "Ulothrix reproduction": "Flagellated and similar in size",
+      "Spirogyra reproduction": "Non-flagellated (non-motile) but similar in size"
+    }
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
