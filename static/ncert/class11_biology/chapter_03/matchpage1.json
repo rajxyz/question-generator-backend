@@ -1,1 +1,74 @@
-ok
+[
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Five Kingdom classification",
+      "Members having cell walls excluded from Plantae",
+      "Popular name of Kingdom Plantae",
+      "Blue green algae",
+      "Groups described under Plantae"
+    ],
+    "column_II": [
+      "Monera, Protista and Fungi",
+      "Algae, Bryophytes, Pteridophytes, Gymnosperms and Angiosperms",
+      "Plant kingdom",
+      "Whittaker (1969)",
+      "Cyanobacteria"
+    ],
+    "answer": {
+      "Five Kingdom classification": "Whittaker (1969)",
+      "Members having cell walls excluded from Plantae": "Monera, Protista and Fungi",
+      "Popular name of Kingdom Plantae": "Plant kingdom",
+      "Blue green algae": "Cyanobacteria",
+      "Groups described under Plantae": "Algae, Bryophytes, Pteridophytes, Gymnosperms and Angiosperms"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Earliest systems of classification",
+      "System given by Linnaeus",
+      "Basis of artificial systems",
+      "Natural classification systems",
+      "Classification given by George Bentham and Joseph Dalton Hooker"
+    ],
+    "column_II": [
+      "Used only gross superficial morphological characters",
+      "Based on natural affinities among the organisms",
+      "Classification for flowering plants",
+      "Based mainly on vegetative characters or on the androecium structure",
+      "Gave equal weightage to vegetative and sexual characteristics"
+    ],
+    "answer": {
+      "Earliest systems of classification": "Used only gross superficial morphological characters",
+      "System given by Linnaeus": "Based mainly on vegetative characters or on the androecium structure",
+      "Basis of artificial systems": "Gave equal weightage to vegetative and sexual characteristics",
+      "Natural classification systems": "Based on natural affinities among the organisms",
+      "Classification given by George Bentham and Joseph Dalton Hooker": "Classification for flowering plants"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Vegetative characters",
+      "Sexual characteristics",
+      "External features",
+      "Internal features",
+      "Phytochemistry"
+    ],
+    "column_II": [
+      "More easily affected by environment",
+      "Considered in natural classification systems",
+      "Ultra-structure, anatomy, embryology",
+      "Not only external features",
+      "Also part of internal features"
+    ],
+    "answer": {
+      "Vegetative characters": "More easily affected by environment",
+      "Sexual characteristics": "Considered in natural classification systems",
+      "External features": "Not only external features",
+      "Internal features": "Ultra-structure, anatomy, embryology",
+      "Phytochemistry": "Also part of internal features"
+    }
+  }
+]
