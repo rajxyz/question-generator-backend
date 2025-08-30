@@ -9,12 +9,19 @@
       "They alter the quality of"
     ],
     "columnB": [
-      "A-4",
-      "B-5",
-      "C-1",
-      "D-2",
-      "E-3"
-    ]
+      "Inhibit ovulation and implantation",
+      "Contraceptive pills",
+      "21 days starting preferably within first five days of menstrual cycle",
+      "Ovulation and implantation",
+      "Cervical mucus to retard entry of sperms"
+    ],
+    "answer": {
+      "Oral administration of small doses of progestogens or progestogen–estrogen combinations": "Inhibit ovulation and implantation",
+      "Tablets used by females to prevent conception": "Contraceptive pills",
+      "Pills have to be taken daily for a period of": "21 days starting preferably within first five days of menstrual cycle",
+      "Pills inhibit": "Ovulation and implantation",
+      "They alter the quality of": "Cervical mucus to retard entry of sperms"
+    }
   },
   {
     "question": "Match the following:",
@@ -26,12 +33,19 @@
       "Saheli is a"
     ],
     "columnB": [
-      "A-2",
-      "B-4",
-      "C-3",
-      "D-1",
-      "E-5"
-    ]
+      "Non-steroidal preparation",
+      "Side effects",
+      "By females",
+      "Once a week pill",
+      "Centrally developed oral contraceptive"
+    ],
+    "answer": {
+      "Pills are very effective": "Side effects",
+      "Pills have": "Once a week pill",
+      "Pills are well accepted": "By females",
+      "Saheli – the new oral contraceptive for the females": "Non-steroidal preparation",
+      "Saheli is a": "Centrally developed oral contraceptive"
+    }
   },
   {
     "question": "Match the following:",
@@ -43,12 +57,19 @@
       "Sterilisation procedure in the male is called"
     ],
     "columnB": [
-      "A-2",
-      "B-5",
-      "C-4",
-      "D-3",
-      "E-1"
-    ]
+      "Vasectomy",
+      "Injections or implants",
+      "Avoid unwanted pregnancy",
+      "72 hours of coitus",
+      "Oral pills"
+    ],
+    "answer": {
+      "Progestogens or progestogen–estrogen combinations can be used as": "Oral pills",
+      "Injections or implants under the skin are used by females for": "Injections or implants",
+      "Emergency contraceptives are effective when used within": "72 hours of coitus",
+      "Emergency contraceptives are used to": "Avoid unwanted pregnancy",
+      "Sterilisation procedure in the male is called": "Vasectomy"
+    }
   },
   {
     "question": "Match the following:",
@@ -60,11 +81,18 @@
       "These techniques are highly effective but"
     ],
     "columnB": [
-      "A-2",
-      "B-4",
-      "C-1",
-      "D-3",
-      "E-5"
-    ]
+      "Abdominal surgery or laparoscopy",
+      "Removal and tying of a small part of vas deferens",
+      "Removal and tying of a small part of fallopian tube",
+      "Surgical interventions",
+      "Irreversible"
+    ],
+    "answer": {
+      "Surgical methods are": "Surgical interventions",
+      "Vasectomy involves": "Removal and tying of a small part of vas deferens",
+      "Tubectomy involves": "Removal and tying of a small part of fallopian tube",
+      "In tubectomy, a part of fallopian tube is removed or tied through": "Abdominal surgery or laparoscopy",
+      "These techniques are highly effective but": "Irreversible"
+    }
   }
 ]
