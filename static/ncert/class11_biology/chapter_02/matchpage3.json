@@ -16,13 +16,13 @@
       "Live in or on other organisms as parasites"
     ],
     "matches": [
-      "A–1",
-      "B–2",
-      "C–3",
-      "D–4",
-      "E–5"
+      "Bacteria–Are the most abundant micro-organisms",
+      "Kingdom Monera–Are the sole members of the Kingdom Monera",
+      "Bacteria occur–Almost everywhere",
+      "Bacteria live in extreme habitats–Such as hot springs, deserts, snow and deep oceans",
+      "Many bacteria–Live in or on other organisms as parasites"
     ],
-    "answer": "A–1, B–2, C–3, D–4, E–5"
+    "answer": "Bacteria–Are the most abundant micro-organisms, Kingdom Monera–Are the sole members of the Kingdom Monera, Bacteria occur–Almost everywhere, Bacteria live in extreme habitats–Such as hot springs, deserts, snow and deep oceans, Many bacteria–Live in or on other organisms as parasites"
   },
   {
     "question": "Match the following:",
@@ -39,12 +39,12 @@
       "Spiral"
     ],
     "matches": [
-      "A–1",
-      "B–2",
-      "C–3",
-      "D–4"
+      "Coccus (pl.: cocci)–Spherical",
+      "Bacillus (pl.: bacilli)–Rod-shaped",
+      "Vibrium (pl.: vibrio)–Comma-shaped",
+      "Spirillum (pl.: spirilla)–Spiral"
     ],
-    "answer": "A–1, B–2, C–3, D–4"
+    "answer": "Coccus (pl.: cocci)–Spherical, Bacillus (pl.: bacilli)–Rod-shaped, Vibrium (pl.: vibrio)–Comma-shaped, Spirillum (pl.: spirilla)–Spiral"
   },
   {
     "question": "Match the following:",
@@ -63,13 +63,13 @@
       "Depend on other organisms or on dead organic matter for food"
     ],
     "matches": [
-      "A–1",
-      "B–2",
-      "C–3",
-      "D–4",
-      "E–5"
+      "Bacterial structure–Very simple",
+      "Bacterial behaviour–Very complex in behaviour",
+      "Metabolic diversity–Show the most extensive metabolic diversity",
+      "Autotrophic bacteria–Synthesise their own food from inorganic substrates",
+      "Heterotrophic bacteria–Depend on other organisms or on dead organic matter for food"
     ],
-    "answer": "A–1, B–2, C–3, D–4, E–5"
+    "answer": "Bacterial structure–Very simple, Bacterial behaviour–Very complex in behaviour, Metabolic diversity–Show the most extensive metabolic diversity, Autotrophic bacteria–Synthesise their own food from inorganic substrates, Heterotrophic bacteria–Depend on other organisms or on dead organic matter for food"
   },
   {
     "question": "Match the following:",
@@ -86,14 +86,36 @@
       "Depend on other organisms or on dead organic matter for food"
     ],
     "matches": [
-      "A–1",
-      "B–2",
-      "C–3",
-      "D–4"
+      "Photosynthetic autotrophic bacteria–Type of autotrophic bacteria",
+      "Chemosynthetic autotrophic bacteria–Type of autotrophic bacteria",
+      "Autotrophic bacteria–They may be photosynthetic autotrophic or chemosynthetic autotrophic",
+      "Heterotrophs–Depend on other organisms or on dead organic matter for food"
     ],
-    "answer": "A–1, B–2, C–3, D–4"
+    "answer": "Photosynthetic autotrophic bacteria–Type of autotrophic bacteria, Chemosynthetic autotrophic bacteria–Type of autotrophic bacteria, Autotrophic bacteria–They may be photosynthetic autotrophic or chemosynthetic autotrophic, Heterotrophs–Depend on other organisms or on dead organic matter for food"
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
