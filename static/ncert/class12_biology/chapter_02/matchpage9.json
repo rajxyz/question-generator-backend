@@ -1,55 +1,52 @@
-{
-  "type": "match_the_following",
-  "question": "Match the gynoecium-related terms with their correct NCERT-based descriptions:",
-  "column_A": [
-    "1. Monocarpellary",
-    "2. Syncarpous",
-    "3. Apocarpous",
-    "4. Ovary",
-    "5. Ovules"
-  ],
-  "column_B": [
-    "A. Single pistil",
-    "B. Fused pistils",
-    "C. Free pistils",
-    "D. Basal bulged part of pistil",
-    "E. Arise from placenta"
-  ],
-  "answers": {
-    "1": "A",
-    "2": "B",
-    "3": "C",
-    "4": "D",
-    "5": "E"
+[
+  {
+    "question": "Match the gynoecium-related terms with their correct NCERT-based descriptions:",
+    "column_I": [
+      "Monocarpellary",
+      "Syncarpous",
+      "Apocarpous",
+      "Ovary",
+      "Ovules"
+    ],
+    "column_II": [
+      "Single pistil",
+      "Fused pistils",
+      "Free pistils",
+      "Basal bulged part of pistil",
+      "Arise from placenta"
+    ],
+    "matches": [
+      "Monocarpellary–Single pistil",
+      "Syncarpous–Fused pistils",
+      "Apocarpous–Free pistils",
+      "Ovary–Basal bulged part of pistil",
+      "Ovules–Arise from placenta"
+    ],
+    "answer": "Monocarpellary–Single pistil, Syncarpous–Fused pistils, Apocarpous–Free pistils, Ovary–Basal bulged part of pistil, Ovules–Arise from placenta"
   },
-  "word_count_covered": 91
-}
-
-
-
-{
-  "type": "match_the_following",
-  "question": "Match each ovule-related term with its correct NCERT-defined description:",
-  "column_A": [
-    "1. Funicle",
-    "2. Hilum",
-    "3. Micropyle",
-    "4. Chalaza",
-    "5. Nucellus"
-  ],
-  "column_B": [
-    "A. Stalk attaching ovule to placenta",
-    "B. Junction between ovule and funicle",
-    "C. Small opening in integuments",
-    "D. Basal part of ovule",
-    "E. Mass of cells with reserve food"
-  ],
-  "answers": {
-    "1": "A",
-    "2": "B",
-    "3": "C",
-    "4": "D",
-    "5": "E"
-  },
-  "word_count_covered": 90
-}
+  {
+    "question": "Match each ovule-related term with its correct NCERT-defined description:",
+    "column_I": [
+      "Funicle",
+      "Hilum",
+      "Micropyle",
+      "Chalaza",
+      "Nucellus"
+    ],
+    "column_II": [
+      "Stalk attaching ovule to placenta",
+      "Junction between ovule and funicle",
+      "Small opening in integuments",
+      "Basal part of ovule",
+      "Mass of cells with reserve food"
+    ],
+    "matches": [
+      "Funicle–Stalk attaching ovule to placenta",
+      "Hilum–Junction between ovule and funicle",
+      "Micropyle–Small opening in integuments",
+      "Chalaza–Basal part of ovule",
+      "Nucellus–Mass of cells with reserve food"
+    ],
+    "answer": "Funicle–Stalk attaching ovule to placenta, Hilum–Junction between ovule and funicle, Micropyle–Small opening in integuments, Chalaza–Basal part of ovule, Nucellus–Mass of cells with reserve food"
+  }
+]
