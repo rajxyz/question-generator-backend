@@ -1,1 +1,42 @@
-ok
+[
+  {
+    "question": "Match the following floral terms with their NCERT-based meanings or functions:",
+    "column_I": [
+      "Floral decision",
+      "Hormonal and structural changes",
+      "Floral primordium",
+      "Inflorescences",
+      "Floral buds",
+      "Androecium",
+      "Gynoecium",
+      "Stamens",
+      "Male reproductive organ",
+      "Female reproductive organ"
+    ],
+    "column_II": [
+      "Occurs before flower is seen",
+      "Initiated during early flowering process",
+      "Result of differentiation and development",
+      "Formed before floral buds and flowers",
+      "Borne on inflorescences",
+      "Male structure in flower",
+      "Female structure in flower",
+      "Whorl forming male reproductive unit",
+      "Represented by androecium",
+      "Represented by gynoecium"
+    ],
+    "matches": [
+      "Floral decision–Occurs before flower is seen",
+      "Hormonal and structural changes–Initiated during early flowering process",
+      "Floral primordium–Result of differentiation and development",
+      "Inflorescences–Formed before floral buds and flowers",
+      "Floral buds–Borne on inflorescences",
+      "Androecium–Male structure in flower",
+      "Gynoecium–Female structure in flower",
+      "Stamens–Whorl forming male reproductive unit",
+      "Male reproductive organ–Represented by androecium",
+      "Female reproductive organ–Represented by gynoecium"
+    ],
+    "answer": "Floral decision–Occurs before flower is seen, Hormonal and structural changes–Initiated during early flowering process, Floral primordium–Result of differentiation and development, Inflorescences–Formed before floral buds and flowers, Floral buds–Borne on inflorescences, Androecium–Male structure in flower, Gynoecium–Female structure in flower, Stamens–Whorl forming male reproductive unit, Male reproductive organ–Represented by androecium, Female reproductive organ–Represented by gynoecium"
+  }
+]
