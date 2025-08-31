@@ -16,12 +16,13 @@
       "Multicellular"
     ],
     "matches": [
-      "A–4",
-      "B–1",
-      "C–3",
-      "D–2",
-      "E–5"
-    ]
+      "Differentiation level in bryophytes compared to algae–More differentiated",
+      "Attachment of bryophyte plant body–Thallus-like and prostrate or erect",
+      "Bryophyte root-like structures–Unicellular or multicellular rhizoids",
+      "Main plant body of bryophyte–Haploid",
+      "Sex organs in bryophytes–Multicellular"
+    ],
+    "answer": "Differentiation level in bryophytes compared to algae–More differentiated, Attachment of bryophyte plant body–Thallus-like and prostrate or erect, Bryophyte root-like structures–Unicellular or multicellular rhizoids, Main plant body of bryophyte–Haploid, Sex organs in bryophytes–Multicellular"
   },
   {
     "question": "Match the following (Bryophyte gametangia & fertilisation):",
@@ -40,12 +41,13 @@
       "Flask-shaped"
     ],
     "matches": [
-      "A–1",
-      "B–4",
-      "C–5",
-      "D–2",
-      "E–3"
-    ]
+      "Male sex organ in bryophytes–Antheridium",
+      "Female sex organ in bryophytes–Archegonium",
+      "Structure of archegonium–Flask-shaped",
+      "Fertilisation in bryophytes–An antherozoid fuses with the egg to produce the zygote",
+      "Product of fertilisation–Zygote"
+    ],
+    "answer": "Male sex organ in bryophytes–Antheridium, Female sex organ in bryophytes–Archegonium, Structure of archegonium–Flask-shaped, Fertilisation in bryophytes–An antherozoid fuses with the egg to produce the zygote, Product of fertilisation–Zygote"
   },
   {
     "question": "Match the following (Bryophyte sporophyte & spores):",
@@ -64,12 +66,13 @@
       "Germinate to produce gametophyte"
     ],
     "matches": [
-      "A–2",
-      "B–1",
-      "C–4",
-      "D–5",
-      "E–3"
-    ]
+      "Zygote development–Do not undergo reduction division immediately",
+      "Sporophyte dependence–Attached to the photosynthetic gametophyte and derives nourishment from it",
+      "Spore production process–Meiosis",
+      "Fate of haploid spores–Germinate to produce gametophyte",
+      "Function of sporophyte–Produce haploid spores"
+    ],
+    "answer": "Zygote development–Do not undergo reduction division immediately, Sporophyte dependence–Attached to the photosynthetic gametophyte and derives nourishment from it, Spore production process–Meiosis, Fate of haploid spores–Germinate to produce gametophyte, Function of sporophyte–Produce haploid spores"
   },
   {
     "question": "Match the following (Bryophyte ecology):",
@@ -88,12 +91,13 @@
       "Decompose rocks making the substrate suitable for growth of higher plants"
     ],
     "matches": [
-      "A–2",
-      "B–3",
-      "C–5",
-      "D–1",
-      "E–4"
-    ]
+      "Sphagnum–Used as fuel and packing material due to water-holding capacity",
+      "Mosses and lichens–Colonise rocks",
+      "Ecological role of mosses–Decompose rocks making the substrate suitable for growth of higher plants",
+      "Soil protection by mosses–Reduce the impact of falling rain and prevent soil erosion",
+      "Bryophyte groups–Liverworts and mosses"
+    ],
+    "answer": "Sphagnum–Used as fuel and packing material due to water-holding capacity, Mosses and lichens–Colonise rocks, Ecological role of mosses–Decompose rocks making the substrate suitable for growth of higher plants, Soil protection by mosses–Reduce the impact of falling rain and prevent soil erosion, Bryophyte groups–Liverworts and mosses"
   },
   {
     "question": "Match the following (Liverwort structure & reproduction):",
@@ -112,12 +116,13 @@
       "Produced either on the same or on different thalli"
     ],
     "matches": [
-      "A–2",
-      "B–1",
-      "C–3",
-      "D–4",
-      "E–5"
-    ]
+      "Liverwort habitat–Moist, shady habitats such as banks of streams, marshy ground, damp soil, bark of trees and deep in the woods",
+      "Structure of liverwort thallus–Dorsiventral and closely appressed to the substrate",
+      "Gemmae development site–Gemma cups located on the thalli",
+      "Gemmae type–Green, multicellular, asexual buds",
+      "Sex organ location in liverworts–Produced either on the same or on different thalli"
+    ],
+    "answer": "Liverwort habitat–Moist, shady habitats such as banks of streams, marshy ground, damp soil, bark of trees and deep in the woods, Structure of liverwort thallus–Dorsiventral and closely appressed to the substrate, Gemmae development site–Gemma cups located on the thalli, Gemmae type–Green, multicellular, asexual buds, Sex organ location in liverworts–Produced either on the same or on different thalli"
   },
   {
     "question": "Match the following (Marchantia & leafy liverworts):",
@@ -136,11 +141,19 @@
       "Thalloid plant body"
     ],
     "matches": [
-      "A–5",
-      "B–4",
-      "C–1",
-      "D–2",
-      "E–3"
-    ]
+      "Marchantia–Thalloid plant body",
+      "Leafy liverworts–Tiny leaf-like appendages in two rows on the stem-like structures",
+      "Sporophyte parts in liverworts–Foot, seta and capsule",
+      "Spore production in liverworts–Spores are produced within the capsule",
+      "Gametophyte formation–Free-living gametophytes"
+    ],
+    "answer": "Marchantia–Thalloid plant body, Leafy liverworts–Tiny leaf-like appendages in two rows on the stem-like structures, Sporophyte parts in liverworts–Foot, seta and capsule, Spore production in liverworts–Spores are produced within the capsule, Gametophyte formation–Free-living gametophytes"
   }
 ]
+
+
+
+
+
+
+
