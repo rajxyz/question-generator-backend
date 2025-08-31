@@ -1,47 +1,63 @@
-{
-  "type": "match_the_following",
-  "question": "Match the following terms with their correct descriptions based on the NCERT paragraph:",
-  "column_A": [
-    "1. Biology",
-    "2. Individual organisms",
-    "3. Species",
-    "4. Natural or anthropogenic extinction",
-    "5. Reproduction",
-    "6. Progeny",
-    "7. Sexual reproduction",
-    "8. Variants",
-    "9. Flowering plants and humans",
-    "10. Representative examples",
-    "11. Human reproductive health",
-    "12. Reproductive ill health"
-  ],
-  "column_B": [
-    "A. The story of life on earth",
-    "B. Die without fail",
-    "C. Continue to live through millions of years",
-    "D. Threats to long-term species survival",
-    "E. Vital process without which species cannot survive",
-    "F. Left by each individual",
-    "G. Enables creation of new variants",
-    "H. Enhance survival advantage",
-    "I. Subjects used to explain reproductive processes",
-    "J. Easy to relate for understanding",
-    "K. How it can be avoided is presented",
-    "L. Related perspective to complete understanding"
-  ],
-  "answers": {
-    "1": "A",
-    "2": "B",
-    "3": "C",
-    "4": "D",
-    "5": "E",
-    "6": "F",
-    "7": "G",
-    "8": "H",
-    "9": "I",
-    "10": "J",
-    "11": "K",
-    "12": "L"
-  },
-  "word_count_covered": 89
-}
+[
+  {
+    "question": "Match the following terms with their correct descriptions based on the NCERT paragraph:",
+    "column_I": [
+      "Biology",
+      "Individual organisms",
+      "Species",
+      "Natural or anthropogenic extinction",
+      "Reproduction",
+      "Progeny",
+      "Sexual reproduction",
+      "Variants",
+      "Flowering plants and humans",
+      "Representative examples",
+      "Human reproductive health",
+      "Reproductive ill health"
+    ],
+    "column_II": [
+      "How it can be avoided is presented",
+      "Vital process without which species cannot survive",
+      "Easy to relate for understanding",
+      "Die without fail",
+      "Enhance survival advantage",
+      "The story of life on earth",
+      "Left by each individual",
+      "Continue to live through millions of years",
+      "Enables creation of new variants",
+      "Related perspective to complete understanding",
+      "Subjects used to explain reproductive processes",
+      "Threats to long-term species survival"
+    ],
+    "matches": [
+      "Biology–The story of life on earth",
+      "Individual organisms–Die without fail",
+      "Species–Continue to live through millions of years",
+      "Natural or anthropogenic extinction–Threats to long-term species survival",
+      "Reproduction–Vital process without which species cannot survive",
+      "Progeny–Left by each individual",
+      "Sexual reproduction–Enables creation of new variants",
+      "Variants–Enhance survival advantage",
+      "Flowering plants and humans–Subjects used to explain reproductive processes",
+      "Representative examples–Easy to relate for understanding",
+      "Human reproductive health–How it can be avoided is presented",
+      "Reproductive ill health–Related perspective to complete understanding"
+    ],
+    "answer": "Biology–The story of life on earth, Individual organisms–Die without fail, Species–Continue to live through millions of years, Natural or anthropogenic extinction–Threats to long-term species survival, Reproduction–Vital process without which species cannot survive, Progeny–Left by each individual, Sexual reproduction–Enables creation of new variants, Variants–Enhance survival advantage, Flowering plants and humans–Subjects used to explain reproductive processes, Representative examples–Easy to relate for understanding, Human reproductive health–How it can be avoided is presented, Reproductive ill health–Related perspective to complete understanding"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
