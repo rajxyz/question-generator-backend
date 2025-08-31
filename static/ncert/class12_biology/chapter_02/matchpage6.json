@@ -1,1 +1,82 @@
-
+[
+  {
+    "question": "Match the following microsporogenesis-related terms with their correct NCERT-based definitions or functions:",
+    "column_I": [
+      "Sporogenous tissue cell",
+      "Microspore tetrad",
+      "Pollen mother cell (PMC)",
+      "Microsporogenesis",
+      "Pollen mother cell",
+      "Meiosis",
+      "Cluster of four cells",
+      "Anther maturation and dehydration",
+      "Pollen grains",
+      "Dehiscence of anther"
+    ],
+    "column_II": [
+      "Gives rise to microspore tetrad",
+      "Result of PMC division",
+      "Each cell capable of microspore formation",
+      "Process forming microspores from PMC",
+      "Undergoes meiosis",
+      "Forms microspores",
+      "Result of PMC division",
+      "Causes microspores to separate",
+      "Develop from dissociated microspores",
+      "Releases pollen grains"
+    ],
+    "matches": [
+      "Sporogenous tissue cell–Gives rise to microspore tetrad",
+      "Microspore tetrad–Result of PMC division",
+      "Pollen mother cell (PMC)–Each cell capable of microspore formation",
+      "Microsporogenesis–Process forming microspores from PMC",
+      "Pollen mother cell–Undergoes meiosis",
+      "Meiosis–Forms microspores",
+      "Cluster of four cells–Result of PMC division",
+      "Anther maturation and dehydration–Causes microspores to separate",
+      "Pollen grains–Develop from dissociated microspores",
+      "Dehiscence of anther–Releases pollen grains"
+    ],
+    "answer": "Sporogenous tissue cell–Gives rise to microspore tetrad, Microspore tetrad–Result of PMC division, Pollen mother cell (PMC)–Each cell capable of microspore formation, Microsporogenesis–Process forming microspores from PMC, Pollen mother cell–Undergoes meiosis, Meiosis–Forms microspores, Cluster of four cells–Result of PMC division, Anther maturation and dehydration–Causes microspores to separate, Pollen grains–Develop from dissociated microspores, Dehiscence of anther–Releases pollen grains"
+  },
+  {
+    "question": "Match the following pollen-related terms with their correct NCERT-based descriptions:",
+    "column_I": [
+      "Pollen grains",
+      "Male gametophytes",
+      "Opened anthers of Hibiscus",
+      "Yellowish powdery grains",
+      "Fingers",
+      "Drop of water",
+      "Glass slide",
+      "Microscope",
+      "Variety of architecture",
+      "Figure 1.4"
+    ],
+    "column_II": [
+      "Represented by pollen grains",
+      "Represented by pollen grains",
+      "Found in flowers like Hibiscus",
+      "Release powdery pollen grains",
+      "Deposited when touched",
+      "Grains sprinkled on this",
+      "Surface to place water drop",
+      "Used for microscopic observation",
+      "Seen in sizes, shapes, colours, designs",
+      "Shows pollen grain diversity"
+    ],
+    "matches": [
+      "Pollen grains–Represented by pollen grains",
+      "Male gametophytes–Represented by pollen grains",
+      "Opened anthers of Hibiscus–Found in flowers like Hibiscus",
+      "Yellowish powdery grains–Release powdery pollen grains",
+      "Fingers–Deposited when touched",
+      "Drop of water–Grains sprinkled on this",
+      "Glass slide–Surface to place water drop",
+      "Microscope–Used for microscopic observation",
+      "Variety of architecture–Seen in sizes, shapes, colours, designs",
+      "Figure 1.4–Shows pollen grain diversity"
+    ],
+    "answer": "Pollen grains–Represented by pollen grains, Male gametophytes–Represented by pollen grains, Opened anthers of Hibiscus–Found in flowers like Hibiscus, Yellowish powdery grains–Release powdery pollen grains, Fingers–Deposited when touched, Drop of water–Grains sprinkled on this, Glass slide–Surface to place water drop, Microscope–Used for microscopic observation, Variety of architecture–Seen in sizes, shapes, colours, designs, Figure 1.4–Shows pollen grain diversity"
+  }
+]
