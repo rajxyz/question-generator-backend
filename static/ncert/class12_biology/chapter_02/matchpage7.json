@@ -1,113 +1,117 @@
-{
-  "type": "match_the_following",
-  "question": "Match the following pollen grain terms with their correct NCERT-based descriptions or properties:",
-  "column_A": [
-    "1. Pollen grain shape",
-    "2. Pollen grain size",
-    "3. Exine",
-    "4. Sporopollenin",
-    "5. Germ pores",
-    "6. Pollen fossils",
-    "7. Patterns on exine",
-    "8. Intine",
-    "9. Intine composition",
-    "10. Pollen grain cytoplasm",
-    "11. Plasma membrane",
-    "12. Mature pollen grain",
-    "13. Vegetative cell",
-    "14. Generative cell",
-    "15. 2-celled stage",
-    "16. 3-celled stage"
-  ],
-  "column_B": [
-    "A. Generally spherical in shape",
-    "B. Measures about 25–50 micrometers",
-    "C. Hard outer wall layer",
-    "D. Most resistant organic material known",
-    "E. Apertures where sporopollenin is absent",
-    "F. Preserved well due to sporopollenin",
-    "G. Fascinating array of designs",
-    "H. Inner thin and continuous wall",
-    "I. Made up of cellulose and pectin",
-    "J. Surrounded by plasma membrane",
-    "K. Enclosed by inner wall",
-    "L. Contains vegetative and generative cells",
-    "M. Bigger with food reserve and nucleus",
-    "N. Small, spindle-shaped with dense cytoplasm",
-    "O. Pollen shed with 2 cells",
-    "P. Generative cell divides into gametes"
-  ],
-  "answers": {
-    "1": "A",
-    "2": "B",
-    "3": "C",
-    "4": "D",
-    "5": "E",
-    "6": "F",
-    "7": "G",
-    "8": "H",
-    "9": "I",
-    "10": "K",
-    "11": "J",
-    "12": "L",
-    "13": "M",
-    "14": "N",
-    "15": "O",
-    "16": "P"
+[
+  {
+    "question": "Match the following pollen grain terms with their correct NCERT-based descriptions or properties:",
+    "column_I": [
+      "Pollen grain shape",
+      "Pollen grain size",
+      "Exine",
+      "Sporopollenin",
+      "Germ pores",
+      "Pollen fossils",
+      "Patterns on exine",
+      "Intine",
+      "Intine composition",
+      "Pollen grain cytoplasm",
+      "Plasma membrane",
+      "Mature pollen grain",
+      "Vegetative cell",
+      "Generative cell",
+      "2-celled stage",
+      "3-celled stage"
+    ],
+    "column_II": [
+      "Generally spherical in shape",
+      "Measures about 25–50 micrometers",
+      "Hard outer wall layer",
+      "Most resistant organic material known",
+      "Apertures where sporopollenin is absent",
+      "Preserved well due to sporopollenin",
+      "Fascinating array of designs",
+      "Inner thin and continuous wall",
+      "Made up of cellulose and pectin",
+      "Enclosed by inner wall",
+      "Surrounded by plasma membrane",
+      "Contains vegetative and generative cells",
+      "Bigger with food reserve and nucleus",
+      "Small, spindle-shaped with dense cytoplasm",
+      "Pollen shed with 2 cells",
+      "Generative cell divides into gametes"
+    ],
+    "matches": [
+      "Pollen grain shape–Generally spherical in shape",
+      "Pollen grain size–Measures about 25–50 micrometers",
+      "Exine–Hard outer wall layer",
+      "Sporopollenin–Most resistant organic material known",
+      "Germ pores–Apertures where sporopollenin is absent",
+      "Pollen fossils–Preserved well due to sporopollenin",
+      "Patterns on exine–Fascinating array of designs",
+      "Intine–Inner thin and continuous wall",
+      "Intine composition–Made up of cellulose and pectin",
+      "Pollen grain cytoplasm–Enclosed by inner wall",
+      "Plasma membrane–Surrounded by plasma membrane",
+      "Mature pollen grain–Contains vegetative and generative cells",
+      "Vegetative cell–Bigger with food reserve and nucleus",
+      "Generative cell–Small, spindle-shaped with dense cytoplasm",
+      "2-celled stage–Pollen shed with 2 cells",
+      "3-celled stage–Generative cell divides into gametes"
+    ],
+    "answer": "Pollen grain shape–Generally spherical in shape, Pollen grain size–Measures about 25–50 micrometers, Exine–Hard outer wall layer, Sporopollenin–Most resistant organic material known, Germ pores–Apertures where sporopollenin is absent, Pollen fossils–Preserved well due to sporopollenin, Patterns on exine–Fascinating array of designs, Intine–Inner thin and continuous wall, Intine composition–Made up of cellulose and pectin, Pollen grain cytoplasm–Enclosed by inner wall, Plasma membrane–Surrounded by plasma membrane, Mature pollen grain–Contains vegetative and generative cells, Vegetative cell–Bigger with food reserve and nucleus, Generative cell–Small, spindle-shaped with dense cytoplasm, 2-celled stage–Pollen shed with 2 cells, 3-celled stage–Generative cell divides into gametes"
   },
-  "word_count_covered": 193
-}
+  {
+    "question": "Match the pollen-related terms with their correct NCERT-based descriptions:",
+    "column_I": [
+      "Pollen grains",
+      "Allergy symptoms",
+      "Chronic disorders",
+      "Parthenium",
+      "Source of Parthenium"
+    ],
+    "column_II": [
+      "Cause allergies and bronchial afflictions",
+      "Asthma, bronchitis",
+      "Result of long-term exposure",
+      "Also called carrot grass",
+      "Came with imported wheat"
+    ],
+    "matches": [
+      "Pollen grains–Cause allergies and bronchial afflictions",
+      "Allergy symptoms–Asthma, bronchitis",
+      "Chronic disorders–Result of long-term exposure",
+      "Parthenium–Also called carrot grass",
+      "Source of Parthenium–Came with imported wheat"
+    ],
+    "answer": "Pollen grains–Cause allergies and bronchial afflictions, Allergy symptoms–Asthma, bronchitis, Chronic disorders–Result of long-term exposure, Parthenium–Also called carrot grass, Source of Parthenium–Came with imported wheat"
+  },
+  {
+    "question": "Match the pollen-related facts with their correct NCERT-based descriptions:",
+    "column_I": [
+      "Nutrient source",
+      "Recent trend",
+      "Product forms",
+      "Region of popularity",
+      "Claimed benefit"
+    ],
+    "column_II": [
+      "Pollen grains",
+      "Use of pollen tablets",
+      "Tablets and syrups",
+      "Western countries",
+      "Enhances athletic performance"
+    ],
+    "matches": [
+      "Nutrient source–Pollen grains",
+      "Recent trend–Use of pollen tablets",
+      "Product forms–Tablets and syrups",
+      "Region of popularity–Western countries",
+      "Claimed benefit–Enhances athletic performance"
+    ],
+    "answer": "Nutrient source–Pollen grains, Recent trend–Use of pollen tablets, Product forms–Tablets and syrups, Region of popularity–Western countries, Claimed benefit–Enhances athletic performance"
+  }
+]
 
-{
-  "type": "match_the_following",
-  "question": "Match the pollen-related terms with their correct NCERT-based descriptions:",
-  "column_A": [
-    "1. Pollen grains",
-    "2. Allergy symptoms",
-    "3. Chronic disorders",
-    "4. Parthenium",
-    "5. Source of Parthenium"
-  ],
-  "column_B": [
-    "A. Cause allergies and bronchial afflictions",
-    "B. Asthma, bronchitis",
-    "C. Result of long-term exposure",
-    "D. Also called carrot grass",
-    "E. Came with imported wheat"
-  ],
-  "answers": {
-    "1": "A",
-    "2": "B",
-    "3": "C",
-    "4": "D",
-    "5": "E"
-  },
-  "word_count_covered": 47
-}
 
-{
-  "type": "match_the_following",
-  "question": "Match the pollen-related facts with their correct NCERT-based descriptions:",
-  "column_A": [
-    "1. Nutrient source",
-    "2. Recent trend",
-    "3. Product forms",
-    "4. Region of popularity",
-    "5. Claimed benefit"
-  ],
-  "column_B": [
-    "A. Pollen grains",
-    "B. Use of pollen tablets",
-    "C. Tablets and syrups",
-    "D. Western countries",
-    "E. Enhances athletic performance"
-  ],
-  "answers": {
-    "1": "A",
-    "2": "B",
-    "3": "C",
-    "4": "D",
-    "5": "E"
-  },
-  "word_count_covered": 51
-}
+
+
+
+
+
