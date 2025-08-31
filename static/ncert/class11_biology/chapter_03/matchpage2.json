@@ -1,125 +1,63 @@
 [
   {
     "question": "Match the following:",
-    "column_I": [
-      "Phylogenetic classification systems",
-      "Organisms belonging to the same taxa",
-      "Numerical Taxonomy",
-      "Cytotaxonomy",
-      "Chemotaxonomy"
-    ],
-    "column_II": [
-      "Based on cytological information like chromosome number, structure, behaviour",
-      "Based on evolutionary relationships between the various organisms",
-      "Have a common ancestor",
-      "Uses the chemical constituents of the plant to resolve confusions",
-      "Based on all observable characteristics"
-    ],
-    "answer": {
-      "Phylogenetic classification systems": "Based on evolutionary relationships between the various organisms",
-      "Organisms belonging to the same taxa": "Have a common ancestor",
-      "Numerical Taxonomy": "Based on all observable characteristics",
-      "Cytotaxonomy": "Based on cytological information like chromosome number, structure, behaviour",
-      "Chemotaxonomy": "Uses the chemical constituents of the plant to resolve confusions"
-    }
+    "matches": [
+      { "left": "Phylogenetic classification systems", "right": "Based on evolutionary relationships between the various organisms" },
+      { "left": "Organisms belonging to the same taxa", "right": "Have a common ancestor" },
+      { "left": "Numerical Taxonomy", "right": "Based on all observable characteristics" },
+      { "left": "Cytotaxonomy", "right": "Based on cytological information like chromosome number, structure, behaviour" },
+      { "left": "Chemotaxonomy", "right": "Uses the chemical constituents of the plant to resolve confusions" }
+    ]
   },
   {
     "question": "Match the following:",
-    "column_I": [
-      "Numerical Taxonomy is easily carried out using",
-      "Each character is given",
-      "Hundreds of characters can be",
-      "Information from many other sources",
-      "When there is no supporting fossil evidence"
-    ],
-    "column_II": [
-      "Processed",
-      "Computers",
-      "More important",
-      "Equal importance",
-      "Used to help resolve difficulties in classification"
-    ],
-    "answer": {
-      "Numerical Taxonomy is easily carried out using": "Computers",
-      "Each character is given": "Equal importance",
-      "Hundreds of characters can be": "Processed",
-      "Information from many other sources": "Used to help resolve difficulties in classification",
-      "When there is no supporting fossil evidence": "More important"
-    }
+    "matches": [
+      { "left": "Numerical Taxonomy is easily carried out using", "right": "Computers" },
+      { "left": "Each character is given", "right": "Equal importance" },
+      { "left": "Hundreds of characters can be", "right": "Processed" },
+      { "left": "Information from many other sources", "right": "Used to help resolve difficulties in classification" },
+      { "left": "When there is no supporting fossil evidence", "right": "More important" }
+    ]
   },
   {
     "question": "Match the following:",
-    "column_I": [
-      "Algae are",
-      "Algae occur in",
-      "Some algae also occur in association with fungi",
-      "Some algae occur in association with animals",
-      "Marine forms such as kelps"
-    ],
-    "column_II": [
-      "Moist stones, soils and wood",
-      "Largely aquatic (both fresh water and marine) organisms",
-      "Lichen",
-      "On sloth bear",
-      "Form massive plant bodies"
-    ],
-    "answer": {
-      "Algae are": "Largely aquatic (both fresh water and marine) organisms",
-      "Algae occur in": "Moist stones, soils and wood",
-      "Some algae also occur in association with fungi": "Lichen",
-      "Some algae occur in association with animals": "On sloth bear",
-      "Marine forms such as kelps": "Form massive plant bodies"
-    }
+    "matches": [
+      { "left": "Algae are", "right": "Largely aquatic (both fresh water and marine) organisms" },
+      { "left": "Algae occur in", "right": "Moist stones, soils and wood" },
+      { "left": "Some algae also occur in association with fungi", "right": "Lichen" },
+      { "left": "Some algae occur in association with animals", "right": "On sloth bear" },
+      { "left": "Marine forms such as kelps", "right": "Form massive plant bodies" }
+    ]
   },
   {
     "question": "Match the following:",
-    "column_I": [
-      "Colonial forms of algae",
-      "Filamentous forms of algae",
-      "Vegetative reproduction in algae",
-      "Asexual reproduction in algae",
-      "Zoospores"
-    ],
-    "column_II": [
-      "Volvox",
-      "By fragmentation",
-      "Flagellated (motile) and on germination gives rise to new plants",
-      "By the production of different types of spores",
-      "Ulothrix and Spirogyra"
-    ],
-    "answer": {
-      "Colonial forms of algae": "Volvox",
-      "Filamentous forms of algae": "Ulothrix and Spirogyra",
-      "Vegetative reproduction in algae": "By fragmentation",
-      "Asexual reproduction in algae": "By the production of different types of spores",
-      "Zoospores": "Flagellated (motile) and on germination gives rise to new plants"
-    }
+    "matches": [
+      { "left": "Colonial forms of algae", "right": "Volvox" },
+      { "left": "Filamentous forms of algae", "right": "Ulothrix and Spirogyra" },
+      { "left": "Vegetative reproduction in algae", "right": "By fragmentation" },
+      { "left": "Asexual reproduction in algae", "right": "By the production of different types of spores" },
+      { "left": "Zoospores", "right": "Flagellated (motile) and on germination gives rise to new plants" }
+    ]
   },
   {
     "question": "Match the following:",
-    "column_I": [
-      "Isogamous reproduction",
-      "Anisogamous reproduction",
-      "Oogamous reproduction",
-      "Ulothrix reproduction",
-      "Spirogyra reproduction"
-    ],
-    "column_II": [
-      "Fusion of two gametes dissimilar in size",
-      "Fusion between one large, non-motile female gamete and a smaller, motile male gamete",
-      "Flagellated and similar in size",
-      "Non-flagellated (non-motile) but similar in size",
-      "Fusion of two gametes similar in size"
-    ],
-    "answer": {
-      "Isogamous reproduction": "Fusion of two gametes similar in size",
-      "Anisogamous reproduction": "Fusion of two gametes dissimilar in size",
-      "Oogamous reproduction": "Fusion between one large, non-motile female gamete and a smaller, motile male gamete",
-      "Ulothrix reproduction": "Flagellated and similar in size",
-      "Spirogyra reproduction": "Non-flagellated (non-motile) but similar in size"
-    }
+    "matches": [
+      { "left": "Isogamous reproduction", "right": "Fusion of two gametes similar in size" },
+      { "left": "Anisogamous reproduction", "right": "Fusion of two gametes dissimilar in size" },
+      { "left": "Oogamous reproduction", "right": "Fusion between one large, non-motile female gamete and a smaller, motile male gamete" },
+      { "left": "Ulothrix reproduction", "right": "Flagellated and similar in size" },
+      { "left": "Spirogyra reproduction", "right": "Non-flagellated (non-motile) but similar in size" }
+    ]
   }
 ]
+
+
+
+
+
+
+
+
 
 
 
