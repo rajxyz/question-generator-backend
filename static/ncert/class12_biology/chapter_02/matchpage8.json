@@ -1,1 +1,52 @@
-ok
+[
+  {
+    "question": "Match the pollen-related facts with their correct NCERT-based statements:",
+    "column_I": [
+      "Pollen grain viability duration",
+      "Viability in rice and wheat",
+      "Viability in Rosaceae, Leguminoseae, Solanaceae",
+      "Ultra-low temperature storage",
+      "Pollen bank usage"
+    ],
+    "column_II": [
+      "Highly variable, depends on temperature and humidity",
+      "30 minutes",
+      "Several months",
+      "Liquid nitrogen (-196°C)",
+      "Used in crop breeding programmes"
+    ],
+    "matches": [
+      "Pollen grain viability duration–Highly variable, depends on temperature and humidity",
+      "Viability in rice and wheat–30 minutes",
+      "Viability in Rosaceae, Leguminoseae, Solanaceae–Several months",
+      "Ultra-low temperature storage–Liquid nitrogen (-196°C)",
+      "Pollen bank usage–Used in crop breeding programmes"
+    ],
+    "answer": "Pollen grain viability duration–Highly variable, depends on temperature and humidity, Viability in rice and wheat–30 minutes, Viability in Rosaceae, Leguminoseae, Solanaceae–Several months, Ultra-low temperature storage–Liquid nitrogen (-196°C), Pollen bank usage–Used in crop breeding programmes"
+  },
+  {
+    "question": "Match the gynoecium-related terms with their correct NCERT-based descriptions:",
+    "column_I": [
+      "Monocarpellary",
+      "Syncarpous",
+      "Apocarpous",
+      "Ovary",
+      "Ovules"
+    ],
+    "column_II": [
+      "Single pistil",
+      "Fused pistils",
+      "Free pistils",
+      "Basal bulged part of pistil",
+      "Arise from placenta"
+    ],
+    "matches": [
+      "Monocarpellary–Single pistil",
+      "Syncarpous–Fused pistils",
+      "Apocarpous–Free pistils",
+      "Ovary–Basal bulged part of pistil",
+      "Ovules–Arise from placenta"
+    ],
+    "answer": "Monocarpellary–Single pistil, Syncarpous–Fused pistils, Apocarpous–Free pistils, Ovary–Basal bulged part of pistil, Ovules–Arise from placenta"
+  }
+]
