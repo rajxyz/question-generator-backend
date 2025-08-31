@@ -1,84 +1,88 @@
-{
-  "type": "match_the_following",
-  "question": "Match the following names and phrases with their correct descriptions based on the NCERT paragraph:",
-  "column_A": [
-    "1. Panchanan Maheshwari",
-    "2. November 1904",
-    "3. Jaipur (Rajasthan)",
-    "4. Allahabad",
-    "5. D.Sc.",
-    "6. Dr W. Dudgeon",
-    "7. American missionary teacher",
-    "8. Morphology",
-    "9. Teacher’s expression",
-    "10. Student’s response"
-  ],
-  "column_B": [
-    "A. Born in this month and year",
-    "B. Birthplace of a distinguished botanist",
-    "C. Obtained higher education here",
-    "D. Degree achieved by Maheshwari",
-    "E. Inspired Maheshwari during college",
-    "F. Encouraged interest in Botany",
-    "G. Specific field of Botany Maheshwari focused on",
-    "H. Felt satisfaction if student progresses ahead",
-    "I. Encouraged Panchanan to enquire",
-    "J. One of the most distinguished botanists"
-  ],
-  "answers": {
-    "1": "J",
-    "2": "A",
-    "3": "B",
-    "4": "C",
-    "5": "D",
-    "6": "E",
-    "7": "F",
-    "8": "G",
-    "9": "H",
-    "10": "I"
+[
+  {
+    "question": "Match the following names and phrases with their correct descriptions based on the NCERT paragraph:",
+    "column_I": [
+      "Panchanan Maheshwari",
+      "November 1904",
+      "Jaipur (Rajasthan)",
+      "Allahabad",
+      "D.Sc.",
+      "Dr W. Dudgeon",
+      "American missionary teacher",
+      "Morphology",
+      "Teacher’s expression",
+      "Student’s response"
+    ],
+    "column_II": [
+      "One of the most distinguished botanists",
+      "Born in this month and year",
+      "Birthplace of a distinguished botanist",
+      "Obtained higher education here",
+      "Degree achieved by Maheshwari",
+      "Inspired Maheshwari during college",
+      "Encouraged interest in Botany",
+      "Specific field of Botany Maheshwari focused on",
+      "Felt satisfaction if student progresses ahead",
+      "Encouraged Panchanan to enquire"
+    ],
+    "matches": [
+      "Panchanan Maheshwari–One of the most distinguished botanists",
+      "November 1904–Born in this month and year",
+      "Jaipur (Rajasthan)–Birthplace of a distinguished botanist",
+      "Allahabad–Obtained higher education here",
+      "D.Sc.–Degree achieved by Maheshwari",
+      "Dr W. Dudgeon–Inspired Maheshwari during college",
+      "American missionary teacher–Encouraged interest in Botany",
+      "Morphology–Specific field of Botany Maheshwari focused on",
+      "Teacher’s expression–Felt satisfaction if student progresses ahead",
+      "Student’s response–Encouraged Panchanan to enquire"
+    ],
+    "answer": "Panchanan Maheshwari–One of the most distinguished botanists, November 1904–Born in this month and year, Jaipur (Rajasthan)–Birthplace of a distinguished botanist, Allahabad–Obtained higher education here, D.Sc.–Degree achieved by Maheshwari, Dr W. Dudgeon–Inspired Maheshwari during college, American missionary teacher–Encouraged interest in Botany, Morphology–Specific field of Botany Maheshwari focused on, Teacher’s expression–Felt satisfaction if student progresses ahead, Student’s response–Encouraged Panchanan to enquire"
   },
-  "word_count_covered": 81
-}
+  {
+    "question": "Match the following contributions and terms with their correct descriptions from the NCERT paragraph:",
+    "column_I": [
+      "Embryological characters",
+      "Department of Botany, University of Delhi",
+      "Immature embryos",
+      "Tissue culture",
+      "Test tube fertilisation",
+      "Intra-ovarian pollination",
+      "Fellowship of Royal Society (FRS)",
+      "Indian National Science Academy",
+      "First Biology textbooks",
+      "NCERT (1964)"
+    ],
+    "column_II": [
+      "Popularised in taxonomy by Maheshwari",
+      "Established as research centre in embryology",
+      "Artificial culture work initiated",
+      "Landmark in science today",
+      "Won worldwide acclaim",
+      "Also won worldwide acclaim",
+      "Honoured by this UK institution",
+      "Honoured by this Indian institution",
+      "Contribution to school education",
+      "Published for Higher Secondary Schools"
+    ],
+    "matches": [
+      "Embryological characters–Popularised in taxonomy by Maheshwari",
+      "Department of Botany, University of Delhi–Established as research centre in embryology",
+      "Immature embryos–Artificial culture work initiated",
+      "Tissue culture–Landmark in science today",
+      "Test tube fertilisation–Won worldwide acclaim",
+      "Intra-ovarian pollination–Also won worldwide acclaim",
+      "Fellowship of Royal Society (FRS)–Honoured by this UK institution",
+      "Indian National Science Academy–Honoured by this Indian institution",
+      "First Biology textbooks–Contribution to school education",
+      "NCERT (1964)–Published for Higher Secondary Schools"
+    ],
+    "answer": "Embryological characters–Popularised in taxonomy by Maheshwari, Department of Botany, University of Delhi–Established as research centre in embryology, Immature embryos–Artificial culture work initiated, Tissue culture–Landmark in science today, Test tube fertilisation–Won worldwide acclaim, Intra-ovarian pollination–Also won worldwide acclaim, Fellowship of Royal Society (FRS)–Honoured by this UK institution, Indian National Science Academy–Honoured by this Indian institution, First Biology textbooks–Contribution to school education, NCERT (1964)–Published for Higher Secondary Schools"
+  }
+]
 
 
-{
-  "type": "match_the_following",
-  "question": "Match the following contributions and terms with their correct descriptions from the NCERT paragraph:",
-  "column_A": [
-    "1. Embryological characters",
-    "2. Department of Botany, University of Delhi",
-    "3. Immature embryos",
-    "4. Tissue culture",
-    "5. Test tube fertilisation",
-    "6. Intra-ovarian pollination",
-    "7. Fellowship of Royal Society (FRS)",
-    "8. Indian National Science Academy",
-    "9. First Biology textbooks",
-    "10. NCERT (1964)"
-  ],
-  "column_B": [
-    "A. Popularised in taxonomy by Maheshwari",
-    "B. Established as research centre in embryology",
-    "C. Artificial culture work initiated",
-    "D. Landmark in science today",
-    "E. Won worldwide acclaim",
-    "F. Also won worldwide acclaim",
-    "G. Honoured by this UK institution",
-    "H. Honoured by this Indian institution",
-    "I. Contribution to school education",
-    "J. Published for Higher Secondary Schools"
-  ],
-  "answers": {
-    "1": "A",
-    "2": "B",
-    "3": "C",
-    "4": "D",
-    "5": "E",
-    "6": "F",
-    "7": "G",
-    "8": "H",
-    "9": "I",
-    "10": "J"
-  },
-  "word_count_covered": 95
-}
+
+
+
+
