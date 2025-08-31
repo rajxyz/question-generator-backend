@@ -1,1 +1,82 @@
-ok
+[
+  {
+    "question": "Match the following phrases with their correct NCERT-based meanings or functions:",
+    "column_I": [
+      "Sexual reproduction in plants",
+      "Myriads of flowers",
+      "Scents and perfumes",
+      "Rich colours",
+      "Aid to sexual reproduction",
+      "Not for our selfishness",
+      "All flowering plants",
+      "Diversity of floral parts",
+      "Adaptations",
+      "Fruits and seeds"
+    ],
+    "column_II": [
+      "Reason for floral characteristics like colour",
+      "We enjoy gazing at them",
+      "We swoon over them",
+      "Attract us visually",
+      "Contribute to plant reproduction",
+      "Flowers do not exist only for us",
+      "Show sexual reproduction",
+      "Seen in inflorescences and flowers",
+      "Ensure formation of reproductive end products",
+      "End products of sexual reproduction"
+    ],
+    "matches": [
+      "Sexual reproduction in plants–Reason for floral characteristics like colour",
+      "Myriads of flowers–We enjoy gazing at them",
+      "Scents and perfumes–We swoon over them",
+      "Rich colours–Attract us visually",
+      "Aid to sexual reproduction–Contribute to plant reproduction",
+      "Not for our selfishness–Flowers do not exist only for us",
+      "All flowering plants–Show sexual reproduction",
+      "Diversity of floral parts–Seen in inflorescences and flowers",
+      "Adaptations–Ensure formation of reproductive end products",
+      "Fruits and seeds–End products of sexual reproduction"
+    ],
+    "answer": "Sexual reproduction in plants–Reason for floral characteristics like colour, Myriads of flowers–We enjoy gazing at them, Scents and perfumes–We swoon over them, Rich colours–Attract us visually, Aid to sexual reproduction–Contribute to plant reproduction, Not for our selfishness–Flowers do not exist only for us, All flowering plants–Show sexual reproduction, Diversity of floral parts–Seen in inflorescences and flowers, Adaptations–Ensure formation of reproductive end products, Fruits and seeds–End products of sexual reproduction"
+  },
+  {
+    "question": "Match the following flower-related terms with their correct NCERT-based meanings or contexts:",
+    "column_I": [
+      "Human beings",
+      "Flowers",
+      "Aesthetic and ornamental value",
+      "Social and religious value",
+      "Cultural value",
+      "Symbols for feelings",
+      "Floriculture",
+      "Morphological marvels",
+      "Embryological marvels",
+      "Sites of sexual reproduction"
+    ],
+    "column_II": [
+      "Have had an intimate relationship with flowers",
+      "Used since time immemorial",
+      "Make homes and gardens beautiful",
+      "Used in ceremonies and traditions",
+      "Hold importance in cultural expressions",
+      "Convey love, affection, grief, mourning",
+      "Refers to cultivation and management of flowers",
+      "As viewed by a biologist",
+      "Reflect complex internal structure",
+      "Functional reproductive role in plants"
+    ],
+    "matches": [
+      "Human beings–Have had an intimate relationship with flowers",
+      "Flowers–Used since time immemorial",
+      "Aesthetic and ornamental value–Make homes and gardens beautiful",
+      "Social and religious value–Used in ceremonies and traditions",
+      "Cultural value–Hold importance in cultural expressions",
+      "Symbols for feelings–Convey love, affection, grief, mourning",
+      "Floriculture–Refers to cultivation and management of flowers",
+      "Morphological marvels–As viewed by a biologist",
+      "Embryological marvels–Reflect complex internal structure",
+      "Sites of sexual reproduction–Functional reproductive role in plants"
+    ],
+    "answer": "Human beings–Have had an intimate relationship with flowers, Flowers–Used since time immemorial, Aesthetic and ornamental value–Make homes and gardens beautiful, Social and religious value–Used in ceremonies and traditions, Cultural value–Hold importance in cultural expressions, Symbols for feelings–Convey love, affection, grief, mourning, Floriculture–Refers to cultivation and management of flowers, Morphological marvels–As viewed by a biologist, Embryological marvels–Reflect complex internal structure, Sites of sexual reproduction–Functional reproductive role in plants"
+  }
+]
