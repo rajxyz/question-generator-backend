@@ -1,1 +1,107 @@
-ok
+[
+  {
+    "question": "Match the following male external genital terms with their NCERT-based descriptions:",
+    "column_I": [
+      "Penis",
+      "Tissue of penis",
+      "Function of penis tissue",
+      "Glans penis"
+    ],
+    "column_II": [
+      "Male external genitalia",
+      "Special tissue",
+      "Helps in erection to facilitate insemination",
+      "Enlarged end of penis"
+    ],
+    "matches": [
+      "Penis–Male external genitalia",
+      "Tissue of penis–Special tissue",
+      "Function of penis tissue–Helps in erection to facilitate insemination",
+      "Glans penis–Enlarged end of penis"
+    ]
+  },
+  {
+    "question": "Match the following male accessory gland terms with their NCERT-based descriptions:",
+    "column_I": [
+      "Foreskin",
+      "Male accessory glands",
+      "Seminal plasma components",
+      "Function of bulbourethral gland secretions"
+    ],
+    "column_II": [
+      "Loose fold of skin covering glans penis",
+      "Seminal vesicles, prostate, bulbourethral glands",
+      "Fructose, calcium and certain enzymes",
+      "Helps in lubrication of the penis"
+    ],
+    "matches": [
+      "Foreskin–Loose fold of skin covering glans penis",
+      "Male accessory glands–Seminal vesicles, prostate, bulbourethral glands",
+      "Seminal plasma components–Fructose, calcium and certain enzymes",
+      "Function of bulbourethral gland secretions–Helps in lubrication of the penis"
+    ]
+  },
+  {
+    "question": "Match the following female reproductive system terms with their NCERT-based descriptions:",
+    "column_I": [
+      "Female reproductive system parts",
+      "Location of female reproductive system",
+      "Additional organs",
+      "Integration of organs"
+    ],
+    "column_II": [
+      "Ovaries, oviducts, uterus, cervix, vagina, external genitalia",
+      "Pelvic region",
+      "Mammary glands",
+      "Support ovulation, fertilisation, pregnancy, birth, child care"
+    ],
+    "matches": [
+      "Female reproductive system parts–Ovaries, oviducts, uterus, cervix, vagina, external genitalia",
+      "Location of female reproductive system–Pelvic region",
+      "Additional organs–Mammary glands",
+      "Integration of organs–Support ovulation, fertilisation, pregnancy, birth, child care"
+    ]
+  },
+  {
+    "question": "Match the following ovary-related terms with their NCERT-based descriptions:",
+    "column_I": [
+      "Primary female sex organs",
+      "Function of ovaries",
+      "Ovary location",
+      "Ovary length"
+    ],
+    "column_II": [
+      "Ovaries",
+      "Produce ovum and ovarian hormones",
+      "One on each side of lower abdomen",
+      "About 2 to 4 cm"
+    ],
+    "matches": [
+      "Primary female sex organs–Ovaries",
+      "Function of ovaries–Produce ovum and ovarian hormones",
+      "Ovary location–One on each side of lower abdomen",
+      "Ovary length–About 2 to 4 cm"
+    ]
+  },
+  {
+    "question": "Match the following ovary structure terms with NCERT-based descriptions:",
+    "column_I": [
+      "Ovary connections",
+      "Covering of ovary",
+      "Ovarian stroma",
+      "Zones of stroma"
+    ],
+    "column_II": [
+      "Ligaments connect ovary to pelvic wall and uterus",
+      "Thin epithelium",
+      "Enclosed by epithelium",
+      "Peripheral cortex and inner medulla"
+    ],
+    "matches": [
+      "Ovary connections–Ligaments connect ovary to pelvic wall and uterus",
+      "Covering of ovary–Thin epithelium",
+      "Ovarian stroma–Enclosed by epithelium",
+      "Zones of stroma–Peripheral cortex and inner medulla"
+    ]
+  }
+]
