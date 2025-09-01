@@ -1,50 +1,59 @@
 [
   {
-    "question": "Match the following:",
-    "columnA": [
+    "question": "Match the following external female genitalia terms with their NCERT-based descriptions:",
+    "column_I": [
       "Mons pubis",
       "Labia majora",
       "Labia minora",
       "Hymen",
       "Clitoris"
     ],
-    "columnB": [
+    "column_II": [
+      "Cushion of fatty tissue covered by skin and pubic hair",
       "Fleshy folds of tissue surrounding the vaginal opening",
       "Paired folds of tissue under the labia majora",
-      "Tiny finger-like structure above the urethral opening",
-      "Cushion of fatty tissue covered by skin and pubic hair",
-      "Membrane partially covering the vaginal opening"
+      "Membrane partially covering the vaginal opening",
+      "Tiny finger-like structure above the urethral opening"
     ],
-    "answer": {
-      "Mons pubis": "Cushion of fatty tissue covered by skin and pubic hair",
-      "Labia majora": "Fleshy folds of tissue surrounding the vaginal opening",
-      "Labia minora": "Paired folds of tissue under the labia majora",
-      "Hymen": "Membrane partially covering the vaginal opening",
-      "Clitoris": "Tiny finger-like structure above the urethral opening"
-    }
+    "matches": [
+      "Mons pubis–Cushion of fatty tissue covered by skin and pubic hair",
+      "Labia majora–Fleshy folds of tissue surrounding the vaginal opening",
+      "Labia minora–Paired folds of tissue under the labia majora",
+      "Hymen–Membrane partially covering the vaginal opening",
+      "Clitoris–Tiny finger-like structure above the urethral opening"
+    ]
   },
   {
-    "question": "Match the following:",
-    "columnA": [
+    "question": "Match the following hymen-related facts with their NCERT-based descriptions:",
+    "column_I": [
       "Hymen can be torn during",
       "Hymen may remain intact after",
       "One sport that can tear the hymen",
       "Presence or absence of hymen",
       "Insertion of a vaginal tampon"
     ],
-    "columnB": [
+    "column_II": [
       "Coitus (intercourse)",
-      "Is not a reliable indicator of virginity",
-      "Can tear the hymen",
+      "May not affect the hymen in some women",
       "Horseback riding",
-      "May not affect the hymen in some women"
+      "Is not a reliable indicator of virginity",
+      "Can tear the hymen"
     ],
-    "answer": {
-      "Hymen can be torn during": "Coitus (intercourse)",
-      "Hymen may remain intact after": "May not affect the hymen in some women",
-      "One sport that can tear the hymen": "Horseback riding",
-      "Presence or absence of hymen": "Is not a reliable indicator of virginity",
-      "Insertion of a vaginal tampon": "Can tear the hymen"
-    }
+    "matches": [
+      "Hymen can be torn during–Coitus (intercourse)",
+      "Hymen may remain intact after–May not affect the hymen in some women",
+      "One sport that can tear the hymen–Horseback riding",
+      "Presence or absence of hymen–Is not a reliable indicator of virginity",
+      "Insertion of a vaginal tampon–Can tear the hymen"
+    ]
   }
 ]
+
+
+
+
+
+
+
+
+
