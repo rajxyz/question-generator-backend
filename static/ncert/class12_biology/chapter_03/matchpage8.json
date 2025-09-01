@@ -1,26 +1,33 @@
 [
   {
-    "question": "Match the following:",
-    "columnA": [
+    "question": "Match the following secondary oocyte and follicle-related terms with their NCERT-based descriptions:",
+    "column_I": [
       "Secondary oocyte cytoplasm",
       "Fate of first polar body",
       "Tertiary follicle changes into",
       "Membrane formed by secondary oocyte",
       "Process of release of secondary oocyte"
     ],
-    "columnB": [
+    "column_II": [
       "Retains bulk of nutrient rich cytoplasm of primary oocyte",
       "Uncertain if divides further or degenerates",
       "Mature follicle or Graafian follicle",
       "Zona pellucida",
       "Ovulation"
     ],
-    "answer": {
-      "Secondary oocyte cytoplasm": "Retains bulk of nutrient rich cytoplasm of primary oocyte",
-      "Fate of first polar body": "Uncertain if divides further or degenerates",
-      "Tertiary follicle changes into": "Mature follicle or Graafian follicle",
-      "Membrane formed by secondary oocyte": "Zona pellucida",
-      "Process of release of secondary oocyte": "Ovulation"
-    }
+    "matches": [
+      "Secondary oocyte cytoplasm–Retains bulk of nutrient rich cytoplasm of primary oocyte",
+      "Fate of first polar body–Uncertain if divides further or degenerates",
+      "Tertiary follicle changes into–Mature follicle or Graafian follicle",
+      "Membrane formed by secondary oocyte–Zona pellucida",
+      "Process of release of secondary oocyte–Ovulation"
+    ]
   }
 ]
+
+
+
+
+
+
+
