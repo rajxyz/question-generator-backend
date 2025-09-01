@@ -1,74 +1,85 @@
 [
   {
-    "question": "Match the following:",
-    "columnA": [
+    "question": "Match the following male reproductive and spermatogenesis terms with their NCERT-based descriptions:",
+    "column_I": [
       "Primary sex organs",
       "Process of sperm formation",
       "Cells multiplying by mitosis",
       "Diploid germ cell",
       "Cell formed after first meiotic division"
     ],
-    "columnB": [
+    "column_II": [
       "Testis and ovaries",
       "Spermatogenesis",
       "Spermatogonia",
       "Primary spermatocyte",
       "Secondary spermatocyte"
     ],
-    "answer": {
-      "Primary sex organs": "Testis and ovaries",
-      "Process of sperm formation": "Spermatogenesis",
-      "Cells multiplying by mitosis": "Spermatogonia",
-      "Diploid germ cell": "Primary spermatocyte",
-      "Cell formed after first meiotic division": "Secondary spermatocyte"
-    }
+    "matches": [
+      "Primary sex organs–Testis and ovaries",
+      "Process of sperm formation–Spermatogenesis",
+      "Cells multiplying by mitosis–Spermatogonia",
+      "Diploid germ cell–Primary spermatocyte",
+      "Cell formed after first meiotic division–Secondary spermatocyte"
+    ]
   },
   {
-    "question": "Match the following:",
-    "columnA": [
+    "question": "Match the following sperm development terms with their NCERT-based descriptions:",
+    "column_I": [
       "Haploid product of second meiotic division",
       "Process converting spermatids to sperm",
       "Embedded sperm heads",
       "Process of sperm release",
       "Triggers spermatogenesis at puberty"
     ],
-    "columnB": [
+    "column_II": [
       "Spermatids",
       "Spermiogenesis",
       "Sertoli cells",
       "Spermiation",
       "GnRH"
     ],
-    "answer": {
-      "Haploid product of second meiotic division": "Spermatids",
-      "Process converting spermatids to sperm": "Spermiogenesis",
-      "Embedded sperm heads": "Sertoli cells",
-      "Process of sperm release": "Spermiation",
-      "Triggers spermatogenesis at puberty": "GnRH"
-    }
+    "matches": [
+      "Haploid product of second meiotic division–Spermatids",
+      "Process converting spermatids to sperm–Spermiogenesis",
+      "Embedded sperm heads–Sertoli cells",
+      "Process of sperm release–Spermiation",
+      "Triggers spermatogenesis at puberty–GnRH"
+    ]
   },
   {
-    "question": "Match the following:",
-    "columnA": [
+    "question": "Match the following hormonal actions in male reproductive system with their NCERT-based roles:",
+    "column_I": [
       "GnRH acts on",
       "Stimulates secretion of gonadotropins",
       "Acts on Leydig cells",
       "Stimulates spermatogenesis",
       "Stimulates Sertoli cells"
     ],
-    "columnB": [
+    "column_II": [
       "Anterior pituitary",
       "Hypothalamic hormone",
       "LH",
       "Androgens",
       "FSH"
     ],
-    "answer": {
-      "GnRH acts on": "Anterior pituitary",
-      "Stimulates secretion of gonadotropins": "Hypothalamic hormone",
-      "Acts on Leydig cells": "LH",
-      "Stimulates spermatogenesis": "Androgens",
-      "Stimulates Sertoli cells": "FSH"
-    }
+    "matches": [
+      "GnRH acts on–Anterior pituitary",
+      "Stimulates secretion of gonadotropins–Hypothalamic hormone",
+      "Acts on Leydig cells–LH",
+      "Stimulates spermatogenesis–Androgens",
+      "Stimulates Sertoli cells–FSH"
+    ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
