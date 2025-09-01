@@ -1,1 +1,212 @@
-ok
+[
+  {
+    "question": "Match the following male reproductive system terms with their NCERT-based descriptions:",
+    "column_I": [
+      "Location of male reproductive system",
+      "Components of male reproductive system",
+      "Position of testes",
+      "Pouch enclosing the testes"
+    ],
+    "column_II": [
+      "Pelvis region",
+      "Testes, accessory ducts, glands and external genitalia",
+      "Outside the abdominal cavity",
+      "Scrotum"
+    ],
+    "matches": [
+      "Location of male reproductive system–Pelvis region",
+      "Components of male reproductive system–Testes, accessory ducts, glands and external genitalia",
+      "Position of testes–Outside the abdominal cavity",
+      "Pouch enclosing the testes–Scrotum"
+    ]
+  },
+  {
+    "question": "Match the following testis-related terms with their NCERT-based descriptions:",
+    "column_I": [
+      "Function of scrotum",
+      "Required temperature for spermatogenesis",
+      "Shape of each testis in adults",
+      "Length of testis"
+    ],
+    "column_II": [
+      "Helps in maintaining low temperature of testes",
+      "2–2.5°C lower than normal body temperature",
+      "Oval",
+      "About 4 to 5 cm"
+    ],
+    "matches": [
+      "Function of scrotum–Helps in maintaining low temperature of testes",
+      "Required temperature for spermatogenesis–2–2.5°C lower than normal body temperature",
+      "Shape of each testis in adults–Oval",
+      "Length of testis–About 4 to 5 cm"
+    ]
+  },
+  {
+    "question": "Match the following testis structure terms with NCERT-based descriptions:",
+    "column_I": [
+      "Width of testis",
+      "Covering of testis",
+      "Number of compartments in each testis",
+      "Name of compartments in testis"
+    ],
+    "column_II": [
+      "About 2 to 3 cm",
+      "Dense covering",
+      "About 250",
+      "Testicular lobules"
+    ],
+    "matches": [
+      "Width of testis–About 2 to 3 cm",
+      "Covering of testis–Dense covering",
+      "Number of compartments in each testis–About 250",
+      "Name of compartments in testis–Testicular lobules"
+    ]
+  },
+  {
+    "question": "Match the following seminiferous tubule terms with NCERT-based descriptions:",
+    "column_I": [
+      "Contents of each testicular lobule",
+      "Site of sperm production",
+      "Lining cells of seminiferous tubules",
+      "Function of male germ cells"
+    ],
+    "column_II": [
+      "One to three seminiferous tubules",
+      "Seminiferous tubules",
+      "Male germ cells and Sertoli cells",
+      "Undergo meiotic divisions to form sperms"
+    ],
+    "matches": [
+      "Contents of each testicular lobule–One to three seminiferous tubules",
+      "Site of sperm production–Seminiferous tubules",
+      "Lining cells of seminiferous tubules–Male germ cells and Sertoli cells",
+      "Function of male germ cells–Undergo meiotic divisions to form sperms"
+    ]
+  },
+  {
+    "question": "Match the following interstitial cell terms with NCERT-based descriptions:",
+    "column_I": [
+      "Function of Sertoli cells",
+      "Region outside seminiferous tubules",
+      "Cells found in interstitial spaces",
+      "Function of Leydig cells"
+    ],
+    "column_II": [
+      "Provide nutrition to germ cells",
+      "Interstitial spaces",
+      "Leydig cells and small blood vessels",
+      "Synthesize and secrete androgens"
+    ],
+    "matches": [
+      "Function of Sertoli cells–Provide nutrition to germ cells",
+      "Region outside seminiferous tubules–Interstitial spaces",
+      "Cells found in interstitial spaces–Leydig cells and small blood vessels",
+      "Function of Leydig cells–Synthesize and secrete androgens"
+    ]
+  },
+  {
+    "question": "Match the following Leydig cell and accessory terms with NCERT-based descriptions:",
+    "column_I": [
+      "Hormones secreted by Leydig cells",
+      "Other cells in interstitial space",
+      "Function of androgens",
+      "Figure showing seminiferous tubule structure"
+    ],
+    "column_II": [
+      "Androgens",
+      "Immunologically competent cells",
+      "Testicular hormones",
+      "Figure 2.2"
+    ],
+    "matches": [
+      "Hormones secreted by Leydig cells–Androgens",
+      "Other cells in interstitial space–Immunologically competent cells",
+      "Function of androgens–Testicular hormones",
+      "Figure showing seminiferous tubule structure–Figure 2.2"
+    ]
+  },
+  {
+    "question": "Match the following male accessory duct terms with NCERT-based descriptions:",
+    "column_I": [
+      "Sex accessory ducts",
+      "Connection between seminiferous tubules and vasa efferentia",
+      "Ducts that leave the testis",
+      "Location of epididymis"
+    ],
+    "column_II": [
+      "Rete testis, vasa efferentia, epididymis, vas deferens",
+      "Rete testis",
+      "Vasa efferentia",
+      "Posterior surface of each testis"
+    ],
+    "matches": [
+      "Sex accessory ducts–Rete testis, vasa efferentia, epididymis, vas deferens",
+      "Connection between seminiferous tubules and vasa efferentia–Rete testis",
+      "Ducts that leave the testis–Vasa efferentia",
+      "Location of epididymis–Posterior surface of each testis"
+    ]
+  },
+  {
+    "question": "Match the following vas deferens terms with NCERT-based descriptions:",
+    "column_I": [
+      "Epididymis leads to",
+      "Vas deferens ascends to",
+      "Vas deferens loops over",
+      "Vas deferens receives a duct from"
+    ],
+    "column_II": [
+      "Vasa efferentia",
+      "Abdomen",
+      "Urinary bladder",
+      "Seminal vesicle"
+    ],
+    "matches": [
+      "Epididymis leads to–Vasa efferentia",
+      "Vas deferens ascends to–Abdomen",
+      "Vas deferens loops over–Urinary bladder",
+      "Vas deferens receives a duct from–Seminal vesicle"
+    ]
+  },
+  {
+    "question": "Match the following urethra terms with NCERT-based descriptions:",
+    "column_I": [
+      "Ejaculatory duct opens into",
+      "Function of accessory ducts",
+      "Urethra originates from",
+      "Urethra extends through"
+    ],
+    "column_II": [
+      "Urethra",
+      "Store and transport sperms",
+      "Urinary bladder",
+      "Penis"
+    ],
+    "matches": [
+      "Ejaculatory duct opens into–Urethra",
+      "Function of accessory ducts–Store and transport sperms",
+      "Urethra originates from–Urinary bladder",
+      "Urethra extends through–Penis"
+    ]
+  },
+  {
+    "question": "Match the following external male genital terms with NCERT-based descriptions:",
+    "column_I": [
+      "External opening of urethra",
+      "Urethra passes through",
+      "Duct opening into urethra",
+      "Figure showing ducts and urinary bladder"
+    ],
+    "column_II": [
+      "Urethral meatus",
+      "Penis",
+      "Ejaculatory duct",
+      "Figure 2.1a"
+    ],
+    "matches": [
+      "External opening of urethra–Urethral meatus",
+      "Urethra passes through–Penis",
+      "Duct opening into urethra–Ejaculatory duct",
+      "Figure showing ducts and urinary bladder–Figure 2.1a"
+    ]
+  }
+]
