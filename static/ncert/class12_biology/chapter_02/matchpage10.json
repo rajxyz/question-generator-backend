@@ -1,1 +1,134 @@
-ok
+[
+  {
+    "question": "Match the following from megasporogenesis:",
+    "column_I": [
+      "Megasporogenesis",
+      "MMC",
+      "Meiosis",
+      "Megaspores"
+    ],
+    "column_II": [
+      "Formation of megaspores",
+      "Megaspore mother cell",
+      "Division in MMC",
+      "Four formed"
+    ],
+    "matches": [
+      "Megasporogenesis–Formation of megaspores",
+      "MMC–Megaspore mother cell",
+      "Meiosis–Division in MMC",
+      "Megaspores–Four formed"
+    ],
+    "answer": "Megasporogenesis–Formation of megaspores, MMC–Megaspore mother cell, Meiosis–Division in MMC, Megaspores–Four formed"
+  },
+  {
+    "question": "Match the following parts and locations:",
+    "column_I": [
+      "MMC",
+      "Location",
+      "Cytoplasm",
+      "Nucleus"
+    ],
+    "column_II": [
+      "Large cell",
+      "Micropylar region",
+      "Dense",
+      "Prominent"
+    ],
+    "matches": [
+      "MMC–Large cell",
+      "Location–Micropylar region",
+      "Cytoplasm–Dense",
+      "Nucleus–Prominent"
+    ],
+    "answer": "MMC–Large cell, Location–Micropylar region, Cytoplasm–Dense, Nucleus–Prominent"
+  },
+  {
+    "question": "Match the following events during meiosis:",
+    "column_I": [
+      "MMC",
+      "Meiosis",
+      "Product",
+      "Figure 1.8a"
+    ],
+    "column_II": [
+      "Mother cell",
+      "Nuclear division",
+      "Four megaspores",
+      "Megaspore formation"
+    ],
+    "matches": [
+      "MMC–Mother cell",
+      "Meiosis–Nuclear division",
+      "Product–Four megaspores",
+      "Figure 1.8a–Megaspore formation"
+    ],
+    "answer": "MMC–Mother cell, Meiosis–Nuclear division, Product–Four megaspores, Figure 1.8a–Megaspore formation"
+  },
+  {
+    "question": "Match the following megaspore outcomes:",
+    "column_I": [
+      "Functional megaspore",
+      "Other megaspores",
+      "Embryo sac",
+      "Female gametophyte"
+    ],
+    "column_II": [
+      "Develops further",
+      "Degenerate",
+      "Formed from megaspore",
+      "Another name"
+    ],
+    "matches": [
+      "Functional megaspore–Develops further",
+      "Other megaspores–Degenerate",
+      "Embryo sac–Formed from megaspore",
+      "Female gametophyte–Another name"
+    ],
+    "answer": "Functional megaspore–Develops further, Other megaspores–Degenerate, Embryo sac–Formed from megaspore, Female gametophyte–Another name"
+  },
+  {
+    "question": "Match the following developmental terms:",
+    "column_I": [
+      "Monosporic",
+      "Development",
+      "Embryo sac",
+      "Haploid"
+    ],
+    "column_II": [
+      "Single megaspore",
+      "From functional megaspore",
+      "Female gametophyte",
+      "Ploidy of megaspore"
+    ],
+    "matches": [
+      "Monosporic–Single megaspore",
+      "Development–From functional megaspore",
+      "Embryo sac–Female gametophyte",
+      "Haploid–Ploidy of megaspore"
+    ],
+    "answer": "Monosporic–Single megaspore, Development–From functional megaspore, Embryo sac–Female gametophyte, Haploid–Ploidy of megaspore"
+  },
+  {
+    "question": "Match the ploidy of each structure:",
+    "column_I": [
+      "Nucellus",
+      "MMC",
+      "Functional megaspore",
+      "Female gametophyte"
+    ],
+    "column_II": [
+      "Diploid",
+      "Diploid",
+      "Haploid",
+      "Haploid"
+    ],
+    "matches": [
+      "Nucellus–Diploid",
+      "MMC–Diploid",
+      "Functional megaspore–Haploid",
+      "Female gametophyte–Haploid"
+    ],
+    "answer": "Nucellus–Diploid, MMC–Diploid, Functional megaspore–Haploid, Female gametophyte–Haploid"
+  }
+]
