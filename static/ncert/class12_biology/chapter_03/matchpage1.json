@@ -1,1 +1,46 @@
-ok
+[
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Gametogenesis",
+      "Insemination",
+      "Fertilisation",
+      "Implantation"
+    ],
+    "column_II": [
+      "Formation of gametes (sperms/ovum)",
+      "Transfer of sperms into female genital tract",
+      "Fusion of male and female gametes",
+      "Attachment of blastocyst to uterine wall"
+    ],
+    "matches": [
+      "Gametogenesis–Formation of gametes (sperms/ovum)",
+      "Insemination–Transfer of sperms into female genital tract",
+      "Fertilisation–Fusion of male and female gametes",
+      "Implantation–Attachment of blastocyst to uterine wall"
+    ],
+    "answer": "Gametogenesis–Formation of gametes (sperms/ovum), Insemination–Transfer of sperms into female genital tract, Fertilisation–Fusion of male and female gametes, Implantation–Attachment of blastocyst to uterine wall"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Blastocyst development",
+      "Gestation",
+      "Parturition",
+      "Ovum formation in females"
+    ],
+    "column_II": [
+      "Development of blastocyst after zygote formation",
+      "Embryonic development",
+      "Delivery of the baby",
+      "Ceases around age of fifty years"
+    ],
+    "matches": [
+      "Blastocyst development–Development of blastocyst after zygote formation",
+      "Gestation–Embryonic development",
+      "Parturition–Delivery of the baby",
+      "Ovum formation in females–Ceases around age of fifty years"
+    ],
+    "answer": "Blastocyst development–Development of blastocyst after zygote formation, Gestation–Embryonic development, Parturition–Delivery of the baby, Ovum formation in females–Ceases around age of fifty years"
+  }
+]
