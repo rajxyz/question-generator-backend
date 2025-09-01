@@ -1,8 +1,182 @@
-
-
-
-
-
+[
+  {
+    "question": "Match the following components of embryo sac structure:",
+    "column_I": ["Micropylar end", "Chalazal end", "Central cell", "Embryo sac at maturity"],
+    "column_II": ["Egg apparatus", "Antipodals", "Two polar nuclei", "8-nucleate, 7-celled"],
+    "matches": [
+      "Micropylar end–Egg apparatus",
+      "Chalazal end–Antipodals",
+      "Central cell–Two polar nuclei",
+      "Embryo sac at maturity–8-nucleate, 7-celled"
+    ],
+    "answer": "Micropylar end–Egg apparatus, Chalazal end–Antipodals, Central cell–Two polar nuclei, Embryo sac at maturity–8-nucleate, 7-celled"
+  },
+  {
+    "question": "Match the following cell grouping in embryo sac:",
+    "column_I": ["Micropylar group", "Chalazal group", "Middle cell", "Functional megaspore fate"],
+    "column_II": ["Egg apparatus", "Antipodals", "Central cell", "Forms embryo sac"],
+    "matches": [
+      "Micropylar group–Egg apparatus",
+      "Chalazal group–Antipodals",
+      "Middle cell–Central cell",
+      "Functional megaspore fate–Forms embryo sac"
+    ],
+    "answer": "Micropylar group–Egg apparatus, Chalazal group–Antipodals, Middle cell–Central cell, Functional megaspore fate–Forms embryo sac"
+  },
+  {
+    "question": "Match the following gamete production sites:",
+    "column_I": ["Male gametes", "Female gametes", "Pollen grain", "Embryo sac"],
+    "column_II": ["Produced in pollen grain", "Produced in embryo sac", "Male gamete site", "Female gamete site"],
+    "matches": [
+      "Male gametes–Produced in pollen grain",
+      "Female gametes–Produced in embryo sac",
+      "Pollen grain–Male gamete site",
+      "Embryo sac–Female gamete site"
+    ],
+    "answer": "Male gametes–Produced in pollen grain, Female gametes–Produced in embryo sac, Pollen grain–Male gamete site, Embryo sac–Female gamete site"
+  },
+  {
+    "question": "Match the following for fertilisation in plants:",
+    "column_I": ["Male gametes", "Female gametes", "Non-motile gametes", "Fertilisation"],
+    "column_II": ["Need to be brought together", "Produced in embryo sac", "Cannot move on their own", "Fusion of gametes"],
+    "matches": [
+      "Male gametes–Need to be brought together",
+      "Female gametes–Produced in embryo sac",
+      "Non-motile gametes–Cannot move on their own",
+      "Fertilisation–Fusion of gametes"
+    ],
+    "answer": "Male gametes–Need to be brought together, Female gametes–Produced in embryo sac, Non-motile gametes–Cannot move on their own, Fertilisation–Fusion of gametes"
+  },
+  {
+    "question": "Match the following based on pollination purpose:",
+    "column_I": ["Pollination", "Gamete transfer", "Objective of pollination", "Fusion"],
+    "column_II": ["Mechanism to bring gametes together", "Via pollination", "Fertilisation", "Gametes must meet"],
+    "matches": [
+      "Pollination–Mechanism to bring gametes together",
+      "Gamete transfer–Via pollination",
+      "Objective of pollination–Fertilisation",
+      "Fusion–Gametes must meet"
+    ],
+    "answer": "Pollination–Mechanism to bring gametes together, Gamete transfer–Via pollination, Objective of pollination–Fertilisation, Fusion–Gametes must meet"
+  },
+  {
+    "question": "Match the following pollination steps:",
+    "column_I": ["Pollen grains", "Anther", "Stigma", "Pistil"],
+    "column_II": ["Shed from anther", "Releases pollen", "Receives pollen", "Part of flower"],
+    "matches": [
+      "Pollen grains–Shed from anther",
+      "Anther–Releases pollen",
+      "Stigma–Receives pollen",
+      "Pistil–Part of flower"
+    ],
+    "answer": "Pollen grains–Shed from anther, Anther–Releases pollen, Stigma–Receives pollen, Pistil–Part of flower"
+  },
+  {
+    "question": "Match the following regarding definition of pollination:",
+    "column_I": ["Pollination", "Pollen grain transfer", "Anther", "Stigma"],
+    "column_II": ["To stigma of pistil", "From anther to stigma", "Releases pollen grains", "Receives pollen grains"],
+    "matches": [
+      "Pollination–To stigma of pistil",
+      "Pollen grain transfer–From anther to stigma",
+      "Anther–Releases pollen grains",
+      "Stigma–Receives pollen grains"
+    ],
+    "answer": "Pollination–To stigma of pistil, Pollen grain transfer–From anther to stigma, Anther–Releases pollen grains, Stigma–Receives pollen grains"
+  },
+  {
+    "question": "Match the following plant reproductive adaptations:",
+    "column_I": ["Flowering plants", "Pollination adaptations", "External agents", "Pollen transfer"],
+    "column_II": ["Have evolved mechanisms", "Help achieve pollination", "Used in pollination", "Occurs via agents"],
+    "matches": [
+      "Flowering plants–Have evolved mechanisms",
+      "Pollination adaptations–Help achieve pollination",
+      "External agents–Used in pollination",
+      "Pollen transfer–Occurs via agents"
+    ],
+    "answer": "Flowering plants–Have evolved mechanisms, Pollination adaptations–Help achieve pollination, External agents–Used in pollination, Pollen transfer–Occurs via agents"
+  },
+  {
+    "question": "Match the following about pollination aids:",
+    "column_I": ["Wind", "Insects", "Water", "Animals"],
+    "column_II": ["External agents of pollination", "Aid pollen transfer", "Used by flowering plants", "Natural pollinators"],
+    "matches": [
+      "Wind–External agents of pollination",
+      "Insects–Aid pollen transfer",
+      "Water–Used by flowering plants",
+      "Animals–Natural pollinators"
+    ],
+    "answer": "Wind–External agents of pollination, Insects–Aid pollen transfer, Water–Used by flowering plants, Animals–Natural pollinators"
+  },
+  {
+    "question": "Match the following structural parts of pollination:",
+    "column_I": ["Anther", "Stigma", "Pistil", "Flower"],
+    "column_II": ["Produces pollen", "Receives pollen", "Female reproductive part", "Pollination site"],
+    "matches": [
+      "Anther–Produces pollen",
+      "Stigma–Receives pollen",
+      "Pistil–Female reproductive part",
+      "Flower–Pollination site"
+    ],
+    "answer": "Anther–Produces pollen, Stigma–Receives pollen, Pistil–Female reproductive part, Flower–Pollination site"
+  },
+  {
+    "question": "Match the following events in pollination process:",
+    "column_I": ["Pollen grain", "Released from", "Reaches", "Via"],
+    "column_II": ["Anther", "Anther", "Stigma", "Pollination"],
+    "matches": [
+      "Pollen grain–Anther",
+      "Released from–Anther",
+      "Reaches–Stigma",
+      "Via–Pollination"
+    ],
+    "answer": "Pollen grain–Anther, Released from–Anther, Reaches–Stigma, Via–Pollination"
+  },
+  {
+    "question": "Match the following for classification of agents:",
+    "column_I": ["Wind", "Insect", "Water", "Pollinating agents"],
+    "column_II": ["Abiotic", "Biotic", "Abiotic", "External"],
+    "matches": [
+      "Wind–Abiotic",
+      "Insect–Biotic",
+      "Water–Abiotic",
+      "Pollinating agents–External"
+    ],
+    "answer": "Wind–Abiotic, Insect–Biotic, Water–Abiotic, Pollinating agents–External"
+  },
+  {
+    "question": "Match the following types of agents used in pollination:",
+    "column_I": ["Biotic agents", "Abiotic agents", "Examples of biotic", "Examples of abiotic"],
+    "column_II": ["Animals, insects", "Wind, water", "Pollination help", "Non-living agents"],
+    "matches": [
+      "Biotic agents–Animals, insects",
+      "Abiotic agents–Wind, water",
+      "Examples of biotic–Pollination help",
+      "Examples of abiotic–Non-living agents"
+    ],
+    "answer": "Biotic agents–Animals, insects, Abiotic agents–Wind, water, Examples of biotic–Pollination help, Examples of abiotic–Non-living agents"
+  },
+  {
+    "question": "Match the following for reproductive strategy:",
+    "column_I": ["Pollination", "Gametes", "Non-motile", "Transfer"],
+    "column_II": ["Achieves fertilisation", "Need to meet", "Cannot move", "Via pollination"],
+    "matches": [
+      "Pollination–Achieves fertilisation",
+      "Gametes–Need to meet",
+      "Non-motile–Cannot move",
+      "Transfer–Via pollination"
+    ],
+    "answer": "Pollination–Achieves fertilisation, Gametes–Need to meet, Non-motile–Cannot move, Transfer–Via pollination"
+  },
+  {
+    "question": "Match the following definitions:",
+    "column_I": ["Pollination", "Anther", "Stigma", "Fertilisation"],
+    "column_II": ["Transfer of pollen to stigma", "Produces pollen grains", "Receives pollen grains", "Fusion of male and female gametes"],
+    "matches": [
+      "Pollination–Transfer of pollen to stigma",
+      "Anther–Produces pollen grains",
+      "Stigma–Receives pollen grains",
+      "Fertilisation–Fusion of male and female gametes"
+    ],
 "answer": "Pollination–Transfer of pollen to stigma, Anther–Produces pollen grains, Stigma–Receives pollen grains, Fertilisation–Fusion of male and female gametes"
   }
 ]
