@@ -1,0 +1,119 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Fungi",
+      "Fungi on a moist bread and rotten fruits",
+      "Common mushroom and toadstools",
+      "White spots on mustard leaves",
+      "Yeast"
+    ],
+    "columnB": [
+      "Constitute a unique kingdom of heterotrophic organisms",
+      "Are also fungi",
+      "Are due to a parasitic fungus",
+      "Are used to make bread and beer",
+      "Show a great diversity in morphology and habitat"
+    ],
+    "answer": {
+      "Fungi": "Constitute a unique kingdom of heterotrophic organisms",
+      "Fungi on a moist bread and rotten fruits": "Show a great diversity in morphology and habitat",
+      "Common mushroom and toadstools": "Are also fungi",
+      "White spots on mustard leaves": "Are due to a parasitic fungus",
+      "Yeast": "Are used to make bread and beer"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Other fungi",
+      "Wheat rust-causing Puccinia",
+      "Penicillium",
+      "Fungi occurrence",
+      "Preferred growth conditions of fungi"
+    ],
+    "columnB": [
+      "Cause diseases in plants and animals",
+      "Is an important example",
+      "Is a source of antibiotics",
+      "Are cosmopolitan and occur in air, water, soil and on animals and plants",
+      "Warm and humid places"
+    ],
+    "answer": {
+      "Other fungi": "Cause diseases in plants and animals",
+      "Wheat rust-causing Puccinia": "Is an important example",
+      "Penicillium": "Is a source of antibiotics",
+      "Fungi occurrence": "Are cosmopolitan and occur in air, water, soil and on animals and plants",
+      "Preferred growth conditions of fungi": "Warm and humid places"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Reason for keeping food in the refrigerator",
+      "Yeasts",
+      "Fungi body organisation",
+      "Hyphae",
+      "Mycelium"
+    ],
+    "columnB": [
+      "Prevent food from going bad due to bacterial or fungal infections",
+      "Are unicellular",
+      "Are filamentous",
+      "Are long, slender thread-like structures",
+      "Is the network of hyphae"
+    ],
+    "answer": {
+      "Reason for keeping food in the refrigerator": "Prevent food from going bad due to bacterial or fungal infections",
+      "Yeasts": "Are unicellular",
+      "Fungi body organisation": "Are filamentous",
+      "Hyphae": "Are long, slender thread-like structures",
+      "Mycelium": "Is the network of hyphae"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Coenocytic hyphae",
+      "Hyphae with septae",
+      "Fungal cell walls",
+      "Most fungi",
+      "Saprophytes"
+    ],
+    "columnB": [
+      "Continuous tubes filled with multinucleated cytoplasm",
+      "Have cross walls in their hyphae",
+      "Are composed of chitin and polysaccharides",
+      "Are heterotrophic and absorb soluble organic matter from dead substrates",
+      "Depend on dead substrates"
+    ],
+    "answer": {
+      "Coenocytic hyphae": "Continuous tubes filled with multinucleated cytoplasm",
+      "Hyphae with septae": "Have cross walls in their hyphae",
+      "Fungal cell walls": "Are composed of chitin and polysaccharides",
+      "Most fungi": "Are heterotrophic and absorb soluble organic matter from dead substrates",
+      "Saprophytes": "Depend on dead substrates"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Parasites",
+      "Symbionts",
+      "Lichens",
+      "Mycorrhiza"
+    ],
+    "columnB": [
+      "Depend on living plants and animals",
+      "Live in association with algae or roots of higher plants",
+      "Association of fungi with algae",
+      "Association of fungi with roots of higher plants"
+    ],
+    "answer": {
+      "Parasites": "Depend on living plants and animals",
+      "Symbionts": "Live in association with algae or roots of higher plants",
+      "Lichens": "Association of fungi with algae",
+      "Mycorrhiza": "Association of fungi with roots of higher plants"
+    }
+  }
+]
