@@ -1,47 +1,79 @@
 [
   {
-    "column_I": [
-      "A. Living world",
-      "B. Taxonomy",
-      "C. Identification, nomenclature and classification",
-      "D. Binomial system of nomenclature"
+    "assertion": "The living world is rich in variety.",
+    "reason": "Millions of plants and animals have been identified and described but a large number still remains unknown.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
     ],
-    "column_II": [
-      "1. Rich in variety",
-      "2. Branch of knowledge dealing with identification, nomenclature and classification",
-      "3. Rules and principles evolved by biologists",
-      "4. Scientific/biological name comprising two words"
-    ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
   },
   {
-    "column_I": [
-      "A. Taxonomic studies",
-      "B. International codes",
-      "C. Resemblances and distinct differences",
-      "D. Organism in classification"
+    "assertion": "The very range of organisms in terms of size, colour, habitat, physiological and morphological features make us seek the defining characteristics of living organisms.",
+    "reason": "In order to facilitate the study of kinds and diversity of organisms, biologists have evolved certain rules and principles for identification, nomenclature and classification of organisms.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
     ],
-    "column_II": [
-      "1. Useful in agriculture, forestry, industry and for knowing our bio-resources and their diversity",
-      "2. Universally evolved basics of taxonomy",
-      "3. Basis for identification and assignment of correct scientific name",
-      "4. Occupies a place or position in the system of classification"
-    ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
   },
   {
-    "column_I": [
-      "A. Taxonomic categories",
-      "B. Taxa",
-      "C. Categories/ranks",
-      "D. Taxonomic hierarchy"
+    "assertion": "The branch of knowledge dealing with identification, nomenclature and classification of organisms is referred to as taxonomy.",
+    "reason": "The taxonomic studies of various species of plants and animals are useful in agriculture, forestry, industry and in general for knowing our bio-resources and their diversity.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
     ],
-    "column_II": [
-      "1. Also referred to as taxa",
-      "2. Each organism assigned to one",
-      "3. Many categories/ranks",
-      "4. All the categories constitute it"
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "The basics of taxonomy like identification, naming and classification of organisms are universally evolved under international codes.",
+    "reason": "Based on the resemblances and distinct differences, each organism is identified and assigned a correct scientific/biological name comprising two words as per the binomial system of nomenclature.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
     ],
-    "matches": ["A–1", "B–2", "C–3", "D–4"]
+    "answer": "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "assertion": "An organism represents/occupies a place or position in the system of classification.",
+    "reason": "There are many categories/ranks which are generally referred to as taxonomic categories or taxa.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
+  },
+  {
+    "assertion": "All the categories constitute a taxonomic hierarchy.",
+    "reason": "There are many categories/ranks which are generally referred to as taxonomic categories or taxa.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion."
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
