@@ -1,44 +1,32 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
-      "All animals belonging to various phyla",
-      "Kingdom Plantae",
-      "Animal and plant kingdoms",
-      "Taxonomic categories from species to kingdom"
+    "matches": [
+      { "left": "All animals belonging to various phyla", "right": "Assigned to the highest category called Kingdom Animalia" },
+      { "left": "Kingdom Plantae", "right": "Comprises all plants from various divisions" },
+      { "left": "Animal and plant kingdoms", "right": "Henceforth referred to as two groups" },
+      { "left": "Taxonomic categories from species to kingdom", "right": "Shown in ascending order starting with species" }
     ],
-    "columnB": [
-      "Assigned to the highest category called Kingdom Animalia",
-      "Comprises all plants from various divisions",
-      "Henceforth referred to as two groups",
-      "Shown in ascending order starting with species"
-    ],
-    "answer": {
-      "All animals belonging to various phyla": "Assigned to the highest category called Kingdom Animalia",
-      "Kingdom Plantae": "Comprises all plants from various divisions",
-      "Animal and plant kingdoms": "Henceforth referred to as two groups",
-      "Taxonomic categories from species to kingdom": "Shown in ascending order starting with species"
-    }
+    "answer": "All animals belonging to various phyla–Assigned to the highest category called Kingdom Animalia, Kingdom Plantae–Comprises all plants from various divisions, Animal and plant kingdoms–Henceforth referred to as two groups, Taxonomic categories from species to kingdom–Shown in ascending order starting with species"
   },
   {
     "question": "Match the following:",
-    "columnA": [
-      "Taxonomists",
-      "Lower the taxa",
-      "Higher the category",
-      "Problem of classification"
+    "matches": [
+      { "left": "Taxonomists", "right": "Have also developed sub-categories in this hierarchy" },
+      { "left": "Lower the taxa", "right": "More are the characteristics that the members within the taxon share" },
+      { "left": "Higher the category", "right": "Greater is the difficulty of determining the relationship to other taxa at the same level" },
+      { "left": "Problem of classification", "right": "Becomes more complex" }
     ],
-    "columnB": [
-      "Have also developed sub-categories in this hierarchy",
-      "More are the characteristics that the members within the taxon share",
-      "Greater is the difficulty of determining the relationship to other taxa at the same level",
-      "Becomes more complex"
-    ],
-    "answer": {
-      "Taxonomists": "Have also developed sub-categories in this hierarchy",
-      "Lower the taxa": "More are the characteristics that the members within the taxon share",
-      "Higher the category": "Greater is the difficulty of determining the relationship to other taxa at the same level",
-      "Problem of classification": "Becomes more complex"
-    }
+    "answer": "Taxonomists–Have also developed sub-categories in this hierarchy, Lower the taxa–More are the characteristics that the members within the taxon share, Higher the category–Greater is the difficulty of determining the relationship to other taxa at the same level, Problem of classification–Becomes more complex"
   }
 ]
+
+
+
+
+
+
+
+
+
+
