@@ -3,92 +3,101 @@
     "question": "Match the following:",
     "columnA": [
       "Fungi",
-      "Fungi on a moist bread and rotten fruits",
+      "Fungi on moist bread and rotten fruits",
       "Common mushroom and toadstools",
-      "White spots on mustard leaves",
-      "Yeast"
+      "White spots on mustard leaves"
     ],
     "columnB": [
       "Constitute a unique kingdom of heterotrophic organisms",
+      "Are fungi",
       "Are also fungi",
-      "Are due to a parasitic fungus",
-      "Are used to make bread and beer",
-      "Show a great diversity in morphology and habitat"
+      "Are due to a parasitic fungus"
     ],
     "answer": {
       "Fungi": "Constitute a unique kingdom of heterotrophic organisms",
-      "Fungi on a moist bread and rotten fruits": "Show a great diversity in morphology and habitat",
+      "Fungi on moist bread and rotten fruits": "Are fungi",
       "Common mushroom and toadstools": "Are also fungi",
-      "White spots on mustard leaves": "Are due to a parasitic fungus",
-      "Yeast": "Are used to make bread and beer"
+      "White spots on mustard leaves": "Are due to a parasitic fungus"
     }
   },
   {
     "question": "Match the following:",
     "columnA": [
+      "Yeast",
       "Other fungi",
       "Wheat rust-causing Puccinia",
-      "Penicillium",
-      "Fungi occurrence",
-      "Preferred growth conditions of fungi"
+      "Penicillium"
     ],
     "columnB": [
+      "Are used to make bread and beer",
       "Cause diseases in plants and animals",
       "Is an important example",
-      "Is a source of antibiotics",
-      "Are cosmopolitan and occur in air, water, soil and on animals and plants",
-      "Warm and humid places"
+      "Is a source of antibiotics"
     ],
     "answer": {
+      "Yeast": "Are used to make bread and beer",
       "Other fungi": "Cause diseases in plants and animals",
       "Wheat rust-causing Puccinia": "Is an important example",
-      "Penicillium": "Is a source of antibiotics",
-      "Fungi occurrence": "Are cosmopolitan and occur in air, water, soil and on animals and plants",
-      "Preferred growth conditions of fungi": "Warm and humid places"
+      "Penicillium": "Is a source of antibiotics"
     }
   },
   {
     "question": "Match the following:",
     "columnA": [
-      "Reason for keeping food in the refrigerator",
-      "Yeasts",
-      "Fungi body organisation",
-      "Hyphae",
-      "Mycelium"
+      "Fungi occurrence",
+      "Preferred growth of fungi",
+      "Reason for keeping food in refrigerator",
+      "Yeasts"
     ],
     "columnB": [
+      "Are cosmopolitan and occur in air, water, soil and on animals and plants",
+      "Warm and humid places",
       "Prevent food from going bad due to bacterial or fungal infections",
-      "Are unicellular",
-      "Are filamentous",
-      "Are long, slender thread-like structures",
-      "Is the network of hyphae"
+      "Are unicellular"
     ],
     "answer": {
-      "Reason for keeping food in the refrigerator": "Prevent food from going bad due to bacterial or fungal infections",
-      "Yeasts": "Are unicellular",
-      "Fungi body organisation": "Are filamentous",
-      "Hyphae": "Are long, slender thread-like structures",
-      "Mycelium": "Is the network of hyphae"
+      "Fungi occurrence": "Are cosmopolitan and occur in air, water, soil and on animals and plants",
+      "Preferred growth of fungi": "Warm and humid places",
+      "Reason for keeping food in refrigerator": "Prevent food from going bad due to bacterial or fungal infections",
+      "Yeasts": "Are unicellular"
     }
   },
   {
     "question": "Match the following:",
     "columnA": [
-      "Coenocytic hyphae",
+      "Fungi body",
+      "Hyphae",
+      "Mycelium",
+      "Coenocytic hyphae"
+    ],
+    "columnB": [
+      "Are filamentous",
+      "Are long, slender thread-like structures",
+      "Is the network of hyphae",
+      "Continuous tubes filled with multinucleated cytoplasm"
+    ],
+    "answer": {
+      "Fungi body": "Are filamentous",
+      "Hyphae": "Are long, slender thread-like structures",
+      "Mycelium": "Is the network of hyphae",
+      "Coenocytic hyphae": "Continuous tubes filled with multinucleated cytoplasm"
+    }
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
       "Hyphae with septae",
       "Fungal cell walls",
       "Most fungi",
       "Saprophytes"
     ],
     "columnB": [
-      "Continuous tubes filled with multinucleated cytoplasm",
       "Have cross walls in their hyphae",
       "Are composed of chitin and polysaccharides",
       "Are heterotrophic and absorb soluble organic matter from dead substrates",
       "Depend on dead substrates"
     ],
     "answer": {
-      "Coenocytic hyphae": "Continuous tubes filled with multinucleated cytoplasm",
       "Hyphae with septae": "Have cross walls in their hyphae",
       "Fungal cell walls": "Are composed of chitin and polysaccharides",
       "Most fungi": "Are heterotrophic and absorb soluble organic matter from dead substrates",
@@ -117,3 +126,15 @@
     }
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
