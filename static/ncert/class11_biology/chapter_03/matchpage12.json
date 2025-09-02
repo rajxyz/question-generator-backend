@@ -14,7 +14,15 @@
       "Chlorophyceae, Phaeophyceae and Rhodophyceae",
       "Vegetative, asexual, sexual",
       "Sexual reproduction in algae"
-    ]
+    ],
+    "matches": [
+      "Chlorophyll-bearing simple, thalloid, autotrophic organisms – Algae",
+      "Aquatic organisms with pigments and stored food – Algae",
+      "Three classes of algae – Chlorophyceae, Phaeophyceae and Rhodophyceae",
+      "Modes of reproduction in algae – Vegetative, asexual, sexual",
+      "Gametes showing isogamy, anisogamy or oogamy – Sexual reproduction in algae"
+    ],
+    "answer": "Chlorophyll-bearing simple, thalloid, autotrophic organisms – Algae, Aquatic organisms with pigments and stored food – Algae, Three classes of algae – Chlorophyceae, Phaeophyceae and Rhodophyceae, Modes of reproduction in algae – Vegetative, asexual, sexual, Gametes showing isogamy, anisogamy or oogamy – Sexual reproduction in algae"
   },
   {
     "question": "Match the following (Bryophytes):",
@@ -31,7 +39,15 @@
       "Liverworts and mosses",
       "Thalloid and dorsiventral",
       "Upright, slender axes with spirally arranged leaves"
-    ]
+    ],
+    "matches": [
+      "Plants that live in soil but depend on water for sexual reproduction – Bryophytes",
+      "Attachment structure in bryophytes – Rhizoids",
+      "Division of bryophytes – Liverworts and mosses",
+      "Plant body of liverworts – Thalloid and dorsiventral",
+      "Plant body of mosses – Upright, slender axes with spirally arranged leaves"
+    ],
+    "answer": "Plants that live in soil but depend on water for sexual reproduction – Bryophytes, Attachment structure in bryophytes – Rhizoids, Division of bryophytes – Liverworts and mosses, Plant body of liverworts – Thalloid and dorsiventral, Plant body of mosses – Upright, slender axes with spirally arranged leaves"
   },
   {
     "question": "Match the following (Bryophytes - gametophyte & sporophyte):",
@@ -48,7 +64,15 @@
       "Archegonia",
       "Zygote",
       "Haploid spores"
-    ]
+    ],
+    "matches": [
+      "Main plant body in bryophytes – Gametophyte",
+      "Male sex organ in bryophytes – Antheridia",
+      "Female sex organ in bryophytes – Archegonia",
+      "Fusion of gametes in bryophytes forms – Zygote",
+      "Sporophyte produces – Haploid spores"
+    ],
+    "answer": "Main plant body in bryophytes – Gametophyte, Male sex organ in bryophytes – Antheridia, Female sex organ in bryophytes – Archegonia, Fusion of gametes in bryophytes forms – Zygote, Sporophyte produces – Haploid spores"
   },
   {
     "question": "Match the following (Pteridophytes):",
@@ -65,7 +89,15 @@
       "True root, stem and leaves",
       "Bear antheridia and archegonia",
       "Water"
-    ]
+    ],
+    "matches": [
+      "Main plant body in pteridophytes – Sporophyte",
+      "Sporophyte differentiated into – Root, stem and leaves",
+      "Organs with vascular tissues – True root, stem and leaves",
+      "Gametophytes of pteridophytes – Bear antheridia and archegonia",
+      "Requirement for male gamete transfer – Water"
+    ],
+    "answer": "Main plant body in pteridophytes – Sporophyte, Sporophyte differentiated into – Root, stem and leaves, Organs with vascular tissues – True root, stem and leaves, Gametophytes of pteridophytes – Bear antheridia and archegonia, Requirement for male gamete transfer – Water"
   },
   {
     "question": "Match the following (Gymnosperms - general features):",
@@ -82,7 +114,15 @@
       "Gymnosperms",
       "Male and female cones",
       "Microsporophylls and megasporophylls"
-    ]
+    ],
+    "matches": [
+      "Plants with naked ovules – Gymnosperms",
+      "Seeds after fertilisation remain – Exposed",
+      "Called naked-seeded plants – Gymnosperms",
+      "Sporophylls arranged spirally on axis – Microsporophylls and megasporophylls",
+      "Cones bearing microsporophylls and megasporophylls – Male and female cones"
+    ],
+    "answer": "Plants with naked ovules – Gymnosperms, Seeds after fertilisation remain – Exposed, Called naked-seeded plants – Gymnosperms, Sporophylls arranged spirally on axis – Microsporophylls and megasporophylls, Cones bearing microsporophylls and megasporophylls – Male and female cones"
   },
   {
     "question": "Match the following (Gymnosperms - fertilisation & seed):",
@@ -99,6 +139,19 @@
       "Seeds",
       "Embryo",
       "Dicotyledons and monocotyledons"
-    ]
+    ],
+    "matches": [
+      "Pollen tube in gymnosperms releases – Male gamete",
+      "Fertilisation site – Egg cell in archegonia",
+      "After fertilisation, ovules develop into – Seeds",
+      "After fertilisation, zygote develops into – Embryo",
+      "Classes of angiosperms – Dicotyledons and monocotyledons"
+    ],
+    "answer": "Pollen tube in gymnosperms releases – Male gamete, Fertilisation site – Egg cell in archegonia, After fertilisation, ovules develop into – Seeds, After fertilisation, zygote develops into – Embryo, Classes of angiosperms – Dicotyledons and monocotyledons"
   }
 ]
+
+
+
+
+
