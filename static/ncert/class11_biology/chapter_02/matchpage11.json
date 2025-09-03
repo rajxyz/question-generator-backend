@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Meaning of Virus",
+      "Dmitri Ivanowsky (1892)",
+      "M.W. Beijerinck (1898)",
+      "W.M. Stanley (1935)"
+    ],
+    "columnB": [
+      "Recognised microbes as causal organism of the mosaic disease of tobacco",
+      "Virus means venom or poisonous fluid",
+      "Named the new pathogen 'virus' and called the fluid Contagium vivum fluidum",
+      "Showed that viruses could be crystallised and crystals consist largely of proteins"
+    ],
+    "matches": [
+      "Meaning of Virus – Virus means venom or poisonous fluid",
+      "Dmitri Ivanowsky (1892) – Recognised microbes as causal organism of the mosaic disease of tobacco",
+      "M.W. Beijerinck (1898) – Named the new pathogen 'virus' and called the fluid Contagium vivum fluidum",
+      "W.M. Stanley (1935) – Showed that viruses could be crystallised and crystals consist largely of proteins"
+    ],
+    "answer": "Meaning of Virus – Virus means venom or poisonous fluid, Dmitri Ivanowsky (1892) – Recognised microbes as causal organism of the mosaic disease of tobacco, M.W. Beijerinck (1898) – Named the new pathogen 'virus' and called the fluid Contagium vivum fluidum, W.M. Stanley (1935) – Showed that viruses could be crystallised and crystals consist largely of proteins"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Viruses outside host cell",
+      "Viruses inside host cell",
+      "Nature of viruses",
+      "Obligate parasites"
+    ],
+    "columnB": [
+      "Inert",
+      "Take over machinery of host cell to replicate",
+      "Nucleoprotein",
+      "Viruses"
+    ],
+    "matches": [
+      "Viruses outside host cell – Inert",
+      "Viruses inside host cell – Take over machinery of host cell to replicate",
+      "Nature of viruses – Nucleoprotein",
+      "Obligate parasites – Viruses"
+    ],
+    "answer": "Viruses outside host cell – Inert, Viruses inside host cell – Take over machinery of host cell to replicate, Nature of viruses – Nucleoprotein, Obligate parasites – Viruses"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Genetic material in viruses",
+      "Plant viruses",
+      "Animal viruses",
+      "Bacteriophages"
+    ],
+    "columnB": [
+      "Either RNA or DNA, never both",
+      "Usually single stranded RNA",
+      "Either single or double stranded RNA or double stranded DNA",
+      "Usually double stranded DNA viruses"
+    ],
+    "matches": [
+      "Genetic material in viruses – Either RNA or DNA, never both",
+      "Plant viruses – Usually single stranded RNA",
+      "Animal viruses – Either single or double stranded RNA or double stranded DNA",
+      "Bacteriophages – Usually double stranded DNA viruses"
+    ],
+    "answer": "Genetic material in viruses – Either RNA or DNA, never both, Plant viruses – Usually single stranded RNA, Animal viruses – Either single or double stranded RNA or double stranded DNA, Bacteriophages – Usually double stranded DNA viruses"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Capsid",
+      "Capsomeres",
+      "Arrangement of capsomeres",
+      "Function of capsid"
+    ],
+    "columnB": [
+      "Made of small subunits called capsomeres",
+      "Helical or polyhedral geometric forms",
+      "Protects the nucleic acid",
+      "Protein coat of virus"
+    ],
+    "matches": [
+      "Capsid – Protein coat of virus",
+      "Capsomeres – Made of small subunits called capsomeres",
+      "Arrangement of capsomeres – Helical or polyhedral geometric forms",
+      "Function of capsid – Protects the nucleic acid"
+    ],
+    "answer": "Capsid – Protein coat of virus, Capsomeres – Made of small subunits called capsomeres, Arrangement of capsomeres – Helical or polyhedral geometric forms, Function of capsid – Protects the nucleic acid"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Diseases caused by viruses in humans",
+      "AIDS in humans",
+      "Viral symptoms in plants",
+      "Virus genetic material"
+    ],
+    "columnB": [
+      "Mumps, small pox, herpes and influenza",
+      "Also caused by a virus",
+      "Mosaic formation, leaf rolling and curling, yellowing and vein clearing, dwarfing and stunted growth",
+      "Infectious"
+    ],
+    "matches": [
+      "Diseases caused by viruses in humans – Mumps, small pox, herpes and influenza",
+      "AIDS in humans – Also caused by a virus",
+      "Viral symptoms in plants – Mosaic formation, leaf rolling and curling, yellowing and vein clearing, dwarfing and stunted growth",
+      "Virus genetic material – Infectious"
+    ],
+    "answer": "Diseases caused by viruses in humans – Mumps, small pox, herpes and influenza, AIDS in humans – Also caused by a virus, Viral symptoms in plants – Mosaic formation, leaf rolling and curling, yellowing and vein clearing, dwarfing and stunted growth, Virus genetic material – Infectious"
+  }
+]
