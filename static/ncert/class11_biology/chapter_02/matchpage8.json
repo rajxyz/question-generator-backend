@@ -1,1 +1,112 @@
-
+[
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Vegetative means",
+      "Asexual reproduction",
+      "Sexual reproduction",
+      "Fruiting bodies"
+    ],
+    "column_II": [
+      "Fragmentation, fission and budding",
+      "By spores called conidia or sporangiospores or zoospores",
+      "By oospores, ascospores and basidiospores",
+      "Various spores are produced in distinct structures called fruiting bodies"
+    ],
+    "matches": [
+      { "Vegetative means": "Fragmentation, fission and budding" },
+      { "Asexual reproduction": "By spores called conidia or sporangiospores or zoospores" },
+      { "Sexual reproduction": "By oospores, ascospores and basidiospores" },
+      { "Fruiting bodies": "Various spores are produced in distinct structures called fruiting bodies" }
+    ],
+    "answer": "Vegetative means - Fragmentation, fission and budding, Asexual reproduction - By spores called conidia or sporangiospores or zoospores, Sexual reproduction - By oospores, ascospores and basidiospores, Fruiting bodies - Various spores are produced in distinct structures called fruiting bodies"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Plasmogamy",
+      "Karyogamy",
+      "Meiosis in zygote",
+      "Dikaryon"
+    ],
+    "column_II": [
+      "Fusion of two nuclei",
+      "Two nuclei per cell (n + n)",
+      "Fusion of protoplasms between two motile or non-motile gametes",
+      "Resulting in haploid spores"
+    ],
+    "matches": [
+      { "Plasmogamy": "Fusion of protoplasms between two motile or non-motile gametes" },
+      { "Karyogamy": "Fusion of two nuclei" },
+      { "Meiosis in zygote": "Resulting in haploid spores" },
+      { "Dikaryon": "Two nuclei per cell (n + n)" }
+    ],
+    "answer": "Plasmogamy - Fusion of protoplasms between two motile or non-motile gametes, Karyogamy - Fusion of two nuclei, Meiosis in zygote - Resulting in haploid spores, Dikaryon - Two nuclei per cell (n + n)"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Immediate fusion of two haploid cells resulting in diploid cells (2n)",
+      "Intervening dikaryotic stage occurs",
+      "Dikaryophase",
+      "Reduction division"
+    ],
+    "column_II": [
+      "Such a condition is called a dikaryon",
+      "Occurs in ascomycetes and basidiomycetes",
+      "Occurs in fruiting bodies leading to haploid spores",
+      "In some fungi"
+    ],
+    "matches": [
+      { "Immediate fusion of two haploid cells resulting in diploid cells (2n)": "In some fungi" },
+      { "Intervening dikaryotic stage occurs": "Occurs in ascomycetes and basidiomycetes" },
+      { "Dikaryophase": "Such a condition is called a dikaryon" },
+      { "Reduction division": "Occurs in fruiting bodies leading to haploid spores" }
+    ],
+    "answer": "Immediate fusion of two haploid cells resulting in diploid cells (2n) - In some fungi, Intervening dikaryotic stage occurs - Occurs in ascomycetes and basidiomycetes, Dikaryophase - Such a condition is called a dikaryon, Reduction division - Occurs in fruiting bodies leading to haploid spores"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Basis for division of the kingdom into various classes",
+      "Members of phycomycetes are found",
+      "Mycelium of phycomycetes",
+      "Asexual reproduction in phycomycetes"
+    ],
+    "column_II": [
+      "Aseptate and coenocytic",
+      "Mode of spore formation, morphology of the mycelium and fruiting bodies",
+      "In aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants",
+      "By zoospores (motile) or by aplanospores (non-motile)"
+    ],
+    "matches": [
+      { "Basis for division of the kingdom into various classes": "Mode of spore formation, morphology of the mycelium and fruiting bodies" },
+      { "Members of phycomycetes are found": "In aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants" },
+      { "Mycelium of phycomycetes": "Aseptate and coenocytic" },
+      { "Asexual reproduction in phycomycetes": "By zoospores (motile) or by aplanospores (non-motile)" }
+    ],
+    "answer": "Basis for division of the kingdom into various classes - Mode of spore formation, morphology of the mycelium and fruiting bodies, Members of phycomycetes are found - In aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants, Mycelium of phycomycetes - Aseptate and coenocytic, Asexual reproduction in phycomycetes - By zoospores (motile) or by aplanospores (non-motile)"
+  },
+  {
+    "question": "Match the following:",
+    "column_I": [
+      "Spores of phycomycetes",
+      "Zygospore",
+      "Gametes in phycomycetes",
+      "Examples of phycomycetes"
+    ],
+    "column_II": [
+      "Similar (isogamous) or dissimilar (anisogamous or oogamous)",
+      "Endogenously produced in sporangium",
+      "Formed by fusion of two gametes",
+      "Mucor, Rhizopus and Albugo"
+    ],
+    "matches": [
+      { "Spores of phycomycetes": "Endogenously produced in sporangium" },
+      { "Zygospore": "Formed by fusion of two gametes" },
+      { "Gametes in phycomycetes": "Similar (isogamous) or dissimilar (anisogamous or oogamous)" },
+      { "Examples of phycomycetes": "Mucor, Rhizopus and Albugo" }
+    ],
+    "answer": "Spores of phycomycetes - Endogenously produced in sporangium, Zygospore - Formed by fusion of two gametes, Gametes in phycomycetes - Similar (isogamous) or dissimilar (anisogamous or oogamous), Examples of phycomycetes - Mucor, Rhizopus and Albugo"
+  }
+]
