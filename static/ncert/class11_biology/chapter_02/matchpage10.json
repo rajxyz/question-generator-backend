@@ -1,0 +1,156 @@
+[
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Ascomycetes",
+      "Penicillium",
+      "Yeast (Saccharomyces)",
+      "Neurospora"
+    ],
+    "columnB": [
+      "Commonly known as sac-fungi",
+      "Mostly multicellular",
+      "Rarely unicellular",
+      "Used extensively in biochemical and genetic work"
+    ],
+    "matches": [
+      "Ascomycetes – Commonly known as sac-fungi",
+      "Penicillium – Mostly multicellular",
+      "Yeast (Saccharomyces) – Rarely unicellular",
+      "Neurospora – Used extensively in biochemical and genetic work"
+    ],
+    "answer": "Ascomycetes – Commonly known as sac-fungi, Penicillium – Mostly multicellular, Yeast (Saccharomyces) – Rarely unicellular, Neurospora – Used extensively in biochemical and genetic work"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Habit of ascomycetes",
+      "Mycelium of ascomycetes",
+      "Asexual spores of ascomycetes",
+      "Sexual spores of ascomycetes"
+    ],
+    "columnB": [
+      "Saprophytic, decomposers, parasitic or coprophilous (growing on dung)",
+      "Branched and septate",
+      "Conidia produced exogenously on conidiophores",
+      "Ascospores produced endogenously in sac like asci"
+    ],
+    "matches": [
+      "Habit of ascomycetes – Saprophytic, decomposers, parasitic or coprophilous (growing on dung)",
+      "Mycelium of ascomycetes – Branched and septate",
+      "Asexual spores of ascomycetes – Conidia produced exogenously on conidiophores",
+      "Sexual spores of ascomycetes – Ascospores produced endogenously in sac like asci"
+    ],
+    "answer": "Habit of ascomycetes – Saprophytic, decomposers, parasitic or coprophilous (growing on dung), Mycelium of ascomycetes – Branched and septate, Asexual spores of ascomycetes – Conidia produced exogenously on conidiophores, Sexual spores of ascomycetes – Ascospores produced endogenously in sac like asci"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Asci",
+      "Ascocarps",
+      "Morels and truffles",
+      "Aspergillus, Claviceps and Neurospora"
+    ],
+    "columnB": [
+      "Sac like structures containing ascospores",
+      "Different types of fruiting bodies",
+      "Edible and considered delicacies",
+      "Examples of ascomycetes"
+    ],
+    "matches": [
+      "Asci – Sac like structures containing ascospores",
+      "Ascocarps – Different types of fruiting bodies",
+      "Morels and truffles – Edible and considered delicacies",
+      "Aspergillus, Claviceps and Neurospora – Examples of ascomycetes"
+    ],
+    "answer": "Asci – Sac like structures containing ascospores, Ascocarps – Different types of fruiting bodies, Morels and truffles – Edible and considered delicacies, Aspergillus, Claviceps and Neurospora – Examples of ascomycetes"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Basidiomycetes",
+      "Commonly known forms",
+      "Mycelium of basidiomycetes",
+      "Vegetative reproduction"
+    ],
+    "columnB": [
+      "Mushrooms, bracket fungi or puffballs",
+      "Commonly known forms of basidiomycetes",
+      "Branched and septate",
+      "By fragmentation"
+    ],
+    "matches": [
+      "Basidiomycetes – Commonly known forms of basidiomycetes",
+      "Commonly known forms – Mushrooms, bracket fungi or puffballs",
+      "Mycelium of basidiomycetes – Branched and septate",
+      "Vegetative reproduction – By fragmentation"
+    ],
+    "answer": "Basidiomycetes – Commonly known forms of basidiomycetes, Commonly known forms – Mushrooms, bracket fungi or puffballs, Mycelium of basidiomycetes – Branched and septate, Vegetative reproduction – By fragmentation"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Plasmogamy in basidiomycetes",
+      "Basidium",
+      "Basidiospores",
+      "Basidiocarps"
+    ],
+    "columnB": [
+      "Fusion of two vegetative or somatic cells of different strains or genotypes",
+      "Structure arising from dikaryotic condition",
+      "Exogenously produced on the basidium",
+      "Fruiting bodies where basidia are arranged"
+    ],
+    "matches": [
+      "Plasmogamy in basidiomycetes – Fusion of two vegetative or somatic cells of different strains or genotypes",
+      "Basidium – Structure arising from dikaryotic condition",
+      "Basidiospores – Exogenously produced on the basidium",
+      "Basidiocarps – Fruiting bodies where basidia are arranged"
+    ],
+    "answer": "Plasmogamy in basidiomycetes – Fusion of two vegetative or somatic cells of different strains or genotypes, Basidium – Structure arising from dikaryotic condition, Basidiospores – Exogenously produced on the basidium, Basidiocarps – Fruiting bodies where basidia are arranged"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Karyogamy and meiosis in basidiomycetes",
+      "Common members of basidiomycetes",
+      "Deuteromycetes",
+      "Conidia"
+    ],
+    "columnB": [
+      "Producing four basidiospores in basidium",
+      "Agaricus, Ustilago and Puccinia",
+      "Commonly known as imperfect fungi",
+      "Asexual spores of deuteromycetes"
+    ],
+    "matches": [
+      "Karyogamy and meiosis in basidiomycetes – Producing four basidiospores in basidium",
+      "Common members of basidiomycetes – Agaricus, Ustilago and Puccinia",
+      "Deuteromycetes – Commonly known as imperfect fungi",
+      "Conidia – Asexual spores of deuteromycetes"
+    ],
+    "answer": "Karyogamy and meiosis in basidiomycetes – Producing four basidiospores in basidium, Common members of basidiomycetes – Agaricus, Ustilago and Puccinia, Deuteromycetes – Commonly known as imperfect fungi, Conidia – Asexual spores of deuteromycetes"
+  },
+  {
+    "question": "Match the following:",
+    "columnA": [
+      "Sexual forms of deuteromycetes",
+      "Mycelium of deuteromycetes",
+      "Habit of deuteromycetes",
+      "Examples of deuteromycetes"
+    ],
+    "columnB": [
+      "Moved to ascomycetes and basidiomycetes when discovered",
+      "Septate and branched",
+      "Saprophytes or parasites or decomposers of litter helping in mineral cycling",
+      "Alternaria, Colletotrichum and Trichoderma"
+    ],
+    "matches": [
+      "Sexual forms of deuteromycetes – Moved to ascomycetes and basidiomycetes when discovered",
+      "Mycelium of deuteromycetes – Septate and branched",
+      "Habit of deuteromycetes – Saprophytes or parasites or decomposers of litter helping in mineral cycling",
+      "Examples of deuteromycetes – Alternaria, Colletotrichum and Trichoderma"
+    ],
+    "answer": "Sexual forms of deuteromycetes – Moved to ascomycetes and basidiomycetes when discovered, Mycelium of deuteromycetes – Septate and branched, Habit of deuteromycetes – Saprophytes or parasites or decomposers of litter helping in mineral cycling, Examples of deuteromycetes – Alternaria, Colletotrichum and Trichoderma"
+  }
+]
