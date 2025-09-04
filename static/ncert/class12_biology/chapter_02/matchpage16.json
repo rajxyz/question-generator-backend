@@ -1,44 +1,54 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Wrong type pollen",
       "Pistil recognition of pollen",
       "Dialogue between pollen grain and pistil",
       "Compatible pollination"
     ],
-    "columnB": [
+    "column_II": [
       "Acceptance or rejection",
       "Pollen germination on stigma",
       "Chemical components interaction",
       "Prevention of pollen germination or pollen tube growth"
     ],
-    "answer": {
-      "Wrong type pollen": "Prevention of pollen germination or pollen tube growth",
-      "Pistil recognition of pollen": "Acceptance or rejection",
-      "Dialogue between pollen grain and pistil": "Chemical components interaction",
-      "Compatible pollination": "Pollen germination on stigma"
-    }
+    "matches": [
+      {"left": "Wrong type pollen", "right": "Prevention of pollen germination or pollen tube growth"},
+      {"left": "Pistil recognition of pollen", "right": "Acceptance or rejection"},
+      {"left": "Dialogue between pollen grain and pistil", "right": "Chemical components interaction"},
+      {"left": "Compatible pollination", "right": "Pollen germination on stigma"}
+    ],
+    "answer": "Wrong type pollen → Prevention of pollen germination or pollen tube growth, Pistil recognition of pollen → Acceptance or rejection, Dialogue between pollen grain and pistil → Chemical components interaction, Compatible pollination → Pollen germination on stigma"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Continuous dialogue between pollen grain and pistil",
       "Botanists' recent work",
       "Pollen tube origin in compatible pollination",
       "Pollen tube content movement"
     ],
-    "columnB": [
+    "column_II": [
       "Through one of the germ pores",
       "Interaction of pollen and pistil components",
       "Into the pollen tube",
       "Identification of pollen and pistil components"
     ],
-    "answer": {
-      "Continuous dialogue between pollen grain and pistil": "Interaction of pollen and pistil components",
-      "Botanists' recent work": "Identification of pollen and pistil components",
-      "Pollen tube origin in compatible pollination": "Through one of the germ pores",
-      "Pollen tube content movement": "Into the pollen tube"
-    }
+    "matches": [
+      {"left": "Continuous dialogue between pollen grain and pistil", "right": "Interaction of pollen and pistil components"},
+      {"left": "Botanists' recent work", "right": "Identification of pollen and pistil components"},
+      {"left": "Pollen tube origin in compatible pollination", "right": "Through one of the germ pores"},
+      {"left": "Pollen tube content movement", "right": "Into the pollen tube"}
+    ],
+    "answer": "Continuous dialogue between pollen grain and pistil → Interaction of pollen and pistil components, Botanists' recent work → Identification of pollen and pistil components, Pollen tube origin in compatible pollination → Through one of the germ pores, Pollen tube content movement → Into the pollen tube"
   }
 ]
+
+
+
+
+
+
+
+
