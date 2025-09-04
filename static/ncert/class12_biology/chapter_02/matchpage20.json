@@ -1,86 +1,99 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Radicle and root cap",
       "Coleorrhiza",
       "Epicotyl",
       "Coleoptile"
     ],
-    "columnB": [
-      "Encloses shoot apex and a few leaf primordia",
-      "Encloses radicle and root cap",
+    "column_II": [
       "Cylindrical portion below cotyledon attachment",
-      "Portion of embryonal axis above level of scutellum"
+      "Encloses radicle and root cap",
+      "Portion of embryonal axis above level of scutellum",
+      "Encloses shoot apex and a few leaf primordia"
     ],
-    "answer": {
-      "Radicle and root cap": "Cylindrical portion below cotyledon attachment",
-      "Coleorrhiza": "Encloses radicle and root cap",
-      "Epicotyl": "Portion of embryonal axis above level of scutellum",
-      "Coleoptile": "Encloses shoot apex and a few leaf primordia"
-    }
+    "matches": [
+      {"left": "Radicle and root cap", "right": "Cylindrical portion below cotyledon attachment"},
+      {"left": "Coleorrhiza", "right": "Encloses radicle and root cap"},
+      {"left": "Epicotyl", "right": "Portion of embryonal axis above level of scutellum"},
+      {"left": "Coleoptile", "right": "Encloses shoot apex and a few leaf primordia"}
+    ],
+    "answer": "Radicle and root cap → Cylindrical portion below cotyledon attachment, Coleorrhiza → Encloses radicle and root cap, Epicotyl → Portion of embryonal axis above level of scutellum, Coleoptile → Encloses shoot apex and a few leaf primordia"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Seed",
       "Non-albuminous seeds",
       "Albuminous seeds",
       "Perisperm"
     ],
-    "columnB": [
-      "Completely consumed endosperm during embryo development",
-      "Residual, persistent nucellus",
+    "column_II": [
       "Final product of sexual reproduction",
-      "Retain a part of endosperm"
+      "Completely consumed endosperm during embryo development",
+      "Retain a part of endosperm",
+      "Residual, persistent nucellus"
     ],
-    "answer": {
-      "Seed": "Final product of sexual reproduction",
-      "Non-albuminous seeds": "Completely consumed endosperm during embryo development",
-      "Albuminous seeds": "Retain a part of endosperm",
-      "Perisperm": "Residual, persistent nucellus"
-    }
+    "matches": [
+      {"left": "Seed", "right": "Final product of sexual reproduction"},
+      {"left": "Non-albuminous seeds", "right": "Completely consumed endosperm during embryo development"},
+      {"left": "Albuminous seeds", "right": "Retain a part of endosperm"},
+      {"left": "Perisperm", "right": "Residual, persistent nucellus"}
+    ],
+    "answer": "Seed → Final product of sexual reproduction, Non-albuminous seeds → Completely consumed endosperm during embryo development, Albuminous seeds → Retain a part of endosperm, Perisperm → Residual, persistent nucellus"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Micropyle",
       "Moisture content of mature seeds",
       "Dormancy",
       "Pericarp"
     ],
-    "columnB": [
-      "10-15 per cent by mass",
+    "column_II": [
       "Small pore in the seed coat",
+      "10-15 per cent by mass",
       "State of inactivity of embryo",
       "Wall of fruit"
     ],
-    "answer": {
-      "Micropyle": "Small pore in the seed coat",
-      "Moisture content of mature seeds": "10-15 per cent by mass",
-      "Dormancy": "State of inactivity of embryo",
-      "Pericarp": "Wall of fruit"
-    }
+    "matches": [
+      {"left": "Micropyle", "right": "Small pore in the seed coat"},
+      {"left": "Moisture content of mature seeds", "right": "10-15 per cent by mass"},
+      {"left": "Dormancy", "right": "State of inactivity of embryo"},
+      {"left": "Pericarp", "right": "Wall of fruit"}
+    ],
+    "answer": "Micropyle → Small pore in the seed coat, Moisture content of mature seeds → 10-15 per cent by mass, Dormancy → State of inactivity of embryo, Pericarp → Wall of fruit"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "False fruits",
       "True fruits",
       "Fleshy fruits",
       "Dry fruits"
     ],
-    "columnB": [
-      "Guava, orange, mango",
+    "column_II": [
       "Apple, strawberry, cashew",
       "Develop only from the ovary",
+      "Guava, orange, mango",
       "Groundnut, mustard"
     ],
-    "answer": {
-      "False fruits": "Apple, strawberry, cashew",
-      "True fruits": "Develop only from the ovary",
-      "Fleshy fruits": "Guava, orange, mango",
-      "Dry fruits": "Groundnut, mustard"
-    }
+    "matches": [
+      {"left": "False fruits", "right": "Apple, strawberry, cashew"},
+      {"left": "True fruits", "right": "Develop only from the ovary"},
+      {"left": "Fleshy fruits", "right": "Guava, orange, mango"},
+      {"left": "Dry fruits", "right": "Groundnut, mustard"}
+    ],
+    "answer": "False fruits → Apple, strawberry, cashew, True fruits → Develop only from the ovary, Fleshy fruits → Guava, orange, mango, Dry fruits → Groundnut, mustard"
   }
 ]
+
+
+
+
+
+
+
+
+
