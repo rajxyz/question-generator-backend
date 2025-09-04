@@ -1,44 +1,47 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Parthenocarpic fruits",
       "Banana",
       "Induced parthenocarpy",
       "Parthenocarpic fruits characteristic"
     ],
-    "columnB": [
+    "column_II": [
       "Develop without fertilisation",
       "Example of parthenocarpic fruit",
       "Application of growth hormones",
       "Seedless"
     ],
-    "answer": {
-      "Parthenocarpic fruits": "Develop without fertilisation",
-      "Banana": "Example of parthenocarpic fruit",
-      "Induced parthenocarpy": "Application of growth hormones",
-      "Parthenocarpic fruits characteristic": "Seedless"
-    }
+    "matches": [
+      {"left": "Parthenocarpic fruits", "right": "Develop without fertilisation"},
+      {"left": "Banana", "right": "Example of parthenocarpic fruit"},
+      {"left": "Induced parthenocarpy", "right": "Application of growth hormones"},
+      {"left": "Parthenocarpic fruits characteristic", "right": "Seedless"}
+    ],
+    "answer": "Parthenocarpic fruits → Develop without fertilisation, Banana → Example of parthenocarpic fruit, Induced parthenocarpy → Application of growth hormones, Parthenocarpic fruits characteristic → Seedless"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Pollination and fertilisation independence",
       "Seed formation dependability",
       "Adaptive strategy of seeds",
       "Colonisation help of seeds"
     ],
-    "columnB": [
+    "column_II": [
       "Independent of water",
       "More dependable",
       "Dispersal to new habitats",
       "Help the species to colonies in other area"
     ],
-    "answer": {
-      "Pollination and fertilisation independence": "Independent of water",
-      "Seed formation dependability": "More dependable",
-      "Adaptive strategy of seeds": "Dispersal to new habitats",
-      "Colonisation help of seeds": "Help the species to colonies in other area"
-    }
+    "matches": [
+      {"left": "Pollination and fertilisation independence", "right": "Independent of water"},
+      {"left": "Seed formation dependability", "right": "More dependable"},
+      {"left": "Adaptive strategy of seeds", "right": "Dispersal to new habitats"},
+      {"left": "Colonisation help of seeds", "right": "Help the species to colonies in other area"}
+    ],
+    "answer": "Pollination and fertilisation independence → Independent of water, Seed formation dependability → More dependable, Adaptive strategy of seeds → Dispersal to new habitats, Colonisation help of seeds → Help the species to colonies in other area"
   }
 ]
+
