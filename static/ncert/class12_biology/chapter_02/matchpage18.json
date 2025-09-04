@@ -1,50 +1,58 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Syngamy",
       "Triple fusion",
       "Double fertilisation",
       "Primary endosperm nucleus (PEN)",
       "Primary endosperm cell (PEC)"
     ],
-    "columnB": [
+    "column_II": [
       "Fusion of one male gamete with egg cell",
       "Fusion of three haploid nuclei",
       "Unique to flowering plants",
       "Triploid structure formed after triple fusion",
       "Develops into the endosperm"
     ],
-    "answer": {
-      "Syngamy": "Fusion of one male gamete with egg cell",
-      "Triple fusion": "Fusion of three haploid nuclei",
-      "Double fertilisation": "Unique to flowering plants",
-      "Primary endosperm nucleus (PEN)": "Triploid structure formed after triple fusion",
-      "Primary endosperm cell (PEC)": "Develops into the endosperm"
-    }
+    "matches": [
+      {"left": "Syngamy", "right": "Fusion of one male gamete with egg cell"},
+      {"left": "Triple fusion", "right": "Fusion of three haploid nuclei"},
+      {"left": "Double fertilisation", "right": "Unique to flowering plants"},
+      {"left": "Primary endosperm nucleus (PEN)", "right": "Triploid structure formed after triple fusion"},
+      {"left": "Primary endosperm cell (PEC)", "right": "Develops into the endosperm"}
+    ],
+    "answer": "Syngamy → Fusion of one male gamete with egg cell, Triple fusion → Fusion of three haploid nuclei, Double fertilisation → Unique to flowering plants, Primary endosperm nucleus (PEN) → Triploid structure formed after triple fusion, Primary endosperm cell (PEC) → Develops into the endosperm"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Zygote",
       "Primary endosperm cell",
       "Post-fertilisation events",
       "Endosperm development",
       "Embryo development"
     ],
-    "columnB": [
+    "column_II": [
       "Develops into embryo",
       "Formed after triple fusion",
       "Includes maturation of ovule into seed",
       "Precedes embryo development",
       "Follows endosperm development"
     ],
-    "answer": {
-      "Zygote": "Develops into embryo",
-      "Primary endosperm cell": "Formed after triple fusion",
-      "Post-fertilisation events": "Includes maturation of ovule into seed",
-      "Endosperm development": "Precedes embryo development",
-      "Embryo development": "Follows endosperm development"
-    }
+    "matches": [
+      {"left": "Zygote", "right": "Develops into embryo"},
+      {"left": "Primary endosperm cell", "right": "Formed after triple fusion"},
+      {"left": "Post-fertilisation events", "right": "Includes maturation of ovule into seed"},
+      {"left": "Endosperm development", "right": "Precedes embryo development"},
+      {"left": "Embryo development", "right": "Follows endosperm development"}
+    ],
+    "answer": "Zygote → Develops into embryo, Primary endosperm cell → Formed after triple fusion, Post-fertilisation events → Includes maturation of ovule into seed, Endosperm development → Precedes embryo development, Embryo development → Follows endosperm development"
   }
 ]
+
+
+
+
+
+
