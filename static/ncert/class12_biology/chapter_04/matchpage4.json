@@ -13,6 +13,12 @@
       "Effective up to six months following parturition and only during lactation",
       "Chances of fertilisation are very high during this period"
     ],
+    "matches": [
+      {"left": "Fertile period", "right": "Day 10 to 17 of the menstrual cycle when ovulation could be expected"},
+      {"left": "Withdrawal or coitus interruptus", "right": "Male partner withdraws his penis before ejaculation to avoid insemination"},
+      {"left": "Lactational amenorrhea method", "right": "Effective up to six months following parturition and only during lactation"},
+      {"left": "Conception prevention during fertile period", "right": "Chances of fertilisation are very high during this period"}
+    ],
     "answer": {
       "Fertile period": "Day 10 to 17 of the menstrual cycle when ovulation could be expected",
       "Withdrawal or coitus interruptus": "Male partner withdraws his penis before ejaculation to avoid insemination",
@@ -33,6 +39,12 @@
       "None, but chances of failure are high",
       "High chances of failure compared to other methods",
       "Condoms, diaphragms, cervical caps, vaults"
+    ],
+    "matches": [
+      {"left": "Maximum effective period of lactational amenorrhea", "right": "Up to six months following parturition"},
+      {"left": "Side effects of natural methods", "right": "None, but chances of failure are high"},
+      {"left": "Chances of failure in natural methods", "right": "High chances of failure compared to other methods"},
+      {"left": "Barrier methods", "right": "Condoms, diaphragms, cervical caps, vaults"}
     ],
     "answer": {
       "Maximum effective period of lactational amenorrhea": "Up to six months following parturition",
@@ -55,6 +67,12 @@
       "Worn inside the vagina",
       "Protect the user from sexually transmitted diseases (STDs)"
     ],
+    "matches": [
+      {"left": "Condoms", "right": "Disposable sheath to cover penis"},
+      {"left": "‘Nirodh’", "right": "Popular contraceptive in India"},
+      {"left": "Female condoms", "right": "Worn inside the vagina"},
+      {"left": "Benefit of condoms", "right": "Protect the user from sexually transmitted diseases (STDs)"}
+    ],
     "answer": {
       "Condoms": "Disposable sheath to cover penis",
       "‘Nirodh’": "Popular contraceptive in India",
@@ -75,6 +93,12 @@
       "Block meeting of ovum and sperms",
       "Immobilise and kill sperms",
       "Increase contraceptive efficiency"
+    ],
+    "matches": [
+      {"left": "Diaphragms, cervical caps and vaults", "right": "Cover cervix and prevent entry of sperms"},
+      {"left": "Function of rubber barriers", "right": "Block meeting of ovum and sperms"},
+      {"left": "Spermicidal creams, jellies and foams", "right": "Immobilise and kill sperms"},
+      {"left": "Use with rubber barriers", "right": "Increase contraceptive efficiency"}
     ],
     "answer": {
       "Diaphragms, cervical caps and vaults": "Cover cervix and prevent entry of sperms",
@@ -97,6 +121,12 @@
       "21 years",
       "Young, urban, working couples"
     ],
+    "matches": [
+      {"left": "Slogan promoting small family norm", "right": "Hum Do Hamare Do (We two, our two)"},
+      {"left": "Statutory marriageable age for females", "right": "18 years"},
+      {"left": "Statutory marriageable age for males", "right": "21 years"},
+      {"left": "One child norm mostly adopted by", "right": "Young, urban, working couples"}
+    ],
     "answer": {
       "Slogan promoting small family norm": "Hum Do Hamare Do (We two, our two)",
       "Statutory marriageable age for females": "18 years",
@@ -117,6 +147,12 @@
       "Mechanical/chemical prevention of sperm reaching ovum",
       "Barrier methods",
       "Advertisements, education and government programmes"
+    ],
+    "matches": [
+      {"left": "Ideal contraceptive should be", "right": "User-friendly, easily available, effective, reversible, with least side effects"},
+      {"left": "Barrier methods fall under", "right": "Mechanical/chemical prevention of sperm reaching ovum"},
+      {"left": "Method that does not interfere with sexual drive", "right": "Barrier methods"},
+      {"left": "Contraceptive measures taken to tackle population problem", "right": "Advertisements, education and government programmes"}
     ],
     "answer": {
       "Ideal contraceptive should be": "User-friendly, easily available, effective, reversible, with least side effects",
@@ -139,6 +175,12 @@
       "Highly fertile phase of menstrual cycle",
       "Prevent fertilisation without use of devices or chemicals"
     ],
+    "matches": [
+      {"left": "Natural method working principle", "right": "Avoiding chances of meeting of ovum and sperms"},
+      {"left": "Periodic abstinence period", "right": "Day 10 to 17 of menstrual cycle"},
+      {"left": "Fertile period of menstrual cycle", "right": "Highly fertile phase of menstrual cycle"},
+      {"left": "Natural methods aim to", "right": "Prevent fertilisation without use of devices or chemicals"}
+    ],
     "answer": {
       "Natural method working principle": "Avoiding chances of meeting of ovum and sperms",
       "Periodic abstinence period": "Day 10 to 17 of menstrual cycle",
@@ -159,6 +201,12 @@
       "CuT, Cu7, Multiload 375",
       "Progestasert, LNG-20",
       "Trained medical professionals"
+    ],
+    "matches": [
+      {"left": "Non-medicated IUD example", "right": "Lippes loop"},
+      {"left": "Copper releasing IUD example", "right": "CuT, Cu7, Multiload 375"},
+      {"left": "Hormone releasing IUD example", "right": "Progestasert, LNG-20"},
+      {"left": "IUDs inserted by", "right": "Trained medical professionals"}
     ],
     "answer": {
       "Non-medicated IUD example": "Lippes loop",
@@ -181,11 +229,14 @@
       "Thicken cervical mucus to prevent sperm entry",
       "Females looking for long-term reversible contraception"
     ],
-    "answer": {
-      "Cu ions in IUDs function": "Suppress motility and fertilising capacity of sperms",
-      "Hormone releasing IUDs effect on uterus": "Make uterus unsuitable for implantation",
-      "Hormone releasing IUDs effect on cervix": "Thicken cervical mucus to prevent sperm entry",
-      "IUDs suitable for": "Females looking for long-term reversible contraception"
-    }
-  }
-]
+    "matches": [
+
+
+
+
+
+
+
+
+
+
