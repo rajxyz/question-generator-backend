@@ -1,101 +1,109 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Reproductive cycle in female primates",
       "First menstruation called",
       "Average interval of menstruation",
       "Event during middle of menstrual cycle",
       "Duration of menstrual flow"
     ],
-    "columnB": [
+    "column_II": [
       "Menstrual cycle",
       "Menarche",
       "28/29 days",
       "Ovulation",
       "3-5 days"
     ],
-    "answer": {
-      "Reproductive cycle in female primates": "Menstrual cycle",
-      "First menstruation called": "Menarche",
-      "Average interval of menstruation": "28/29 days",
-      "Event during middle of menstrual cycle": "Ovulation",
-      "Duration of menstrual flow": "3-5 days"
-    }
+    "matches": [
+      {"left": "Reproductive cycle in female primates", "right": "Menstrual cycle"},
+      {"left": "First menstruation called", "right": "Menarche"},
+      {"left": "Average interval of menstruation", "right": "28/29 days"},
+      {"left": "Event during middle of menstrual cycle", "right": "Ovulation"},
+      {"left": "Duration of menstrual flow", "right": "3-5 days"}
+    ],
+    "answer": "Reproductive cycle in female primates → Menstrual cycle, First menstruation called → Menarche, Average interval of menstruation → 28/29 days, Event during middle of menstrual cycle → Ovulation, Duration of menstrual flow → 3-5 days"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Menstrual flow results from",
       "Menstruation occurs if",
       "Lack of menstruation indicates",
       "Follicular phase involves",
       "Endometrium during follicular phase"
     ],
-    "columnB": [
+    "column_II": [
       "Breakdown of endometrial lining and blood vessels",
       "Released ovum is not fertilised",
       "Pregnancy or stress, poor health",
       "Primary follicles grow to Graafian follicle",
       "Regenerates through proliferation"
     ],
-    "answer": {
-      "Menstrual flow results from": "Breakdown of endometrial lining and blood vessels",
-      "Menstruation occurs if": "Released ovum is not fertilised",
-      "Lack of menstruation indicates": "Pregnancy or stress, poor health",
-      "Follicular phase involves": "Primary follicles grow to Graafian follicle",
-      "Endometrium during follicular phase": "Regenerates through proliferation"
-    }
+    "matches": [
+      {"left": "Menstrual flow results from", "right": "Breakdown of endometrial lining and blood vessels"},
+      {"left": "Menstruation occurs if", "right": "Released ovum is not fertilised"},
+      {"left": "Lack of menstruation indicates", "right": "Pregnancy or stress, poor health"},
+      {"left": "Follicular phase involves", "right": "Primary follicles grow to Graafian follicle"},
+      {"left": "Endometrium during follicular phase", "right": "Regenerates through proliferation"}
+    ],
+    "answer": "Menstrual flow results from → Breakdown of endometrial lining and blood vessels, Menstruation occurs if → Released ovum is not fertilised, Lack of menstruation indicates → Pregnancy or stress, poor health, Follicular phase involves → Primary follicles grow to Graafian follicle, Endometrium during follicular phase → Regenerates through proliferation"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Gonadotropins during follicular phase",
       "Peak level of LH and FSH",
       "LH surge effect",
       "Corpus luteum secretes",
       "Endometrium maintenance hormone"
     ],
-    "columnB": [
+    "column_II": [
       "Increase gradually and stimulate follicular development and estrogen secretion",
       "Middle of cycle (about 14th day)",
       "Induces rupture of Graafian follicle and ovulation",
       "Progesterone",
       "Progesterone"
     ],
-    "answer": {
-      "Gonadotropins during follicular phase": "Increase gradually and stimulate follicular development and estrogen secretion",
-      "Peak level of LH and FSH": "Middle of cycle (about 14th day)",
-      "LH surge effect": "Induces rupture of Graafian follicle and ovulation",
-      "Corpus luteum secretes": "Progesterone",
-      "Endometrium maintenance hormone": "Progesterone"
-    }
+    "matches": [
+      {"left": "Gonadotropins during follicular phase", "right": "Increase gradually and stimulate follicular development and estrogen secretion"},
+      {"left": "Peak level of LH and FSH", "right": "Middle of cycle (about 14th day)"},
+      {"left": "LH surge effect", "right": "Induces rupture of Graafian follicle and ovulation"},
+      {"left": "Corpus luteum secretes", "right": "Progesterone"},
+      {"left": "Endometrium maintenance hormone", "right": "Progesterone"}
+    ],
+    "answer": "Gonadotropins during follicular phase → Increase gradually and stimulate follicular development and estrogen secretion, Peak level of LH and FSH → Middle of cycle (about 14th day), LH surge effect → Induces rupture of Graafian follicle and ovulation, Corpus luteum secretes → Progesterone, Endometrium maintenance hormone → Progesterone"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Ovulation phase",
       "Luteal phase involves",
       "Progesterone function",
       "Pregnancy effect on menstrual cycle",
       "Menstrual cycle cessation"
     ],
-    "columnB": [
+    "column_II": [
       "Release of ovum after LH surge",
       "Transformation of remaining Graafian follicle to corpus luteum",
       "Maintenance of endometrium for implantation",
       "All events of menstrual cycle stop, no menstruation",
       "Menopause around 50 years of age"
     ],
-    "answer": {
-      "Ovulation phase": "Release of ovum after LH surge",
-      "Luteal phase involves": "Transformation of remaining Graafian follicle to corpus luteum",
-      "Progesterone function": "Maintenance of endometrium for implantation",
-      "Pregnancy effect on menstrual cycle": "All events of menstrual cycle stop, no menstruation",
-      "Menstrual cycle cessation": "Menopause around 50 years of age"
-    }
+    "matches": [
+      {"left": "Ovulation phase", "right": "Release of ovum after LH surge"},
+      {"left": "Luteal phase involves", "right": "Transformation of remaining Graafian follicle to corpus luteum"},
+      {"left": "Progesterone function", "right": "Maintenance of endometrium for implantation"},
+      {"left": "Pregnancy effect on menstrual cycle", "right": "All events of menstrual cycle stop, no menstruation"},
+      {"left": "Menstrual cycle cessation", "right": "Menopause around 50 years of age"}
+    ],
+    "answer": "Ovulation phase → Release of ovum after LH surge, Luteal phase involves → Transformation of remaining Graafian follicle to corpus luteum, Progesterone function → Maintenance of endometrium for implantation, Pregnancy effect on menstrual cycle → All events of menstrual cycle stop, no menstruation, Menstrual cycle cessation → Menopause around 50 years of age"
   }
 ]
+
+
+
+
 
 
 
