@@ -1,107 +1,126 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Bees, butterflies, flies, beetles, wasps, ants, moths, birds (sunbirds and humming birds) and bats",
       "Insects, particularly bees",
       "Larger animals such as some primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard)",
       "Flowers of animal-pollinated plants"
     ],
-    "columnB": [
+    "column_II": [
       "Common pollinating agents",
       "Dominant biotic pollinating agents",
       "Also reported as pollinators in some species",
       "Specifically adapted for a particular species of animal"
     ],
-    "answer": {
-      "Bees, butterflies, flies, beetles, wasps, ants, moths, birds (sunbirds and humming birds) and bats": "Common pollinating agents",
-      "Insects, particularly bees": "Dominant biotic pollinating agents",
-      "Larger animals such as some primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard)": "Also reported as pollinators in some species",
-      "Flowers of animal-pollinated plants": "Specifically adapted for a particular species of animal"
-    }
+    "matches": [
+      {"left": "Bees, butterflies, flies, beetles, wasps, ants, moths, birds (sunbirds and humming birds) and bats", "right": "Common pollinating agents"},
+      {"left": "Insects, particularly bees", "right": "Dominant biotic pollinating agents"},
+      {"left": "Larger animals such as some primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard)", "right": "Also reported as pollinators in some species"},
+      {"left": "Flowers of animal-pollinated plants", "right": "Specifically adapted for a particular species of animal"}
+    ],
+    "answer": "Bees, butterflies, flies, beetles, wasps, ants, moths, birds (sunbirds and humming birds) and bats → Common pollinating agents, Insects, particularly bees → Dominant biotic pollinating agents, Larger animals such as some primates (lemurs), arboreal rodents, reptiles (gecko lizard and garden lizard) → Also reported as pollinators in some species, Flowers of animal-pollinated plants → Specifically adapted for a particular species of animal"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Majority of insect-pollinated flowers",
       "Small flowers",
       "Flowers pollinated by flies and beetles",
       "Usual floral rewards"
     ],
-    "columnB": [
+    "column_II": [
       "Large, colourful, fragrant and rich in nectar",
       "Clustered into an inflorescence to make them conspicuous",
       "Secrete foul odours to attract these animals",
       "Nectar and pollen grains"
     ],
-    "answer": {
-      "Majority of insect-pollinated flowers": "Large, colourful, fragrant and rich in nectar",
-      "Small flowers": "Clustered into an inflorescence to make them conspicuous",
-      "Flowers pollinated by flies and beetles": "Secrete foul odours to attract these animals",
-      "Usual floral rewards": "Nectar and pollen grains"
-    }
+    "matches": [
+      {"left": "Majority of insect-pollinated flowers", "right": "Large, colourful, fragrant and rich in nectar"},
+      {"left": "Small flowers", "right": "Clustered into an inflorescence to make them conspicuous"},
+      {"left": "Flowers pollinated by flies and beetles", "right": "Secrete foul odours to attract these animals"},
+      {"left": "Usual floral rewards", "right": "Nectar and pollen grains"}
+    ],
+    "answer": "Majority of insect-pollinated flowers → Large, colourful, fragrant and rich in nectar, Small flowers → Clustered into an inflorescence to make them conspicuous, Flowers pollinated by flies and beetles → Secrete foul odours to attract these animals, Usual floral rewards → Nectar and pollen grains"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Body of the animal visitor",
       "Pollen grains in animal pollinated flowers",
       "Floral reward in Amorphophallus",
       "Relationship between a species of moth and the plant Yucca"
     ],
-    "columnB": [
+    "column_II": [
       "Gets a coating of pollen grains",
       "Generally sticky",
       "Safe place to lay eggs; flower is about 6 feet in height",
       "Both species cannot complete their life cycle without each other"
     ],
-    "answer": {
-      "Body of the animal visitor": "Gets a coating of pollen grains",
-      "Pollen grains in animal pollinated flowers": "Generally sticky",
-      "Floral reward in Amorphophallus": "Safe place to lay eggs; flower is about 6 feet in height",
-      "Relationship between a species of moth and the plant Yucca": "Both species cannot complete their life cycle without each other"
-    }
+    "matches": [
+      {"left": "Body of the animal visitor", "right": "Gets a coating of pollen grains"},
+      {"left": "Pollen grains in animal pollinated flowers", "right": "Generally sticky"},
+      {"left": "Floral reward in Amorphophallus", "right": "Safe place to lay eggs; flower is about 6 feet in height"},
+      {"left": "Relationship between a species of moth and the plant Yucca", "right": "Both species cannot complete their life cycle without each other"}
+    ],
+    "answer": "Body of the animal visitor → Gets a coating of pollen grains, Pollen grains in animal pollinated flowers → Generally sticky, Floral reward in Amorphophallus → Safe place to lay eggs; flower is about 6 feet in height, Relationship between a species of moth and the plant Yucca → Both species cannot complete their life cycle without each other"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Pollen release and stigma receptivity not synchronised",
       "Anther and stigma placed at different positions",
       "Self-incompatibility",
       "Unisexual flowers"
     ],
-    "columnB": [
+    "column_II": [
       "Prevents autogamy by releasing pollen before stigma is receptive or vice versa",
       "Prevents autogamy by avoiding contact of pollen with stigma of same flower",
       "Genetic mechanism preventing self-pollen from fertilising ovules",
       "Prevents autogamy; in dioecy prevents both autogamy and geitonogamy"
     ],
-    "answer": {
-      "Pollen release and stigma receptivity not synchronised": "Prevents autogamy by releasing pollen before stigma is receptive or vice versa",
-      "Anther and stigma placed at different positions": "Prevents autogamy by avoiding contact of pollen with stigma of same flower",
-      "Self-incompatibility": "Genetic mechanism preventing self-pollen from fertilising ovules",
-      "Unisexual flowers": "Prevents autogamy; in dioecy prevents both autogamy and geitonogamy"
-    }
+    "matches": [
+      {"left": "Pollen release and stigma receptivity not synchronised", "right": "Prevents autogamy by releasing pollen before stigma is receptive or vice versa"},
+      {"left": "Anther and stigma placed at different positions", "right": "Prevents autogamy by avoiding contact of pollen with stigma of same flower"},
+      {"left": "Self-incompatibility", "right": "Genetic mechanism preventing self-pollen from fertilising ovules"},
+      {"left": "Unisexual flowers", "right": "Prevents autogamy; in dioecy prevents both autogamy and geitonogamy"}
+    ],
+    "answer": "Pollen release and stigma receptivity not synchronised → Prevents autogamy by releasing pollen before stigma is receptive or vice versa, Anther and stigma placed at different positions → Prevents autogamy by avoiding contact of pollen with stigma of same flower, Self-incompatibility → Genetic mechanism preventing self-pollen from fertilising ovules, Unisexual flowers → Prevents autogamy; in dioecy prevents both autogamy and geitonogamy"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Monoecious plants such as castor and maize",
       "Dioecious plants such as papaya",
       "Wrong type of pollen",
       "Right type of pollen"
     ],
-    "columnB": [
+    "column_II": [
       "Male and female flowers on same plant; prevents autogamy but not geitonogamy",
       "Male and female flowers on different plants; prevents both autogamy and geitonogamy",
       "Rejected by pistil",
       "Accepted by pistil and promotes post-pollination events"
     ],
-    "answer": {
-      "Monoecious plants such as castor and maize": "Male and female flowers on same plant; prevents autogamy but not geitonogamy",
-      "Dioecious plants such as papaya": "Male and female flowers on different plants; prevents both autogamy and geitonogamy",
-      "Wrong type of pollen": "Rejected by pistil",
-      "Right type of pollen": "Accepted by pistil and promotes post-pollination events"
-    }
+    "matches": [
+      {"left": "Monoecious plants such as castor and maize", "right": "Male and female flowers on same plant; prevents autogamy but not geitonogamy"},
+      {"left": "Dioecious plants such as papaya", "right": "Male and female flowers on different plants; prevents both autogamy and geitonogamy"},
+      {"left": "Wrong type of pollen", "right": "Rejected by pistil"},
+      {"left": "Right type of pollen", "right": "Accepted by pistil and promotes post-pollination events"}
+    ],
+    "answer": "Monoecious plants such as castor and maize → Male and female flowers on same plant; prevents autogamy but not geitonogamy, Dioecious plants such as papaya → Male and female flowers on different plants; prevents both autogamy and geitonogamy, Wrong type of pollen → Rejected by pistil, Right type of pollen → Accepted by pistil and promotes post-pollination events"
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
