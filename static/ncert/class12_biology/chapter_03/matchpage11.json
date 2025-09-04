@@ -1,65 +1,76 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Finger-like projections on the trophoblast",
       "Chorionic villi and uterine tissue",
       "Placenta",
       "Umbilical cord"
     ],
-    "columnB": [
+    "column_II": [
       "Chorionic villi",
       "Become interdigitated and jointly form placenta",
       "Facilitate the supply of oxygen and nutrients and removal of carbon dioxide and waste materials",
       "Helps in the transport of substances to and from the embryo"
     ],
-    "answer": {
-      "Finger-like projections on the trophoblast": "Chorionic villi",
-      "Chorionic villi and uterine tissue": "Become interdigitated and jointly form placenta",
-      "Placenta": "Facilitate the supply of oxygen and nutrients and removal of carbon dioxide and waste materials",
-      "Umbilical cord": "Helps in the transport of substances to and from the embryo"
-    }
+    "matches": [
+      {"left": "Finger-like projections on the trophoblast", "right": "Chorionic villi"},
+      {"left": "Chorionic villi and uterine tissue", "right": "Become interdigitated and jointly form placenta"},
+      {"left": "Placenta", "right": "Facilitate the supply of oxygen and nutrients and removal of carbon dioxide and waste materials"},
+      {"left": "Umbilical cord", "right": "Helps in the transport of substances to and from the embryo"}
+    ],
+    "answer": "Finger-like projections on the trophoblast → Chorionic villi, Chorionic villi and uterine tissue → Become interdigitated and jointly form placenta, Placenta → Facilitate the supply of oxygen and nutrients and removal of carbon dioxide and waste materials, Umbilical cord → Helps in the transport of substances to and from the embryo"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Placenta as endocrine tissue",
       "hCG, hPL and relaxin",
       "Relaxin",
       "Estrogens, progestogens, cortisol, prolactin, thyroxine"
     ],
-    "columnB": [
+    "column_II": [
       "Produced only during pregnancy",
       "Produces several hormones like hCG, hPL, estrogens, progestogens",
       "Secreted by the ovary in the later phase of pregnancy",
       "Increased several-folds in the maternal blood during pregnancy"
     ],
-    "answer": {
-      "Placenta as endocrine tissue": "Produces several hormones like hCG, hPL, estrogens, progestogens",
-      "hCG, hPL and relaxin": "Produced only during pregnancy",
-      "Relaxin": "Secreted by the ovary in the later phase of pregnancy",
-      "Estrogens, progestogens, cortisol, prolactin, thyroxine": "Increased several-folds in the maternal blood during pregnancy"
-    }
+    "matches": [
+      {"left": "Placenta as endocrine tissue", "right": "Produces several hormones like hCG, hPL, estrogens, progestogens"},
+      {"left": "hCG, hPL and relaxin", "right": "Produced only during pregnancy"},
+      {"left": "Relaxin", "right": "Secreted by the ovary in the later phase of pregnancy"},
+      {"left": "Estrogens, progestogens, cortisol, prolactin, thyroxine", "right": "Increased several-folds in the maternal blood during pregnancy"}
+    ],
+    "answer": "Placenta as endocrine tissue → Produces several hormones like hCG, hPL, estrogens, progestogens, hCG, hPL and relaxin → Produced only during pregnancy, Relaxin → Secreted by the ovary in the later phase of pregnancy, Estrogens, progestogens, cortisol, prolactin, thyroxine → Increased several-folds in the maternal blood during pregnancy"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "hCG",
       "hPL",
       "Increased production of hormones",
       "Functions of increased hormones"
     ],
-    "columnB": [
+    "column_II": [
       "Produced only during pregnancy",
       "Produced only during pregnancy",
       "Essential during pregnancy",
       "Supporting the fetal growth, metabolic changes in the mother and maintenance of pregnancy"
     ],
-    "answer": {
-      "hCG": "Produced only during pregnancy",
-      "hPL": "Produced only during pregnancy",
-      "Increased production of hormones": "Essential during pregnancy",
-      "Functions of increased hormones": "Supporting the fetal growth, metabolic changes in the mother and maintenance of pregnancy"
-    }
+    "matches": [
+      {"left": "hCG", "right": "Produced only during pregnancy"},
+      {"left": "hPL", "right": "Produced only during pregnancy"},
+      {"left": "Increased production of hormones", "right": "Essential during pregnancy"},
+      {"left": "Functions of increased hormones", "right": "Supporting the fetal growth, metabolic changes in the mother and maintenance of pregnancy"}
+    ],
+    "answer": "hCG → Produced only during pregnancy, hPL → Produced only during pregnancy, Increased production of hormones → Essential during pregnancy, Functions of increased hormones → Supporting the fetal growth, metabolic changes in the mother and maintenance of pregnancy"
   }
-    ]
+]
+
+
+
+
+
+
+
+
