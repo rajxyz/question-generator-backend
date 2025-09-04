@@ -1,122 +1,127 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Androecium",
       "Gynoecium",
       "Bilobed, dithecous and tetrasporangiate",
       "Microsporangium wall layers",
       "Sporogenous tissue undergoes meiosis"
     ],
-    "columnB": [
-      "Represents the female reproductive organs",
-      "Forms tetrads of microspores",
+    "column_II": [
       "Consists of stamens",
+      "Represents the female reproductive organs",
+      "A typical anther",
       "Epidermis, endothecium, middle layers and tapetum",
-      "A typical anther"
+      "Forms tetrads of microspores"
     ],
-    "answer": {
-      "Androecium": "Consists of stamens",
-      "Gynoecium": "Represents the female reproductive organs",
-      "Bilobed, dithecous and tetrasporangiate": "A typical anther",
-      "Microsporangium wall layers": "Epidermis, endothecium, middle layers and tapetum",
-      "Sporogenous tissue undergoes meiosis": "Forms tetrads of microspores"
-    }
+    "matches": [
+      {"left": "Androecium", "right": "Consists of stamens"},
+      {"left": "Gynoecium", "right": "Represents the female reproductive organs"},
+      {"left": "Bilobed, dithecous and tetrasporangiate", "right": "A typical anther"},
+      {"left": "Microsporangium wall layers", "right": "Epidermis, endothecium, middle layers and tapetum"},
+      {"left": "Sporogenous tissue undergoes meiosis", "right": "Forms tetrads of microspores"}
+    ],
+    "answer": "Androecium → Consists of stamens, Gynoecium → Represents the female reproductive organs, Bilobed, dithecous and tetrasporangiate → A typical anther, Microsporangium wall layers → Epidermis, endothecium, middle layers and tapetum, Sporogenous tissue undergoes meiosis → Forms tetrads of microspores"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Pollen grains",
       "Pollen wall layers",
       "Exine",
       "Intine",
       "Cells at the time of shedding"
     ],
-    "columnB": [
-      "Two-layered wall",
+    "column_II": [
       "Male gametophytic generation",
+      "Two-layered wall",
       "Made up of sporopollenin and has germ pores",
       "Inner wall layer",
       "Two cells or three cells"
     ],
-    "answer": {
-      "Pollen grains": "Male gametophytic generation",
-      "Pollen wall layers": "Two-layered wall",
-      "Exine": "Made up of sporopollenin and has germ pores",
-      "Intine": "Inner wall layer",
-      "Cells at the time of shedding": "Two cells or three cells"
-    }
+    "matches": [
+      {"left": "Pollen grains", "right": "Male gametophytic generation"},
+      {"left": "Pollen wall layers", "right": "Two-layered wall"},
+      {"left": "Exine", "right": "Made up of sporopollenin and has germ pores"},
+      {"left": "Intine", "right": "Inner wall layer"},
+      {"left": "Cells at the time of shedding", "right": "Two cells or three cells"}
+    ],
+    "answer": "Pollen grains → Male gametophytic generation, Pollen wall layers → Two-layered wall, Exine → Made up of sporopollenin and has germ pores, Intine → Inner wall layer, Cells at the time of shedding → Two cells or three cells"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Pistil",
       "Ovules",
       "Megaspore mother cell",
       "Mature embryo sac",
       "Egg apparatus"
     ],
-    "columnB": [
+    "column_II": [
       "Stigma, style and ovary",
       "Stalk called funicle, protective integuments, micropyle",
       "Divides meiotically to form one megaspore",
       "7-celled and 8-nucleate",
       "Two synergids and an egg cell at micropylar end"
     ],
-    "answer": {
-      "Pistil": "Stigma, style and ovary",
-      "Ovules": "Stalk called funicle, protective integuments, micropyle",
-      "Megaspore mother cell": "Divides meiotically to form one megaspore",
-      "Mature embryo sac": "7-celled and 8-nucleate",
-      "Egg apparatus": "Two synergids and an egg cell at micropylar end"
-    }
+    "matches": [
+      {"left": "Pistil", "right": "Stigma, style and ovary"},
+      {"left": "Ovules", "right": "Stalk called funicle, protective integuments, micropyle"},
+      {"left": "Megaspore mother cell", "right": "Divides meiotically to form one megaspore"},
+      {"left": "Mature embryo sac", "right": "7-celled and 8-nucleate"},
+      {"left": "Egg apparatus", "right": "Two synergids and an egg cell at micropylar end"}
+    ],
+    "answer": "Pistil → Stigma, style and ovary, Ovules → Stalk called funicle, protective integuments, micropyle, Megaspore mother cell → Divides meiotically to form one megaspore, Mature embryo sac → 7-celled and 8-nucleate, Egg apparatus → Two synergids and an egg cell at micropylar end"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Double fertilisation",
       "Syngamy",
       "Triple fusion",
       "Zygote",
       "Primary endosperm cell"
     ],
-    "columnB": [
-      "Fusion of two male gametes with polar nuclei",
-      "Diploid cell formed after male gamete fuses with egg",
+    "column_II": [
       "Two fusion events in each embryo sac",
+      "Diploid cell formed after male gamete fuses with egg",
+      "Fusion of two male gametes with polar nuclei",
       "Develops into the embryo",
       "Forms endosperm tissue"
     ],
-    "answer": {
-      "Double fertilisation": "Two fusion events in each embryo sac",
-      "Syngamy": "Diploid cell formed after male gamete fuses with egg",
-      "Triple fusion": "Fusion of two male gametes with polar nuclei",
-      "Zygote": "Develops into the embryo",
-      "Primary endosperm cell": "Forms endosperm tissue"
-    }
+    "matches": [
+      {"left": "Double fertilisation", "right": "Two fusion events in each embryo sac"},
+      {"left": "Syngamy", "right": "Diploid cell formed after male gamete fuses with egg"},
+      {"left": "Triple fusion", "right": "Fusion of two male gametes with polar nuclei"},
+      {"left": "Zygote", "right": "Develops into the embryo"},
+      {"left": "Primary endosperm cell", "right": "Forms endosperm tissue"}
+    ],
+    "answer": "Double fertilisation → Two fusion events in each embryo sac, Syngamy → Diploid cell formed after male gamete fuses with egg, Triple fusion → Fusion of two male gametes with polar nuclei, Zygote → Develops into the embryo, Primary endosperm cell → Forms endosperm tissue"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Dicotyledonous embryo",
       "Monocotyledonous embryo",
       "Ovary after fertilisation",
       "Ovules after fertilisation",
       "Apomixis"
     ],
-    "columnB": [
+    "column_II": [
       "Two cotyledons and embryonal axis",
       "Single cotyledon",
       "Develops into fruit",
       "Develop into seeds",
       "Formation of seeds without fertilisation"
     ],
-    "answer": {
-      "Dicotyledonous embryo": "Two cotyledons and embryonal axis",
-      "Monocotyledonous embryo": "Single cotyledon",
-      "Ovary after fertilisation": "Develops into fruit",
-      "Ovules after fertilisation": "Develop into seeds",
-      "Apomixis": "Formation of seeds without fertilisation"
-    }
+    "matches": [
+      {"left": "Dicotyledonous embryo", "right": "Two cotyledons and embryonal axis"},
+      {"left": "Monocotyledonous embryo", "right": "Single cotyledon"},
+      {"left": "Ovary after fertilisation", "right": "Develops into fruit"},
+      {"left": "Ovules after fertilisation", "right": "Develop into seeds"},
+      {"left": "Apomixis", "right": "Formation of seeds without fertilisation"}
+    ],
+    "answer": "Dicotyledonous embryo → Two cotyledons and embryonal axis, Monocotyledonous embryo → Single cotyledon, Ovary after fertilisation → Develops into fruit, Ovules after fertilisation → Develop into seeds, Apomixis → Formation of seeds without fertilisation"
   }
 ]
