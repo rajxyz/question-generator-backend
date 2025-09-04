@@ -1,107 +1,112 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Pollen tube growth path",
       "Plants shedding pollen at two-celled condition",
       "Plants shedding pollen at three-celled condition",
       "Entry of pollen tube into ovule"
     ],
-    "columnB": [
-      "Micropyle and filiform apparatus of synergid",
+    "column_II": [
+      "Through tissues of stigma and style to ovary",
       "Vegetative cell and generative cell",
       "Two male gametes from the beginning",
-      "Through tissues of stigma and style to ovary"
+      "Micropyle and filiform apparatus of synergid"
     ],
-    "answer": {
-      "Pollen tube growth path": "Through tissues of stigma and style to ovary",
-      "Plants shedding pollen at two-celled condition": "Vegetative cell and generative cell",
-      "Plants shedding pollen at three-celled condition": "Two male gametes from the beginning",
-      "Entry of pollen tube into ovule": "Micropyle and filiform apparatus of synergid"
-    }
+    "matches": [
+      {"left": "Pollen tube growth path", "right": "Through tissues of stigma and style to ovary"},
+      {"left": "Plants shedding pollen at two-celled condition", "right": "Vegetative cell and generative cell"},
+      {"left": "Plants shedding pollen at three-celled condition", "right": "Two male gametes from the beginning"},
+      {"left": "Entry of pollen tube into ovule", "right": "Micropyle and filiform apparatus of synergid"}
+    ],
+    "answer": "Pollen tube growth path → Through tissues of stigma and style to ovary, Plants shedding pollen at two-celled condition → Vegetative cell and generative cell, Plants shedding pollen at three-celled condition → Two male gametes from the beginning, Entry of pollen tube into ovule → Micropyle and filiform apparatus of synergid"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Filiform apparatus location",
       "Role of filiform apparatus",
       "Pollen-pistil interaction definition",
       "Purpose of knowledge in pollen-pistil interaction"
     ],
-    "columnB": [
-      "Dynamic process involving pollen recognition and promotion/inhibition",
-      "Guides entry of pollen tube",
+    "column_II": [
       "Micropylar part of synergids",
+      "Guides entry of pollen tube",
+      "Dynamic process involving pollen recognition and promotion/inhibition",
       "Manipulating even incompatible pollinations to get desired hybrids"
     ],
-    "answer": {
-      "Filiform apparatus location": "Micropylar part of synergids",
-      "Role of filiform apparatus": "Guides entry of pollen tube",
-      "Pollen-pistil interaction definition": "Dynamic process involving pollen recognition and promotion/inhibition",
-      "Purpose of knowledge in pollen-pistil interaction": "Manipulating even incompatible pollinations to get desired hybrids"
-    }
+    "matches": [
+      {"left": "Filiform apparatus location", "right": "Micropylar part of synergids"},
+      {"left": "Role of filiform apparatus", "right": "Guides entry of pollen tube"},
+      {"left": "Pollen-pistil interaction definition", "right": "Dynamic process involving pollen recognition and promotion/inhibition"},
+      {"left": "Purpose of knowledge in pollen-pistil interaction", "right": "Manipulating even incompatible pollinations to get desired hybrids"}
+    ],
+    "answer": "Filiform apparatus location → Micropylar part of synergids, Role of filiform apparatus → Guides entry of pollen tube, Pollen-pistil interaction definition → Dynamic process involving pollen recognition and promotion/inhibition, Purpose of knowledge in pollen-pistil interaction → Manipulating even incompatible pollinations to get desired hybrids"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Pollen germination study flowers",
       "Pollen germination medium",
       "Observation time for pollen germination",
       "Observation tool for pollen tubes"
     ],
-    "columnB": [
+    "column_II": [
       "Pea, chickpea, Crotalaria, balsam, Vinca",
       "About 10 per cent sugar solution",
       "About 15–30 minutes",
       "Low power lens of microscope"
     ],
-    "answer": {
-      "Pollen germination study flowers": "Pea, chickpea, Crotalaria, balsam, Vinca",
-      "Pollen germination medium": "About 10 per cent sugar solution",
-      "Observation time for pollen germination": "About 15–30 minutes",
-      "Observation tool for pollen tubes": "Low power lens of microscope"
-    }
+    "matches": [
+      {"left": "Pollen germination study flowers", "right": "Pea, chickpea, Crotalaria, balsam, Vinca"},
+      {"left": "Pollen germination medium", "right": "About 10 per cent sugar solution"},
+      {"left": "Observation time for pollen germination", "right": "About 15–30 minutes"},
+      {"left": "Observation tool for pollen tubes", "right": "Low power lens of microscope"}
+    ],
+    "answer": "Pollen germination study flowers → Pea, chickpea, Crotalaria, balsam, Vinca, Pollen germination medium → About 10 per cent sugar solution, Observation time for pollen germination → About 15–30 minutes, Observation tool for pollen tubes → Low power lens of microscope"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Purpose of artificial hybridisation",
       "Emasculation definition",
       "Bagging purpose",
       "Material for bagging"
     ],
-    "columnB": [
+    "column_II": [
+      "Crop improvement programme to produce commercially 'superior' varieties",
       "Removal of anthers from flower bud before anther dehisces",
       "Prevent contamination of stigma with unwanted pollen",
-      "Crop improvement programme to produce commercially 'superior' varieties",
       "Butter paper"
     ],
-    "answer": {
-      "Purpose of artificial hybridisation": "Crop improvement programme to produce commercially 'superior' varieties",
-      "Emasculation definition": "Removal of anthers from flower bud before anther dehisces",
-      "Bagging purpose": "Prevent contamination of stigma with unwanted pollen",
-      "Material for bagging": "Butter paper"
-    }
+    "matches": [
+      {"left": "Purpose of artificial hybridisation", "right": "Crop improvement programme to produce commercially 'superior' varieties"},
+      {"left": "Emasculation definition", "right": "Removal of anthers from flower bud before anther dehisces"},
+      {"left": "Bagging purpose", "right": "Prevent contamination of stigma with unwanted pollen"},
+      {"left": "Material for bagging", "right": "Butter paper"}
+    ],
+    "answer": "Purpose of artificial hybridisation → Crop improvement programme to produce commercially 'superior' varieties, Emasculation definition → Removal of anthers from flower bud before anther dehisces, Bagging purpose → Prevent contamination of stigma with unwanted pollen, Material for bagging → Butter paper"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Emasculation necessity",
       "When stigma attains receptivity in bagged flower",
       "Emasculation in unisexual flowers",
       "Pollination in unisexual flowers"
     ],
-    "columnB": [
-      "No need for emasculation",
-      "Mature pollen grains from male parent dusted on stigma",
+    "column_II": [
       "Female parent bears bisexual flowers",
+      "Mature pollen grains from male parent dusted on stigma",
+      "No need for emasculation",
       "Female flower buds bagged before flowers open"
     ],
-    "answer": {
-      "Emasculation necessity": "Female parent bears bisexual flowers",
-      "When stigma attains receptivity in bagged flower": "Mature pollen grains from male parent dusted on stigma",
-      "Emasculation in unisexual flowers": "No need for emasculation",
-      "Pollination in unisexual flowers": "Female flower buds bagged before flowers open"
-    }
+    "matches": [
+      {"left": "Emasculation necessity", "right": "Female parent bears bisexual flowers"},
+      {"left": "When stigma attains receptivity in bagged flower", "right": "Mature pollen grains from male parent dusted on stigma"},
+      {"left": "Emasculation in unisexual flowers", "right": "No need for emasculation"},
+      {"left": "Pollination in unisexual flowers", "right": "Female flower buds bagged before flowers open"}
+    ],
+    "answer": "Emasculation necessity → Female parent bears bisexual flowers, When stigma attains receptivity in bagged flower → Mature pollen grains from male parent dusted on stigma, Emasculation in unisexual flowers → No need for emasculation, Pollination in unisexual flowers → Female flower buds bagged before flowers open"
   }
 ]
