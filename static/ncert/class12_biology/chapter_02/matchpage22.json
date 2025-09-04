@@ -1,86 +1,90 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Sufficient food reserves in seeds",
       "Hard seed coat",
       "Products of sexual reproduction",
       "Dehydration and dormancy of mature seeds"
     ],
-    "columnB": [
+    "column_II": [
+      "Nourish young seedlings until photosynthesis",
       "Protection to the young embryo",
       "Generate new genetic combinations leading to variations",
-      "Crucial for storage of seeds",
-      "Nourish young seedlings until photosynthesis"
+      "Crucial for storage of seeds"
     ],
-    "answer": {
-      "Sufficient food reserves in seeds": "Nourish young seedlings until photosynthesis",
-      "Hard seed coat": "Protection to the young embryo",
-      "Products of sexual reproduction": "Generate new genetic combinations leading to variations",
-      "Dehydration and dormancy of mature seeds": "Crucial for storage of seeds"
-    }
+    "matches": [
+      {"left": "Sufficient food reserves in seeds", "right": "Nourish young seedlings until photosynthesis"},
+      {"left": "Hard seed coat", "right": "Protection to the young embryo"},
+      {"left": "Products of sexual reproduction", "right": "Generate new genetic combinations leading to variations"},
+      {"left": "Dehydration and dormancy of mature seeds", "right": "Crucial for storage of seeds"}
+    ],
+    "answer": "Sufficient food reserves in seeds → Nourish young seedlings until photosynthesis, Hard seed coat → Protection to the young embryo, Products of sexual reproduction → Generate new genetic combinations leading to variations, Dehydration and dormancy of mature seeds → Crucial for storage of seeds"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Seeds losing viability within a few months",
       "Seeds of large number of species",
       "Lupinus arcticus",
       "Phoenix dactylifera"
     ],
-    "columnB": [
-      "2000 years old viable seed discovered during archeological excavation at King Herod’s palace near the Dead Sea",
-      "Oldest record of 10,000 years dormancy seed excavated from Arctic Tundra",
+    "column_II": [
+      "Few species",
       "Live for several years",
-      "Few species"
+      "Oldest record of 10,000 years dormancy seed excavated from Arctic Tundra",
+      "2000 years old viable seed discovered during archeological excavation at King Herod’s palace near the Dead Sea"
     ],
-    "answer": {
-      "Seeds losing viability within a few months": "Few species",
-      "Seeds of large number of species": "Live for several years",
-      "Lupinus arcticus": "Oldest record of 10,000 years dormancy seed excavated from Arctic Tundra",
-      "Phoenix dactylifera": "2000 years old viable seed discovered during archeological excavation at King Herod’s palace near the Dead Sea"
-    }
+    "matches": [
+      {"left": "Seeds losing viability within a few months", "right": "Few species"},
+      {"left": "Seeds of large number of species", "right": "Live for several years"},
+      {"left": "Lupinus arcticus", "right": "Oldest record of 10,000 years dormancy seed excavated from Arctic Tundra"},
+      {"left": "Phoenix dactylifera", "right": "2000 years old viable seed discovered during archeological excavation at King Herod’s palace near the Dead Sea"}
+    ],
+    "answer": "Seeds losing viability within a few months → Few species, Seeds of large number of species → Live for several years, Lupinus arcticus → Oldest record of 10,000 years dormancy seed excavated from Arctic Tundra, Phoenix dactylifera → 2000 years old viable seed discovered during archeological excavation at King Herod’s palace near the Dead Sea"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Orchid fruits",
       "Orobanche and Striga fruits",
       "Tiny seed of Ficus",
       "Ficus tree"
     ],
-    "columnB": [
+    "column_II": [
       "Thousands of tiny seeds",
       "Parasitic species fruits containing thousands of tiny seeds",
       "Develop into large tree",
       "Produces billions of seeds"
     ],
-    "answer": {
-      "Orchid fruits": "Thousands of tiny seeds",
-      "Orobanche and Striga fruits": "Parasitic species fruits containing thousands of tiny seeds",
-      "Tiny seed of Ficus": "Develop into large tree",
-      "Ficus tree": "Produces billions of seeds"
-    }
+    "matches": [
+      {"left": "Orchid fruits", "right": "Thousands of tiny seeds"},
+      {"left": "Orobanche and Striga fruits", "right": "Parasitic species fruits containing thousands of tiny seeds"},
+      {"left": "Tiny seed of Ficus", "right": "Develop into large tree"},
+      {"left": "Ficus tree", "right": "Produces billions of seeds"}
+    ],
+    "answer": "Orchid fruits → Thousands of tiny seeds, Orobanche and Striga fruits → Parasitic species fruits containing thousands of tiny seeds, Tiny seed of Ficus → Develop into large tree, Ficus tree → Produces billions of seeds"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Apomixis",
       "Fruit production without fertilisation",
       "Diploid egg cell formed without reduction division",
       "Form of reproduction in apomixis"
     ],
-    "columnB": [
+    "column_II": [
       "Asexual reproduction that mimics sexual reproduction",
-      "Apomictic seed development",
+      "Parthenocarpy",
       "Develops into embryo without fertilisation",
-      "Parthenocarpy"
+      "Asexual reproduction that mimics sexual reproduction"
     ],
-    "answer": {
-      "Apomixis": "Asexual reproduction that mimics sexual reproduction",
-      "Fruit production without fertilisation": "Parthenocarpy",
-      "Diploid egg cell formed without reduction division": "Develops into embryo without fertilisation",
-      "Form of reproduction in apomixis": "Asexual reproduction that mimics sexual reproduction"
-    }
+    "matches": [
+      {"left": "Apomixis", "right": "Asexual reproduction that mimics sexual reproduction"},
+      {"left": "Fruit production without fertilisation", "right": "Parthenocarpy"},
+      {"left": "Diploid egg cell formed without reduction division", "right": "Develops into embryo without fertilisation"},
+      {"left": "Form of reproduction in apomixis", "right": "Asexual reproduction that mimics sexual reproduction"}
+    ],
+    "answer": "Apomixis → Asexual reproduction that mimics sexual reproduction, Fruit production without fertilisation → Parthenocarpy, Diploid egg cell formed without reduction division → Develops into embryo without fertilisation, Form of reproduction in apomixis → Asexual reproduction that mimics sexual reproduction"
   }
 ]
