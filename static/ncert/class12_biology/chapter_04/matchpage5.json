@@ -15,6 +15,13 @@
       "Ovulation and implantation",
       "Cervical mucus to retard entry of sperms"
     ],
+    "matches": [
+      {"left": "Oral administration of small doses of progestogens or progestogen–estrogen combinations", "right": "Inhibit ovulation and implantation"},
+      {"left": "Tablets used by females to prevent conception", "right": "Contraceptive pills"},
+      {"left": "Pills have to be taken daily for a period of", "right": "21 days starting preferably within first five days of menstrual cycle"},
+      {"left": "Pills inhibit", "right": "Ovulation and implantation"},
+      {"left": "They alter the quality of", "right": "Cervical mucus to retard entry of sperms"}
+    ],
     "answer": {
       "Oral administration of small doses of progestogens or progestogen–estrogen combinations": "Inhibit ovulation and implantation",
       "Tablets used by females to prevent conception": "Contraceptive pills",
@@ -38,6 +45,13 @@
       "By females",
       "Once a week pill",
       "Centrally developed oral contraceptive"
+    ],
+    "matches": [
+      {"left": "Pills are very effective", "right": "Side effects"},
+      {"left": "Pills have", "right": "Once a week pill"},
+      {"left": "Pills are well accepted", "right": "By females"},
+      {"left": "Saheli – the new oral contraceptive for the females", "right": "Non-steroidal preparation"},
+      {"left": "Saheli is a", "right": "Centrally developed oral contraceptive"}
     ],
     "answer": {
       "Pills are very effective": "Side effects",
@@ -63,6 +77,13 @@
       "72 hours of coitus",
       "Oral pills"
     ],
+    "matches": [
+      {"left": "Progestogens or progestogen–estrogen combinations can be used as", "right": "Oral pills"},
+      {"left": "Injections or implants under the skin are used by females for", "right": "Injections or implants"},
+      {"left": "Emergency contraceptives are effective when used within", "right": "72 hours of coitus"},
+      {"left": "Emergency contraceptives are used to", "right": "Avoid unwanted pregnancy"},
+      {"left": "Sterilisation procedure in the male is called", "right": "Vasectomy"}
+    ],
     "answer": {
       "Progestogens or progestogen–estrogen combinations can be used as": "Oral pills",
       "Injections or implants under the skin are used by females for": "Injections or implants",
@@ -87,6 +108,13 @@
       "Surgical interventions",
       "Irreversible"
     ],
+    "matches": [
+      {"left": "Surgical methods are", "right": "Surgical interventions"},
+      {"left": "Vasectomy involves", "right": "Removal and tying of a small part of vas deferens"},
+      {"left": "Tubectomy involves", "right": "Removal and tying of a small part of fallopian tube"},
+      {"left": "In tubectomy, a part of fallopian tube is removed or tied through", "right": "Abdominal surgery or laparoscopy"},
+      {"left": "These techniques are highly effective but", "right": "Irreversible"}
+    ],
     "answer": {
       "Surgical methods are": "Surgical interventions",
       "Vasectomy involves": "Removal and tying of a small part of vas deferens",
@@ -96,3 +124,14 @@
     }
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
