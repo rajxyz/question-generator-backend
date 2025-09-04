@@ -1,62 +1,74 @@
 [
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Nucellar cells surrounding the embryo sac",
       "Occurrence of more than one embryo in a seed",
       "Embryos of different sizes and shapes in orange seed",
       "Genetic nature of apomictic embryos"
     ],
-    "columnB": [
+    "column_II": [
       "Start dividing, protrude into embryo sac and develop into embryos",
       "Polyembryony",
       "Observe and count in each seed",
       "Can be called clones"
     ],
-    "answer": {
-      "Nucellar cells surrounding the embryo sac": "Start dividing, protrude into embryo sac and develop into embryos",
-      "Occurrence of more than one embryo in a seed": "Polyembryony",
-      "Embryos of different sizes and shapes in orange seed": "Observe and count in each seed",
-      "Genetic nature of apomictic embryos": "Can be called clones"
-    }
+    "matches": [
+      {"left": "Nucellar cells surrounding the embryo sac", "right": "Start dividing, protrude into embryo sac and develop into embryos"},
+      {"left": "Occurrence of more than one embryo in a seed", "right": "Polyembryony"},
+      {"left": "Embryos of different sizes and shapes in orange seed", "right": "Observe and count in each seed"},
+      {"left": "Genetic nature of apomictic embryos", "right": "Can be called clones"}
+    ],
+    "answer": "Nucellar cells surrounding the embryo sac → Start dividing, protrude into embryo sac and develop into embryos, Occurrence of more than one embryo in a seed → Polyembryony, Embryos of different sizes and shapes in orange seed → Observe and count in each seed, Genetic nature of apomictic embryos → Can be called clones"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Hybrid varieties of food and vegetable crops",
       "Problem of hybrid seeds",
       "Cost of hybrid seeds",
       "Advantage of making hybrids into apomicts"
     ],
-    "columnB": [
+    "column_II": [
       "Tremendously increased productivity",
       "Progeny segregates and do not maintain hybrid characters",
       "Becomes too expensive for the farmers",
       "No segregation of characters in the hybrid progeny"
     ],
-    "answer": {
-      "Hybrid varieties of food and vegetable crops": "Tremendously increased productivity",
-      "Problem of hybrid seeds": "Progeny segregates and do not maintain hybrid characters",
-      "Cost of hybrid seeds": "Becomes too expensive for the farmers",
-      "Advantage of making hybrids into apomicts": "No segregation of characters in the hybrid progeny"
-    }
+    "matches": [
+      {"left": "Hybrid varieties of food and vegetable crops", "right": "Tremendously increased productivity"},
+      {"left": "Problem of hybrid seeds", "right": "Progeny segregates and do not maintain hybrid characters"},
+      {"left": "Cost of hybrid seeds", "right": "Becomes too expensive for the farmers"},
+      {"left": "Advantage of making hybrids into apomicts", "right": "No segregation of characters in the hybrid progeny"}
+    ],
+    "answer": "Hybrid varieties of food and vegetable crops → Tremendously increased productivity, Problem of hybrid seeds → Progeny segregates and do not maintain hybrid characters, Cost of hybrid seeds → Becomes too expensive for the farmers, Advantage of making hybrids into apomicts → No segregation of characters in the hybrid progeny"
   },
   {
     "question": "Match the following:",
-    "columnA": [
+    "column_I": [
       "Farmers using apomictic hybrid seeds",
       "Active research on apomixis",
       "Goal of apomixis research in hybrid varieties"
     ],
-    "columnB": [
+    "column_II": [
       "Can keep using the hybrid seeds year after year",
       "Many laboratories around the world",
       "Understand genetics of apomixis and transfer apomictic genes"
     ],
-    "answer": {
-      "Farmers using apomictic hybrid seeds": "Can keep using the hybrid seeds year after year",
-      "Active research on apomixis": "Many laboratories around the world",
-      "Goal of apomixis research in hybrid varieties": "Understand genetics of apomixis and transfer apomictic genes"
-    }
+    "matches": [
+      {"left": "Farmers using apomictic hybrid seeds", "right": "Can keep using the hybrid seeds year after year"},
+      {"left": "Active research on apomixis", "right": "Many laboratories around the world"},
+      {"left": "Goal of apomixis research in hybrid varieties", "right": "Understand genetics of apomixis and transfer apomictic genes"}
+    ],
+    "answer": "Farmers using apomictic hybrid seeds → Can keep using the hybrid seeds year after year, Active research on apomixis → Many laboratories around the world, Goal of apomixis research in hybrid varieties → Understand genetics of apomixis and transfer apomictic genes"
   }
 ]
+
+
+
+
+
+
+
+
+
