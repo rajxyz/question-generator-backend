@@ -1,1 +1,25 @@
-ok
+[
+  {"question": "Pollen tube grows through the tissues of the stigma and style and reaches the ______.", "answer": "ovary"},
+  {"question": "In some plants, pollen grains are shed at two-celled condition, a vegetative cell and a ______ cell.", "answer": "generative"},
+  {"question": "In two-celled pollen grains, the generative cell divides and forms the two ______ during the growth of pollen tube.", "answer": "male gametes"},
+  {"question": "In plants which shed pollen in the three-celled condition, pollen tubes carry the two male gametes from the ______.", "answer": "beginning"},
+  {"question": "Pollen tube, after reaching the ovary, enters the ovule through the ______.", "answer": "micropyle"},
+  {"question": "Pollen tube enters one of the synergids through the ______ apparatus.", "answer": "filiform"},
+  {"question": "Filiform apparatus present at the micropylar part of the ______ guides the entry of pollen tube.", "answer": "synergids"},
+  {"question": "All events from pollen deposition on the stigma until pollen tubes enter the ovule are referred to as ______ interaction.", "answer": "pollen-pistil"},
+  {"question": "Pollen-pistil interaction is a dynamic process involving pollen recognition followed by promotion or ______ of the pollen.", "answer": "inhibition"},
+  {"question": "The knowledge of pollen-pistil interaction helps the plant breeder in manipulating even incompatible pollinations to get desired ______.", "answer": "hybrids"},
+  {"question": "Pollen germination can be studied by dusting pollen from flowers such as pea, chickpea, Crotalaria, balsam and ______.", "answer": "Vinca"},
+  {"question": "Pollen grains are dusted on a glass slide containing a drop of ______ solution.", "answer": "sugar"},
+  {"question": "The sugar solution used for pollen germination is about ______ per cent.", "answer": "10"},
+  {"question": "After about 15–30 minutes, pollen tubes can be observed under the ______ power lens of the microscope.", "answer": "low"},
+  {"question": "Artificial ______ is one of the major approaches of crop improvement programme.", "answer": "hybridisation"},
+  {"question": "In crossing experiments, it is important to protect stigma from contamination by unwanted ______.", "answer": "pollen"},
+  {"question": "Removal of anthers from the flower bud before the anther dehisces using forceps is called ______.", "answer": "emasculation"},
+  {"question": "Emasculated flowers are covered with a bag of suitable size, generally made of ______ paper.", "answer": "butter"},
+  {"question": "Covering emasculated flowers with a bag to prevent contamination of stigma is called ______.", "answer": "bagging"},
+  {"question": "When stigma of bagged flower attains receptivity, mature pollen grains collected from anthers of the male parent are ______ on the stigma.", "answer": "dusted"},
+  {"question": "If the female parent produces unisexual flowers, there is no need for ______.", "answer": "emasculation"},
+  {"question": "In female plants with unisexual flowers, female flower buds are bagged before the flowers ______.", "answer": "open"},
+  {"question": "When the stigma becomes receptive in unisexual flowers, pollination is carried out using the desired ______.", "answer": "pollen"}
+]
