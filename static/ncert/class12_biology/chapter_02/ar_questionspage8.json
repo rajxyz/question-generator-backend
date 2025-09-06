@@ -1,62 +1,7 @@
 [
   {
-    "assertion": "Pollen grains represent the male gametophytes.",
-    "reason": "Pollen grains contain two cells at maturity: the vegetative cell and the generative cell.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
-  },
-  {
-    "assertion": "You would find deposition of yellowish powdery pollen grains on your fingers if you touch the opened anthers of Hibiscus.",
-    "reason": "Opened anthers of Hibiscus release pollen grains in the form of yellowish powder.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
-  },
-  {
-    "assertion": "Pollen grains show a variety of sizes, shapes, colours, and designs under a microscope.",
-    "reason": "Pollen grains from different species exhibit diversity in architecture when observed under a microscope.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
-  },
-  {
-    "assertion": "Pollen grains are generally spherical in shape and measure about 25–50 micrometers in diameter.",
-    "reason": "The size and shape of pollen grains are constant across all plant species.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "C"
-  },
-  {
-    "assertion": "The exine of pollen grain is made up of sporopollenin.",
-    "reason": "Sporopollenin is one of the most resistant organic materials known.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
-  },
-  {
-    "assertion": "No enzyme that degrades sporopollenin is so far known.",
-    "reason": "Sporopollenin can withstand high temperatures and strong acids and alkali.",
+    "assertion": "Pollen grains have to land on the stigma before they lose viability if they have to bring about fertilisation.",
+    "reason": "The period for which pollen grains remain viable is highly variable and depends on the prevailing temperature and humidity.",
     "options": [
       "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
       "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
@@ -66,52 +11,8 @@
     "answer": "B"
   },
   {
-    "assertion": "Pollen grain exine has prominent apertures called germ pores.",
-    "reason": "Germ pores are the regions where sporopollenin is absent.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
-  },
-  {
-    "assertion": "Pollen grains are well-preserved as fossils.",
-    "reason": "Sporopollenin in the exine of pollen grains contributes to their preservation as fossils.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
-  },
-  {
-    "assertion": "The intine of pollen grain is made up of cellulose and pectin.",
-    "reason": "The intine is the thin and continuous inner wall of the pollen grain.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
-  },
-  {
-    "assertion": "The vegetative cell is larger and contains a large irregularly shaped nucleus.",
-    "reason": "The vegetative cell has abundant food reserve and irregularly shaped nucleus.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "A"
-  },
-  {
-    "assertion": "The generative cell is spindle-shaped with dense cytoplasm and a nucleus.",
-    "reason": "The generative cell floats in the cytoplasm of the vegetative cell.",
+    "assertion": "In cereals such as rice and wheat, pollen grains lose viability within 30 minutes of their release.",
+    "reason": "In some members of Rosaceae, Leguminoseae and Solanaceae, pollen grains maintain viability for months.",
     "options": [
       "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
       "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
@@ -121,8 +22,19 @@
     "answer": "B"
   },
   {
-    "assertion": "In over 60 per cent of angiosperms, pollen grains are shed at the 2-celled stage.",
-    "reason": "In the remaining species, the generative cell divides mitotically to give rise to two male gametes before pollen grains are shed.",
+    "assertion": "It is possible to store pollen grains of a large number of species for years in liquid nitrogen.",
+    "reason": "Stored pollen grains can be used as pollen banks in crop breeding programme.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The gynoecium represents the female reproductive part of the flower.",
+    "reason": "The stigma serves as a landing platform for pollen grains.",
     "options": [
       "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
       "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
@@ -132,8 +44,8 @@
     "answer": "B"
   },
   {
-    "assertion": "Pollen grains of many species cause severe allergies and bronchial afflictions in some people.",
-    "reason": "Pollen grains often lead to chronic respiratory disorders like asthma and bronchitis.",
+    "assertion": "When there are more than one pistil, the pistils may be fused together or may be free.",
+    "reason": "The terms syncarpous and apocarpous refer to fused and free pistils respectively.",
     "options": [
       "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
       "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
@@ -142,6 +54,47 @@
     ],
     "answer": "A"
   },
+  {
+    "assertion": "The style is the elongated slender part beneath the stigma.",
+    "reason": "The ovary is the basal bulged part of the pistil.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "B"
+  },
+  {
+    "assertion": "Inside the ovary is the ovarian cavity which contains the placenta.",
+    "reason": "Arising from the placenta are the megasporangia commonly called ovules.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  },
+  {
+    "assertion": "The number of ovules in an ovary may vary from one to many.",
+    "reason": "Wheat, paddy and mango have one ovule, while papaya, watermelon and orchids have many.",
+    "options": [
+      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+      "C. Assertion is true but Reason is false.",
+      "D. Assertion is false but Reason is true."
+    ],
+    "answer": "A"
+  }
+]
+
+
+
+
+
+
+
   {
     "assertion": "Parthenium or carrot grass causes pollen allergy.",
     "reason": "Parthenium came into India as a contaminant with imported wheat.",
