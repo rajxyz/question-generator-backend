@@ -93,17 +93,3 @@
 
 
 
-
-
-  {
-    "assertion": "Parthenium or carrot grass causes pollen allergy.",
-    "reason": "Parthenium came into India as a contaminant with imported wheat.",
-    "options": [
-      "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
-      "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
-      "C. Assertion is true but Reason is false.",
-      "D. Assertion is false but Reason is true."
-    ],
-    "answer": "B"
-  }
-]
